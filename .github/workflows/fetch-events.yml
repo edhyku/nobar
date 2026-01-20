@@ -2,6 +2,8 @@ name: Fetch & Clean Live Events (Nobar)
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/3 * * * *"
 
 # Cegah tabrakan job lama
 concurrency:
