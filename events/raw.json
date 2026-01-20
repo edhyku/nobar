@@ -6195,7 +6195,7 @@
             "pressure": "762mmHg",
             "temperature": "23°C",
             "weather": 7,
-            "wind": "3.7m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6433,7 +6433,7 @@
             "pressure": "762mmHg",
             "temperature": "23°C",
             "weather": 7,
-            "wind": "3.7m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6633,7 +6633,7 @@
             "humidity": "88%",
             "pressure": "740mmHg",
             "temperature": "10°C",
-            "weather": 10,
+            "weather": 9,
             "wind": "7.6m/s"
           },
           "explain": "",
@@ -6642,7 +6642,7 @@
           "home_id": 10182,
           "home_otscrore": 0,
           "home_pointscore": 0,
-          "home_rank": "15",
+          "home_rank": "16",
           "home_redcard": 0,
           "home_score": 0,
           "home_yellowcard": 0,
@@ -6807,7 +6807,7 @@
           "away_id": 10185,
           "away_otscrore": 0,
           "away_pointscore": 0,
-          "away_rank": "21",
+          "away_rank": "22",
           "away_redcard": 0,
           "away_score": 0,
           "away_yellowcard": 0,
@@ -7018,7 +7018,7 @@
           "away_id": 10004,
           "away_otscrore": 0,
           "away_pointscore": 0,
-          "away_rank": "2",
+          "away_rank": "3",
           "away_redcard": 0,
           "away_score": 0,
           "away_yellowcard": 0,
@@ -7054,7 +7054,7 @@
           "environment": {
             "humidity": "92%",
             "pressure": "740mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 9,
             "wind": "8.4m/s"
           },
@@ -7266,7 +7266,7 @@
             "humidity": "88%",
             "pressure": "740mmHg",
             "temperature": "10°C",
-            "weather": 10,
+            "weather": 9,
             "wind": "7.6m/s"
           },
           "explain": "",
@@ -7275,7 +7275,7 @@
           "home_id": 10182,
           "home_otscrore": 0,
           "home_pointscore": 0,
-          "home_rank": "15",
+          "home_rank": "16",
           "home_redcard": 0,
           "home_score": 0,
           "home_yellowcard": 0,
@@ -7440,7 +7440,7 @@
           "away_id": 10185,
           "away_otscrore": 0,
           "away_pointscore": 0,
-          "away_rank": "21",
+          "away_rank": "22",
           "away_redcard": 0,
           "away_score": 0,
           "away_yellowcard": 0,
@@ -7651,7 +7651,7 @@
           "away_id": 10004,
           "away_otscrore": 0,
           "away_pointscore": 0,
-          "away_rank": "2",
+          "away_rank": "3",
           "away_redcard": 0,
           "away_score": 0,
           "away_yellowcard": 0,
@@ -7687,7 +7687,7 @@
           "environment": {
             "humidity": "92%",
             "pressure": "740mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 9,
             "wind": "8.4m/s"
           },
@@ -8808,7 +8808,7 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/aa2d8e24a68822387257f31d692c4297.png",
           "manager_id": 0,
-          "market_value": 11100000,
+          "market_value": 11480000,
           "market_value_currency": "€",
           "name_en": "Al Riyadh",
           "name_zh": "利雅得体育",
@@ -8819,7 +8819,7 @@
           "short_name_zh": "利雅得体育",
           "short_name_zht": "瑞亞達",
           "total_players": 28,
-          "updated_at": 1768843371,
+          "updated_at": 1768951250,
           "venue_id": 9740,
           "website": ""
         },
@@ -8888,7 +8888,7 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/aa2d8e24a68822387257f31d692c4297.png",
             "manager_id": 0,
-            "market_value": 11100000,
+            "market_value": 11480000,
             "market_value_currency": "€",
             "name_en": "Al Riyadh",
             "name_zh": "利雅得体育",
@@ -8899,7 +8899,7 @@
             "short_name_zh": "利雅得体育",
             "short_name_zht": "瑞亞達",
             "total_players": 28,
-            "updated_at": 1768843371,
+            "updated_at": 1768951250,
             "venue_id": 9740,
             "website": ""
           },
@@ -8907,9 +8907,9 @@
           "environment": {
             "humidity": "27%",
             "pressure": "762mmHg",
-            "temperature": "24°C",
+            "temperature": "23°C",
             "weather": 5,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9116,7 +9116,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "45%",
+            "humidity": "46%",
             "pressure": "770mmHg",
             "temperature": "11°C",
             "weather": 5,
@@ -9327,9 +9327,9 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "75%",
+            "humidity": "76%",
             "pressure": "764mmHg",
-            "temperature": "14°C",
+            "temperature": "15°C",
             "weather": 5,
             "wind": "1.2m/s"
           },
@@ -9480,7 +9480,7 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/aa2d8e24a68822387257f31d692c4297.png",
           "manager_id": 0,
-          "market_value": 11100000,
+          "market_value": 11480000,
           "market_value_currency": "€",
           "name_en": "Al Riyadh",
           "name_zh": "利雅得体育",
@@ -9491,7 +9491,7 @@
           "short_name_zh": "利雅得体育",
           "short_name_zht": "瑞亞達",
           "total_players": 28,
-          "updated_at": 1768843371,
+          "updated_at": 1768951250,
           "venue_id": 9740,
           "website": ""
         },
@@ -9560,7 +9560,7 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/aa2d8e24a68822387257f31d692c4297.png",
             "manager_id": 0,
-            "market_value": 11100000,
+            "market_value": 11480000,
             "market_value_currency": "€",
             "name_en": "Al Riyadh",
             "name_zh": "利雅得体育",
@@ -9571,7 +9571,7 @@
             "short_name_zh": "利雅得体育",
             "short_name_zht": "瑞亞達",
             "total_players": 28,
-            "updated_at": 1768843371,
+            "updated_at": 1768951250,
             "venue_id": 9740,
             "website": ""
           },
@@ -9579,9 +9579,9 @@
           "environment": {
             "humidity": "27%",
             "pressure": "762mmHg",
-            "temperature": "24°C",
+            "temperature": "23°C",
             "weather": 5,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9788,7 +9788,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "45%",
+            "humidity": "46%",
             "pressure": "770mmHg",
             "temperature": "11°C",
             "weather": 5,
@@ -9999,9 +9999,9 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "75%",
+            "humidity": "76%",
             "pressure": "764mmHg",
-            "temperature": "14°C",
+            "temperature": "15°C",
             "weather": 5,
             "wind": "1.2m/s"
           },
@@ -10214,7 +10214,7 @@
           "environment": {
             "humidity": "86%",
             "pressure": "756mmHg",
-            "temperature": "12°C",
+            "temperature": "13°C",
             "weather": 9,
             "wind": "6.1m/s"
           },
@@ -10441,7 +10441,7 @@
           "environment": {
             "humidity": "86%",
             "pressure": "756mmHg",
-            "temperature": "12°C",
+            "temperature": "13°C",
             "weather": 9,
             "wind": "6.1m/s"
           },
@@ -11124,11 +11124,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "63%",
+            "humidity": "61%",
             "pressure": "764mmHg",
-            "temperature": "6°C",
+            "temperature": "7°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11548,7 +11548,7 @@
           "environment": {
             "humidity": "88%",
             "pressure": "757mmHg",
-            "temperature": "0°C",
+            "temperature": "1°C",
             "weather": 5,
             "wind": "1.2m/s"
           },
@@ -11575,8 +11575,8 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
             "manager_id": 0,
-            "market_value": 434600000,
-            "market_value_currency": "",
+            "market_value": 429100000,
+            "market_value_currency": "€",
             "name_en": "Atalanta",
             "name_zh": "亚特兰大",
             "name_zht": "阿特蘭大",
@@ -11586,7 +11586,7 @@
             "short_name_zh": "亚特兰大",
             "short_name_zht": "阿特蘭大",
             "total_players": 27,
-            "updated_at": 1768533717,
+            "updated_at": 1768951567,
             "venue_id": 1034,
             "website": "http://www.atalanta.it"
           },
@@ -11666,8 +11666,8 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
           "manager_id": 0,
-          "market_value": 434600000,
-          "market_value_currency": "",
+          "market_value": 429100000,
+          "market_value_currency": "€",
           "name_en": "Atalanta",
           "name_zh": "亚特兰大",
           "name_zht": "阿特蘭大",
@@ -11677,7 +11677,7 @@
           "short_name_zh": "亚特兰大",
           "short_name_zht": "阿特蘭大",
           "total_players": 27,
-          "updated_at": 1768533717,
+          "updated_at": 1768951567,
           "venue_id": 1034,
           "website": "http://www.atalanta.it"
         },
@@ -11968,11 +11968,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "63%",
+            "humidity": "61%",
             "pressure": "764mmHg",
-            "temperature": "6°C",
+            "temperature": "7°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12392,7 +12392,7 @@
           "environment": {
             "humidity": "88%",
             "pressure": "757mmHg",
-            "temperature": "0°C",
+            "temperature": "1°C",
             "weather": 5,
             "wind": "1.2m/s"
           },
@@ -12419,8 +12419,8 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
             "manager_id": 0,
-            "market_value": 434600000,
-            "market_value_currency": "",
+            "market_value": 429100000,
+            "market_value_currency": "€",
             "name_en": "Atalanta",
             "name_zh": "亚特兰大",
             "name_zht": "阿特蘭大",
@@ -12430,7 +12430,7 @@
             "short_name_zh": "亚特兰大",
             "short_name_zht": "阿特蘭大",
             "total_players": 27,
-            "updated_at": 1768533717,
+            "updated_at": 1768951567,
             "venue_id": 1034,
             "website": "http://www.atalanta.it"
           },
@@ -12510,8 +12510,8 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
           "manager_id": 0,
-          "market_value": 434600000,
-          "market_value_currency": "",
+          "market_value": 429100000,
+          "market_value_currency": "€",
           "name_en": "Atalanta",
           "name_zh": "亚特兰大",
           "name_zht": "阿特蘭大",
@@ -12521,7 +12521,7 @@
           "short_name_zh": "亚特兰大",
           "short_name_zht": "阿特蘭大",
           "total_players": 27,
-          "updated_at": 1768533717,
+          "updated_at": 1768951567,
           "venue_id": 1034,
           "website": "http://www.atalanta.it"
         },
