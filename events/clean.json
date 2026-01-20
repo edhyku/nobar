@@ -1,5 +1,5 @@
 {
-  "updated": 1768945833,
+  "updated": 1768947605,
   "events": [
     {
       "league": "AUS W-League",
@@ -355,24 +355,68 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Wrexham",
-      "away": "Leicester City",
+      "status": "UPCOMING",
+      "time": 1769024700,
+      "home": "Southampton",
+      "away": "Sheffield United",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351394.m3u8?txSecret=7177893d68533fc0d4144e81410d3189&txTime=69702771"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Wrexham",
-      "away": "Leicester City",
+      "status": "UPCOMING",
+      "time": 1769024700,
+      "home": "Watford",
+      "away": "Portsmouth",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351394.m3u8?txSecret=7177893d68533fc0d4144e81410d3189&txTime=69702771"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Stoke City",
+      "away": "Middlesbrough",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769024700,
+      "home": "Southampton",
+      "away": "Sheffield United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769024700,
+      "home": "Watford",
+      "away": "Portsmouth",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Stoke City",
+      "away": "Middlesbrough",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -399,24 +443,24 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1768998900,
       "home": "Al-Faisaly Harmah",
       "away": "Abha",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1768938463.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1768998900,
       "home": "Al-Faisaly Harmah",
       "away": "Abha",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1768938463.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -486,11 +530,22 @@
       }
     },
     {
-      "league": "NED Eredivisie",
+      "league": "Liga Portugal 2",
       "status": "UPCOMING",
-      "time": 1769017500,
-      "home": "AZ Alkmaar",
-      "away": "Excelsior SBV",
+      "time": 1769018400,
+      "home": "Uniao Leiria",
+      "away": "Vizela",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769018400,
+      "home": "Uniao Leiria",
+      "away": "Vizela",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -508,157 +563,102 @@
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "FC Copenhagen",
-      "away": "Napoli",
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769017500,
+      "home": "AZ Alkmaar",
+      "away": "Excelsior SBV",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415353.m3u8?txSecret=dad781a59066f85399e4a039e1b0d24e&txTime=697022C2"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Inter Milan",
-      "away": "Arsenal",
+      "status": "UPCOMING",
+      "time": 1769017500,
+      "home": "Galatasaray",
+      "away": "Atletico Madrid",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live5.sethf7.com/live/63369955_1e667b5cdf209a0d68527722813fdc0a.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Olympiakos Piraeus",
-      "away": "Bayer 04 Leverkusen",
+      "status": "UPCOMING",
+      "time": 1769017500,
+      "home": "Qarabag",
+      "away": "Eintracht Frankfurt",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415395.m3u8?txSecret=59cf7ae99a55a86c7b9d176ccde06b5f&txTime=697022C2"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Real Madrid",
-      "away": "AS Monaco",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Atalanta",
+      "away": "Athletic Club",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415420.m3u8?txSecret=316e37d55df88bff5472ed73c7815518&txTime=69702771"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Sporting CP",
-      "away": "Paris Saint Germain",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "FC Bayern Munich",
+      "away": "Union Saint-Gilloise",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415432.m3u8?txSecret=85b033c73ecc6f56a8b0b876b1bbf9e7&txTime=697022C2"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Tottenham Hotspur",
-      "away": "Borussia Dortmund",
+      "status": "UPCOMING",
+      "time": 1769017500,
+      "home": "Galatasaray",
+      "away": "Atletico Madrid",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415433.m3u8?txSecret=a2b6af496307171c89dc9bfc0c51b295&txTime=697022C2"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Villarreal CF",
-      "away": "AFC Ajax",
+      "status": "UPCOMING",
+      "time": 1769017500,
+      "home": "Qarabag",
+      "away": "Eintracht Frankfurt",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415437.m3u8?txSecret=f49523d34a3101c73621148282c8602e&txTime=697022C2"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "FC Copenhagen",
-      "away": "Napoli",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Atalanta",
+      "away": "Athletic Club",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415353.m3u8?txSecret=dad781a59066f85399e4a039e1b0d24e&txTime=697022C2"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Inter Milan",
-      "away": "Arsenal",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "FC Bayern Munich",
+      "away": "Union Saint-Gilloise",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live5.sethf7.com/live/63369955_1e667b5cdf209a0d68527722813fdc0a.m3u8"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Olympiakos Piraeus",
-      "away": "Bayer 04 Leverkusen",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415395.m3u8?txSecret=59cf7ae99a55a86c7b9d176ccde06b5f&txTime=697022C2"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Real Madrid",
-      "away": "AS Monaco",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415420.m3u8?txSecret=316e37d55df88bff5472ed73c7815518&txTime=69702771"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Sporting CP",
-      "away": "Paris Saint Germain",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415432.m3u8?txSecret=85b033c73ecc6f56a8b0b876b1bbf9e7&txTime=697022C2"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Tottenham Hotspur",
-      "away": "Borussia Dortmund",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415433.m3u8?txSecret=a2b6af496307171c89dc9bfc0c51b295&txTime=697022C2"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1768939200,
-      "home": "Villarreal CF",
-      "away": "AFC Ajax",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415437.m3u8?txSecret=f49523d34a3101c73621148282c8602e&txTime=697022C2"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     }
   ]
