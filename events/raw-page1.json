@@ -3157,9 +3157,9 @@
      "environment": {
       "humidity": "26%",
       "pressure": "762mmHg",
-      "temperature": "23°C",
+      "temperature": "24°C",
       "weather": 7,
-      "wind": "4.0m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4316,15 +4316,27 @@
      "isneutrality": 0,
      "kickoff_time": 0,
      "live": {
-      "away": "away",
-      "comp": "comp",
-      "home": "home",
+      "away": "艾卜哈",
+      "comp": "沙特甲",
+      "home": "费萨里哈曼",
+      "is_extend_expire1": 0,
+      "is_extend_expire2": 0,
+      "is_extend_expire3": 0,
       "match_id": 4478823,
       "match_status": 1,
       "match_time": 1768998900,
-      "pushurl1": "rtmp://nami-push.sxy2008.cn/live/sd-1-4478823",
+      "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4478823",
+      "pushurl1_status": 0,
       "pushurl2": "",
+      "pushurl2_status": 0,
       "pushurl3": "",
+      "pushurl3_status": 0,
+      "recordurl1": null,
+      "recordurl1_file_id": null,
+      "recordurl2": null,
+      "recordurl2_file_id": null,
+      "recordurl3": null,
+      "recordurl3_file_id": null,
       "sport_id": 1
      },
      "matchevent": {
@@ -4930,7 +4942,7 @@
       "pressure": "764mmHg",
       "temperature": "14°C",
       "weather": 5,
-      "wind": "1.5m/s"
+      "wind": "1.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5139,7 +5151,7 @@
      },
      "competition_id": 152,
      "environment": {
-      "humidity": "87%",
+      "humidity": "86%",
       "pressure": "756mmHg",
       "temperature": "12°C",
       "weather": 9,
@@ -5601,7 +5613,7 @@
       "pressure": "764mmHg",
       "temperature": "6°C",
       "weather": 7,
-      "wind": "1.2m/s"
+      "wind": "1.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6021,7 +6033,7 @@
      "environment": {
       "humidity": "88%",
       "pressure": "757mmHg",
-      "temperature": "1°C",
+      "temperature": "0°C",
       "weather": 5,
       "wind": "1.2m/s"
      },
