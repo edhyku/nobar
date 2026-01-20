@@ -1,7 +1,8 @@
 /**
- * Auto notify Telegram jika event LIVE ≤ 15 menit
- * Baca: events/clean.json
- * Tulis: events/triggered.json (anti spam)
+ * Auto notify Telegram:
+ * - ≤ 30 menit sebelum LIVE
+ * - ATAU ≤ 10 menit setelah LIVE
+ * Anti spam (1x per match)
  */
 
 import fs from "fs";
@@ -10,40 +11,37 @@ import https from "https";
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHAT_ID = process.env.TELEGRAM_CHAT_ID;
 
-if (!BOT_TOKEN || !CHAT_ID) {
-  console.log("Telegram env missing");
-  process.exit(0);
-}
+if (!BOT_TOKEN || !CHAT_ID) process.exit(0);
 
 const CLEAN_FILE = "events/clean.json";
 const TRIGGER_FILE = "events/triggered.json";
 
-if (!fs.existsSync(CLEAN_FILE)) {
-  console.log("clean.json not found");
-  process.exit(0);
-}
+if (!fs.existsSync(CLEAN_FILE)) process.exit(0);
 
 const data = JSON.parse(fs.readFileSync(CLEAN_FILE, "utf8"));
-if (!Array.isArray(data.events)) {
-  console.log("No events array");
-  process.exit(0);
-}
+if (!Array.isArray(data.events)) process.exit(0);
 
-// load triggered (anti spam)
+// anti-spam load
 let sent = [];
 if (fs.existsSync(TRIGGER_FILE)) {
   sent = JSON.parse(fs.readFileSync(TRIGGER_FILE, "utf8"));
 }
 
 const NOW = Math.floor(Date.now() / 1000);
-const WINDOW = 15 * 60; // 15 menit
-const newlyTriggered = [];
+const BEFORE = 30 * 60; // 30 menit sebelum
+const AFTER  = 10 * 60; // 10 menit setelah LIVE
 
 for (const m of data.events) {
   if (!m.time || !m.league || !m.home || !m.away) continue;
 
   const diff = m.time - NOW;
-  if (diff <= 0 || diff > WINDOW) continue;
+
+  // window longgar & realistis
+  const inWindow =
+    (diff > 0 && diff <= BEFORE) ||
+    (diff <= 0 && diff >= -AFTER);
+
+  if (!inWindow) continue;
 
   const key = `${m.league}|${m.home}|${m.away}|${m.time}`;
   if (sent.includes(key)) continue;
@@ -54,8 +52,11 @@ for (const m of data.events) {
     timeZone: "Asia/Jakarta"
   });
 
+  const statusText =
+    diff > 0 ? "SEGERA LIVE" : "BARU SAJA LIVE";
+
   const text =
-`⏰ *LIVE 15 MENIT LAGI*
+`🔴 *${statusText}*
 🏆 *${m.league}*
 ⚽ ${m.home} vs ${m.away}
 🕒 ${timeWIB} WIB
@@ -83,11 +84,8 @@ for (const m of data.events) {
   req.end();
 
   sent.push(key);
-  newlyTriggered.push(key);
-
-  console.log(`Notified: ${key}`);
+  console.log("Telegram sent:", key);
 }
 
-if (newlyTriggered.length > 0) {
-  fs.writeFileSync(TRIGGER_FILE, JSON.stringify(sent, null, 2));
-}
+// simpan marker anti-spam
+fs.writeFileSync(TRIGGER_FILE, JSON.stringify(sent, null, 2));
