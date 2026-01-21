@@ -1,5 +1,5 @@
 {
-  "updated": 1769003775,
+  "updated": 1769006427,
   "events": [
     {
       "league": "EGY Premier League",
@@ -103,6 +103,17 @@
     {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
+      "time": 1769024700,
+      "home": "Watford",
+      "away": "Portsmouth",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Stoke City",
       "away": "Middlesbrough",
@@ -125,6 +136,17 @@
     {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
+      "time": 1769024700,
+      "home": "Watford",
+      "away": "Portsmouth",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Stoke City",
       "away": "Middlesbrough",
@@ -203,17 +225,6 @@
       "league": "KSA Division 1",
       "status": "LIVE",
       "time": 1768998900,
-      "home": "Al-Faisaly Harmah",
-      "away": "Abha",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4478823.m3u8?txSecret=45f8768537395e040d322f2886b4390e&txTime=69710BF1"
-      }
-    },
-    {
-      "league": "KSA Division 1",
-      "status": "LIVE",
-      "time": 1768998900,
       "home": "Al Zulfi",
       "away": "Al-Jandal",
       "stream": {
@@ -230,17 +241,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Division 1",
-      "status": "LIVE",
-      "time": 1768998900,
-      "home": "Al-Faisaly Harmah",
-      "away": "Abha",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4478823.m3u8?txSecret=45f8768537395e040d322f2886b4390e&txTime=69710BF1"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Atalanta",
       "away": "Athletic Club",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1768998271.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -586,13 +586,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Atalanta",
       "away": "Athletic Club",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1768998271.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
