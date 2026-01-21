@@ -1,5 +1,5 @@
 {
-  "updated": 1768981928,
+  "updated": 1768984207,
   "events": [
     {
       "league": "AUS W-League",
@@ -8,8 +8,8 @@
       "home": "Newcastle Jets Women",
       "away": "Adelaide United Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
+        "type": "m3u8",
+        "url": "https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.m3u8"
       }
     },
     {
@@ -19,159 +19,60 @@
       "home": "Newcastle Jets Women",
       "away": "Adelaide United Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
+        "type": "m3u8",
+        "url": "https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.m3u8"
       }
     },
     {
-      "league": "CHN FA Cup",
+      "league": "EGY Premier League",
       "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Guangdong Wuchuan Youth",
-      "away": "Ningxia Pingluo Hengli",
+      "time": 1769007600,
+      "home": "ZED FC",
+      "away": "Modern Sport FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "CHN FA Cup",
+      "league": "EGY Premier League",
       "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Hainan Shuangyu",
-      "away": "Liaocheng Legend",
+      "time": 1769007600,
+      "home": "Ceramica Cleopatra FC",
+      "away": "Ittihad Alexandria SC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "CHN FA Cup",
+      "league": "EGY Premier League",
       "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Shandong Qiutan",
-      "away": "Fujian Quanzhou Qinggong",
+      "time": 1769018400,
+      "home": "Smouha SC",
+      "away": "Pharco",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "CHN FA Cup",
+      "league": "EGY Premier League",
       "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Shenzhen Xingjun",
-      "away": "Zhoushan Jiayu",
+      "time": 1769094000,
+      "home": "Wadi Degla SC",
+      "away": "Ghazl El Mahallah",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "CHN FA Cup",
+      "league": "EGY Premier League",
       "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Wuhan Lianzhen",
-      "away": "Guizhou Feiying",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Qingdao Fuli",
-      "away": "Nantong Home Textile City",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769065200,
-      "home": "Shanxi TYUT",
-      "away": "Guangzhou Rock Goal",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Guangdong Wuchuan Youth",
-      "away": "Ningxia Pingluo Hengli",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Hainan Shuangyu",
-      "away": "Liaocheng Legend",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Shandong Qiutan",
-      "away": "Fujian Quanzhou Qinggong",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Shenzhen Xingjun",
-      "away": "Zhoushan Jiayu",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Wuhan Lianzhen",
-      "away": "Guizhou Feiying",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769052600,
-      "home": "Qingdao Fuli",
-      "away": "Nantong Home Textile City",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769065200,
-      "home": "Shanxi TYUT",
-      "away": "Guangzhou Rock Goal",
+      "time": 1769094000,
+      "home": "Haras El Hodood",
+      "away": "Kahraba Ismailia",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -213,9 +114,9 @@
     {
       "league": "EGY Premier League",
       "status": "UPCOMING",
-      "time": 1769007600,
-      "home": "ZED FC",
-      "away": "Modern Sport FC",
+      "time": 1769094000,
+      "home": "Wadi Degla SC",
+      "away": "Ghazl El Mahallah",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -224,20 +125,9 @@
     {
       "league": "EGY Premier League",
       "status": "UPCOMING",
-      "time": 1769007600,
-      "home": "Ceramica Cleopatra FC",
-      "away": "Ittihad Alexandria SC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "EGY Premier League",
-      "status": "UPCOMING",
-      "time": 1769018400,
-      "home": "Smouha SC",
-      "away": "Pharco",
+      "time": 1769094000,
+      "home": "Haras El Hodood",
+      "away": "Kahraba Ismailia",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -268,20 +158,9 @@
     {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
-      "time": 1769024700,
-      "home": "Southampton",
-      "away": "Sheffield United",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ENG EFL Championship",
-      "status": "UPCOMING",
-      "time": 1769024700,
-      "home": "Watford",
-      "away": "Portsmouth",
+      "time": 1769025600,
+      "home": "Stoke City",
+      "away": "Middlesbrough",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -299,33 +178,66 @@
       }
     },
     {
-      "league": "ENG EFL Championship",
+      "league": "INT CF",
       "status": "UPCOMING",
-      "time": 1769024700,
-      "home": "Southampton",
-      "away": "Sheffield United",
+      "time": 1769086800,
+      "home": "RCD Mallorca",
+      "away": "NK Publikum Celje",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "ENG EFL Championship",
+      "league": "INT CF",
       "status": "UPCOMING",
-      "time": 1769024700,
-      "home": "Watford",
-      "away": "Portsmouth",
+      "time": 1769092200,
+      "home": "Zenit St. Petersburg",
+      "away": "Shanghai Port FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "ENG EFL Championship",
+      "league": "INT CF",
       "status": "UPCOMING",
-      "time": 1769025600,
-      "home": "Stoke City",
-      "away": "Middlesbrough",
+      "time": 1769094000,
+      "home": "Randers FC",
+      "away": "Real Salt Lake",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769086800,
+      "home": "RCD Mallorca",
+      "away": "NK Publikum Celje",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769092200,
+      "home": "Zenit St. Petersburg",
+      "away": "Shanghai Port FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769094000,
+      "home": "Randers FC",
+      "away": "Real Salt Lake",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -345,9 +257,31 @@
     {
       "league": "KSA Division 1",
       "status": "UPCOMING",
+      "time": 1769091000,
+      "home": "Al Ula FC",
+      "away": "Al Wehda Mecca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Division 1",
+      "status": "UPCOMING",
       "time": 1768998900,
       "home": "Al-Faisaly Harmah",
       "away": "Abha",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Division 1",
+      "status": "UPCOMING",
+      "time": 1769091000,
+      "home": "Al Ula FC",
+      "away": "Al Wehda Mecca",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -439,6 +373,72 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MAS Cup",
+      "status": "UPCOMING",
+      "time": 1769081400,
+      "home": "Sabah FC",
+      "away": "Melaka FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MAS Cup",
+      "status": "UPCOMING",
+      "time": 1769081400,
+      "home": "Sabah FC",
+      "away": "Melaka FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MYA Professional League",
+      "status": "UPCOMING",
+      "time": 1769072400,
+      "home": "Rakhine United FC",
+      "away": "Thitsar Arman FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MYA Professional League",
+      "status": "LIVE",
+      "time": 1769074200,
+      "home": "Yadanarbon FC",
+      "away": "Yarmanya United FC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
+      }
+    },
+    {
+      "league": "MYA Professional League",
+      "status": "UPCOMING",
+      "time": 1769072400,
+      "home": "Rakhine United FC",
+      "away": "Thitsar Arman FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MYA Professional League",
+      "status": "LIVE",
+      "time": 1769074200,
+      "home": "Yadanarbon FC",
+      "away": "Yarmanya United FC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
       }
     },
     {
