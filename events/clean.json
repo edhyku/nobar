@@ -1,26 +1,26 @@
 {
-  "updated": 1768980465,
+  "updated": 1768981928,
   "events": [
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1768982400,
       "home": "Newcastle Jets Women",
       "away": "Adelaide United Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1768982400,
       "home": "Newcastle Jets Women",
       "away": "Adelaide United Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
       }
     },
     {
@@ -103,17 +103,6 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1769065200,
-      "home": "Tianjin Kaiser",
-      "away": "Dongxing Greenery",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
       "time": 1769052600,
       "home": "Guangdong Wuchuan Youth",
       "away": "Ningxia Pingluo Hengli",
@@ -189,11 +178,33 @@
       }
     },
     {
-      "league": "CHN FA Cup",
+      "league": "EGY Premier League",
       "status": "UPCOMING",
-      "time": 1769065200,
-      "home": "Tianjin Kaiser",
-      "away": "Dongxing Greenery",
+      "time": 1769007600,
+      "home": "ZED FC",
+      "away": "Modern Sport FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "EGY Premier League",
+      "status": "UPCOMING",
+      "time": 1769007600,
+      "home": "Ceramica Cleopatra FC",
+      "away": "Ittihad Alexandria SC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "EGY Premier League",
+      "status": "UPCOMING",
+      "time": 1769018400,
+      "home": "Smouha SC",
+      "away": "Pharco",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -224,20 +235,9 @@
     {
       "league": "EGY Premier League",
       "status": "UPCOMING",
-      "time": 1769007600,
-      "home": "ZED FC",
-      "away": "Modern Sport FC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "EGY Premier League",
-      "status": "UPCOMING",
-      "time": 1769007600,
-      "home": "Ceramica Cleopatra FC",
-      "away": "Ittihad Alexandria SC",
+      "time": 1769018400,
+      "home": "Smouha SC",
+      "away": "Pharco",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -366,13 +366,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769016600,
       "home": "Al Ettifaq FC",
       "away": "NEOM Sports Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
       }
     },
     {
@@ -399,13 +399,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769016600,
       "home": "Al Ettifaq FC",
       "away": "NEOM Sports Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
       }
     },
     {
