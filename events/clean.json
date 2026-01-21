@@ -1,5 +1,5 @@
 {
-  "updated": 1769024496,
+  "updated": 1769025770,
   "events": [
     {
       "league": "CHN FA Cup",
@@ -92,6 +92,28 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Chongqing Handa",
+      "away": "Xiamen Chengyi",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Shanxi Xiangyu FC",
+      "away": "Shenzhen Keysida",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
       "time": 1769052600,
       "home": "Guangdong Wuchuan Youth",
       "away": "Ningxia Pingluo Hengli",
@@ -178,14 +200,25 @@
       }
     },
     {
-      "league": "EGY Premier League",
-      "status": "LIVE",
-      "time": 1769018400,
-      "home": "Smouha SC",
-      "away": "Pharco",
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Chongqing Handa",
+      "away": "Xiamen Chengyi",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4399242.m3u8?txSecret=9e858aa23ebbfb3bb31e3ccfabbed122&txTime=69715CCC"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Shanxi Xiangyu FC",
+      "away": "Shenzhen Keysida",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -208,17 +241,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "EGY Premier League",
-      "status": "LIVE",
-      "time": 1769018400,
-      "home": "Smouha SC",
-      "away": "Pharco",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4399242.m3u8?txSecret=9e858aa23ebbfb3bb31e3ccfabbed122&txTime=69715CCC"
       }
     },
     {
@@ -405,7 +427,7 @@
       "away": "Al Hazem",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769016818.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769025039.flv"
       }
     },
     {
@@ -416,29 +438,7 @@
       "away": "Al Hazem",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769016818.flv"
-      }
-    },
-    {
-      "league": "Liga Portugal 2",
-      "status": "LIVE",
-      "time": 1769018400,
-      "home": "Uniao Leiria",
-      "away": "Vizela",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4367790.m3u8?txSecret=24610bc8e5b94f97fbb589bd228fcc81&txTime=6971662B"
-      }
-    },
-    {
-      "league": "Liga Portugal 2",
-      "status": "LIVE",
-      "time": 1769018400,
-      "home": "Uniao Leiria",
-      "away": "Vizela",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4367790.m3u8?txSecret=24610bc8e5b94f97fbb589bd228fcc81&txTime=6971662B"
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769025039.flv"
       }
     },
     {
@@ -509,13 +509,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Atalanta",
       "away": "Athletic Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.sethf7.com/live/62281724_11bc92750d8139d733dbad42842ebf49.m3u8"
       }
     },
     {
@@ -526,7 +526,7 @@
       "away": "Union Saint-Gilloise",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769017292.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769024261.flv"
       }
     },
     {
@@ -537,40 +537,40 @@
       "away": "Pafos FC",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769017391.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769025556.flv"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Juventus",
       "away": "Benfica",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live4.sethf7.com/live/66385062_f60b2b62805edd24d12a4c505f748a88.m3u8"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Marseille",
       "away": "Liverpool",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769024757.flv"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Newcastle United",
       "away": "PSV Eindhoven",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769024944.flv"
       }
     },
     {
@@ -581,18 +581,18 @@
       "away": "FC Barcelona",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769016800.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769024611.flv"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Atalanta",
       "away": "Athletic Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.sethf7.com/live/62281724_11bc92750d8139d733dbad42842ebf49.m3u8"
       }
     },
     {
@@ -603,7 +603,7 @@
       "away": "Union Saint-Gilloise",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769017292.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769024261.flv"
       }
     },
     {
@@ -614,40 +614,40 @@
       "away": "Pafos FC",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769017391.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769025556.flv"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Juventus",
       "away": "Benfica",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live4.sethf7.com/live/66385062_f60b2b62805edd24d12a4c505f748a88.m3u8"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Marseille",
       "away": "Liverpool",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769024757.flv"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Newcastle United",
       "away": "PSV Eindhoven",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769024944.flv"
       }
     },
     {
@@ -658,7 +658,7 @@
       "away": "FC Barcelona",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769016800.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769024611.flv"
       }
     }
   ]
