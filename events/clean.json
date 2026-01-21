@@ -1,5 +1,5 @@
 {
-  "updated": 1768973944,
+  "updated": 1768975105,
   "events": [
     {
       "league": "AUS W-League",
@@ -355,13 +355,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769009400,
       "home": "Al Okhdood",
       "away": "Al Riyadh",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1768963056.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -388,13 +388,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769009400,
       "home": "Al Okhdood",
       "away": "Al Riyadh",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1768963056.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
