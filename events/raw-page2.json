@@ -87,7 +87,7 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 223800,
+        "hot": 255300,
         "isvideo": 0,
         "liveid": 1768981633319,
         "livestream_source": 4,
@@ -97,7 +97,7 @@
         "peak_num": 50,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 11,
+        "private_count": 12,
         "profit": 1665,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv",
         "rec_weight": 1,
@@ -199,10 +199,10 @@
       "pressure": "757mmHg",
       "temperature": "23°C",
       "weather": 5,
-      "wind": "4.8m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
-     "home_corner": 4,
+     "home_corner": 5,
      "home_halfscore": 1,
      "home_id": 21055,
      "home_otscrore": 0,
@@ -245,7 +245,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 1768982421,
+     "kickoff_time": 0,
      "live": {
       "away": "阿德莱德联女足",
       "comp": "澳女联",
@@ -254,7 +254,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4429269,
-      "match_status": 2,
+      "match_status": 3,
       "match_time": 1768982400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4429269",
       "pushurl1_status": 1,
@@ -297,7 +297,7 @@
      "stage_group": 0,
      "stage_id": 232204,
      "stage_round": 10,
-     "status": 2,
+     "status": 3,
      "time": 1768982400,
      "video_type": "live",
      "walematch": {
@@ -321,8 +321,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/b48fcfe1f43549519b09b7d6a649782c",
       "league_name": "澳女联|澳女聯|AUS W-League",
       "match_time": 1768982400,
-      "status": "42",
-      "status_id": 1,
+      "status": "中场",
+      "status_id": 2,
       "stream_id": "223003242",
       "third_id": "4429269",
       "wale_match_id": "1783806",
@@ -341,92 +341,92 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-21 16:40:02",
+        "created_at": "2026-01-21 16:55:01",
         "id": 6,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:40:02",
+        "updated_at": "2026-01-21 16:55:01",
         "v_type": "flv",
         "video_url": "https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.flv"
        },
        {
-        "created_at": "2026-01-21 16:40:02",
+        "created_at": "2026-01-21 16:55:01",
         "id": 7,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:40:02",
+        "updated_at": "2026-01-21 16:55:01",
         "v_type": "flv",
         "video_url": "https://live.vivo200.com/live/sd-1-4429269.flv?txSecret=9329fd9eab9c14f12c5b26847b96267f\u0026txTime=6970C924"
        },
        {
-        "created_at": "2026-01-21 16:40:02",
+        "created_at": "2026-01-21 16:55:01",
         "id": 8,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:40:02",
+        "updated_at": "2026-01-21 16:55:01",
         "v_type": "flv",
         "video_url": "rtmp://video6.letaocm.top/live/sd-1-4429269.flv"
        },
        {
-        "created_at": "2026-01-21 16:40:02",
+        "created_at": "2026-01-21 16:55:01",
         "id": 9,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:40:02",
+        "updated_at": "2026-01-21 16:55:01",
         "v_type": "m3u8",
         "video_url": "https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.m3u8"
        },
        {
-        "created_at": "2026-01-21 16:40:02",
+        "created_at": "2026-01-21 16:55:01",
         "id": 10,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:40:02",
+        "updated_at": "2026-01-21 16:55:01",
         "v_type": "m3u8",
         "video_url": "https://live.vivo200.com/live/sd-1-4429269.m3u8?txSecret=9329fd9eab9c14f12c5b26847b96267f\u0026txTime=6970C924"
        },
        {
-        "created_at": "2026-01-21 16:40:02",
+        "created_at": "2026-01-21 16:55:01",
         "id": 11,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:40:02",
+        "updated_at": "2026-01-21 16:55:01",
         "v_type": "m3u8",
         "video_url": "https://play5.clomidx.com/live/11357650434_1894315459_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-21 16:40:02",
+        "created_at": "2026-01-21 16:55:01",
         "id": 12,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:40:02",
+        "updated_at": "2026-01-21 16:55:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.m3u8"
        },
        {
-        "created_at": "2026-01-21 16:40:02",
+        "created_at": "2026-01-21 16:55:01",
         "id": 13,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:40:02",
+        "updated_at": "2026-01-21 16:55:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.flv"
        },
        {
-        "created_at": "2026-01-21 16:40:02",
+        "created_at": "2026-01-21 16:55:01",
         "id": 14,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:40:02",
+        "updated_at": "2026-01-21 16:55:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/sd-6MvY73BxkpbV7yzEQF.m3u8?txSecret=c56e543a44d29850db238679fb4f9d97\u0026txTime=6971DFB0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/sd-6MvY73BxkpbV7yzEQF.m3u8?txSecret=48f03b5a22469d64fde875a7fb4f3ef3\u0026txTime=6971E470"
        },
        {
-        "created_at": "2026-01-21 16:40:02",
+        "created_at": "2026-01-21 16:55:01",
         "id": 15,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:40:02",
+        "updated_at": "2026-01-21 16:55:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play5.clomidx.com/live/11357650434_1894315459_adaptive.m3u8"
        }
@@ -462,7 +462,7 @@
      "website": ""
     },
     "home_score": 1,
-    "status": 2,
+    "status": 3,
     "streams": true
    }
   ],
@@ -814,7 +814,7 @@
       "pressure": "763mmHg",
       "temperature": "18°C",
       "weather": 7,
-      "wind": "4.0m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3692,7 +3692,7 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 223800,
+        "hot": 255300,
         "isvideo": 0,
         "liveid": 1768981633319,
         "livestream_source": 4,
@@ -3702,7 +3702,7 @@
         "peak_num": 50,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 11,
+        "private_count": 12,
         "profit": 1665,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv",
         "rec_weight": 1,
@@ -4342,9 +4342,9 @@
      "environment": {
       "humidity": "86%",
       "pressure": "755mmHg",
-      "temperature": "12°C",
+      "temperature": "13°C",
       "weather": 9,
-      "wind": "6.5m/s"
+      "wind": "6.1m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4852,7 +4852,7 @@
       "pressure": "759mmHg",
       "temperature": "33°C",
       "weather": 5,
-      "wind": "2.0m/s"
+      "wind": "2.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5060,7 +5060,7 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 223800,
+        "hot": 255300,
         "isvideo": 0,
         "liveid": 1768981633319,
         "livestream_source": 4,
@@ -5070,7 +5070,7 @@
         "peak_num": 50,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 11,
+        "private_count": 12,
         "profit": 1665,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv",
         "rec_weight": 1,
@@ -6005,8 +6005,8 @@
       "logo_handle": 1,
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/7f7d00906d511bcf48f9a600580ff953.png",
       "manager_id": 0,
-      "market_value": 24830000,
-      "market_value_currency": "",
+      "market_value": 28650000,
+      "market_value_currency": "€",
       "name_en": "Qarabag",
       "name_zh": "卡拉巴克",
       "name_zht": "卡拉巴克",
@@ -6016,7 +6016,7 @@
       "short_name_zh": "卡拉巴克",
       "short_name_zht": "卡拉巴克",
       "total_players": 29,
-      "updated_at": 1766465587,
+      "updated_at": 1768985151,
       "venue_id": 4447,
       "website": "http://www.qarabagh.com"
      },
@@ -6096,8 +6096,8 @@
      "logo_handle": 1,
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/7f7d00906d511bcf48f9a600580ff953.png",
      "manager_id": 0,
-     "market_value": 24830000,
-     "market_value_currency": "",
+     "market_value": 28650000,
+     "market_value_currency": "€",
      "name_en": "Qarabag",
      "name_zh": "卡拉巴克",
      "name_zht": "卡拉巴克",
@@ -6107,7 +6107,7 @@
      "short_name_zh": "卡拉巴克",
      "short_name_zht": "卡拉巴克",
      "total_players": 29,
-     "updated_at": 1766465587,
+     "updated_at": 1768985151,
      "venue_id": 4447,
      "website": "http://www.qarabagh.com"
     },
