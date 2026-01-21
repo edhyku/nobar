@@ -1,5 +1,5 @@
 {
-  "updated": 1768958255,
+  "updated": 1768968973,
   "events": [
     {
       "league": "AUS W-League",
@@ -26,7 +26,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Guangdong Wuchuan Youth",
       "away": "Ningxia Pingluo Hengli",
       "stream": {
@@ -37,7 +37,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Hainan Shuangyu",
       "away": "Liaocheng Legend",
       "stream": {
@@ -48,7 +48,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Shandong Qiutan",
       "away": "Fujian Quanzhou Qinggong",
       "stream": {
@@ -59,7 +59,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Shenzhen Xingjun",
       "away": "Zhoushan Jiayu",
       "stream": {
@@ -70,7 +70,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Wuhan Lianzhen",
       "away": "Guizhou Feiying",
       "stream": {
@@ -81,7 +81,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Qingdao Fuli",
       "away": "Nantong Home Textile City",
       "stream": {
@@ -92,7 +92,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768978800,
+      "time": 1769065200,
       "home": "Shanxi TYUT",
       "away": "Guangzhou Rock Goal",
       "stream": {
@@ -103,7 +103,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768978800,
+      "time": 1769065200,
       "home": "Tianjin Kaiser",
       "away": "Dongxing Greenery",
       "stream": {
@@ -114,51 +114,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768978800,
-      "home": "Chongqing Handa",
-      "away": "Xiamen Chengyi",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1768978800,
-      "home": "Shanxi Xiangyu FC",
-      "away": "Shenzhen Keysida",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1768978800,
-      "home": "Guangdong Red Treasure Football Club",
-      "away": "Changle Jingangtui Football Club",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1768978800,
-      "home": "Huzhou Changxing Jintown",
-      "away": "Shanxi Sanjin",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Guangdong Wuchuan Youth",
       "away": "Ningxia Pingluo Hengli",
       "stream": {
@@ -169,7 +125,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Hainan Shuangyu",
       "away": "Liaocheng Legend",
       "stream": {
@@ -180,7 +136,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Shandong Qiutan",
       "away": "Fujian Quanzhou Qinggong",
       "stream": {
@@ -191,7 +147,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Shenzhen Xingjun",
       "away": "Zhoushan Jiayu",
       "stream": {
@@ -202,7 +158,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Wuhan Lianzhen",
       "away": "Guizhou Feiying",
       "stream": {
@@ -213,7 +169,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768966200,
+      "time": 1769052600,
       "home": "Qingdao Fuli",
       "away": "Nantong Home Textile City",
       "stream": {
@@ -224,7 +180,7 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768978800,
+      "time": 1769065200,
       "home": "Shanxi TYUT",
       "away": "Guangzhou Rock Goal",
       "stream": {
@@ -235,53 +191,9 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1768978800,
+      "time": 1769065200,
       "home": "Tianjin Kaiser",
       "away": "Dongxing Greenery",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1768978800,
-      "home": "Chongqing Handa",
-      "away": "Xiamen Chengyi",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1768978800,
-      "home": "Shanxi Xiangyu FC",
-      "away": "Shenzhen Keysida",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1768978800,
-      "home": "Guangdong Red Treasure Football Club",
-      "away": "Changle Jingangtui Football Club",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1768978800,
-      "home": "Huzhou Changxing Jintown",
-      "away": "Shanxi Sanjin",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -420,28 +332,6 @@
       }
     },
     {
-      "league": "INT CF",
-      "status": "UPCOMING",
-      "time": 1768960800,
-      "home": "Tianjin Jinmen Tiger FC",
-      "away": "Shandong Taishan FC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "INT CF",
-      "status": "UPCOMING",
-      "time": 1768960800,
-      "home": "Tianjin Jinmen Tiger FC",
-      "away": "Shandong Taishan FC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
       "league": "KSA Division 1",
       "status": "UPCOMING",
       "time": 1768998900,
@@ -465,13 +355,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769009400,
       "home": "Al Okhdood",
       "away": "Al Riyadh",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1768963056.flv"
       }
     },
     {
@@ -498,13 +388,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769009400,
       "home": "Al Okhdood",
       "away": "Al Riyadh",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1768963056.flv"
       }
     },
     {
@@ -620,6 +510,61 @@
     {
       "league": "UEFA UCL",
       "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Chelsea",
+      "away": "Pafos FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Juventus",
+      "away": "Benfica",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Marseille",
+      "away": "Liverpool",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Newcastle United",
+      "away": "PSV Eindhoven",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Slavia Praha",
+      "away": "FC Barcelona",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
       "time": 1769017500,
       "home": "Galatasaray",
       "away": "Atletico Madrid",
@@ -656,6 +601,61 @@
       "time": 1769025600,
       "home": "FC Bayern Munich",
       "away": "Union Saint-Gilloise",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Chelsea",
+      "away": "Pafos FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Juventus",
+      "away": "Benfica",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Marseille",
+      "away": "Liverpool",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Newcastle United",
+      "away": "PSV Eindhoven",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769025600,
+      "home": "Slavia Praha",
+      "away": "FC Barcelona",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
