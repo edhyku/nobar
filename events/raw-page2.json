@@ -31,7 +31,7 @@
      "venue_id": 12359,
      "website": ""
     },
-    "away_score": 0,
+    "away_score": 2,
     "data": {
      "anchors": [
       {
@@ -87,17 +87,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 255300,
+        "hot": 380300,
         "isvideo": 0,
         "liveid": 1768981633319,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 50,
+        "peak_num": 59,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 12,
+        "private_count": 15,
         "profit": 1665,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv",
         "rec_weight": 1,
@@ -156,14 +156,14 @@
       }
      ],
      "animation_url": "",
-     "away_corner": 1,
+     "away_corner": 4,
      "away_halfscore": 0,
      "away_id": 26024,
      "away_otscrore": 0,
      "away_pointscore": 0,
      "away_rank": "9",
      "away_redcard": 0,
-     "away_score": 0,
+     "away_score": 2,
      "away_yellowcard": 0,
      "awayteam": {
       "competition_id": 602,
@@ -195,14 +195,14 @@
      },
      "competition_id": 602,
      "environment": {
-      "humidity": "60%",
+      "humidity": "64%",
       "pressure": "757mmHg",
-      "temperature": "23°C",
+      "temperature": "22°C",
       "weather": 5,
-      "wind": "3.7m/s"
+      "wind": "2.9m/s"
      },
      "explain": "",
-     "home_corner": 5,
+     "home_corner": 7,
      "home_halfscore": 1,
      "home_id": 21055,
      "home_otscrore": 0,
@@ -210,7 +210,7 @@
      "home_rank": "5",
      "home_redcard": 0,
      "home_score": 1,
-     "home_yellowcard": 0,
+     "home_yellowcard": 1,
      "hometeam": {
       "competition_id": 602,
       "country_id": 72,
@@ -245,7 +245,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1768986153,
      "live": {
       "away": "阿德莱德联女足",
       "comp": "澳女联",
@@ -254,7 +254,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4429269,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1768982400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4429269",
       "pushurl1_status": 1,
@@ -297,7 +297,7 @@
      "stage_group": 0,
      "stage_id": 232204,
      "stage_round": 10,
-     "status": 3,
+     "status": 4,
      "time": 1768982400,
      "video_type": "live",
      "walematch": {
@@ -307,7 +307,7 @@
       "away_name": "阿德莱德联女足|阿德萊德聯女足|Adelaide United(w)",
       "away_overtime_score": 0,
       "away_penalty_score": 0,
-      "away_score": 0,
+      "away_score": 2,
       "game_type": 6,
       "has_live": 1,
       "home_half_score": 1,
@@ -321,8 +321,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/b48fcfe1f43549519b09b7d6a649782c",
       "league_name": "澳女联|澳女聯|AUS W-League",
       "match_time": 1768982400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "85",
+      "status_id": 3,
       "stream_id": "223003242",
       "third_id": "4429269",
       "wale_match_id": "1783806",
@@ -341,92 +341,92 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-21 16:55:01",
-        "id": 6,
+        "created_at": "2026-01-21 17:40:03",
+        "id": 1,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:55:01",
+        "updated_at": "2026-01-21 17:40:03",
         "v_type": "flv",
         "video_url": "https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.flv"
        },
        {
-        "created_at": "2026-01-21 16:55:01",
-        "id": 7,
+        "created_at": "2026-01-21 17:40:03",
+        "id": 2,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:55:01",
+        "updated_at": "2026-01-21 17:40:03",
         "v_type": "flv",
-        "video_url": "https://live.vivo200.com/live/sd-1-4429269.flv?txSecret=9329fd9eab9c14f12c5b26847b96267f\u0026txTime=6970C924"
+        "video_url": "https://live.vivo200.com/live/sd-1-4429269.flv?txSecret=caa48917c62f25be25d77280f466060d\u0026txTime=6970E1C1"
        },
        {
-        "created_at": "2026-01-21 16:55:01",
-        "id": 8,
+        "created_at": "2026-01-21 17:40:03",
+        "id": 3,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:55:01",
+        "updated_at": "2026-01-21 17:40:03",
         "v_type": "flv",
         "video_url": "rtmp://video6.letaocm.top/live/sd-1-4429269.flv"
        },
        {
-        "created_at": "2026-01-21 16:55:01",
-        "id": 9,
+        "created_at": "2026-01-21 17:40:03",
+        "id": 4,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:55:01",
+        "updated_at": "2026-01-21 17:40:03",
         "v_type": "m3u8",
         "video_url": "https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.m3u8"
        },
        {
-        "created_at": "2026-01-21 16:55:01",
-        "id": 10,
+        "created_at": "2026-01-21 17:40:03",
+        "id": 5,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:55:01",
+        "updated_at": "2026-01-21 17:40:03",
         "v_type": "m3u8",
-        "video_url": "https://live.vivo200.com/live/sd-1-4429269.m3u8?txSecret=9329fd9eab9c14f12c5b26847b96267f\u0026txTime=6970C924"
+        "video_url": "https://live.vivo200.com/live/sd-1-4429269.m3u8?txSecret=caa48917c62f25be25d77280f466060d\u0026txTime=6970E1C1"
        },
        {
-        "created_at": "2026-01-21 16:55:01",
-        "id": 11,
+        "created_at": "2026-01-21 17:40:03",
+        "id": 6,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:55:01",
+        "updated_at": "2026-01-21 17:40:03",
         "v_type": "m3u8",
         "video_url": "https://play5.clomidx.com/live/11357650434_1894315459_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-21 16:55:01",
-        "id": 12,
+        "created_at": "2026-01-21 17:40:03",
+        "id": 7,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:55:01",
+        "updated_at": "2026-01-21 17:40:03",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.m3u8"
        },
        {
-        "created_at": "2026-01-21 16:55:01",
-        "id": 13,
+        "created_at": "2026-01-21 17:40:03",
+        "id": 8,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:55:01",
+        "updated_at": "2026-01-21 17:40:03",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.flv"
        },
        {
-        "created_at": "2026-01-21 16:55:01",
-        "id": 14,
+        "created_at": "2026-01-21 17:40:03",
+        "id": 9,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:55:01",
+        "updated_at": "2026-01-21 17:40:03",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/sd-6MvY73BxkpbV7yzEQF.m3u8?txSecret=48f03b5a22469d64fde875a7fb4f3ef3\u0026txTime=6971E470"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/sd-6MvY73BxkpbV7yzEQF.m3u8?txSecret=74040c3f17f3934c8522b0427864ef8a\u0026txTime=6971EB5A"
        },
        {
-        "created_at": "2026-01-21 16:55:01",
-        "id": 15,
+        "created_at": "2026-01-21 17:40:03",
+        "id": 10,
         "match_id": "1783806",
         "playing": 1,
-        "updated_at": "2026-01-21 16:55:01",
+        "updated_at": "2026-01-21 17:40:03",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play5.clomidx.com/live/11357650434_1894315459_adaptive.m3u8"
        }
@@ -462,7 +462,7 @@
      "website": ""
     },
     "home_score": 1,
-    "status": 3,
+    "status": 4,
     "streams": true
    }
   ],
@@ -741,7 +741,7 @@
        "is_anchor": 1,
        "live": null,
        "nick_name": "山河",
-       "online_status": 9,
+       "online_status": 1,
        "profile": {
         "age": 22,
         "birthday": "",
@@ -814,7 +814,7 @@
       "pressure": "763mmHg",
       "temperature": "18°C",
       "weather": 7,
-      "wind": "3.7m/s"
+      "wind": "4.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1060,7 +1060,7 @@
      },
      "competition_id": 730,
      "environment": {
-      "humidity": "44%",
+      "humidity": "45%",
       "pressure": "761mmHg",
       "temperature": "16°C",
       "weather": 7,
@@ -1213,8 +1213,8 @@
      "logo_handle": 1,
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/dc6da5d579f4ffcc2574f14a19ce7a98.png",
      "manager_id": 0,
-     "market_value": 4430000,
-     "market_value_currency": "",
+     "market_value": 3950000,
+     "market_value_currency": "€",
      "name_en": "Ghazl El Mahallah",
      "name_zh": "马哈拉",
      "name_zht": "加斯馬哈拉",
@@ -1224,7 +1224,7 @@
      "short_name_zh": "马哈拉",
      "short_name_zht": "加斯馬哈拉",
      "total_players": 38,
-     "updated_at": 1766979575,
+     "updated_at": 1768986368,
      "venue_id": 9270,
      "website": ""
     },
@@ -1293,8 +1293,8 @@
       "logo_handle": 1,
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/dc6da5d579f4ffcc2574f14a19ce7a98.png",
       "manager_id": 0,
-      "market_value": 4430000,
-      "market_value_currency": "",
+      "market_value": 3950000,
+      "market_value_currency": "€",
       "name_en": "Ghazl El Mahallah",
       "name_zh": "马哈拉",
       "name_zht": "加斯馬哈拉",
@@ -1304,7 +1304,7 @@
       "short_name_zh": "马哈拉",
       "short_name_zht": "加斯馬哈拉",
       "total_players": 38,
-      "updated_at": 1766979575,
+      "updated_at": 1768986368,
       "venue_id": 9270,
       "website": ""
      },
@@ -1314,7 +1314,7 @@
       "pressure": "758mmHg",
       "temperature": "18°C",
       "weather": 7,
-      "wind": "3.4m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1339,7 +1339,7 @@
       "logo_handle": 1,
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/0b565bf79378453da0982dfcf95ccc98.png",
       "manager_id": 0,
-      "market_value": 5230000,
+      "market_value": 5830000,
       "market_value_currency": "€",
       "name_en": "Wadi Degla SC",
       "name_zh": "瓦迪格拉",
@@ -1350,7 +1350,7 @@
       "short_name_zh": "瓦迪格拉",
       "short_name_zht": "瓦迪戴加",
       "total_players": 30,
-      "updated_at": 1766979609,
+      "updated_at": 1768987569,
       "venue_id": 10432,
       "website": ""
      },
@@ -1418,7 +1418,7 @@
      "logo_handle": 1,
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/0b565bf79378453da0982dfcf95ccc98.png",
      "manager_id": 0,
-     "market_value": 5230000,
+     "market_value": 5830000,
      "market_value_currency": "€",
      "name_en": "Wadi Degla SC",
      "name_zh": "瓦迪格拉",
@@ -1429,7 +1429,7 @@
      "short_name_zh": "瓦迪格拉",
      "short_name_zht": "瓦迪戴加",
      "total_players": 30,
-     "updated_at": 1766979609,
+     "updated_at": 1768987569,
      "venue_id": 10432,
      "website": ""
     },
@@ -1552,7 +1552,7 @@
       "pressure": "758mmHg",
       "temperature": "18°C",
       "weather": 7,
-      "wind": "3.4m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1577,8 +1577,8 @@
       "logo_handle": 1,
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/7dc80ef40b717d99f9aafeaf024f7e8c.png",
       "manager_id": 0,
-      "market_value": 4080000,
-      "market_value_currency": "",
+      "market_value": 4130000,
+      "market_value_currency": "€",
       "name_en": "Haras El Hodood",
       "name_zh": "萨瓦赫尔",
       "name_zht": "薩瓦赫爾",
@@ -1588,7 +1588,7 @@
       "short_name_zh": "萨瓦赫尔",
       "short_name_zht": "薩瓦赫爾",
       "total_players": 45,
-      "updated_at": 1768570490,
+      "updated_at": 1768985751,
       "venue_id": 2272,
       "website": ""
      },
@@ -1656,8 +1656,8 @@
      "logo_handle": 1,
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/7dc80ef40b717d99f9aafeaf024f7e8c.png",
      "manager_id": 0,
-     "market_value": 4080000,
-     "market_value_currency": "",
+     "market_value": 4130000,
+     "market_value_currency": "€",
      "name_en": "Haras El Hodood",
      "name_zh": "萨瓦赫尔",
      "name_zht": "薩瓦赫爾",
@@ -1667,7 +1667,7 @@
      "short_name_zh": "萨瓦赫尔",
      "short_name_zht": "薩瓦赫爾",
      "total_players": 45,
-     "updated_at": 1768570490,
+     "updated_at": 1768985751,
      "venue_id": 2272,
      "website": ""
     },
@@ -2028,7 +2028,7 @@
      },
      "competition_id": 83,
      "environment": {
-      "humidity": "92%",
+      "humidity": "91%",
       "pressure": "740mmHg",
       "temperature": "9°C",
       "weather": 9,
@@ -3692,17 +3692,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 255300,
+        "hot": 380300,
         "isvideo": 0,
         "liveid": 1768981633319,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 50,
+        "peak_num": 59,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 12,
+        "private_count": 15,
         "profit": 1665,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv",
         "rec_weight": 1,
@@ -3800,11 +3800,11 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "43%",
+      "humidity": "44%",
       "pressure": "769mmHg",
-      "temperature": "11°C",
+      "temperature": "12°C",
       "weather": 5,
-      "wind": "6.5m/s"
+      "wind": "6.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4088,11 +4088,11 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "73%",
+      "humidity": "74%",
       "pressure": "764mmHg",
       "temperature": "14°C",
       "weather": 1,
-      "wind": "1.8m/s"
+      "wind": "1.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4379,8 +4379,8 @@
       "short_name_en": "Uniao Leiria",
       "short_name_zh": "莱里亚",
       "short_name_zht": "利亞拿",
-      "total_players": 35,
-      "updated_at": 1768980918,
+      "total_players": 36,
+      "updated_at": 1768987825,
       "venue_id": 1276,
       "website": "http://www.udl.leirianet.pt/"
      },
@@ -4486,8 +4486,8 @@
      "short_name_en": "Uniao Leiria",
      "short_name_zh": "莱里亚",
      "short_name_zht": "利亞拿",
-     "total_players": 35,
-     "updated_at": 1768980918,
+     "total_players": 36,
+     "updated_at": 1768987825,
      "venue_id": 1276,
      "website": "http://www.udl.leirianet.pt/"
     },
@@ -5060,17 +5060,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 255300,
+        "hot": 380300,
         "isvideo": 0,
         "liveid": 1768981633319,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 50,
+        "peak_num": 59,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 12,
+        "private_count": 15,
         "profit": 1665,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv",
         "rec_weight": 1,
@@ -5339,7 +5339,7 @@
        "is_anchor": 1,
        "live": null,
        "nick_name": "山河",
-       "online_status": 9,
+       "online_status": 1,
        "profile": {
         "age": 22,
         "birthday": "",
@@ -5412,7 +5412,7 @@
       "pressure": "750mmHg",
       "temperature": "5°C",
       "weather": 7,
-      "wind": "5.6m/s"
+      "wind": "5.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5726,11 +5726,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "61%",
+      "humidity": "60%",
       "pressure": "764mmHg",
       "temperature": "7°C",
       "weather": 7,
-      "wind": "1.5m/s"
+      "wind": "1.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6514,7 +6514,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "83%",
+      "humidity": "82%",
       "pressure": "754mmHg",
       "temperature": "-3°C",
       "weather": 5,
@@ -7771,7 +7771,7 @@
        "is_anchor": 1,
        "live": null,
        "nick_name": "山河",
-       "online_status": 9,
+       "online_status": 1,
        "profile": {
         "age": 22,
         "birthday": "",
@@ -7844,7 +7844,7 @@
       "pressure": "758mmHg",
       "temperature": "-6°C",
       "weather": 5,
-      "wind": "2.6m/s"
+      "wind": "2.3m/s"
      },
      "explain": "",
      "home_corner": 0,
