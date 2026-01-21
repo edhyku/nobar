@@ -115,7 +115,7 @@
      "environment": {
       "humidity": "61%",
       "pressure": "754mmHg",
-      "temperature": "22°C",
+      "temperature": "23°C",
       "weather": 5,
       "wind": "4.0m/s"
      },
@@ -159,7 +159,7 @@
      },
      "id": 4429269,
      "is_animation": 1,
-     "is_lineup": 0,
+     "is_lineup": 1,
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
@@ -218,7 +218,35 @@
      "status": 1,
      "time": 1768982400,
      "video_type": "live",
-     "walematch": null
+     "walematch": {
+      "away_half_score": 0,
+      "away_id": "391796",
+      "away_logo": "https://photo.365live88.com/img/fb/team/cac500e02e6a4ceb932eb8625b85b435",
+      "away_name": "阿德莱德联女足|阿德萊德聯女足|Adelaide United(w)",
+      "away_overtime_score": 0,
+      "away_penalty_score": 0,
+      "away_score": 0,
+      "game_type": 6,
+      "has_live": 0,
+      "home_half_score": 0,
+      "home_id": "386857",
+      "home_logo": "https://photo.365live88.com/img/fb/team/415aa044f1ef4def80a6804535c3cb1d",
+      "home_name": "纽卡斯尔喷气机女足|紐卡素噴射機女足|Newcastle Jets(w)",
+      "home_overtime_score": 0,
+      "home_penalty_score": 0,
+      "home_score": 0,
+      "league_id": "716937",
+      "league_logo": "https://photo.365live88.com/img/fb/cup/b48fcfe1f43549519b09b7d6a649782c",
+      "league_name": "澳女联|澳女聯|AUS W-League",
+      "match_time": 1768982400,
+      "status": "未",
+      "status_id": 0,
+      "stream_id": "223003242",
+      "third_id": "4429269",
+      "wale_match_id": "1783806",
+      "walematchstreams": [],
+      "walematchvideos": []
+     }
     },
     "home": {
      "competition_id": 602,
@@ -2313,7 +2341,7 @@
      "environment": {
       "humidity": "36%",
       "pressure": "762mmHg",
-      "temperature": "18°C",
+      "temperature": "19°C",
       "weather": 7,
       "wind": "4.3m/s"
      },
@@ -2767,7 +2795,7 @@
       "humidity": "88%",
       "pressure": "741mmHg",
       "temperature": "10°C",
-      "weather": 9,
+      "weather": 10,
       "wind": "7.8m/s"
      },
      "explain": "",
@@ -2979,7 +3007,7 @@
       "pressure": "742mmHg",
       "temperature": "9°C",
       "weather": 9,
-      "wind": "7.3m/s"
+      "wind": "7.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3188,7 +3216,7 @@
      "environment": {
       "humidity": "91%",
       "pressure": "740mmHg",
-      "temperature": "9°C",
+      "temperature": "8°C",
       "weather": 9,
       "wind": "8.4m/s"
      },
@@ -3903,9 +3931,9 @@
      "environment": {
       "humidity": "45%",
       "pressure": "770mmHg",
-      "temperature": "11°C",
+      "temperature": "12°C",
       "weather": 5,
-      "wind": "6.1m/s"
+      "wind": "6.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4555,10 +4583,10 @@
      "competition_id": 168,
      "environment": {
       "humidity": "82%",
-      "pressure": "751mmHg",
+      "pressure": "750mmHg",
       "temperature": "5°C",
       "weather": 7,
-      "wind": "5.6m/s"
+      "wind": "5.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4799,7 +4827,7 @@
       "pressure": "764mmHg",
       "temperature": "6°C",
       "weather": 7,
-      "wind": "1.8m/s"
+      "wind": "1.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5008,9 +5036,9 @@
      "environment": {
       "humidity": "85%",
       "pressure": "772mmHg",
-      "temperature": "1°C",
+      "temperature": "0°C",
       "weather": 5,
-      "wind": "1.8m/s"
+      "wind": "2.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5217,7 +5245,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "88%",
+      "humidity": "86%",
       "pressure": "757mmHg",
       "temperature": "1°C",
       "weather": 5,
@@ -5851,7 +5879,7 @@
      "competition_id": 46,
      "environment": {
       "humidity": "77%",
-      "pressure": "756mmHg",
+      "pressure": "757mmHg",
       "temperature": "2°C",
       "weather": 5,
       "wind": "2.6m/s"
@@ -6061,11 +6089,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "68%",
+      "humidity": "67%",
       "pressure": "753mmHg",
       "temperature": "10°C",
       "weather": 7,
-      "wind": "6.5m/s"
+      "wind": "6.8m/s"
      },
      "explain": "",
      "home_corner": 0,
