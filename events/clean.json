@@ -1,5 +1,5 @@
 {
-  "updated": 1769025770,
+  "updated": 1769028409,
   "events": [
     {
       "league": "CHN FA Cup",
@@ -267,68 +267,68 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769024700,
       "home": "Southampton",
       "away": "Sheffield United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351396.m3u8?txSecret=ebf8ef26099d13ac9f4baadb831de2ea&txTime=697178EC"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769024700,
       "home": "Watford",
       "away": "Portsmouth",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351398.m3u8?txSecret=863f25bdec27c01a6d60fe667d47ddd5&txTime=697178EC"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Stoke City",
       "away": "Middlesbrough",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351397.m3u8?txSecret=30615f97b1b6a64fe9582084dba8ec44&txTime=697178EC"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769024700,
       "home": "Southampton",
       "away": "Sheffield United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351396.m3u8?txSecret=ebf8ef26099d13ac9f4baadb831de2ea&txTime=697178EC"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769024700,
       "home": "Watford",
       "away": "Portsmouth",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351398.m3u8?txSecret=863f25bdec27c01a6d60fe667d47ddd5&txTime=697178EC"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Stoke City",
       "away": "Middlesbrough",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351397.m3u8?txSecret=30615f97b1b6a64fe9582084dba8ec44&txTime=697178EC"
       }
     },
     {
@@ -515,7 +515,7 @@
       "away": "Athletic Club",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.sethf7.com/live/62281724_11bc92750d8139d733dbad42842ebf49.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4415298.m3u8?txSecret=cf0462d32180c0fc2d8d0d610aedc8f2&txTime=697178EC"
       }
     },
     {
@@ -525,8 +525,8 @@
       "home": "FC Bayern Munich",
       "away": "Union Saint-Gilloise",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769024261.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415323.m3u8?txSecret=542fc43696906609309b5583b7cf4196&txTime=697178EC"
       }
     },
     {
@@ -536,8 +536,8 @@
       "home": "Chelsea",
       "away": "Pafos FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769025556.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415337.m3u8?txSecret=5bfbcfcdc42cb65382e5c19b0a3702b2&txTime=697178EC"
       }
     },
     {
@@ -548,7 +548,7 @@
       "away": "Benfica",
       "stream": {
         "type": "m3u8",
-        "url": "https://live4.sethf7.com/live/66385062_f60b2b62805edd24d12a4c505f748a88.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4415362.m3u8?txSecret=34fb62f84e1fc46b8ab089c6dc9d3400&txTime=697178EC"
       }
     },
     {
@@ -558,8 +558,8 @@
       "home": "Marseille",
       "away": "Liverpool",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769024757.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415380.m3u8?txSecret=812c05509158b4fac092395a252ca092&txTime=697178EC"
       }
     },
     {
@@ -569,8 +569,8 @@
       "home": "Newcastle United",
       "away": "PSV Eindhoven",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769024944.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415394.m3u8?txSecret=6f57e22b49d0d1f9d994161f5545e28f&txTime=697178EC"
       }
     },
     {
@@ -580,8 +580,8 @@
       "home": "Slavia Praha",
       "away": "FC Barcelona",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769024611.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415427.m3u8?txSecret=e776a3a30e9b53e94bd75edcdf77fba5&txTime=697178EC"
       }
     },
     {
@@ -592,7 +592,7 @@
       "away": "Athletic Club",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.sethf7.com/live/62281724_11bc92750d8139d733dbad42842ebf49.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4415298.m3u8?txSecret=cf0462d32180c0fc2d8d0d610aedc8f2&txTime=697178EC"
       }
     },
     {
@@ -602,8 +602,8 @@
       "home": "FC Bayern Munich",
       "away": "Union Saint-Gilloise",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769024261.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415323.m3u8?txSecret=542fc43696906609309b5583b7cf4196&txTime=697178EC"
       }
     },
     {
@@ -613,8 +613,8 @@
       "home": "Chelsea",
       "away": "Pafos FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769025556.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415337.m3u8?txSecret=5bfbcfcdc42cb65382e5c19b0a3702b2&txTime=697178EC"
       }
     },
     {
@@ -625,7 +625,7 @@
       "away": "Benfica",
       "stream": {
         "type": "m3u8",
-        "url": "https://live4.sethf7.com/live/66385062_f60b2b62805edd24d12a4c505f748a88.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4415362.m3u8?txSecret=34fb62f84e1fc46b8ab089c6dc9d3400&txTime=697178EC"
       }
     },
     {
@@ -635,8 +635,8 @@
       "home": "Marseille",
       "away": "Liverpool",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769024757.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415380.m3u8?txSecret=812c05509158b4fac092395a252ca092&txTime=697178EC"
       }
     },
     {
@@ -646,8 +646,8 @@
       "home": "Newcastle United",
       "away": "PSV Eindhoven",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769024944.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415394.m3u8?txSecret=6f57e22b49d0d1f9d994161f5545e28f&txTime=697178EC"
       }
     },
     {
@@ -657,8 +657,8 @@
       "home": "Slavia Praha",
       "away": "FC Barcelona",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769024611.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415427.m3u8?txSecret=e776a3a30e9b53e94bd75edcdf77fba5&txTime=697178EC"
       }
     }
   ]
