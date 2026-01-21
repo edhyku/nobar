@@ -1,5 +1,5 @@
 {
-  "updated": 1769028409,
+  "updated": 1769030227,
   "events": [
     {
       "league": "CHN FA Cup",
@@ -273,7 +273,7 @@
       "away": "Sheffield United",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351396.m3u8?txSecret=ebf8ef26099d13ac9f4baadb831de2ea&txTime=697178EC"
+        "url": "https://live2.sethf7.com/live/61490971_1651fa1727fd7daaf96529b52b4fdc11.m3u8"
       }
     },
     {
@@ -284,7 +284,7 @@
       "away": "Portsmouth",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351398.m3u8?txSecret=863f25bdec27c01a6d60fe667d47ddd5&txTime=697178EC"
+        "url": "https://live1.sethf7.com/live/61490975_6cebef45d244736406d088f47eaa6568.m3u8"
       }
     },
     {
@@ -295,7 +295,7 @@
       "away": "Middlesbrough",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351397.m3u8?txSecret=30615f97b1b6a64fe9582084dba8ec44&txTime=697178EC"
+        "url": "https://live1.sethf7.com/live/61490973_c4937544d867c84af02add1daf8791e3.m3u8"
       }
     },
     {
@@ -306,7 +306,7 @@
       "away": "Sheffield United",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351396.m3u8?txSecret=ebf8ef26099d13ac9f4baadb831de2ea&txTime=697178EC"
+        "url": "https://live2.sethf7.com/live/61490971_1651fa1727fd7daaf96529b52b4fdc11.m3u8"
       }
     },
     {
@@ -317,7 +317,7 @@
       "away": "Portsmouth",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351398.m3u8?txSecret=863f25bdec27c01a6d60fe667d47ddd5&txTime=697178EC"
+        "url": "https://live1.sethf7.com/live/61490975_6cebef45d244736406d088f47eaa6568.m3u8"
       }
     },
     {
@@ -328,7 +328,7 @@
       "away": "Middlesbrough",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351397.m3u8?txSecret=30615f97b1b6a64fe9582084dba8ec44&txTime=697178EC"
+        "url": "https://live1.sethf7.com/live/61490973_c4937544d867c84af02add1daf8791e3.m3u8"
       }
     },
     {
@@ -526,7 +526,7 @@
       "away": "Union Saint-Gilloise",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415323.m3u8?txSecret=542fc43696906609309b5583b7cf4196&txTime=697178EC"
+        "url": "https://live1.sethf7.com/live/63369971_65053d918a5000651001b24db8ac3cd7.m3u8"
       }
     },
     {
@@ -537,7 +537,7 @@
       "away": "Pafos FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415337.m3u8?txSecret=5bfbcfcdc42cb65382e5c19b0a3702b2&txTime=697178EC"
+        "url": "https://live5.sethf7.com/live/63369981_93413fd4f4542154aff2141ac119f782.m3u8"
       }
     },
     {
@@ -570,7 +570,7 @@
       "away": "PSV Eindhoven",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415394.m3u8?txSecret=6f57e22b49d0d1f9d994161f5545e28f&txTime=697178EC"
+        "url": "https://live.sethf7.com/live/63369977_bce621bb663389fa87c10eb2b56ef73b.m3u8"
       }
     },
     {
@@ -581,7 +581,7 @@
       "away": "FC Barcelona",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415427.m3u8?txSecret=e776a3a30e9b53e94bd75edcdf77fba5&txTime=697178EC"
+        "url": "https://live3.sethf7.com/live/63369973_200d5d44ad9695f8b137e29193ae8533.m3u8"
       }
     },
     {
@@ -603,7 +603,7 @@
       "away": "Union Saint-Gilloise",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415323.m3u8?txSecret=542fc43696906609309b5583b7cf4196&txTime=697178EC"
+        "url": "https://live1.sethf7.com/live/63369971_65053d918a5000651001b24db8ac3cd7.m3u8"
       }
     },
     {
@@ -614,7 +614,7 @@
       "away": "Pafos FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415337.m3u8?txSecret=5bfbcfcdc42cb65382e5c19b0a3702b2&txTime=697178EC"
+        "url": "https://live5.sethf7.com/live/63369981_93413fd4f4542154aff2141ac119f782.m3u8"
       }
     },
     {
@@ -647,7 +647,7 @@
       "away": "PSV Eindhoven",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415394.m3u8?txSecret=6f57e22b49d0d1f9d994161f5545e28f&txTime=697178EC"
+        "url": "https://live.sethf7.com/live/63369977_bce621bb663389fa87c10eb2b56ef73b.m3u8"
       }
     },
     {
@@ -658,7 +658,7 @@
       "away": "FC Barcelona",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415427.m3u8?txSecret=e776a3a30e9b53e94bd75edcdf77fba5&txTime=697178EC"
+        "url": "https://live3.sethf7.com/live/63369973_200d5d44ad9695f8b137e29193ae8533.m3u8"
       }
     }
   ]
