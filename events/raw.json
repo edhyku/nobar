@@ -113,11 +113,11 @@
           },
           "competition_id": 602,
           "environment": {
-            "humidity": "61%",
+            "humidity": "62%",
             "pressure": "754mmHg",
-            "temperature": "23°C",
+            "temperature": "22°C",
             "weather": 5,
-            "wind": "4.0m/s"
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -391,11 +391,11 @@
           },
           "competition_id": 602,
           "environment": {
-            "humidity": "61%",
+            "humidity": "62%",
             "pressure": "754mmHg",
-            "temperature": "23°C",
+            "temperature": "22°C",
             "weather": 5,
-            "wind": "4.0m/s"
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4331,7 +4331,7 @@
           "environment": {
             "humidity": "36%",
             "pressure": "762mmHg",
-            "temperature": "19°C",
+            "temperature": "18°C",
             "weather": 7,
             "wind": "4.3m/s"
           },
@@ -4813,7 +4813,7 @@
           "environment": {
             "humidity": "36%",
             "pressure": "762mmHg",
-            "temperature": "19°C",
+            "temperature": "18°C",
             "weather": 7,
             "wind": "4.3m/s"
           },
@@ -5064,7 +5064,7 @@
           "competition_id": 731,
           "environment": {
             "humidity": "26%",
-            "pressure": "762mmHg",
+            "pressure": "761mmHg",
             "temperature": "24°C",
             "weather": 7,
             "wind": "4.0m/s"
@@ -5302,7 +5302,7 @@
           "competition_id": 731,
           "environment": {
             "humidity": "26%",
-            "pressure": "762mmHg",
+            "pressure": "761mmHg",
             "temperature": "24°C",
             "weather": 7,
             "wind": "4.0m/s"
@@ -5503,7 +5503,7 @@
           "competition_id": 83,
           "environment": {
             "humidity": "88%",
-            "pressure": "741mmHg",
+            "pressure": "740mmHg",
             "temperature": "10°C",
             "weather": 10,
             "wind": "7.8m/s"
@@ -5954,7 +5954,7 @@
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/6a4f2c8cdb5a0e6516d7dea8e17f320b.png",
             "manager_id": 0,
             "market_value": 73930000,
-            "market_value_currency": "€",
+            "market_value_currency": "",
             "name_en": "Stoke City",
             "name_zh": "斯托克城",
             "name_zht": "史篤城",
@@ -5964,7 +5964,7 @@
             "short_name_zh": "斯托克城",
             "short_name_zht": "史篤城",
             "total_players": 29,
-            "updated_at": 1768973729,
+            "updated_at": 1768979647,
             "venue_id": 1392,
             "website": "http://www.stokecityfc.com/"
           },
@@ -6045,7 +6045,7 @@
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/6a4f2c8cdb5a0e6516d7dea8e17f320b.png",
           "manager_id": 0,
           "market_value": 73930000,
-          "market_value_currency": "€",
+          "market_value_currency": "",
           "name_en": "Stoke City",
           "name_zh": "斯托克城",
           "name_zht": "史篤城",
@@ -6055,7 +6055,7 @@
           "short_name_zh": "斯托克城",
           "short_name_zht": "史篤城",
           "total_players": 29,
-          "updated_at": 1768973729,
+          "updated_at": 1768979647,
           "venue_id": 1392,
           "website": "http://www.stokecityfc.com/"
         },
@@ -6136,7 +6136,7 @@
           "competition_id": 83,
           "environment": {
             "humidity": "88%",
-            "pressure": "741mmHg",
+            "pressure": "740mmHg",
             "temperature": "10°C",
             "weather": 10,
             "wind": "7.8m/s"
@@ -6587,7 +6587,7 @@
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/6a4f2c8cdb5a0e6516d7dea8e17f320b.png",
             "manager_id": 0,
             "market_value": 73930000,
-            "market_value_currency": "€",
+            "market_value_currency": "",
             "name_en": "Stoke City",
             "name_zh": "斯托克城",
             "name_zht": "史篤城",
@@ -6597,7 +6597,7 @@
             "short_name_zh": "斯托克城",
             "short_name_zht": "史篤城",
             "total_players": 29,
-            "updated_at": 1768973729,
+            "updated_at": 1768979647,
             "venue_id": 1392,
             "website": "http://www.stokecityfc.com/"
           },
@@ -6678,7 +6678,7 @@
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/6a4f2c8cdb5a0e6516d7dea8e17f320b.png",
           "manager_id": 0,
           "market_value": 73930000,
-          "market_value_currency": "€",
+          "market_value_currency": "",
           "name_en": "Stoke City",
           "name_zh": "斯托克城",
           "name_zht": "史篤城",
@@ -6688,7 +6688,7 @@
           "short_name_zh": "斯托克城",
           "short_name_zht": "史篤城",
           "total_players": 29,
-          "updated_at": 1768973729,
+          "updated_at": 1768979647,
           "venue_id": 1392,
           "website": "http://www.stokecityfc.com/"
         },
@@ -7523,8 +7523,8 @@
           "competition_id": 614,
           "environment": {
             "humidity": "45%",
-            "pressure": "770mmHg",
-            "temperature": "12°C",
+            "pressure": "769mmHg",
+            "temperature": "11°C",
             "weather": 5,
             "wind": "6.5m/s"
           },
@@ -7733,9 +7733,9 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "74%",
-            "pressure": "765mmHg",
-            "temperature": "15°C",
+            "humidity": "73%",
+            "pressure": "764mmHg",
+            "temperature": "14°C",
             "weather": 1,
             "wind": "1.5m/s"
           },
@@ -8195,8 +8195,8 @@
           "competition_id": 614,
           "environment": {
             "humidity": "45%",
-            "pressure": "770mmHg",
-            "temperature": "12°C",
+            "pressure": "769mmHg",
+            "temperature": "11°C",
             "weather": 5,
             "wind": "6.5m/s"
           },
@@ -8405,9 +8405,9 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "74%",
-            "pressure": "765mmHg",
-            "temperature": "15°C",
+            "humidity": "73%",
+            "pressure": "764mmHg",
+            "temperature": "14°C",
             "weather": 1,
             "wind": "1.5m/s"
           },
@@ -9016,8 +9016,8 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/57b4c68789a8bedcb43174f5f4eb164a.png",
           "manager_id": 0,
-          "market_value": 16250000,
-          "market_value_currency": "",
+          "market_value": 17450000,
+          "market_value_currency": "€",
           "name_en": "Excelsior SBV",
           "name_zh": "SBV精英",
           "name_zht": "SBV精英隊",
@@ -9027,7 +9027,7 @@
           "short_name_zh": "SBV精英",
           "short_name_zht": "SBV精英隊",
           "total_players": 24,
-          "updated_at": 1767975502,
+          "updated_at": 1768979991,
           "venue_id": 10846,
           "website": "http://www.sbvexcelsior.nl/"
         },
@@ -9057,8 +9057,8 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/57b4c68789a8bedcb43174f5f4eb164a.png",
             "manager_id": 0,
-            "market_value": 16250000,
-            "market_value_currency": "",
+            "market_value": 17450000,
+            "market_value_currency": "€",
             "name_en": "Excelsior SBV",
             "name_zh": "SBV精英",
             "name_zht": "SBV精英隊",
@@ -9068,7 +9068,7 @@
             "short_name_zh": "SBV精英",
             "short_name_zht": "SBV精英隊",
             "total_players": 24,
-            "updated_at": 1767975502,
+            "updated_at": 1768979991,
             "venue_id": 10846,
             "website": "http://www.sbvexcelsior.nl/"
           },
@@ -9078,7 +9078,7 @@
             "pressure": "750mmHg",
             "temperature": "5°C",
             "weather": 7,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9255,8 +9255,8 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/57b4c68789a8bedcb43174f5f4eb164a.png",
           "manager_id": 0,
-          "market_value": 16250000,
-          "market_value_currency": "",
+          "market_value": 17450000,
+          "market_value_currency": "€",
           "name_en": "Excelsior SBV",
           "name_zh": "SBV精英",
           "name_zht": "SBV精英隊",
@@ -9266,7 +9266,7 @@
           "short_name_zh": "SBV精英",
           "short_name_zht": "SBV精英隊",
           "total_players": 24,
-          "updated_at": 1767975502,
+          "updated_at": 1768979991,
           "venue_id": 10846,
           "website": "http://www.sbvexcelsior.nl/"
         },
@@ -9296,8 +9296,8 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/57b4c68789a8bedcb43174f5f4eb164a.png",
             "manager_id": 0,
-            "market_value": 16250000,
-            "market_value_currency": "",
+            "market_value": 17450000,
+            "market_value_currency": "€",
             "name_en": "Excelsior SBV",
             "name_zh": "SBV精英",
             "name_zht": "SBV精英隊",
@@ -9307,7 +9307,7 @@
             "short_name_zh": "SBV精英",
             "short_name_zht": "SBV精英隊",
             "total_players": 24,
-            "updated_at": 1767975502,
+            "updated_at": 1768979991,
             "venue_id": 10846,
             "website": "http://www.sbvexcelsior.nl/"
           },
@@ -9317,7 +9317,7 @@
             "pressure": "750mmHg",
             "temperature": "5°C",
             "weather": 7,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9556,9 +9556,9 @@
           "environment": {
             "humidity": "62%",
             "pressure": "764mmHg",
-            "temperature": "6°C",
+            "temperature": "7°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10187,7 +10187,7 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "84%",
+            "humidity": "83%",
             "pressure": "754mmHg",
             "temperature": "-3°C",
             "weather": 5,
@@ -10609,8 +10609,8 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "77%",
-            "pressure": "757mmHg",
+            "humidity": "76%",
+            "pressure": "756mmHg",
             "temperature": "2°C",
             "weather": 5,
             "wind": "2.6m/s"
@@ -11035,7 +11035,7 @@
             "pressure": "743mmHg",
             "temperature": "8°C",
             "weather": 9,
-            "wind": "6.8m/s"
+            "wind": "6.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11455,9 +11455,9 @@
           "environment": {
             "humidity": "62%",
             "pressure": "764mmHg",
-            "temperature": "6°C",
+            "temperature": "7°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12086,7 +12086,7 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "84%",
+            "humidity": "83%",
             "pressure": "754mmHg",
             "temperature": "-3°C",
             "weather": 5,
@@ -12508,8 +12508,8 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "77%",
-            "pressure": "757mmHg",
+            "humidity": "76%",
+            "pressure": "756mmHg",
             "temperature": "2°C",
             "weather": 5,
             "wind": "2.6m/s"
@@ -12934,7 +12934,7 @@
             "pressure": "743mmHg",
             "temperature": "8°C",
             "weather": 9,
-            "wind": "6.8m/s"
+            "wind": "6.5m/s"
           },
           "explain": "",
           "home_corner": 0,
