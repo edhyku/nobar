@@ -1,5 +1,5 @@
 {
-  "updated": 1769022404,
+  "updated": 1769024496,
   "events": [
     {
       "league": "CHN FA Cup",
@@ -38,6 +38,61 @@
       "league": "CHN FA Cup",
       "status": "UPCOMING",
       "time": 1769052600,
+      "home": "Shenzhen Xingjun",
+      "away": "Zhoushan Jiayu",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769052600,
+      "home": "Wuhan Lianzhen",
+      "away": "Guizhou Feiying",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769052600,
+      "home": "Qingdao Fuli",
+      "away": "Nantong Home Textile City",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Shanxi TYUT",
+      "away": "Guangzhou Rock Goal",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Tianjin Kaiser",
+      "away": "Dongxing Greenery",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769052600,
       "home": "Guangdong Wuchuan Youth",
       "away": "Ningxia Pingluo Hengli",
       "stream": {
@@ -68,6 +123,61 @@
       }
     },
     {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769052600,
+      "home": "Shenzhen Xingjun",
+      "away": "Zhoushan Jiayu",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769052600,
+      "home": "Wuhan Lianzhen",
+      "away": "Guizhou Feiying",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769052600,
+      "home": "Qingdao Fuli",
+      "away": "Nantong Home Textile City",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Shanxi TYUT",
+      "away": "Guangzhou Rock Goal",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Tianjin Kaiser",
+      "away": "Dongxing Greenery",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "EGY Premier League",
       "status": "LIVE",
       "time": 1769018400,
@@ -157,13 +267,13 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Stoke City",
       "away": "Middlesbrough",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769016553.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -190,13 +300,13 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Stoke City",
       "away": "Middlesbrough",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769016553.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -290,56 +400,12 @@
     {
       "league": "KSA Professional League",
       "status": "LIVE",
-      "time": 1769016600,
-      "home": "Al Ettifaq FC",
-      "away": "NEOM Sports Club",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.sethf7.com/live/64055581_b7c358611a0b65fd2443cbc8eb714799.m3u8"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769016600,
-      "home": "Damac",
-      "away": "Al Nassr FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live2.sethf7.com/live/64055595_389e6496cb13fc281c5500cfafbf2914.m3u8"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
       "time": 1769094900,
       "home": "Al Taawoun",
       "away": "Al Hazem",
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/956863_1769016818.flv"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769016600,
-      "home": "Al Ettifaq FC",
-      "away": "NEOM Sports Club",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.sethf7.com/live/64055581_b7c358611a0b65fd2443cbc8eb714799.m3u8"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769016600,
-      "home": "Damac",
-      "away": "Al Nassr FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live2.sethf7.com/live/64055595_389e6496cb13fc281c5500cfafbf2914.m3u8"
       }
     },
     {
@@ -410,13 +476,13 @@
     },
     {
       "league": "MYA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769074200,
       "home": "Yadanarbon FC",
       "away": "Yarmanya United FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769015840.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -432,57 +498,13 @@
     },
     {
       "league": "MYA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769074200,
       "home": "Yadanarbon FC",
       "away": "Yarmanya United FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769015840.flv"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769017500,
-      "home": "AZ Alkmaar",
-      "away": "Excelsior SBV",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344638.m3u8?txSecret=21f8471788ca5a3dc03b3969288f9582&txTime=6971581B"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769017500,
-      "home": "AZ Alkmaar",
-      "away": "Excelsior SBV",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344638.m3u8?txSecret=21f8471788ca5a3dc03b3969288f9582&txTime=6971581B"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769017500,
-      "home": "Galatasaray",
-      "away": "Atletico Madrid",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415354.m3u8?txSecret=6bd8cd7bb13d3f2fa47f8cd9adc12088&txTime=6971581B"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769017500,
-      "home": "Qarabag",
-      "away": "Eintracht Frankfurt",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415413.m3u8?txSecret=2fc44b88dfadbb7bf23428134296b001&txTime=6971581B"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -520,24 +542,24 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Juventus",
       "away": "Benfica",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769017204.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Marseille",
       "away": "Liverpool",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769015670.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -564,28 +586,6 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769017500,
-      "home": "Galatasaray",
-      "away": "Atletico Madrid",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415354.m3u8?txSecret=6bd8cd7bb13d3f2fa47f8cd9adc12088&txTime=6971581B"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769017500,
-      "home": "Qarabag",
-      "away": "Eintracht Frankfurt",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415413.m3u8?txSecret=2fc44b88dfadbb7bf23428134296b001&txTime=6971581B"
-      }
-    },
-    {
-      "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769025600,
       "home": "Atalanta",
@@ -619,24 +619,24 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Juventus",
       "away": "Benfica",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769017204.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Marseille",
       "away": "Liverpool",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769015670.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
