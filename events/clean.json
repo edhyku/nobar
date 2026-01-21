@@ -1,5 +1,5 @@
 {
-  "updated": 1768993992,
+  "updated": 1768995656,
   "events": [
     {
       "league": "EGY Premier League",
@@ -168,13 +168,13 @@
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769092200,
       "home": "Zenit St. Petersburg",
       "away": "Shanghai Port FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1768993971.flv"
       }
     },
     {
@@ -201,13 +201,13 @@
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769092200,
       "home": "Zenit St. Petersburg",
       "away": "Shanghai Port FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1768993971.flv"
       }
     },
     {
@@ -234,13 +234,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769091000,
       "home": "Al Ula FC",
       "away": "Al Wehda Mecca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1768994345.flv"
       }
     },
     {
@@ -256,13 +256,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769091000,
       "home": "Al Ula FC",
       "away": "Al Wehda Mecca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1768994345.flv"
       }
     },
     {
