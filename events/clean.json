@@ -1,29 +1,7 @@
 {
-  "updated": 1768988651,
+  "updated": 1768989713,
   "events": [
     {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1768982400,
-      "home": "Newcastle Jets Women",
-      "away": "Adelaide United Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.m3u8"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1768982400,
-      "home": "Newcastle Jets Women",
-      "away": "Adelaide United Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live2.sethf7.com/live/63685049_069994d38dfa2559bd4c71ca549963de.m3u8"
-      }
-    },
-    {
       "league": "EGY Premier League",
       "status": "UPCOMING",
       "time": 1769007600,
@@ -300,13 +278,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769016600,
       "home": "Al Ettifaq FC",
       "away": "NEOM Sports Club",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -315,6 +293,17 @@
       "time": 1769016600,
       "home": "Damac",
       "away": "Al Nassr FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1769094900,
+      "home": "Al Taawoun",
+      "away": "Al Hazem",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -333,13 +322,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769016600,
       "home": "Al Ettifaq FC",
       "away": "NEOM Sports Club",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -354,6 +343,17 @@
       }
     },
     {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1769094900,
+      "home": "Al Taawoun",
+      "away": "Al Hazem",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "Liga Portugal 2",
       "status": "UPCOMING",
       "time": 1769018400,
@@ -399,10 +399,21 @@
     },
     {
       "league": "MYA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769072400,
       "home": "Rakhine United FC",
       "away": "Thitsar Arman FC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1768988903.flv"
+      }
+    },
+    {
+      "league": "MYA Professional League",
+      "status": "UPCOMING",
+      "time": 1769074200,
+      "home": "Yadanarbon FC",
+      "away": "Yarmanya United FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -411,34 +422,23 @@
     {
       "league": "MYA Professional League",
       "status": "LIVE",
-      "time": 1769074200,
-      "home": "Yadanarbon FC",
-      "away": "Yarmanya United FC",
+      "time": 1769072400,
+      "home": "Rakhine United FC",
+      "away": "Thitsar Arman FC",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1768988903.flv"
       }
     },
     {
       "league": "MYA Professional League",
       "status": "UPCOMING",
-      "time": 1769072400,
-      "home": "Rakhine United FC",
-      "away": "Thitsar Arman FC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "MYA Professional League",
-      "status": "LIVE",
       "time": 1769074200,
       "home": "Yadanarbon FC",
       "away": "Yarmanya United FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1768981580.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
