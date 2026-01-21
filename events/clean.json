@@ -1,15 +1,15 @@
 {
-  "updated": 1768996579,
+  "updated": 1768999097,
   "events": [
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769007600,
       "home": "ZED FC",
       "away": "Modern Sport FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1768997727.flv"
       }
     },
     {
@@ -58,13 +58,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769007600,
       "home": "ZED FC",
       "away": "Modern Sport FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1768997727.flv"
       }
     },
     {
@@ -113,24 +113,24 @@
     },
     {
       "league": "EGY Scores Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1768998600,
       "home": "ZED FC",
       "away": "Al Masry",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100383.m3u8?txSecret=57b38b7a76402e34499834e94ae97416&txTime=6970C961&sign=9d9b868f77ec0c83"
       }
     },
     {
       "league": "EGY Scores Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1768998600,
       "home": "ZED FC",
       "away": "Al Masry",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100383.m3u8?txSecret=57b38b7a76402e34499834e94ae97416&txTime=6970C961&sign=9d9b868f77ec0c83"
       }
     },
     {
@@ -157,13 +157,13 @@
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769086800,
       "home": "RCD Mallorca",
       "away": "NK Publikum Celje",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1768997727.flv"
       }
     },
     {
@@ -190,13 +190,13 @@
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769086800,
       "home": "RCD Mallorca",
       "away": "NK Publikum Celje",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1768997727.flv"
       }
     },
     {
@@ -223,13 +223,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1768998900,
       "home": "Al-Faisaly Harmah",
       "away": "Abha",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4478823.m3u8?txSecret=45f8768537395e040d322f2886b4390e&txTime=69710BF1"
       }
     },
     {
@@ -245,13 +245,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1768998900,
       "home": "Al-Faisaly Harmah",
       "away": "Abha",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4478823.m3u8?txSecret=45f8768537395e040d322f2886b4390e&txTime=69710BF1"
       }
     },
     {
@@ -300,13 +300,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769094900,
       "home": "Al Taawoun",
       "away": "Al Hazem",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1768997727.flv"
       }
     },
     {
@@ -344,13 +344,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769094900,
       "home": "Al Taawoun",
       "away": "Al Hazem",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1768997727.flv"
       }
     },
     {
@@ -399,13 +399,13 @@
     },
     {
       "league": "MYA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769072400,
       "home": "Rakhine United FC",
       "away": "Thitsar Arman FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1768988903.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -421,13 +421,13 @@
     },
     {
       "league": "MYA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769072400,
       "home": "Rakhine United FC",
       "away": "Thitsar Arman FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1768988903.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Atalanta",
       "away": "Athletic Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1768998271.flv"
       }
     },
     {
@@ -586,13 +586,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769025600,
       "home": "Atalanta",
       "away": "Athletic Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1768998271.flv"
       }
     },
     {
