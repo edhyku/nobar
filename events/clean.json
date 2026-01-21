@@ -1,5 +1,5 @@
 {
-  "updated": 1769030227,
+  "updated": 1769032084,
   "events": [
     {
       "league": "CHN FA Cup",
@@ -114,6 +114,28 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Guangdong Red Treasure Football Club",
+      "away": "Changle Jingangtui Football Club",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Huzhou Changxing Jintown",
+      "away": "Shanxi Sanjin",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
       "time": 1769052600,
       "home": "Guangdong Wuchuan Youth",
       "away": "Ningxia Pingluo Hengli",
@@ -222,6 +244,28 @@
       }
     },
     {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Guangdong Red Treasure Football Club",
+      "away": "Changle Jingangtui Football Club",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769065200,
+      "home": "Huzhou Changxing Jintown",
+      "away": "Shanxi Sanjin",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "EGY Premier League",
       "status": "UPCOMING",
       "time": 1769094000,
@@ -263,28 +307,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ENG EFL Championship",
-      "status": "LIVE",
-      "time": 1769024700,
-      "home": "Southampton",
-      "away": "Sheffield United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live2.sethf7.com/live/61490971_1651fa1727fd7daaf96529b52b4fdc11.m3u8"
-      }
-    },
-    {
-      "league": "ENG EFL Championship",
-      "status": "LIVE",
-      "time": 1769024700,
-      "home": "Watford",
-      "away": "Portsmouth",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.sethf7.com/live/61490975_6cebef45d244736406d088f47eaa6568.m3u8"
       }
     },
     {
@@ -296,28 +318,6 @@
       "stream": {
         "type": "m3u8",
         "url": "https://live1.sethf7.com/live/61490973_c4937544d867c84af02add1daf8791e3.m3u8"
-      }
-    },
-    {
-      "league": "ENG EFL Championship",
-      "status": "LIVE",
-      "time": 1769024700,
-      "home": "Southampton",
-      "away": "Sheffield United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live2.sethf7.com/live/61490971_1651fa1727fd7daaf96529b52b4fdc11.m3u8"
-      }
-    },
-    {
-      "league": "ENG EFL Championship",
-      "status": "LIVE",
-      "time": 1769024700,
-      "home": "Watford",
-      "away": "Portsmouth",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.sethf7.com/live/61490975_6cebef45d244736406d088f47eaa6568.m3u8"
       }
     },
     {
@@ -515,7 +515,7 @@
       "away": "Athletic Club",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415298.m3u8?txSecret=cf0462d32180c0fc2d8d0d610aedc8f2&txTime=697178EC"
+        "url": "https://live4.sethf7.com/live/63369983_578a53d64909248a481075b48f8e6d4e.m3u8"
       }
     },
     {
@@ -592,7 +592,7 @@
       "away": "Athletic Club",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415298.m3u8?txSecret=cf0462d32180c0fc2d8d0d610aedc8f2&txTime=697178EC"
+        "url": "https://live4.sethf7.com/live/63369983_578a53d64909248a481075b48f8e6d4e.m3u8"
       }
     },
     {
