@@ -1,5 +1,5 @@
 {
-  "updated": 1768999097,
+  "updated": 1769000885,
   "events": [
     {
       "league": "EGY Premier League",
@@ -112,28 +112,6 @@
       }
     },
     {
-      "league": "EGY Scores Cup",
-      "status": "LIVE",
-      "time": 1768998600,
-      "home": "ZED FC",
-      "away": "Al Masry",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100383.m3u8?txSecret=57b38b7a76402e34499834e94ae97416&txTime=6970C961&sign=9d9b868f77ec0c83"
-      }
-    },
-    {
-      "league": "EGY Scores Cup",
-      "status": "LIVE",
-      "time": 1768998600,
-      "home": "ZED FC",
-      "away": "Al Masry",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100383.m3u8?txSecret=57b38b7a76402e34499834e94ae97416&txTime=6970C961&sign=9d9b868f77ec0c83"
-      }
-    },
-    {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
       "time": 1769025600,
@@ -230,6 +208,17 @@
       "stream": {
         "type": "m3u8",
         "url": "https://live.vivo200.com/live/sd-1-4478823.m3u8?txSecret=45f8768537395e040d322f2886b4390e&txTime=69710BF1"
+      }
+    },
+    {
+      "league": "KSA Division 1",
+      "status": "LIVE",
+      "time": 1768998900,
+      "home": "Al Zulfi",
+      "away": "Al-Jandal",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live2.sethf7.com/live/67952986_d4a8fb9331507315cf3890132af98b98.m3u8"
       }
     },
     {
@@ -252,6 +241,17 @@
       "stream": {
         "type": "m3u8",
         "url": "https://live.vivo200.com/live/sd-1-4478823.m3u8?txSecret=45f8768537395e040d322f2886b4390e&txTime=69710BF1"
+      }
+    },
+    {
+      "league": "KSA Division 1",
+      "status": "LIVE",
+      "time": 1768998900,
+      "home": "Al Zulfi",
+      "away": "Al-Jandal",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live2.sethf7.com/live/67952986_d4a8fb9331507315cf3890132af98b98.m3u8"
       }
     },
     {
