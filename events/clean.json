@@ -1,19 +1,8 @@
 {
-  "updated": 1769000885,
+  "updated": 1769003775,
   "events": [
     {
       "league": "EGY Premier League",
-      "status": "LIVE",
-      "time": 1769007600,
-      "home": "ZED FC",
-      "away": "Modern Sport FC",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1768997727.flv"
-      }
-    },
-    {
-      "league": "EGY Premier League",
       "status": "UPCOMING",
       "time": 1769007600,
       "home": "Ceramica Cleopatra FC",
@@ -54,17 +43,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "EGY Premier League",
-      "status": "LIVE",
-      "time": 1769007600,
-      "home": "ZED FC",
-      "away": "Modern Sport FC",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1768997727.flv"
       }
     },
     {
@@ -114,9 +92,31 @@
     {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
+      "time": 1769024700,
+      "home": "Southampton",
+      "away": "Sheffield United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
       "time": 1769025600,
       "home": "Stoke City",
       "away": "Middlesbrough",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769024700,
+      "home": "Southampton",
+      "away": "Sheffield United",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -146,13 +146,13 @@
     },
     {
       "league": "INT CF",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769092200,
       "home": "Zenit St. Petersburg",
       "away": "Shanghai Port FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1768993971.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -179,13 +179,13 @@
     },
     {
       "league": "INT CF",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769092200,
       "home": "Zenit St. Petersburg",
       "away": "Shanghai Port FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1768993971.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -223,13 +223,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769091000,
       "home": "Al Ula FC",
       "away": "Al Wehda Mecca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1768994345.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -256,24 +256,24 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769091000,
       "home": "Al Ula FC",
       "away": "Al Wehda Mecca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1768994345.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769009400,
       "home": "Al Okhdood",
       "away": "Al Riyadh",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1768997727.flv"
       }
     },
     {
@@ -311,13 +311,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769009400,
       "home": "Al Okhdood",
       "away": "Al Riyadh",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1768997727.flv"
       }
     },
     {
