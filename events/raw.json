@@ -115,9 +115,9 @@
           "environment": {
             "humidity": "64%",
             "pressure": "754mmHg",
-            "temperature": "23°C",
+            "temperature": "22°C",
             "weather": 5,
-            "wind": "4.3m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -353,9 +353,9 @@
           "environment": {
             "humidity": "64%",
             "pressure": "754mmHg",
-            "temperature": "23°C",
+            "temperature": "22°C",
             "weather": 5,
-            "wind": "4.3m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5457,11 +5457,11 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "35%",
+            "humidity": "36%",
             "pressure": "762mmHg",
             "temperature": "18°C",
             "weather": 7,
-            "wind": "4.3m/s"
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5939,11 +5939,11 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "35%",
+            "humidity": "36%",
             "pressure": "762mmHg",
             "temperature": "18°C",
             "weather": 7,
-            "wind": "4.3m/s"
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6195,7 +6195,7 @@
             "pressure": "762mmHg",
             "temperature": "24°C",
             "weather": 7,
-            "wind": "4.0m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6433,7 +6433,7 @@
             "pressure": "762mmHg",
             "temperature": "24°C",
             "weather": 7,
-            "wind": "4.0m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -7054,7 +7054,7 @@
           "environment": {
             "humidity": "92%",
             "pressure": "740mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 9,
             "wind": "8.4m/s"
           },
@@ -7687,7 +7687,7 @@
           "environment": {
             "humidity": "92%",
             "pressure": "740mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 9,
             "wind": "8.4m/s"
           },
@@ -8024,7 +8024,35 @@
           "status": 1,
           "time": 1768960800,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "375982",
+            "away_logo": "https://photo.365live88.com/img/fb/team/73079afbe740451fb03f559f8616141f",
+            "away_name": "山东泰山|山東泰山|Shandong Taishan FC",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "376062",
+            "home_logo": "https://photo.365live88.com/img/fb/team/5e16ef4fbf664ad9846adee99f9d4edd",
+            "home_name": "天津津门虎|天津津門虎|Tianjin Jinmen Tiger FC",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "716705",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/e592990ae55146cab63f1692042a6204",
+            "league_name": "球会友谊|球會友誼|INT CF",
+            "match_time": 1768960800,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "223031135",
+            "third_id": "4480223",
+            "wale_match_id": "1854718",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 542,
@@ -8256,7 +8284,35 @@
           "status": 1,
           "time": 1768960800,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "375982",
+            "away_logo": "https://photo.365live88.com/img/fb/team/73079afbe740451fb03f559f8616141f",
+            "away_name": "山东泰山|山東泰山|Shandong Taishan FC",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "376062",
+            "home_logo": "https://photo.365live88.com/img/fb/team/5e16ef4fbf664ad9846adee99f9d4edd",
+            "home_name": "天津津门虎|天津津門虎|Tianjin Jinmen Tiger FC",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "716705",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/e592990ae55146cab63f1692042a6204",
+            "league_name": "球会友谊|球會友誼|INT CF",
+            "match_time": 1768960800,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "223031135",
+            "third_id": "4480223",
+            "wale_match_id": "1854718",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 542,
@@ -8809,7 +8865,7 @@
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/aa2d8e24a68822387257f31d692c4297.png",
           "manager_id": 0,
           "market_value": 11480000,
-          "market_value_currency": "€",
+          "market_value_currency": "",
           "name_en": "Al Riyadh",
           "name_zh": "利雅得体育",
           "name_zht": "瑞亞達",
@@ -8818,8 +8874,8 @@
           "short_name_en": "Al Riyadh",
           "short_name_zh": "利雅得体育",
           "short_name_zht": "瑞亞達",
-          "total_players": 28,
-          "updated_at": 1768951250,
+          "total_players": 29,
+          "updated_at": 1768956608,
           "venue_id": 9740,
           "website": ""
         },
@@ -8889,7 +8945,7 @@
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/aa2d8e24a68822387257f31d692c4297.png",
             "manager_id": 0,
             "market_value": 11480000,
-            "market_value_currency": "€",
+            "market_value_currency": "",
             "name_en": "Al Riyadh",
             "name_zh": "利雅得体育",
             "name_zht": "瑞亞達",
@@ -8898,8 +8954,8 @@
             "short_name_en": "Al Riyadh",
             "short_name_zh": "利雅得体育",
             "short_name_zht": "瑞亞達",
-            "total_players": 28,
-            "updated_at": 1768951250,
+            "total_players": 29,
+            "updated_at": 1768956608,
             "venue_id": 9740,
             "website": ""
           },
@@ -9116,7 +9172,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "46%",
+            "humidity": "45%",
             "pressure": "770mmHg",
             "temperature": "11°C",
             "weather": 5,
@@ -9327,11 +9383,11 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "74%",
-            "pressure": "765mmHg",
+            "humidity": "75%",
+            "pressure": "764mmHg",
             "temperature": "14°C",
             "weather": 5,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9481,7 +9537,7 @@
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/aa2d8e24a68822387257f31d692c4297.png",
           "manager_id": 0,
           "market_value": 11480000,
-          "market_value_currency": "€",
+          "market_value_currency": "",
           "name_en": "Al Riyadh",
           "name_zh": "利雅得体育",
           "name_zht": "瑞亞達",
@@ -9490,8 +9546,8 @@
           "short_name_en": "Al Riyadh",
           "short_name_zh": "利雅得体育",
           "short_name_zht": "瑞亞達",
-          "total_players": 28,
-          "updated_at": 1768951250,
+          "total_players": 29,
+          "updated_at": 1768956608,
           "venue_id": 9740,
           "website": ""
         },
@@ -9561,7 +9617,7 @@
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/aa2d8e24a68822387257f31d692c4297.png",
             "manager_id": 0,
             "market_value": 11480000,
-            "market_value_currency": "€",
+            "market_value_currency": "",
             "name_en": "Al Riyadh",
             "name_zh": "利雅得体育",
             "name_zht": "瑞亞達",
@@ -9570,8 +9626,8 @@
             "short_name_en": "Al Riyadh",
             "short_name_zh": "利雅得体育",
             "short_name_zht": "瑞亞達",
-            "total_players": 28,
-            "updated_at": 1768951250,
+            "total_players": 29,
+            "updated_at": 1768956608,
             "venue_id": 9740,
             "website": ""
           },
@@ -9788,7 +9844,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "46%",
+            "humidity": "45%",
             "pressure": "770mmHg",
             "temperature": "11°C",
             "weather": 5,
@@ -9999,11 +10055,11 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "74%",
-            "pressure": "765mmHg",
+            "humidity": "75%",
+            "pressure": "764mmHg",
             "temperature": "14°C",
             "weather": 5,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10212,11 +10268,11 @@
           },
           "competition_id": 152,
           "environment": {
-            "humidity": "86%",
-            "pressure": "756mmHg",
+            "humidity": "87%",
+            "pressure": "755mmHg",
             "temperature": "12°C",
             "weather": 9,
-            "wind": "6.1m/s"
+            "wind": "5.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10439,11 +10495,11 @@
           },
           "competition_id": 152,
           "environment": {
-            "humidity": "86%",
-            "pressure": "756mmHg",
+            "humidity": "87%",
+            "pressure": "755mmHg",
             "temperature": "12°C",
             "weather": 9,
-            "wind": "6.1m/s"
+            "wind": "5.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11124,11 +11180,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "63%",
+            "humidity": "60%",
             "pressure": "764mmHg",
-            "temperature": "6°C",
+            "temperature": "7°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11335,11 +11391,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "88%",
+            "humidity": "87%",
             "pressure": "772mmHg",
             "temperature": "0°C",
             "weather": 5,
-            "wind": "1.8m/s"
+            "wind": "2.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11550,7 +11606,7 @@
             "pressure": "757mmHg",
             "temperature": "1°C",
             "weather": 5,
-            "wind": "1.2m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11757,11 +11813,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "85%",
+            "humidity": "82%",
             "pressure": "754mmHg",
             "temperature": "-3°C",
             "weather": 5,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11968,11 +12024,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "63%",
+            "humidity": "60%",
             "pressure": "764mmHg",
-            "temperature": "6°C",
+            "temperature": "7°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12179,11 +12235,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "88%",
+            "humidity": "87%",
             "pressure": "772mmHg",
             "temperature": "0°C",
             "weather": 5,
-            "wind": "1.8m/s"
+            "wind": "2.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12394,7 +12450,7 @@
             "pressure": "757mmHg",
             "temperature": "1°C",
             "weather": 5,
-            "wind": "1.2m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12601,11 +12657,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "85%",
+            "humidity": "82%",
             "pressure": "754mmHg",
             "temperature": "-3°C",
             "weather": 5,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
