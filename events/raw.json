@@ -113,11 +113,11 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "67%",
+            "humidity": "69%",
             "pressure": "758mmHg",
             "temperature": "18°C",
             "weather": 7,
-            "wind": "2.9m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -351,11 +351,11 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "67%",
+            "humidity": "69%",
             "pressure": "758mmHg",
             "temperature": "18°C",
             "weather": 7,
-            "wind": "2.9m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -589,11 +589,11 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "67%",
+            "humidity": "69%",
             "pressure": "758mmHg",
             "temperature": "18°C",
             "weather": 7,
-            "wind": "2.9m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -827,11 +827,11 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "67%",
+            "humidity": "69%",
             "pressure": "758mmHg",
             "temperature": "18°C",
             "weather": 7,
-            "wind": "2.9m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -1303,7 +1303,7 @@
             "pressure": "769mmHg",
             "temperature": "17°C",
             "weather": 5,
-            "wind": "5.1m/s"
+            "wind": "5.8m/s"
           },
           "explain": "3×30分钟赛事",
           "home_corner": 0,
@@ -1451,7 +1451,7 @@
           "short_name_zh": "皇家盐湖城",
           "short_name_zht": "皇家鹽湖城",
           "total_players": 29,
-          "updated_at": 1769060485,
+          "updated_at": 1769064321,
           "venue_id": 1738,
           "website": "http://www.realsaltlake.com/"
         },
@@ -1531,7 +1531,7 @@
             "short_name_zh": "皇家盐湖城",
             "short_name_zht": "皇家鹽湖城",
             "total_players": 29,
-            "updated_at": 1769060485,
+            "updated_at": 1769064321,
             "venue_id": 1738,
             "website": "http://www.realsaltlake.com/"
           },
@@ -2005,7 +2005,7 @@
             "pressure": "769mmHg",
             "temperature": "17°C",
             "weather": 5,
-            "wind": "5.1m/s"
+            "wind": "5.8m/s"
           },
           "explain": "3×30分钟赛事",
           "home_corner": 0,
@@ -2153,7 +2153,7 @@
           "short_name_zh": "皇家盐湖城",
           "short_name_zht": "皇家鹽湖城",
           "total_players": 29,
-          "updated_at": 1769060485,
+          "updated_at": 1769064321,
           "venue_id": 1738,
           "website": "http://www.realsaltlake.com/"
         },
@@ -2233,7 +2233,7 @@
             "short_name_zh": "皇家盐湖城",
             "short_name_zht": "皇家鹽湖城",
             "total_players": 29,
-            "updated_at": 1769060485,
+            "updated_at": 1769064321,
             "venue_id": 1738,
             "website": "http://www.realsaltlake.com/"
           },
@@ -2475,7 +2475,7 @@
           "environment": {
             "humidity": "18%",
             "pressure": "762mmHg",
-            "temperature": "24°C",
+            "temperature": "25°C",
             "weather": 7,
             "wind": "6.1m/s"
           },
@@ -2713,7 +2713,7 @@
           "environment": {
             "humidity": "18%",
             "pressure": "762mmHg",
-            "temperature": "24°C",
+            "temperature": "25°C",
             "weather": 7,
             "wind": "6.1m/s"
           },
@@ -4779,7 +4779,7 @@
           },
           "competition_id": 1815,
           "environment": {
-            "humidity": "52%",
+            "humidity": "53%",
             "pressure": "759mmHg",
             "temperature": "33°C",
             "weather": 5,
@@ -5255,7 +5255,7 @@
           },
           "competition_id": 1815,
           "environment": {
-            "humidity": "52%",
+            "humidity": "53%",
             "pressure": "759mmHg",
             "temperature": "33°C",
             "weather": 5,
@@ -5895,9 +5895,9 @@
           "environment": {
             "humidity": "83%",
             "pressure": "752mmHg",
-            "temperature": "2°C",
+            "temperature": "3°C",
             "weather": 7,
-            "wind": "1.2m/s"
+            "wind": "0.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6092,11 +6092,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "77%",
+            "humidity": "75%",
             "pressure": "755mmHg",
             "temperature": "9°C",
             "weather": 9,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6490,10 +6490,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "91%",
+            "humidity": "92%",
             "pressure": "751mmHg",
             "temperature": "1°C",
-            "weather": 1,
+            "weather": 7,
             "wind": "0.9m/s"
           },
           "explain": "",
@@ -6689,7 +6689,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "78%",
+            "humidity": "79%",
             "pressure": "747mmHg",
             "temperature": "5°C",
             "weather": 7,
@@ -6890,7 +6890,7 @@
           "environment": {
             "humidity": "60%",
             "pressure": "759mmHg",
-            "temperature": "-3°C",
+            "temperature": "-2°C",
             "weather": 5,
             "wind": "2.3m/s"
           },
@@ -7040,7 +7040,7 @@
           "short_name_zh": "波尔图",
           "short_name_zht": "波圖",
           "total_players": 32,
-          "updated_at": 1769060599,
+          "updated_at": 1769064435,
           "venue_id": 1271,
           "website": "http://www.fcporto.pt"
         },
@@ -7081,13 +7081,13 @@
             "short_name_zh": "波尔图",
             "short_name_zht": "波圖",
             "total_players": 32,
-            "updated_at": 1769060599,
+            "updated_at": 1769064435,
             "venue_id": 1271,
             "website": "http://www.fcporto.pt"
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "83%",
+            "humidity": "85%",
             "pressure": "753mmHg",
             "temperature": "-6°C",
             "weather": 5,
@@ -7288,7 +7288,7 @@
           "environment": {
             "humidity": "96%",
             "pressure": "754mmHg",
-            "temperature": "5°C",
+            "temperature": "6°C",
             "weather": 7,
             "wind": "2.0m/s"
           },
@@ -7684,9 +7684,9 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "79%",
+            "humidity": "78%",
             "pressure": "752mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 7,
             "wind": "3.4m/s"
           },
@@ -7883,11 +7883,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "82%",
+            "humidity": "84%",
             "pressure": "752mmHg",
             "temperature": "-6°C",
             "weather": 5,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8086,7 +8086,7 @@
             "pressure": "754mmHg",
             "temperature": "-1°C",
             "weather": 7,
-            "wind": "0.9m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8480,7 +8480,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "76%",
+            "humidity": "78%",
             "pressure": "747mmHg",
             "temperature": "3°C",
             "weather": 7,
@@ -8679,11 +8679,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "83%",
+            "humidity": "82%",
             "pressure": "752mmHg",
             "temperature": "7°C",
-            "weather": 5,
-            "wind": "0.9m/s"
+            "weather": 1,
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8878,11 +8878,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "86%",
+            "humidity": "84%",
             "pressure": "748mmHg",
             "temperature": "12°C",
             "weather": 9,
-            "wind": "7.6m/s"
+            "wind": "8.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8918,7 +8918,7 @@
             "short_name_zh": "塞尔塔",
             "short_name_zht": "切爾達",
             "total_players": 29,
-            "updated_at": 1769060714,
+            "updated_at": 1769064503,
             "venue_id": 1117,
             "website": "http://www.celtavigo.net"
           },
@@ -8997,7 +8997,7 @@
           "short_name_zh": "塞尔塔",
           "short_name_zht": "切爾達",
           "total_players": 29,
-          "updated_at": 1769060714,
+          "updated_at": 1769064503,
           "venue_id": 1117,
           "website": "http://www.celtavigo.net"
         },
@@ -9077,11 +9077,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "90%",
+            "humidity": "88%",
             "pressure": "755mmHg",
-            "temperature": "-1°C",
+            "temperature": "-2°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9477,9 +9477,9 @@
           "environment": {
             "humidity": "83%",
             "pressure": "752mmHg",
-            "temperature": "2°C",
+            "temperature": "3°C",
             "weather": 7,
-            "wind": "1.2m/s"
+            "wind": "0.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9674,11 +9674,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "77%",
+            "humidity": "75%",
             "pressure": "755mmHg",
             "temperature": "9°C",
             "weather": 9,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10072,10 +10072,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "91%",
+            "humidity": "92%",
             "pressure": "751mmHg",
             "temperature": "1°C",
-            "weather": 1,
+            "weather": 7,
             "wind": "0.9m/s"
           },
           "explain": "",
@@ -10271,7 +10271,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "78%",
+            "humidity": "79%",
             "pressure": "747mmHg",
             "temperature": "5°C",
             "weather": 7,
@@ -10472,7 +10472,7 @@
           "environment": {
             "humidity": "60%",
             "pressure": "759mmHg",
-            "temperature": "-3°C",
+            "temperature": "-2°C",
             "weather": 5,
             "wind": "2.3m/s"
           },
@@ -10622,7 +10622,7 @@
           "short_name_zh": "波尔图",
           "short_name_zht": "波圖",
           "total_players": 32,
-          "updated_at": 1769060599,
+          "updated_at": 1769064435,
           "venue_id": 1271,
           "website": "http://www.fcporto.pt"
         },
@@ -10663,13 +10663,13 @@
             "short_name_zh": "波尔图",
             "short_name_zht": "波圖",
             "total_players": 32,
-            "updated_at": 1769060599,
+            "updated_at": 1769064435,
             "venue_id": 1271,
             "website": "http://www.fcporto.pt"
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "83%",
+            "humidity": "85%",
             "pressure": "753mmHg",
             "temperature": "-6°C",
             "weather": 5,
@@ -10870,7 +10870,7 @@
           "environment": {
             "humidity": "96%",
             "pressure": "754mmHg",
-            "temperature": "5°C",
+            "temperature": "6°C",
             "weather": 7,
             "wind": "2.0m/s"
           },
@@ -11266,9 +11266,9 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "79%",
+            "humidity": "78%",
             "pressure": "752mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 7,
             "wind": "3.4m/s"
           },
@@ -11465,11 +11465,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "82%",
+            "humidity": "84%",
             "pressure": "752mmHg",
             "temperature": "-6°C",
             "weather": 5,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11668,7 +11668,7 @@
             "pressure": "754mmHg",
             "temperature": "-1°C",
             "weather": 7,
-            "wind": "0.9m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12062,7 +12062,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "76%",
+            "humidity": "78%",
             "pressure": "747mmHg",
             "temperature": "3°C",
             "weather": 7,
@@ -12261,11 +12261,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "83%",
+            "humidity": "82%",
             "pressure": "752mmHg",
             "temperature": "7°C",
-            "weather": 5,
-            "wind": "0.9m/s"
+            "weather": 1,
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12460,11 +12460,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "86%",
+            "humidity": "84%",
             "pressure": "748mmHg",
             "temperature": "12°C",
             "weather": 9,
-            "wind": "7.6m/s"
+            "wind": "8.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12500,7 +12500,7 @@
             "short_name_zh": "塞尔塔",
             "short_name_zht": "切爾達",
             "total_players": 29,
-            "updated_at": 1769060714,
+            "updated_at": 1769064503,
             "venue_id": 1117,
             "website": "http://www.celtavigo.net"
           },
@@ -12579,7 +12579,7 @@
           "short_name_zh": "塞尔塔",
           "short_name_zht": "切爾達",
           "total_players": 29,
-          "updated_at": 1769060714,
+          "updated_at": 1769064503,
           "venue_id": 1117,
           "website": "http://www.celtavigo.net"
         },
@@ -12659,11 +12659,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "90%",
+            "humidity": "88%",
             "pressure": "755mmHg",
-            "temperature": "-1°C",
+            "temperature": "-2°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
