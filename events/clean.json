@@ -1,5 +1,5 @@
 {
-  "updated": 1769093358,
+  "updated": 1769095213,
   "events": [
     {
       "league": "AUS A-League",
@@ -52,19 +52,19 @@
       "home": "Wadi Degla SC",
       "away": "Ghazl El Mahallah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769093096.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/62493220_2ae7c261a8fa5abf49c2b8b0005b499b.m3u8"
       }
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769094000,
       "home": "Haras El Hodood",
       "away": "Kahraba Ismailia",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399245.m3u8?txSecret=9da514d2f081782035decfacfa017815&txTime=69727ABB"
       }
     },
     {
@@ -74,19 +74,19 @@
       "home": "Wadi Degla SC",
       "away": "Ghazl El Mahallah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769093096.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/62493220_2ae7c261a8fa5abf49c2b8b0005b499b.m3u8"
       }
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769094000,
       "home": "Haras El Hodood",
       "away": "Kahraba Ismailia",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399245.m3u8?txSecret=9da514d2f081782035decfacfa017815&txTime=69727ABB"
       }
     },
     {
@@ -108,7 +108,7 @@
       "away": "Madura United",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769085897.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769094024.flv"
       }
     },
     {
@@ -130,7 +130,7 @@
       "away": "Madura United",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769085897.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769094024.flv"
       }
     },
     {
@@ -175,28 +175,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Campionato Primavera 1",
-      "status": "LIVE",
-      "time": 1769086800,
-      "home": "Torino U20",
-      "away": "AS Roma U20",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61537268_539b118b16013f83ee16dd6da84ce837.m3u8"
-      }
-    },
-    {
-      "league": "ITA Campionato Primavera 1",
-      "status": "LIVE",
-      "time": 1769086800,
-      "home": "Torino U20",
-      "away": "AS Roma U20",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61537268_539b118b16013f83ee16dd6da84ce837.m3u8"
       }
     },
     {
@@ -250,8 +228,8 @@
       "home": "Al Taawoun",
       "away": "Al Hazem",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769085897.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404490.m3u8?txSecret=10c287c2b098ef578eff44e0909d7193&txTime=69727ABB"
       }
     },
     {
@@ -283,8 +261,8 @@
       "home": "Al Taawoun",
       "away": "Al Hazem",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769085897.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404490.m3u8?txSecret=10c287c2b098ef578eff44e0909d7193&txTime=69727ABB"
       }
     },
     {
@@ -323,9 +301,31 @@
     {
       "league": "MAS Cup",
       "status": "UPCOMING",
+      "time": 1769173200,
+      "home": "Terengganu FC",
+      "away": "UM-Damansara United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MAS Cup",
+      "status": "UPCOMING",
       "time": 1769170500,
       "home": "Selangor FC",
       "away": "Kelantan The Real Warriors",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MAS Cup",
+      "status": "UPCOMING",
+      "time": 1769173200,
+      "home": "Terengganu FC",
+      "away": "UM-Damansara United",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -399,13 +399,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769103900,
       "home": "FC Viktoria Plzen",
       "away": "FC Porto",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2397596_1769093448.flv"
       }
     },
     {
@@ -564,13 +564,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769103900,
       "home": "FC Viktoria Plzen",
       "away": "FC Porto",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2397596_1769093448.flv"
       }
     },
     {
