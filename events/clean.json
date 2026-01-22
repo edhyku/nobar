@@ -1,5 +1,5 @@
 {
-  "updated": 1769118814,
+  "updated": 1769120684,
   "events": [
     {
       "league": "AUS A-League",
@@ -15,6 +15,17 @@
     {
       "league": "AUS A-League",
       "status": "UPCOMING",
+      "time": 1769227200,
+      "home": "Auckland FC",
+      "away": "Central Coast Mariners",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "AUS A-League",
+      "status": "UPCOMING",
       "time": 1769157300,
       "home": "Newcastle Jets",
       "away": "Wellington Phoenix",
@@ -24,6 +35,17 @@
       }
     },
     {
+      "league": "AUS A-League",
+      "status": "UPCOMING",
+      "time": 1769227200,
+      "home": "Auckland FC",
+      "away": "Central Coast Mariners",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "AUS W-League",
       "status": "UPCOMING",
       "time": 1769155200,
@@ -62,6 +84,28 @@
       "time": 1769197500,
       "home": "Standard Liege",
       "away": "KAA Gent",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769198400,
+      "home": "Derby County",
+      "away": "West Bromwich Albion",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769198400,
+      "home": "Derby County",
+      "away": "West Bromwich Albion",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -398,6 +442,28 @@
       }
     },
     {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769199300,
+      "home": "Casa Pia AC",
+      "away": "AVS Futebol SAD",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769199300,
+      "home": "Casa Pia AC",
+      "away": "AVS Futebol SAD",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "Liga Portugal 2",
       "status": "UPCOMING",
       "time": 1769191200,
@@ -486,6 +552,28 @@
       }
     },
     {
+      "league": "SPA La Liga",
+      "status": "UPCOMING",
+      "time": 1769198400,
+      "home": "Levante",
+      "away": "Elche",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA La Liga",
+      "status": "UPCOMING",
+      "time": 1769198400,
+      "home": "Levante",
+      "away": "Elche",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "SPA Segunda Division",
       "status": "UPCOMING",
       "time": 1769196600,
@@ -555,44 +643,11 @@
       "league": "UEFA Europa League",
       "status": "LIVE",
       "time": 1769112000,
-      "home": "Sporting Braga",
-      "away": "Nottingham Forest",
+      "home": "FC Utrecht",
+      "away": "Racing Genk",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415679.m3u8?txSecret=66c496ab6e4b84409b4393a59f662ad5&txTime=6972CA6C"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "LIVE",
-      "time": 1769112000,
-      "home": "OGC Nice",
-      "away": "Go Ahead Eagles",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415713.m3u8?txSecret=d616bc7497d04ec5b9449e1999965b9d&txTime=6972CA6C"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "LIVE",
-      "time": 1769112000,
-      "home": "Dinamo Zagreb",
-      "away": "Fotbal Club FCSB",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415755.m3u8?txSecret=9ca8e321d99130e13751b3fcfb306d55&txTime=6972CA6C"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "LIVE",
-      "time": 1769112000,
-      "home": "RC Celta",
-      "away": "LOSC Lille",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415800.m3u8?txSecret=5239e9160043e8136fada2dd70977555&txTime=6972CA6C"
+        "url": "https://live.trendgallary.com/live/edq09il8o8lbeqx_a3740dedb1968fc7a0dc0ecd72ebc153.m3u8"
       }
     },
     {
@@ -603,62 +658,7 @@
       "away": "Racing Genk",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415797.m3u8?txSecret=113ba88cf12ee506e6d704f18af29a04&txTime=6972CA6C"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "LIVE",
-      "time": 1769112000,
-      "home": "Sporting Braga",
-      "away": "Nottingham Forest",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415679.m3u8?txSecret=66c496ab6e4b84409b4393a59f662ad5&txTime=6972CA6C"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "LIVE",
-      "time": 1769112000,
-      "home": "OGC Nice",
-      "away": "Go Ahead Eagles",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415713.m3u8?txSecret=d616bc7497d04ec5b9449e1999965b9d&txTime=6972CA6C"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "LIVE",
-      "time": 1769112000,
-      "home": "Dinamo Zagreb",
-      "away": "Fotbal Club FCSB",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415755.m3u8?txSecret=9ca8e321d99130e13751b3fcfb306d55&txTime=6972CA6C"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "LIVE",
-      "time": 1769112000,
-      "home": "RC Celta",
-      "away": "LOSC Lille",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415800.m3u8?txSecret=5239e9160043e8136fada2dd70977555&txTime=6972CA6C"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "LIVE",
-      "time": 1769112000,
-      "home": "FC Utrecht",
-      "away": "Racing Genk",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415797.m3u8?txSecret=113ba88cf12ee506e6d704f18af29a04&txTime=6972CA6C"
+        "url": "https://live.trendgallary.com/live/edq09il8o8lbeqx_a3740dedb1968fc7a0dc0ecd72ebc153.m3u8"
       }
     }
   ]
