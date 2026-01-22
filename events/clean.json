@@ -1,5 +1,5 @@
 {
-  "updated": 1769099806,
+  "updated": 1769101525,
   "events": [
     {
       "league": "AUS A-League",
@@ -52,19 +52,8 @@
       "home": "Wadi Degla SC",
       "away": "Ghazl El Mahallah",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/62493220_2ae7c261a8fa5abf49c2b8b0005b499b.m3u8"
-      }
-    },
-    {
-      "league": "EGY Premier League",
-      "status": "LIVE",
-      "time": 1769094000,
-      "home": "Haras El Hodood",
-      "away": "Kahraba Ismailia",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4399245.m3u8?txSecret=3a72c736ad5a62899d6680672ec22d10&txTime=697296DB"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769093096.flv"
       }
     },
     {
@@ -74,19 +63,8 @@
       "home": "Wadi Degla SC",
       "away": "Ghazl El Mahallah",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/62493220_2ae7c261a8fa5abf49c2b8b0005b499b.m3u8"
-      }
-    },
-    {
-      "league": "EGY Premier League",
-      "status": "LIVE",
-      "time": 1769094000,
-      "home": "Haras El Hodood",
-      "away": "Kahraba Ismailia",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4399245.m3u8?txSecret=3a72c736ad5a62899d6680672ec22d10&txTime=697296DB"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769093096.flv"
       }
     },
     {
@@ -329,6 +307,28 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769094024.flv"
+      }
+    },
+    {
+      "league": "U23 Asian Cup",
+      "status": "LIVE",
+      "time": 1769180400,
+      "home": "Vietnam U23",
+      "away": "South Korea U23",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769094181.flv"
+      }
+    },
+    {
+      "league": "U23 Asian Cup",
+      "status": "LIVE",
+      "time": 1769180400,
+      "home": "Vietnam U23",
+      "away": "South Korea U23",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769094181.flv"
       }
     },
     {
@@ -405,7 +405,7 @@
       "away": "FC Porto",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2397596_1769093448.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769094181.flv"
       }
     },
     {
@@ -570,7 +570,7 @@
       "away": "FC Porto",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2397596_1769093448.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769094181.flv"
       }
     },
     {
