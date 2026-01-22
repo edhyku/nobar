@@ -1,5 +1,5 @@
 {
-  "updated": 1769079484,
+  "updated": 1769081495,
   "events": [
     {
       "league": "AUS A-League",
@@ -91,13 +91,13 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769157000,
       "home": "Persis Solo FC",
       "away": "Borneo FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1769080784.flv"
       }
     },
     {
@@ -113,13 +113,13 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769157000,
       "home": "Persis Solo FC",
       "away": "Borneo FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1769080784.flv"
       }
     },
     {
@@ -135,46 +135,46 @@
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769092200,
       "home": "Zenit St. Petersburg",
       "away": "Shanghai Port FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769079861.flv"
       }
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769097600,
       "home": "Randers FC",
       "away": "Real Salt Lake",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769079601.flv"
       }
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769092200,
       "home": "Zenit St. Petersburg",
       "away": "Shanghai Port FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769079861.flv"
       }
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769097600,
       "home": "Randers FC",
       "away": "Real Salt Lake",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769079601.flv"
       }
     },
     {
@@ -289,13 +289,13 @@
     },
     {
       "league": "MAS Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769081400,
       "home": "Sabah FC",
       "away": "Melaka FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4475121.m3u8?txSecret=85cda40c648b02567d94303378699447&txTime=69723A48"
       }
     },
     {
@@ -311,13 +311,13 @@
     },
     {
       "league": "MAS Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769081400,
       "home": "Sabah FC",
       "away": "Melaka FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4475121.m3u8?txSecret=85cda40c648b02567d94303378699447&txTime=69723A48"
       }
     },
     {
@@ -333,13 +333,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769103900,
       "home": "SC Freiburg",
       "away": "Maccabi Tel Aviv",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769080585.flv"
       }
     },
     {
@@ -388,13 +388,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769103900,
       "home": "Brann",
       "away": "Midtjylland",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769079601.flv"
       }
     },
     {
@@ -498,13 +498,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769103900,
       "home": "SC Freiburg",
       "away": "Maccabi Tel Aviv",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769080585.flv"
       }
     },
     {
@@ -553,13 +553,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769103900,
       "home": "Brann",
       "away": "Midtjylland",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769079601.flv"
       }
     },
     {
