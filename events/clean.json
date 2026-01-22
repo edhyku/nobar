@@ -1,5 +1,5 @@
 {
-  "updated": 1769120684,
+  "updated": 1769122189,
   "events": [
     {
       "league": "AUS A-League",
@@ -26,6 +26,17 @@
     {
       "league": "AUS A-League",
       "status": "UPCOMING",
+      "time": 1769234400,
+      "home": "Brisbane Roar",
+      "away": "Adelaide United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "AUS A-League",
+      "status": "UPCOMING",
       "time": 1769157300,
       "home": "Newcastle Jets",
       "away": "Wellington Phoenix",
@@ -46,6 +57,17 @@
       }
     },
     {
+      "league": "AUS A-League",
+      "status": "UPCOMING",
+      "time": 1769234400,
+      "home": "Brisbane Roar",
+      "away": "Adelaide United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "AUS W-League",
       "status": "UPCOMING",
       "time": 1769155200,
@@ -637,28 +659,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "LIVE",
-      "time": 1769112000,
-      "home": "FC Utrecht",
-      "away": "Racing Genk",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/edq09il8o8lbeqx_a3740dedb1968fc7a0dc0ecd72ebc153.m3u8"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "LIVE",
-      "time": 1769112000,
-      "home": "FC Utrecht",
-      "away": "Racing Genk",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/edq09il8o8lbeqx_a3740dedb1968fc7a0dc0ecd72ebc153.m3u8"
       }
     }
   ]
