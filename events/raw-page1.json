@@ -789,7 +789,7 @@
      },
      "competition_id": 602,
      "environment": {
-      "humidity": "71%",
+      "humidity": "70%",
       "pressure": "761mmHg",
       "temperature": "26°C",
       "weather": 7,
@@ -994,7 +994,7 @@
       "pressure": "747mmHg",
       "temperature": "6°C",
       "weather": 7,
-      "wind": "3.7m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1792,7 +1792,7 @@
      },
      "competition_id": 143,
      "environment": {
-      "humidity": "97%",
+      "humidity": "98%",
       "pressure": "750mmHg",
       "temperature": "3°C",
       "weather": 9,
@@ -1991,11 +1991,11 @@
      },
      "competition_id": 143,
      "environment": {
-      "humidity": "89%",
+      "humidity": "91%",
       "pressure": "750mmHg",
-      "temperature": "9°C",
+      "temperature": "10°C",
       "weather": 7,
-      "wind": "1.8m/s"
+      "wind": "1.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2194,7 +2194,7 @@
       "pressure": "748mmHg",
       "temperature": "5°C",
       "weather": 10,
-      "wind": "2.0m/s"
+      "wind": "1.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2791,7 +2791,7 @@
      },
      "competition_id": 130,
      "environment": {
-      "humidity": "65%",
+      "humidity": "66%",
       "pressure": "750mmHg",
       "temperature": "0°C",
       "weather": 1,
@@ -3234,7 +3234,7 @@
       "pressure": "757mmHg",
       "temperature": "28°C",
       "weather": 7,
-      "wind": "4.5m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4177,7 +4177,7 @@
       "humidity": "91%",
       "pressure": "766mmHg",
       "temperature": "16°C",
-      "weather": 5,
+      "weather": 1,
       "wind": "2.3m/s"
      },
      "explain": "",
@@ -4267,7 +4267,35 @@
      "status": 1,
      "time": 1769130000,
      "video_type": "live",
-     "walematch": null
+     "walematch": {
+      "away_half_score": 0,
+      "away_id": "377605",
+      "away_logo": "https://photo.365live88.com/img/fb/team/9a1c35395d6b4e89a9b1e8df6d1e1112",
+      "away_name": "墨西哥|墨西哥|Mexico",
+      "away_overtime_score": 0,
+      "away_penalty_score": 0,
+      "away_score": 0,
+      "game_type": 6,
+      "has_live": 0,
+      "home_half_score": 0,
+      "home_id": "377903",
+      "home_logo": "https://photo.365live88.com/img/fb/team/a5ecaf69df3a4b62b7d05c980e76cfc7",
+      "home_name": "巴拿马|巴拿馬|Panama",
+      "home_overtime_score": 0,
+      "home_penalty_score": 0,
+      "home_score": 0,
+      "league_id": "1027",
+      "league_logo": "https://photo.365live88.com/img/fb/cup/b13fe9bff7204f56a164816649d97931",
+      "league_name": "国际友谊|國際友誼|INT FRL",
+      "match_time": 1769130000,
+      "status": "未",
+      "status_id": 0,
+      "stream_id": "223195611",
+      "third_id": "4478720",
+      "wale_match_id": "1853014",
+      "walematchstreams": [],
+      "walematchvideos": []
+     }
     },
     "home": {
      "competition_id": 0,
@@ -5253,7 +5281,7 @@
       "pressure": "762mmHg",
       "temperature": "26°C",
       "weather": 7,
-      "wind": "3.4m/s"
+      "wind": "3.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5907,7 +5935,7 @@
       "pressure": "754mmHg",
       "temperature": "11°C",
       "weather": 10,
-      "wind": "2.6m/s"
+      "wind": "3.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6420,7 +6448,7 @@
      },
      "competition_id": 534,
      "environment": {
-      "humidity": "52%",
+      "humidity": "51%",
       "pressure": "760mmHg",
       "temperature": "29°C",
       "weather": 1,
