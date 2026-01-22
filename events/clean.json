@@ -1,5 +1,5 @@
 {
-  "updated": 1769066496,
+  "updated": 1769068054,
   "events": [
     {
       "league": "EGY Premier League",
@@ -313,17 +313,6 @@
       "league": "UEFA Europa League",
       "status": "UPCOMING",
       "time": 1769103900,
-      "home": "Young Boys",
-      "away": "Lyon",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "UPCOMING",
-      "time": 1769103900,
       "home": "Feyenoord",
       "away": "Sturm Graz",
       "stream": {
@@ -367,9 +356,42 @@
     {
       "league": "UEFA Europa League",
       "status": "UPCOMING",
+      "time": 1769103900,
+      "home": "Young Boys",
+      "away": "Lyon",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
       "time": 1769112000,
       "home": "Sporting Braga",
       "away": "Nottingham Forest",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769112000,
+      "home": "FC Utrecht",
+      "away": "Racing Genk",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769112000,
+      "home": "RC Celta",
+      "away": "LOSC Lille",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -423,30 +445,8 @@
       "league": "UEFA Europa League",
       "status": "UPCOMING",
       "time": 1769112000,
-      "home": "FC Utrecht",
-      "away": "Racing Genk",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "UPCOMING",
-      "time": 1769112000,
       "home": "AS Roma",
       "away": "VfB Stuttgart",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "UPCOMING",
-      "time": 1769112000,
-      "home": "RC Celta",
-      "away": "LOSC Lille",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -511,17 +511,6 @@
       "league": "UEFA Europa League",
       "status": "UPCOMING",
       "time": 1769103900,
-      "home": "Young Boys",
-      "away": "Lyon",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "UPCOMING",
-      "time": 1769103900,
       "home": "Feyenoord",
       "away": "Sturm Graz",
       "stream": {
@@ -565,9 +554,42 @@
     {
       "league": "UEFA Europa League",
       "status": "UPCOMING",
+      "time": 1769103900,
+      "home": "Young Boys",
+      "away": "Lyon",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
       "time": 1769112000,
       "home": "Sporting Braga",
       "away": "Nottingham Forest",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769112000,
+      "home": "FC Utrecht",
+      "away": "Racing Genk",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769112000,
+      "home": "RC Celta",
+      "away": "LOSC Lille",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -621,30 +643,8 @@
       "league": "UEFA Europa League",
       "status": "UPCOMING",
       "time": 1769112000,
-      "home": "FC Utrecht",
-      "away": "Racing Genk",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "UPCOMING",
-      "time": 1769112000,
       "home": "AS Roma",
       "away": "VfB Stuttgart",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA Europa League",
-      "status": "UPCOMING",
-      "time": 1769112000,
-      "home": "RC Celta",
-      "away": "LOSC Lille",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
