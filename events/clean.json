@@ -1,5 +1,5 @@
 {
-  "updated": 1769103905,
+  "updated": 1769104877,
   "events": [
     {
       "league": "AUS A-League",
@@ -91,17 +91,6 @@
     },
     {
       "league": "INT CF",
-      "status": "LIVE",
-      "time": 1769097600,
-      "home": "Randers FC",
-      "away": "Real Salt Lake",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4480672.m3u8?txSecret=0ebf823d3d3cf339ddbb8375b792ac0c&txTime=697296DB"
-      }
-    },
-    {
-      "league": "INT CF",
       "status": "UPCOMING",
       "time": 1769178600,
       "home": "Dynamo Moscow",
@@ -120,17 +109,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "INT CF",
-      "status": "LIVE",
-      "time": 1769097600,
-      "home": "Randers FC",
-      "away": "Real Salt Lake",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4480672.m3u8?txSecret=0ebf823d3d3cf339ddbb8375b792ac0c&txTime=697296DB"
       }
     },
     {
@@ -184,8 +162,8 @@
       "home": "Al Qadsiah",
       "away": "Al Ittihad Club",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769101872.flv"
+        "type": "m3u8",
+        "url": "https://play.clomidx.com/live/111181487019_3121982164_adaptive.m3u8"
       }
     },
     {
@@ -206,8 +184,8 @@
       "home": "Al Qadsiah",
       "away": "Al Ittihad Club",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769101872.flv"
+        "type": "m3u8",
+        "url": "https://play.clomidx.com/live/111181487019_3121982164_adaptive.m3u8"
       }
     },
     {
@@ -487,6 +465,17 @@
     },
     {
       "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769112000,
+      "home": "Dinamo Zagreb",
+      "away": "Fotbal Club FCSB",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
       "status": "LIVE",
       "time": 1769103900,
       "home": "SC Freiburg",
@@ -656,6 +645,17 @@
       "time": 1769112000,
       "home": "Ferencvarosi TC",
       "away": "Panathinaikos",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769112000,
+      "home": "Dinamo Zagreb",
+      "away": "Fotbal Club FCSB",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
