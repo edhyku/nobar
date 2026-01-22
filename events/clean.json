@@ -1,5 +1,5 @@
 {
-  "updated": 1769077933,
+  "updated": 1769079484,
   "events": [
     {
       "league": "AUS A-League",
@@ -301,6 +301,17 @@
     {
       "league": "MAS Cup",
       "status": "UPCOMING",
+      "time": 1769170500,
+      "home": "Selangor FC",
+      "away": "Kelantan The Real Warriors",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MAS Cup",
+      "status": "UPCOMING",
       "time": 1769081400,
       "home": "Sabah FC",
       "away": "Melaka FC",
@@ -310,25 +321,14 @@
       }
     },
     {
-      "league": "MYA Professional League",
-      "status": "LIVE",
-      "time": 1769072400,
-      "home": "Rakhine United FC",
-      "away": "Thitsar Arman FC",
+      "league": "MAS Cup",
+      "status": "UPCOMING",
+      "time": 1769170500,
+      "home": "Selangor FC",
+      "away": "Kelantan The Real Warriors",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/m2q15izrd44te76_cc310bc3008fe9e6b1fab3916e027222.m3u8"
-      }
-    },
-    {
-      "league": "MYA Professional League",
-      "status": "LIVE",
-      "time": 1769072400,
-      "home": "Rakhine United FC",
-      "away": "Thitsar Arman FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/m2q15izrd44te76_cc310bc3008fe9e6b1fab3916e027222.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
