@@ -1,5 +1,5 @@
 {
-  "updated": 1769095213,
+  "updated": 1769099806,
   "events": [
     {
       "league": "AUS A-League",
@@ -64,7 +64,7 @@
       "away": "Kahraba Ismailia",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4399245.m3u8?txSecret=9da514d2f081782035decfacfa017815&txTime=69727ABB"
+        "url": "https://live.vivo200.com/live/sd-1-4399245.m3u8?txSecret=3a72c736ad5a62899d6680672ec22d10&txTime=697296DB"
       }
     },
     {
@@ -86,7 +86,7 @@
       "away": "Kahraba Ismailia",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4399245.m3u8?txSecret=9da514d2f081782035decfacfa017815&txTime=69727ABB"
+        "url": "https://live.vivo200.com/live/sd-1-4399245.m3u8?txSecret=3a72c736ad5a62899d6680672ec22d10&txTime=697296DB"
       }
     },
     {
@@ -135,10 +135,21 @@
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769097600,
       "home": "Randers FC",
       "away": "Real Salt Lake",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4480672.m3u8?txSecret=0ebf823d3d3cf339ddbb8375b792ac0c&txTime=697296DB"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769178600,
+      "home": "Dynamo Moscow",
+      "away": "Shanghai Shenhua FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -146,11 +157,22 @@
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769097600,
       "home": "Randers FC",
       "away": "Real Salt Lake",
       "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4480672.m3u8?txSecret=0ebf823d3d3cf339ddbb8375b792ac0c&txTime=697296DB"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769178600,
+      "home": "Dynamo Moscow",
+      "away": "Shanghai Shenhua FC",
+      "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
@@ -175,50 +197,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Iraq Stars League",
-      "status": "LIVE",
-      "time": 1769092200,
-      "home": "Al Karma",
-      "away": "Amanat Baghdad",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/67800696_c928cfd8483dc1513c65460694bf17e1.m3u8"
-      }
-    },
-    {
-      "league": "Iraq Stars League",
-      "status": "LIVE",
-      "time": 1769092200,
-      "home": "Al Karma",
-      "away": "Amanat Baghdad",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/67800696_c928cfd8483dc1513c65460694bf17e1.m3u8"
-      }
-    },
-    {
-      "league": "KSA Division 1",
-      "status": "LIVE",
-      "time": 1769091000,
-      "home": "Al Ula FC",
-      "away": "Al Wehda Mecca",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/ezk96i3p410s1kn_633536a924e60458e6c82364f739e1b6.m3u8"
-      }
-    },
-    {
-      "league": "KSA Division 1",
-      "status": "LIVE",
-      "time": 1769091000,
-      "home": "Al Ula FC",
-      "away": "Al Wehda Mecca",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/ezk96i3p410s1kn_633536a924e60458e6c82364f739e1b6.m3u8"
       }
     },
     {
@@ -329,6 +307,28 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ROM Super Liga",
+      "status": "LIVE",
+      "time": 1769180400,
+      "home": "Metaloglobus",
+      "away": "Arges",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769094024.flv"
+      }
+    },
+    {
+      "league": "ROM Super Liga",
+      "status": "LIVE",
+      "time": 1769180400,
+      "home": "Metaloglobus",
+      "away": "Arges",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769094024.flv"
       }
     },
     {
@@ -388,13 +388,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769103900,
       "home": "Brann",
       "away": "Midtjylland",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769095734.flv"
       }
     },
     {
@@ -553,13 +553,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769103900,
       "home": "Brann",
       "away": "Midtjylland",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769095734.flv"
       }
     },
     {
