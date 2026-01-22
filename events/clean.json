@@ -1,26 +1,26 @@
 {
-  "updated": 1769082662,
+  "updated": 1769085458,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769157300,
       "home": "Newcastle Jets",
       "away": "Wellington Phoenix",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769073586.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769157300,
       "home": "Newcastle Jets",
       "away": "Wellington Phoenix",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769073586.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -135,6 +135,17 @@
     },
     {
       "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769086800,
+      "home": "OFK Petrovac",
+      "away": "Rodange 91",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "INT CF",
       "status": "LIVE",
       "time": 1769092200,
       "home": "Zenit St. Petersburg",
@@ -153,6 +164,17 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769079601.flv"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769086800,
+      "home": "OFK Petrovac",
+      "away": "Rodange 91",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -179,46 +201,46 @@
     },
     {
       "league": "INT FRL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769130000,
       "home": "Panama",
       "away": "Mexico",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769073586.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "INT FRL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769130000,
       "home": "Panama",
       "away": "Mexico",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769073586.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769091000,
       "home": "Al Ula FC",
       "away": "Al Wehda Mecca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769077160.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769091000,
       "home": "Al Ula FC",
       "away": "Al Wehda Mecca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769077160.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -300,17 +322,6 @@
     },
     {
       "league": "MAS Cup",
-      "status": "UPCOMING",
-      "time": 1769170500,
-      "home": "Selangor FC",
-      "away": "Kelantan The Real Warriors",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "MAS Cup",
       "status": "LIVE",
       "time": 1769081400,
       "home": "Sabah FC",
@@ -318,17 +329,6 @@
       "stream": {
         "type": "m3u8",
         "url": "https://live.vivo200.com/live/sd-1-4475121.m3u8?txSecret=85cda40c648b02567d94303378699447&txTime=69723A48"
-      }
-    },
-    {
-      "league": "MAS Cup",
-      "status": "UPCOMING",
-      "time": 1769170500,
-      "home": "Selangor FC",
-      "away": "Kelantan The Real Warriors",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
