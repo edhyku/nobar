@@ -1,5 +1,5 @@
 {
-  "updated": 1769039929,
+  "updated": 1769049025,
   "events": [
     {
       "league": "CHN FA Cup",
@@ -487,13 +487,13 @@
     },
     {
       "league": "MYA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769072400,
       "home": "Rakhine United FC",
       "away": "Thitsar Arman FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769042839.flv"
       }
     },
     {
@@ -509,13 +509,13 @@
     },
     {
       "league": "MYA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769072400,
       "home": "Rakhine United FC",
       "away": "Thitsar Arman FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769042839.flv"
       }
     },
     {
