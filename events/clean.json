@@ -1,5 +1,5 @@
 {
-  "updated": 1769114291,
+  "updated": 1769115536,
   "events": [
     {
       "league": "AUS A-League",
@@ -178,28 +178,6 @@
       }
     },
     {
-      "league": "GER Bundesliga",
-      "status": "UPCOMING",
-      "time": 1769196600,
-      "home": "FC St. Pauli",
-      "away": "Hamburger SV",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga",
-      "status": "UPCOMING",
-      "time": 1769196600,
-      "home": "FC St. Pauli",
-      "away": "Hamburger SV",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
       "league": "GER Bundesliga 2",
       "status": "UPCOMING",
       "time": 1769189400,
@@ -577,6 +555,17 @@
       "league": "UEFA Europa League",
       "status": "LIVE",
       "time": 1769112000,
+      "home": "FC Utrecht",
+      "away": "Racing Genk",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415797.m3u8?txSecret=113ba88cf12ee506e6d704f18af29a04&txTime=6972CA6C"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "LIVE",
+      "time": 1769112000,
       "home": "Sporting Braga",
       "away": "Nottingham Forest",
       "stream": {
@@ -659,6 +648,17 @@
       "stream": {
         "type": "m3u8",
         "url": "https://live.vivo200.com/live/sd-1-4415787.m3u8?txSecret=2494df17394ea7f79672db115746dc9f&txTime=6972CA6C"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "LIVE",
+      "time": 1769112000,
+      "home": "FC Utrecht",
+      "away": "Racing Genk",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4415797.m3u8?txSecret=113ba88cf12ee506e6d704f18af29a04&txTime=6972CA6C"
       }
     }
   ]
