@@ -1,5 +1,5 @@
 {
-  "updated": 1769090786,
+  "updated": 1769093358,
   "events": [
     {
       "league": "AUS A-League",
@@ -47,13 +47,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769094000,
       "home": "Wadi Degla SC",
       "away": "Ghazl El Mahallah",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769093096.flv"
       }
     },
     {
@@ -69,13 +69,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769094000,
       "home": "Wadi Degla SC",
       "away": "Ghazl El Mahallah",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769093096.flv"
       }
     },
     {
@@ -131,17 +131,6 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769085897.flv"
-      }
-    },
-    {
-      "league": "INT CF",
-      "status": "UPCOMING",
-      "time": 1769092200,
-      "home": "Zenit St. Petersburg",
-      "away": "Shanghai Port FC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -150,17 +139,6 @@
       "time": 1769097600,
       "home": "Randers FC",
       "away": "Real Salt Lake",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "INT CF",
-      "status": "UPCOMING",
-      "time": 1769092200,
-      "home": "Zenit St. Petersburg",
-      "away": "Shanghai Port FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -222,14 +200,25 @@
       }
     },
     {
-      "league": "KSA Division 1",
+      "league": "Iraq Stars League",
       "status": "LIVE",
-      "time": 1769091000,
-      "home": "Al Ula FC",
-      "away": "Al Wehda Mecca",
+      "time": 1769092200,
+      "home": "Al Karma",
+      "away": "Amanat Baghdad",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769090371.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/67800696_c928cfd8483dc1513c65460694bf17e1.m3u8"
+      }
+    },
+    {
+      "league": "Iraq Stars League",
+      "status": "LIVE",
+      "time": 1769092200,
+      "home": "Al Karma",
+      "away": "Amanat Baghdad",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/67800696_c928cfd8483dc1513c65460694bf17e1.m3u8"
       }
     },
     {
@@ -239,8 +228,19 @@
       "home": "Al Ula FC",
       "away": "Al Wehda Mecca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769090371.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/ezk96i3p410s1kn_633536a924e60458e6c82364f739e1b6.m3u8"
+      }
+    },
+    {
+      "league": "KSA Division 1",
+      "status": "LIVE",
+      "time": 1769091000,
+      "home": "Al Ula FC",
+      "away": "Al Wehda Mecca",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/ezk96i3p410s1kn_633536a924e60458e6c82364f739e1b6.m3u8"
       }
     },
     {
