@@ -113,9 +113,9 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "69%",
+            "humidity": "70%",
             "pressure": "758mmHg",
-            "temperature": "18°C",
+            "temperature": "17°C",
             "weather": 7,
             "wind": "2.6m/s"
           },
@@ -351,9 +351,9 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "69%",
+            "humidity": "70%",
             "pressure": "758mmHg",
-            "temperature": "18°C",
+            "temperature": "17°C",
             "weather": 7,
             "wind": "2.6m/s"
           },
@@ -589,9 +589,9 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "69%",
+            "humidity": "70%",
             "pressure": "758mmHg",
-            "temperature": "18°C",
+            "temperature": "17°C",
             "weather": 7,
             "wind": "2.6m/s"
           },
@@ -827,9 +827,9 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "69%",
+            "humidity": "70%",
             "pressure": "758mmHg",
-            "temperature": "18°C",
+            "temperature": "17°C",
             "weather": 7,
             "wind": "2.6m/s"
           },
@@ -1299,11 +1299,11 @@
           },
           "competition_id": 24,
           "environment": {
-            "humidity": "49%",
+            "humidity": "48%",
             "pressure": "769mmHg",
             "temperature": "17°C",
             "weather": 5,
-            "wind": "5.8m/s"
+            "wind": "5.3m/s"
           },
           "explain": "3×30分钟赛事",
           "home_corner": 0,
@@ -1451,7 +1451,7 @@
           "short_name_zh": "皇家盐湖城",
           "short_name_zht": "皇家鹽湖城",
           "total_players": 29,
-          "updated_at": 1769064321,
+          "updated_at": 1769066250,
           "venue_id": 1738,
           "website": "http://www.realsaltlake.com/"
         },
@@ -1531,12 +1531,18 @@
             "short_name_zh": "皇家盐湖城",
             "short_name_zht": "皇家鹽湖城",
             "total_players": 29,
-            "updated_at": 1769064321,
+            "updated_at": 1769066250,
             "venue_id": 1738,
             "website": "http://www.realsaltlake.com/"
           },
           "competition_id": 24,
-          "environment": null,
+          "environment": {
+            "humidity": "84%",
+            "pressure": "758mmHg",
+            "temperature": "14°C",
+            "weather": 10,
+            "wind": "6.8m/s"
+          },
           "explain": "",
           "home_corner": 0,
           "home_halfscore": 0,
@@ -2001,11 +2007,11 @@
           },
           "competition_id": 24,
           "environment": {
-            "humidity": "49%",
+            "humidity": "48%",
             "pressure": "769mmHg",
             "temperature": "17°C",
             "weather": 5,
-            "wind": "5.8m/s"
+            "wind": "5.3m/s"
           },
           "explain": "3×30分钟赛事",
           "home_corner": 0,
@@ -2153,7 +2159,7 @@
           "short_name_zh": "皇家盐湖城",
           "short_name_zht": "皇家鹽湖城",
           "total_players": 29,
-          "updated_at": 1769064321,
+          "updated_at": 1769066250,
           "venue_id": 1738,
           "website": "http://www.realsaltlake.com/"
         },
@@ -2233,12 +2239,18 @@
             "short_name_zh": "皇家盐湖城",
             "short_name_zht": "皇家鹽湖城",
             "total_players": 29,
-            "updated_at": 1769064321,
+            "updated_at": 1769066250,
             "venue_id": 1738,
             "website": "http://www.realsaltlake.com/"
           },
           "competition_id": 24,
-          "environment": null,
+          "environment": {
+            "humidity": "84%",
+            "pressure": "758mmHg",
+            "temperature": "14°C",
+            "weather": 10,
+            "wind": "6.8m/s"
+          },
           "explain": "",
           "home_corner": 0,
           "home_halfscore": 0,
@@ -3192,7 +3204,7 @@
             "pressure": "770mmHg",
             "temperature": "12°C",
             "weather": 5,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3866,7 +3878,7 @@
             "pressure": "770mmHg",
             "temperature": "12°C",
             "weather": 5,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4872,7 +4884,35 @@
           "status": 1,
           "time": 1769072400,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "440430",
+            "away_logo": "https://photo.365live88.com/img/fb/team/4e485260e2d84bc2978c6a762f1c71d6",
+            "away_name": "蒂察尔阿尔曼|蒂察爾阿爾曼|Thitsar Arman FC",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "399790",
+            "home_logo": "https://photo.365live88.com/img/fb/team/71f642723eb048ffa80c2b96a3535d23",
+            "home_name": "若开联|若開聯|Rakhine United",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "2242",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/4ff2447f334240e98238dfdd8b02788b",
+            "league_name": "缅甸联|緬甸聯|MYA Professional League",
+            "match_time": 1769072400,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "223157579",
+            "third_id": "4474593",
+            "wale_match_id": "1848204",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 1815,
@@ -5348,7 +5388,35 @@
           "status": 1,
           "time": 1769072400,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "440430",
+            "away_logo": "https://photo.365live88.com/img/fb/team/4e485260e2d84bc2978c6a762f1c71d6",
+            "away_name": "蒂察尔阿尔曼|蒂察爾阿爾曼|Thitsar Arman FC",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "399790",
+            "home_logo": "https://photo.365live88.com/img/fb/team/71f642723eb048ffa80c2b96a3535d23",
+            "home_name": "若开联|若開聯|Rakhine United",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "2242",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/4ff2447f334240e98238dfdd8b02788b",
+            "league_name": "缅甸联|緬甸聯|MYA Professional League",
+            "match_time": 1769072400,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "223157579",
+            "third_id": "4474593",
+            "wale_match_id": "1848204",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 1815,
@@ -5694,11 +5762,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "89%",
+            "humidity": "91%",
             "pressure": "750mmHg",
             "temperature": "2°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5893,7 +5961,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "83%",
+            "humidity": "84%",
             "pressure": "752mmHg",
             "temperature": "3°C",
             "weather": 7,
@@ -6092,10 +6160,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "75%",
+            "humidity": "78%",
             "pressure": "755mmHg",
-            "temperature": "9°C",
-            "weather": 9,
+            "temperature": "10°C",
+            "weather": 10,
             "wind": "2.3m/s"
           },
           "explain": "",
@@ -6291,7 +6359,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "78%",
+            "humidity": "79%",
             "pressure": "757mmHg",
             "temperature": "0°C",
             "weather": 7,
@@ -6490,10 +6558,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "92%",
+            "humidity": "93%",
             "pressure": "751mmHg",
             "temperature": "1°C",
-            "weather": 7,
+            "weather": 1,
             "wind": "0.9m/s"
           },
           "explain": "",
@@ -6689,7 +6757,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "79%",
+            "humidity": "77%",
             "pressure": "747mmHg",
             "temperature": "5°C",
             "weather": 7,
@@ -7040,7 +7108,7 @@
           "short_name_zh": "波尔图",
           "short_name_zht": "波圖",
           "total_players": 32,
-          "updated_at": 1769064435,
+          "updated_at": 1769066365,
           "venue_id": 1271,
           "website": "http://www.fcporto.pt"
         },
@@ -7081,7 +7149,7 @@
             "short_name_zh": "波尔图",
             "short_name_zht": "波圖",
             "total_players": 32,
-            "updated_at": 1769064435,
+            "updated_at": 1769066365,
             "venue_id": 1271,
             "website": "http://www.fcporto.pt"
           },
@@ -7089,7 +7157,7 @@
           "environment": {
             "humidity": "85%",
             "pressure": "753mmHg",
-            "temperature": "-6°C",
+            "temperature": "-7°C",
             "weather": 5,
             "wind": "1.5m/s"
           },
@@ -7489,7 +7557,7 @@
             "pressure": "749mmHg",
             "temperature": "11°C",
             "weather": 10,
-            "wind": "4.8m/s"
+            "wind": "5.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -7684,9 +7752,9 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "78%",
-            "pressure": "752mmHg",
-            "temperature": "9°C",
+            "humidity": "80%",
+            "pressure": "751mmHg",
+            "temperature": "8°C",
             "weather": 7,
             "wind": "3.4m/s"
           },
@@ -7883,10 +7951,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "84%",
+            "humidity": "86%",
             "pressure": "752mmHg",
             "temperature": "-6°C",
-            "weather": 5,
+            "weather": 1,
             "wind": "1.2m/s"
           },
           "explain": "",
@@ -8082,7 +8150,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "84%",
+            "humidity": "83%",
             "pressure": "754mmHg",
             "temperature": "-1°C",
             "weather": 7,
@@ -8281,7 +8349,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "88%",
+            "humidity": "90%",
             "pressure": "742mmHg",
             "temperature": "5°C",
             "weather": 10,
@@ -8480,10 +8548,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "78%",
+            "humidity": "76%",
             "pressure": "747mmHg",
             "temperature": "3°C",
-            "weather": 7,
+            "weather": 10,
             "wind": "4.5m/s"
           },
           "explain": "",
@@ -8679,11 +8747,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "82%",
+            "humidity": "83%",
             "pressure": "752mmHg",
             "temperature": "7°C",
             "weather": 1,
-            "wind": "1.2m/s"
+            "wind": "0.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8878,11 +8946,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "84%",
+            "humidity": "82%",
             "pressure": "748mmHg",
             "temperature": "12°C",
-            "weather": 9,
-            "wind": "8.2m/s"
+            "weather": 7,
+            "wind": "7.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8900,7 +8968,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 10,
+            "foreign_players": 9,
             "foundation_time": "1923",
             "id": 10371,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/fd954d083ee85a6f1a3f2471dc756242.png",
@@ -8917,8 +8985,8 @@
             "short_name_en": "Celta",
             "short_name_zh": "塞尔塔",
             "short_name_zht": "切爾達",
-            "total_players": 29,
-            "updated_at": 1769064503,
+            "total_players": 28,
+            "updated_at": 1769066250,
             "venue_id": 1117,
             "website": "http://www.celtavigo.net"
           },
@@ -8979,7 +9047,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 10,
+          "foreign_players": 9,
           "foundation_time": "1923",
           "id": 10371,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/fd954d083ee85a6f1a3f2471dc756242.png",
@@ -8996,8 +9064,8 @@
           "short_name_en": "Celta",
           "short_name_zh": "塞尔塔",
           "short_name_zht": "切爾達",
-          "total_players": 29,
-          "updated_at": 1769064503,
+          "total_players": 28,
+          "updated_at": 1769066250,
           "venue_id": 1117,
           "website": "http://www.celtavigo.net"
         },
@@ -9077,7 +9145,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "88%",
+            "humidity": "89%",
             "pressure": "755mmHg",
             "temperature": "-2°C",
             "weather": 7,
@@ -9276,11 +9344,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "89%",
+            "humidity": "91%",
             "pressure": "750mmHg",
             "temperature": "2°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9475,7 +9543,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "83%",
+            "humidity": "84%",
             "pressure": "752mmHg",
             "temperature": "3°C",
             "weather": 7,
@@ -9674,10 +9742,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "75%",
+            "humidity": "78%",
             "pressure": "755mmHg",
-            "temperature": "9°C",
-            "weather": 9,
+            "temperature": "10°C",
+            "weather": 10,
             "wind": "2.3m/s"
           },
           "explain": "",
@@ -9873,7 +9941,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "78%",
+            "humidity": "79%",
             "pressure": "757mmHg",
             "temperature": "0°C",
             "weather": 7,
@@ -10072,10 +10140,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "92%",
+            "humidity": "93%",
             "pressure": "751mmHg",
             "temperature": "1°C",
-            "weather": 7,
+            "weather": 1,
             "wind": "0.9m/s"
           },
           "explain": "",
@@ -10271,7 +10339,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "79%",
+            "humidity": "77%",
             "pressure": "747mmHg",
             "temperature": "5°C",
             "weather": 7,
@@ -10622,7 +10690,7 @@
           "short_name_zh": "波尔图",
           "short_name_zht": "波圖",
           "total_players": 32,
-          "updated_at": 1769064435,
+          "updated_at": 1769066365,
           "venue_id": 1271,
           "website": "http://www.fcporto.pt"
         },
@@ -10663,7 +10731,7 @@
             "short_name_zh": "波尔图",
             "short_name_zht": "波圖",
             "total_players": 32,
-            "updated_at": 1769064435,
+            "updated_at": 1769066365,
             "venue_id": 1271,
             "website": "http://www.fcporto.pt"
           },
@@ -10671,7 +10739,7 @@
           "environment": {
             "humidity": "85%",
             "pressure": "753mmHg",
-            "temperature": "-6°C",
+            "temperature": "-7°C",
             "weather": 5,
             "wind": "1.5m/s"
           },
@@ -11071,7 +11139,7 @@
             "pressure": "749mmHg",
             "temperature": "11°C",
             "weather": 10,
-            "wind": "4.8m/s"
+            "wind": "5.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11266,9 +11334,9 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "78%",
-            "pressure": "752mmHg",
-            "temperature": "9°C",
+            "humidity": "80%",
+            "pressure": "751mmHg",
+            "temperature": "8°C",
             "weather": 7,
             "wind": "3.4m/s"
           },
@@ -11465,10 +11533,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "84%",
+            "humidity": "86%",
             "pressure": "752mmHg",
             "temperature": "-6°C",
-            "weather": 5,
+            "weather": 1,
             "wind": "1.2m/s"
           },
           "explain": "",
@@ -11664,7 +11732,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "84%",
+            "humidity": "83%",
             "pressure": "754mmHg",
             "temperature": "-1°C",
             "weather": 7,
@@ -11863,7 +11931,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "88%",
+            "humidity": "90%",
             "pressure": "742mmHg",
             "temperature": "5°C",
             "weather": 10,
@@ -12062,10 +12130,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "78%",
+            "humidity": "76%",
             "pressure": "747mmHg",
             "temperature": "3°C",
-            "weather": 7,
+            "weather": 10,
             "wind": "4.5m/s"
           },
           "explain": "",
@@ -12261,11 +12329,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "82%",
+            "humidity": "83%",
             "pressure": "752mmHg",
             "temperature": "7°C",
             "weather": 1,
-            "wind": "1.2m/s"
+            "wind": "0.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12460,11 +12528,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "84%",
+            "humidity": "82%",
             "pressure": "748mmHg",
             "temperature": "12°C",
-            "weather": 9,
-            "wind": "8.2m/s"
+            "weather": 7,
+            "wind": "7.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12482,7 +12550,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 10,
+            "foreign_players": 9,
             "foundation_time": "1923",
             "id": 10371,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/fd954d083ee85a6f1a3f2471dc756242.png",
@@ -12499,8 +12567,8 @@
             "short_name_en": "Celta",
             "short_name_zh": "塞尔塔",
             "short_name_zht": "切爾達",
-            "total_players": 29,
-            "updated_at": 1769064503,
+            "total_players": 28,
+            "updated_at": 1769066250,
             "venue_id": 1117,
             "website": "http://www.celtavigo.net"
           },
@@ -12561,7 +12629,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 10,
+          "foreign_players": 9,
           "foundation_time": "1923",
           "id": 10371,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/fd954d083ee85a6f1a3f2471dc756242.png",
@@ -12578,8 +12646,8 @@
           "short_name_en": "Celta",
           "short_name_zh": "塞尔塔",
           "short_name_zht": "切爾達",
-          "total_players": 29,
-          "updated_at": 1769064503,
+          "total_players": 28,
+          "updated_at": 1769066250,
           "venue_id": 1117,
           "website": "http://www.celtavigo.net"
         },
@@ -12659,7 +12727,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "88%",
+            "humidity": "89%",
             "pressure": "755mmHg",
             "temperature": "-2°C",
             "weather": 7,
