@@ -1,5 +1,5 @@
 {
-  "updated": 1769107857,
+  "updated": 1769109655,
   "events": [
     {
       "league": "AUS A-League",
@@ -383,7 +383,7 @@
       "away": "Lyon",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415720.m3u8?txSecret=bee70ae3c5d7f668b6869cad1e5afacf&txTime=6972A4EB"
+        "url": "https://live4.trendgallary.com/live/63377983_d240e01bc26f2e4f1a6dab87c0244297.m3u8"
       }
     },
     {
@@ -570,7 +570,7 @@
       "away": "Lyon",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415720.m3u8?txSecret=bee70ae3c5d7f668b6869cad1e5afacf&txTime=6972A4EB"
+        "url": "https://live4.trendgallary.com/live/63377983_d240e01bc26f2e4f1a6dab87c0244297.m3u8"
       }
     },
     {
