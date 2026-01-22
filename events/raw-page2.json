@@ -994,7 +994,7 @@
       "pressure": "747mmHg",
       "temperature": "6°C",
       "weather": 7,
-      "wind": "4.3m/s"
+      "wind": "4.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1195,7 +1195,7 @@
       "pressure": "741mmHg",
       "temperature": "7°C",
       "weather": 7,
-      "wind": "7.0m/s"
+      "wind": "6.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2389,7 +2389,7 @@
      },
      "competition_id": 143,
      "environment": {
-      "humidity": "62%",
+      "humidity": "63%",
       "pressure": "746mmHg",
       "temperature": "7°C",
       "weather": 7,
@@ -2791,7 +2791,7 @@
      },
      "competition_id": 130,
      "environment": {
-      "humidity": "66%",
+      "humidity": "65%",
       "pressure": "750mmHg",
       "temperature": "0°C",
       "weather": 1,
@@ -2994,7 +2994,7 @@
       "pressure": "749mmHg",
       "temperature": "1°C",
       "weather": 7,
-      "wind": "2.9m/s"
+      "wind": "3.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3234,7 +3234,7 @@
       "pressure": "757mmHg",
       "temperature": "28°C",
       "weather": 7,
-      "wind": "4.3m/s"
+      "wind": "4.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3472,7 +3472,7 @@
       "pressure": "759mmHg",
       "temperature": "26°C",
       "weather": 6,
-      "wind": "2.9m/s"
+      "wind": "2.6m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4174,10 +4174,10 @@
      },
      "competition_id": 34,
      "environment": {
-      "humidity": "91%",
+      "humidity": "92%",
       "pressure": "766mmHg",
       "temperature": "16°C",
-      "weather": 1,
+      "weather": 5,
       "wind": "2.3m/s"
      },
      "explain": "",
@@ -4546,8 +4546,8 @@
      "logo_handle": 1,
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/54a1c4ce61684e24789083f545049753.png",
      "manager_id": 0,
-     "market_value": 14800000,
-     "market_value_currency": "",
+     "market_value": 14750000,
+     "market_value_currency": "€",
      "name_en": "AVS Futebol SAD",
      "name_zh": "阿维什镇",
      "name_zht": "AVS俱乐部",
@@ -4557,7 +4557,7 @@
      "short_name_zh": "阿维什镇",
      "short_name_zht": "AVS俱乐部",
      "total_players": 31,
-     "updated_at": 1769061731,
+     "updated_at": 1769123887,
      "venue_id": 2911,
      "website": ""
     },
@@ -4587,8 +4587,8 @@
       "logo_handle": 1,
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/54a1c4ce61684e24789083f545049753.png",
       "manager_id": 0,
-      "market_value": 14800000,
-      "market_value_currency": "",
+      "market_value": 14750000,
+      "market_value_currency": "€",
       "name_en": "AVS Futebol SAD",
       "name_zh": "阿维什镇",
       "name_zht": "AVS俱乐部",
@@ -4598,7 +4598,7 @@
       "short_name_zh": "阿维什镇",
       "short_name_zht": "AVS俱乐部",
       "total_players": 31,
-      "updated_at": 1769061731,
+      "updated_at": 1769123887,
       "venue_id": 2911,
       "website": ""
      },
@@ -5935,7 +5935,7 @@
       "pressure": "754mmHg",
       "temperature": "11°C",
       "weather": 10,
-      "wind": "3.2m/s"
+      "wind": "2.6m/s"
      },
      "explain": "",
      "home_corner": 0,
