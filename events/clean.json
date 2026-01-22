@@ -1,7 +1,29 @@
 {
-  "updated": 1769073746,
+  "updated": 1769075646,
   "events": [
     {
+      "league": "AUS A-League",
+      "status": "LIVE",
+      "time": 1769157300,
+      "home": "Newcastle Jets",
+      "away": "Wellington Phoenix",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769069874.flv"
+      }
+    },
+    {
+      "league": "AUS A-League",
+      "status": "LIVE",
+      "time": 1769157300,
+      "home": "Newcastle Jets",
+      "away": "Wellington Phoenix",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769069874.flv"
+      }
+    },
+    {
       "league": "AUS W-League",
       "status": "UPCOMING",
       "time": 1769155200,
@@ -157,24 +179,24 @@
     },
     {
       "league": "INT FRL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769130000,
       "home": "Panama",
       "away": "Mexico",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769073586.flv"
       }
     },
     {
       "league": "INT FRL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769130000,
       "home": "Panama",
       "away": "Mexico",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769073586.flv"
       }
     },
     {
@@ -301,45 +323,23 @@
     {
       "league": "MYA Professional League",
       "status": "LIVE",
-      "time": 1769074200,
-      "home": "Yadanarbon FC",
-      "away": "Yarmanya United FC",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769073408.flv"
-      }
-    },
-    {
-      "league": "MYA Professional League",
-      "status": "LIVE",
       "time": 1769072400,
       "home": "Rakhine United FC",
       "away": "Thitsar Arman FC",
       "stream": {
         "type": "m3u8",
         "url": "https://live.trendgallary.com/live/m2q15izrd44te76_cc310bc3008fe9e6b1fab3916e027222.m3u8"
-      }
-    },
-    {
-      "league": "MYA Professional League",
-      "status": "LIVE",
-      "time": 1769074200,
-      "home": "Yadanarbon FC",
-      "away": "Yarmanya United FC",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769073408.flv"
       }
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769103900,
       "home": "SC Freiburg",
       "away": "Maccabi Tel Aviv",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769073408.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -498,13 +498,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769103900,
       "home": "SC Freiburg",
       "away": "Maccabi Tel Aviv",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769073408.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
