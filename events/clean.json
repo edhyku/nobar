@@ -1,5 +1,5 @@
 {
-  "updated": 1769190149,
+  "updated": 1769191049,
   "events": [
     {
       "league": "AUS A-League",
@@ -185,7 +185,7 @@
       "away": "West Bromwich Albion",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769189759.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769190266.flv"
       }
     },
     {
@@ -196,7 +196,7 @@
       "away": "West Bromwich Albion",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769189759.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769190266.flv"
       }
     },
     {
@@ -465,46 +465,46 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769199300,
       "home": "Casa Pia AC",
       "away": "AVS Futebol SAD",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769190350.flv"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769199300,
       "home": "Casa Pia AC",
       "away": "AVS Futebol SAD",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769190350.flv"
       }
     },
     {
       "league": "Liga Portugal 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769191200,
       "home": "Pacos de Ferreira",
       "away": "Viseu",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769190350.flv"
       }
     },
     {
       "league": "Liga Portugal 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769191200,
       "home": "Pacos de Ferreira",
       "away": "Viseu",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769190350.flv"
       }
     },
     {
@@ -581,7 +581,7 @@
       "away": "Bandirmaspor",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100326.m3u8?txSecret=0728e2cd8d5ad490aa441dae059dbfad&txTime=6973B905&sign=f3d3246bcd33e9da"
+        "url": "https://v.lfsxfj.com/live/100326.m3u8?txSecret=bf2536102fe91356c81a0315ec3799f0&txTime=6973BA6D&sign=ce963b308c5c3dc2"
       }
     },
     {
@@ -592,7 +592,7 @@
       "away": "Bandirmaspor",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100326.m3u8?txSecret=0728e2cd8d5ad490aa441dae059dbfad&txTime=6973B905&sign=f3d3246bcd33e9da"
+        "url": "https://v.lfsxfj.com/live/100326.m3u8?txSecret=bf2536102fe91356c81a0315ec3799f0&txTime=6973BA6D&sign=ce963b308c5c3dc2"
       }
     },
     {
@@ -603,7 +603,7 @@
       "away": "Kasimpasa",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4366084.m3u8?txSecret=9fe1895fe43c7c0c953daa940f1358e3&txTime=6973E3AC"
+        "url": "https://live.vivo200.com/live/sd-1-4366084.m3u8?txSecret=d1648f59bc03cca67fb6bb1706f7c3cf&txTime=6973FB1C"
       }
     },
     {
@@ -625,7 +625,7 @@
       "away": "Kasimpasa",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4366084.m3u8?txSecret=9fe1895fe43c7c0c953daa940f1358e3&txTime=6973E3AC"
+        "url": "https://live.vivo200.com/live/sd-1-4366084.m3u8?txSecret=d1648f59bc03cca67fb6bb1706f7c3cf&txTime=6973FB1C"
       }
     },
     {
