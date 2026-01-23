@@ -403,11 +403,11 @@
      },
      "competition_id": 602,
      "environment": {
-      "humidity": "72%",
+      "humidity": "73%",
       "pressure": "762mmHg",
-      "temperature": "26°C",
+      "temperature": "25°C",
       "weather": 7,
-      "wind": "5.3m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -618,9 +618,9 @@
      "environment": {
       "humidity": "82%",
       "pressure": "747mmHg",
-      "temperature": "6°C",
+      "temperature": "7°C",
       "weather": 7,
-      "wind": "4.0m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1333,7 +1333,7 @@
      "country_logo": "",
      "country_logo_handle": 0,
      "country_logo_rt": "",
-     "foreign_players": 12,
+     "foreign_players": 13,
      "foundation_time": "1878",
      "id": 10005,
      "logo": "https://wtsymycyh.99kq.top/logo/football_team/8663a7bedcf20394242d069637e67219.png",
@@ -1350,8 +1350,8 @@
      "short_name_en": "West Brom",
      "short_name_zh": "西布罗姆维奇",
      "short_name_zht": "西布朗",
-     "total_players": 22,
-     "updated_at": 1769136050,
+     "total_players": 23,
+     "updated_at": 1769146395,
      "venue_id": 1393,
      "website": "http://www.wba.co.uk/"
     },
@@ -1374,7 +1374,7 @@
       "country_logo": "",
       "country_logo_handle": 0,
       "country_logo_rt": "",
-      "foreign_players": 12,
+      "foreign_players": 13,
       "foundation_time": "1878",
       "id": 10005,
       "logo": "https://wtsymycyh.99kq.top/logo/football_team/8663a7bedcf20394242d069637e67219.png",
@@ -1391,8 +1391,8 @@
       "short_name_en": "West Brom",
       "short_name_zh": "西布罗姆维奇",
       "short_name_zht": "西布朗",
-      "total_players": 22,
-      "updated_at": 1769136050,
+      "total_players": 23,
+      "updated_at": 1769146395,
       "venue_id": 1393,
       "website": "http://www.wba.co.uk/"
      },
@@ -1999,10 +1999,10 @@
      },
      "competition_id": 143,
      "environment": {
-      "humidity": "97%",
+      "humidity": "98%",
       "pressure": "750mmHg",
       "temperature": "3°C",
-      "weather": 4,
+      "weather": 9,
       "wind": "1.8m/s"
      },
      "explain": "",
@@ -3687,11 +3687,11 @@
      },
      "competition_id": 1788,
      "environment": {
-      "humidity": "92%",
+      "humidity": "91%",
       "pressure": "759mmHg",
-      "temperature": "25°C",
+      "temperature": "26°C",
       "weather": 6,
-      "wind": "2.6m/s"
+      "wind": "2.9m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3709,7 +3709,7 @@
       "country_logo": "",
       "country_logo_handle": 0,
       "country_logo_rt": "",
-      "foreign_players": 10,
+      "foreign_players": 11,
       "foundation_time": "0",
       "id": 23194,
       "logo": "https://wtsymycyh.99kq.top/logo/football_team/10db29eabad13994d9729d8983f8d21a.png",
@@ -3726,8 +3726,8 @@
       "short_name_en": "Persija Jakarta",
       "short_name_zh": "佩西加雅加达",
       "short_name_zht": "佩西加雅加達",
-      "total_players": 30,
-      "updated_at": 1768993927,
+      "total_players": 31,
+      "updated_at": 1769144477,
       "venue_id": 15780,
       "website": ""
      },
@@ -3788,7 +3788,7 @@
      "country_logo": "",
      "country_logo_handle": 0,
      "country_logo_rt": "",
-     "foreign_players": 10,
+     "foreign_players": 11,
      "foundation_time": "0",
      "id": 23194,
      "logo": "https://wtsymycyh.99kq.top/logo/football_team/10db29eabad13994d9729d8983f8d21a.png",
@@ -3805,8 +3805,8 @@
      "short_name_en": "Persija Jakarta",
      "short_name_zh": "佩西加雅加达",
      "short_name_zht": "佩西加雅加達",
-     "total_players": 30,
-     "updated_at": 1768993927,
+     "total_players": 31,
+     "updated_at": 1769144477,
      "venue_id": 15780,
      "website": ""
     },
@@ -4557,9 +4557,9 @@
      "environment": {
       "humidity": "78%",
       "pressure": "753mmHg",
-      "temperature": "7°C",
+      "temperature": "8°C",
       "weather": 9,
-      "wind": "7.6m/s"
+      "wind": "7.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4756,7 +4756,7 @@
      },
      "competition_id": 152,
      "environment": {
-      "humidity": "91%",
+      "humidity": "92%",
       "pressure": "749mmHg",
       "temperature": "4°C",
       "weather": 9,
@@ -4996,9 +4996,9 @@
      },
      "competition_id": 638,
      "environment": {
-      "humidity": "65%",
+      "humidity": "66%",
       "pressure": "760mmHg",
-      "temperature": "29°C",
+      "temperature": "28°C",
       "weather": 7,
       "wind": "1.8m/s"
      },
@@ -6405,7 +6405,7 @@
      },
      "competition_id": 534,
      "environment": {
-      "humidity": "53%",
+      "humidity": "52%",
       "pressure": "760mmHg",
       "temperature": "29°C",
       "weather": 7,
