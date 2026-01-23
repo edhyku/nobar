@@ -82,7 +82,7 @@
        "is_anchor": 1,
        "live": null,
        "nick_name": "朵朵",
-       "online_status": 1,
+       "online_status": 9,
        "profile": {
         "age": 2,
         "birthday": "",
@@ -620,7 +620,7 @@
       "pressure": "747mmHg",
       "temperature": "6°C",
       "weather": 7,
-      "wind": "3.7m/s"
+      "wind": "4.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1999,7 +1999,7 @@
      },
      "competition_id": 143,
      "environment": {
-      "humidity": "98%",
+      "humidity": "97%",
       "pressure": "750mmHg",
       "temperature": "3°C",
       "weather": 4,
@@ -2198,7 +2198,7 @@
      },
      "competition_id": 143,
      "environment": {
-      "humidity": "89%",
+      "humidity": "90%",
       "pressure": "750mmHg",
       "temperature": "10°C",
       "weather": 7,
@@ -2596,11 +2596,11 @@
      },
      "competition_id": 143,
      "environment": {
-      "humidity": "63%",
+      "humidity": "62%",
       "pressure": "746mmHg",
       "temperature": "7°C",
       "weather": 7,
-      "wind": "1.8m/s"
+      "wind": "2.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3201,7 +3201,7 @@
       "pressure": "749mmHg",
       "temperature": "1°C",
       "weather": 7,
-      "wind": "2.9m/s"
+      "wind": "3.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3687,11 +3687,11 @@
      },
      "competition_id": 1788,
      "environment": {
-      "humidity": "91%",
+      "humidity": "92%",
       "pressure": "759mmHg",
-      "temperature": "26°C",
+      "temperature": "25°C",
       "weather": 6,
-      "wind": "2.9m/s"
+      "wind": "2.6m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4557,9 +4557,9 @@
      "environment": {
       "humidity": "78%",
       "pressure": "753mmHg",
-      "temperature": "8°C",
+      "temperature": "7°C",
       "weather": 9,
-      "wind": "7.0m/s"
+      "wind": "7.6m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4757,7 +4757,7 @@
      "competition_id": 152,
      "environment": {
       "humidity": "91%",
-      "pressure": "750mmHg",
+      "pressure": "749mmHg",
       "temperature": "4°C",
       "weather": 9,
       "wind": "2.9m/s"
@@ -4996,9 +4996,9 @@
      },
      "competition_id": 638,
      "environment": {
-      "humidity": "68%",
+      "humidity": "65%",
       "pressure": "760mmHg",
-      "temperature": "28°C",
+      "temperature": "29°C",
       "weather": 7,
       "wind": "1.8m/s"
      },
