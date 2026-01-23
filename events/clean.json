@@ -1,24 +1,13 @@
 {
-  "updated": 1769132878,
+  "updated": 1769138658,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769157300,
       "home": "Newcastle Jets",
       "away": "Wellington Phoenix",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769127234.flv"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "UPCOMING",
-      "time": 1769227200,
-      "home": "Auckland FC",
-      "away": "Central Coast Mariners",
-      "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
@@ -26,42 +15,9 @@
     {
       "league": "AUS A-League",
       "status": "UPCOMING",
-      "time": 1769234400,
-      "home": "Brisbane Roar",
-      "away": "Adelaide United",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "LIVE",
       "time": 1769157300,
       "home": "Newcastle Jets",
       "away": "Wellington Phoenix",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769127234.flv"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "UPCOMING",
-      "time": 1769227200,
-      "home": "Auckland FC",
-      "away": "Central Coast Mariners",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "UPCOMING",
-      "time": 1769234400,
-      "home": "Brisbane Roar",
-      "away": "Adelaide United",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -106,6 +62,72 @@
       "time": 1769197500,
       "home": "Standard Liege",
       "away": "KAA Gent",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Dongxing Greenery",
+      "away": "Hainan Shuangyu",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Shanxi Xiangyu FC",
+      "away": "Guizhou Feiying",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Shenzhen Xingjun",
+      "away": "Shanxi Sanjin",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Dongxing Greenery",
+      "away": "Hainan Shuangyu",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Shanxi Xiangyu FC",
+      "away": "Guizhou Feiying",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Shenzhen Xingjun",
+      "away": "Shanxi Sanjin",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -417,28 +439,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "INT FRL",
-      "status": "LIVE",
-      "time": 1769130600,
-      "home": "Panama",
-      "away": "Mexico",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4478720.m3u8?txSecret=8bcf1c05a9c216c3580bb61da7953cc5&txTime=69730C0D"
-      }
-    },
-    {
-      "league": "INT FRL",
-      "status": "LIVE",
-      "time": 1769130600,
-      "home": "Panama",
-      "away": "Mexico",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4478720.m3u8?txSecret=8bcf1c05a9c216c3580bb61da7953cc5&txTime=69730C0D"
       }
     },
     {
