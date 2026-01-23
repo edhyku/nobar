@@ -1,5 +1,5 @@
 {
-  "updated": 1769167883,
+  "updated": 1769168974,
   "events": [
     {
       "league": "AUS A-League",
@@ -311,24 +311,24 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769169600,
       "home": "Persatuan Sepakbola Indonesia Jakarta",
       "away": "Madura United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769168728.flv"
       }
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769169600,
       "home": "Persatuan Sepakbola Indonesia Jakarta",
       "away": "Madura United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769168728.flv"
       }
     },
     {
@@ -531,24 +531,24 @@
     },
     {
       "league": "ROM Super Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769180400,
       "home": "Metaloglobus",
       "away": "Arges",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769168728.flv"
       }
     },
     {
       "league": "ROM Super Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769180400,
       "home": "Metaloglobus",
       "away": "Arges",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769168728.flv"
       }
     },
     {
