@@ -1,19 +1,8 @@
 {
-  "updated": 1769162471,
+  "updated": 1769164848,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769157300,
-      "home": "Newcastle Jets",
-      "away": "Wellington Phoenix",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426646.m3u8?txSecret=4850c1a1c737cdafb985d00d415fd438&txTime=697376AF"
-      }
-    },
-    {
-      "league": "AUS A-League",
       "status": "UPCOMING",
       "time": 1769227200,
       "home": "Auckland FC",
@@ -25,13 +14,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769234400,
       "home": "Brisbane Roar",
       "away": "Adelaide United",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769143484.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -47,17 +36,6 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769157300,
-      "home": "Newcastle Jets",
-      "away": "Wellington Phoenix",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426646.m3u8?txSecret=4850c1a1c737cdafb985d00d415fd438&txTime=697376AF"
-      }
-    },
-    {
-      "league": "AUS A-League",
       "status": "UPCOMING",
       "time": 1769227200,
       "home": "Auckland FC",
@@ -69,13 +47,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769234400,
       "home": "Brisbane Roar",
       "away": "Adelaide United",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769143484.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -181,6 +159,17 @@
       "league": "FRA Ligue 2",
       "status": "UPCOMING",
       "time": 1769194800,
+      "home": "Amiens",
+      "away": "Stade Lavallois MFC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
+      "status": "UPCOMING",
+      "time": 1769194800,
       "home": "Annecy",
       "away": "Clermont",
       "stream": {
@@ -200,6 +189,17 @@
       }
     },
     {
+      "league": "FRA Ligue 2",
+      "status": "UPCOMING",
+      "time": 1769194800,
+      "home": "Amiens",
+      "away": "Stade Lavallois MFC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "GER Bundesliga",
       "status": "UPCOMING",
       "time": 1769196600,
@@ -256,46 +256,57 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
-      "time": 1769189400,
-      "home": "Arminia Bielefeld",
-      "away": "Holstein Kiel",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
-      "time": 1769189400,
-      "home": "SV Darmstadt 98",
-      "away": "1. FC Nürnberg",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
-      "time": 1769256000,
-      "home": "Hannover 96",
-      "away": "Fortuna Dusseldorf",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "IDN Liga 1",
       "status": "LIVE",
-      "time": 1769157000,
-      "home": "Persis Solo FC",
-      "away": "Borneo FC",
+      "time": 1769256000,
+      "home": "Karlsruher SC",
+      "away": "Hertha Berlin",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4379331.m3u8?txSecret=7353dd63f174c4da1c3071d41b6b21f1&txTime=69738BC7"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769162749.flv"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769189400,
+      "home": "Arminia Bielefeld",
+      "away": "Holstein Kiel",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769189400,
+      "home": "SV Darmstadt 98",
+      "away": "1. FC Nürnberg",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769256000,
+      "home": "Hannover 96",
+      "away": "Fortuna Dusseldorf",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "LIVE",
+      "time": 1769256000,
+      "home": "Karlsruher SC",
+      "away": "Hertha Berlin",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769162749.flv"
       }
     },
     {
@@ -307,17 +318,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "IDN Liga 1",
-      "status": "LIVE",
-      "time": 1769157000,
-      "home": "Persis Solo FC",
-      "away": "Borneo FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4379331.m3u8?txSecret=7353dd63f174c4da1c3071d41b6b21f1&txTime=69738BC7"
       }
     },
     {
@@ -608,13 +608,13 @@
     },
     {
       "league": "TUR Super League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769254200,
       "home": "Kayserispor",
       "away": "Başakşehir Futbol Kulübü",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769156359.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -630,35 +630,35 @@
     },
     {
       "league": "TUR Super League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769254200,
       "home": "Kayserispor",
       "away": "Başakşehir Futbol Kulübü",
       "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "U23 Asian Cup",
+      "status": "LIVE",
+      "time": 1769180400,
+      "home": "Vietnam U23",
+      "away": "South Korea U23",
+      "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769156359.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769162749.flv"
       }
     },
     {
       "league": "U23 Asian Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769180400,
       "home": "Vietnam U23",
       "away": "South Korea U23",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "U23 Asian Cup",
-      "status": "UPCOMING",
-      "time": 1769180400,
-      "home": "Vietnam U23",
-      "away": "South Korea U23",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769162749.flv"
       }
     }
   ]
