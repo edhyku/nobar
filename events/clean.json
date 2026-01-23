@@ -1,5 +1,5 @@
 {
-  "updated": 1769198934,
+  "updated": 1769199899,
   "events": [
     {
       "league": "AUS A-League",
@@ -405,7 +405,7 @@
       "away": "Rodez Aveyron",
       "stream": {
         "type": "m3u8",
-        "url": "https://play1.clomidx.com/live/11113951583_3881032925_adaptive.m3u8"
+        "url": "https://live.trendgallary.com/live/61527708_5747ad0721707b347985c8e7bd53c026.m3u8"
       }
     },
     {
@@ -460,7 +460,7 @@
       "away": "Rodez Aveyron",
       "stream": {
         "type": "m3u8",
-        "url": "https://play1.clomidx.com/live/11113951583_3881032925_adaptive.m3u8"
+        "url": "https://live.trendgallary.com/live/61527708_5747ad0721707b347985c8e7bd53c026.m3u8"
       }
     },
     {
@@ -553,24 +553,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769199300,
       "home": "Casa Pia AC",
       "away": "AVS Futebol SAD",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368952.m3u8?txSecret=eb16e5e272ca287bba2d2346aefeb706&txTime=6974199B"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769199300,
       "home": "Casa Pia AC",
       "away": "AVS Futebol SAD",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368952.m3u8?txSecret=eb16e5e272ca287bba2d2346aefeb706&txTime=6974199B"
       }
     },
     {
