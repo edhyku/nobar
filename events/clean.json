@@ -1,5 +1,5 @@
 {
-  "updated": 1769197113,
+  "updated": 1769197947,
   "events": [
     {
       "league": "AUS A-League",
@@ -91,24 +91,24 @@
     },
     {
       "league": "BEL Pro League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769197500,
       "home": "Standard Liege",
       "away": "KAA Gent",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347167.m3u8?txSecret=42e1725c9ca2fe827c47bd978010b0c1&txTime=697414F1"
       }
     },
     {
       "league": "BEL Pro League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769197500,
       "home": "Standard Liege",
       "away": "KAA Gent",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347167.m3u8?txSecret=42e1725c9ca2fe827c47bd978010b0c1&txTime=697414F1"
       }
     },
     {
@@ -295,7 +295,7 @@
       "away": "West Bromwich Albion",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769190266.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769197632.flv"
       }
     },
     {
@@ -306,7 +306,7 @@
       "away": "West Bromwich Albion",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769190266.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769197632.flv"
       }
     },
     {
@@ -317,7 +317,7 @@
       "away": "Paris Saint Germain",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347839.m3u8?txSecret=eef97743398e466692a67b5b288cff7d&txTime=6974047C"
+        "url": "https://live.trendgallary.com/live/61526312_e0b7fd01961094f46241cce3c9858da7.m3u8"
       }
     },
     {
@@ -328,7 +328,7 @@
       "away": "Paris Saint Germain",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347839.m3u8?txSecret=eef97743398e466692a67b5b288cff7d&txTime=6974047C"
+        "url": "https://live.trendgallary.com/live/61526312_e0b7fd01961094f46241cce3c9858da7.m3u8"
       }
     },
     {
@@ -514,8 +514,8 @@
       "home": "Inter Milan",
       "away": "Pisa",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769196472.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4339745.m3u8?txSecret=00d2ad4323437fc4b115a3abf4c86fc5&txTime=697414F1"
       }
     },
     {
@@ -525,8 +525,8 @@
       "home": "Inter Milan",
       "away": "Pisa",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769196472.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4339745.m3u8?txSecret=00d2ad4323437fc4b115a3abf4c86fc5&txTime=697414F1"
       }
     },
     {
@@ -597,24 +597,24 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769198400,
       "home": "Levante",
       "away": "Elche",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769197631.flv"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769198400,
       "home": "Levante",
       "away": "Elche",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769197631.flv"
       }
     },
     {
