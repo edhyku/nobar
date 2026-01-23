@@ -1,5 +1,5 @@
 {
-  "updated": 1769191049,
+  "updated": 1769194122,
   "events": [
     {
       "league": "AUS A-League",
@@ -148,6 +148,17 @@
       "league": "CHN FA Cup",
       "status": "UPCOMING",
       "time": 1769225400,
+      "home": "Zhoushan Jiayu",
+      "away": "Guangzhou Rock Goal",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
       "home": "Dongxing Greenery",
       "away": "Hainan Shuangyu",
       "stream": {
@@ -178,6 +189,17 @@
       }
     },
     {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Zhoushan Jiayu",
+      "away": "Guangzhou Rock Goal",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG EFL Championship",
       "status": "LIVE",
       "time": 1769198400,
@@ -207,7 +229,7 @@
       "away": "Paris Saint Germain",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769178801.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769193745.flv"
       }
     },
     {
@@ -218,7 +240,7 @@
       "away": "Paris Saint Germain",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769178801.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769193745.flv"
       }
     },
     {
@@ -229,7 +251,7 @@
       "away": "Stade Lavallois MFC",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769178797.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769193645.flv"
       }
     },
     {
@@ -245,13 +267,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769194800,
       "home": "Pau FC",
       "away": "Grenoble",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769193678.flv"
       }
     },
     {
@@ -284,7 +306,7 @@
       "away": "Stade Lavallois MFC",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769178797.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769193645.flv"
       }
     },
     {
@@ -300,13 +322,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769194800,
       "home": "Pau FC",
       "away": "Grenoble",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769193678.flv"
       }
     },
     {
@@ -388,13 +410,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769256000,
       "home": "Karlsruher SC",
       "away": "Hertha Berlin",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769179517.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -432,13 +454,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769256000,
       "home": "Karlsruher SC",
       "away": "Hertha Berlin",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769179517.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -492,8 +514,8 @@
       "home": "Pacos de Ferreira",
       "away": "Viseu",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769190350.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367821.m3u8?txSecret=efab53bd6c8ede9ba5e493be0a1e40ea&txTime=6973FFCC"
       }
     },
     {
@@ -503,8 +525,8 @@
       "home": "Pacos de Ferreira",
       "away": "Viseu",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769190350.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367821.m3u8?txSecret=efab53bd6c8ede9ba5e493be0a1e40ea&txTime=6973FFCC"
       }
     },
     {
@@ -637,28 +659,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "U23 Asian Cup",
-      "status": "LIVE",
-      "time": 1769180400,
-      "home": "Vietnam U23",
-      "away": "South Korea U23",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4472833.m3u8?txSecret=5f60b9387f834b053fce6df265eeee5e&txTime=6973D59D"
-      }
-    },
-    {
-      "league": "U23 Asian Cup",
-      "status": "LIVE",
-      "time": 1769180400,
-      "home": "Vietnam U23",
-      "away": "South Korea U23",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4472833.m3u8?txSecret=5f60b9387f834b053fce6df265eeee5e&txTime=6973D59D"
       }
     }
   ]
