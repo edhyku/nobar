@@ -1,5 +1,5 @@
 {
-  "updated": 1769206596,
+  "updated": 1769208033,
   "events": [
     {
       "league": "AUS A-League",
@@ -530,11 +530,22 @@
       }
     },
     {
-      "league": "KSA Professional League",
+      "league": "ITA Serie A",
       "status": "UPCOMING",
-      "time": 1769261100,
-      "home": "Al Khaleej Club",
-      "away": "Al Shabab FC",
+      "time": 1769263200,
+      "home": "Como",
+      "away": "Torino",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769263200,
+      "home": "Como",
+      "away": "Torino",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -552,25 +563,14 @@
       }
     },
     {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769199300,
-      "home": "Casa Pia AC",
-      "away": "AVS Futebol SAD",
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1769261100,
+      "home": "Al Khaleej Club",
+      "away": "Al Shabab FC",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368952.m3u8?txSecret=3866a099f26693777acadc0d076e3ebb&txTime=6974335C"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769199300,
-      "home": "Casa Pia AC",
-      "away": "AVS Futebol SAD",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368952.m3u8?txSecret=3866a099f26693777acadc0d076e3ebb&txTime=6974335C"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
