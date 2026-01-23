@@ -1,5 +1,5 @@
 {
-  "updated": 1769161661,
+  "updated": 1769162471,
   "events": [
     {
       "league": "AUS A-League",
@@ -14,13 +14,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769227200,
       "home": "Auckland FC",
       "away": "Central Coast Mariners",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769154511.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -58,13 +58,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769227200,
       "home": "Auckland FC",
       "away": "Central Coast Mariners",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769154511.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -91,17 +91,6 @@
     },
     {
       "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769155200,
-      "home": "Brisbane Roar Women",
-      "away": "Canberra United Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live2.trendgallary.com/live/63685083_ffadb5c0ff837ba8a91a18e4ddf212b4.m3u8"
-      }
-    },
-    {
-      "league": "AUS W-League",
       "status": "UPCOMING",
       "time": 1769234400,
       "home": "Central Coast Mariners women",
@@ -109,17 +98,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769155200,
-      "home": "Brisbane Roar Women",
-      "away": "Canberra United Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live2.trendgallary.com/live/63685083_ffadb5c0ff837ba8a91a18e4ddf212b4.m3u8"
       }
     },
     {
@@ -268,6 +246,17 @@
     {
       "league": "GER Bundesliga 2",
       "status": "UPCOMING",
+      "time": 1769256000,
+      "home": "Hannover 96",
+      "away": "Fortuna Dusseldorf",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
       "time": 1769189400,
       "home": "Arminia Bielefeld",
       "away": "Holstein Kiel",
@@ -282,6 +271,17 @@
       "time": 1769189400,
       "home": "SV Darmstadt 98",
       "away": "1. FC Nürnberg",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769256000,
+      "home": "Hannover 96",
+      "away": "Fortuna Dusseldorf",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -295,7 +295,7 @@
       "away": "Borneo FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/62082902_a024c0821b4717e43c8918b977df3b22.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4379331.m3u8?txSecret=7353dd63f174c4da1c3071d41b6b21f1&txTime=69738BC7"
       }
     },
     {
@@ -317,7 +317,7 @@
       "away": "Borneo FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/62082902_a024c0821b4717e43c8918b977df3b22.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4379331.m3u8?txSecret=7353dd63f174c4da1c3071d41b6b21f1&txTime=69738BC7"
       }
     },
     {
