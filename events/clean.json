@@ -1,5 +1,5 @@
 {
-  "updated": 1769152829,
+  "updated": 1769154300,
   "events": [
     {
       "league": "AUS A-League",
@@ -15,6 +15,39 @@
     {
       "league": "AUS A-League",
       "status": "UPCOMING",
+      "time": 1769227200,
+      "home": "Auckland FC",
+      "away": "Central Coast Mariners",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "AUS A-League",
+      "status": "UPCOMING",
+      "time": 1769234400,
+      "home": "Brisbane Roar",
+      "away": "Adelaide United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "AUS A-League",
+      "status": "LIVE",
+      "time": 1769243700,
+      "home": "Macarthur FC",
+      "away": "Melbourne City",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317338_1769148762.flv"
+      }
+    },
+    {
+      "league": "AUS A-League",
+      "status": "UPCOMING",
       "time": 1769157300,
       "home": "Newcastle Jets",
       "away": "Wellington Phoenix",
@@ -24,14 +57,36 @@
       }
     },
     {
-      "league": "AUS W-League",
+      "league": "AUS A-League",
       "status": "UPCOMING",
-      "time": 1769155200,
-      "home": "Brisbane Roar Women",
-      "away": "Canberra United Women",
+      "time": 1769227200,
+      "home": "Auckland FC",
+      "away": "Central Coast Mariners",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "AUS A-League",
+      "status": "UPCOMING",
+      "time": 1769234400,
+      "home": "Brisbane Roar",
+      "away": "Adelaide United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "AUS A-League",
+      "status": "LIVE",
+      "time": 1769243700,
+      "home": "Macarthur FC",
+      "away": "Melbourne City",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317338_1769148762.flv"
       }
     },
     {
@@ -46,22 +101,33 @@
       }
     },
     {
-      "league": "BEL Pro League",
+      "league": "AUS W-League",
       "status": "UPCOMING",
-      "time": 1769197500,
-      "home": "Standard Liege",
-      "away": "KAA Gent",
+      "time": 1769234400,
+      "home": "Central Coast Mariners women",
+      "away": "WS Wanderers Women",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "BEL Pro League",
+      "league": "AUS W-League",
       "status": "UPCOMING",
-      "time": 1769197500,
-      "home": "Standard Liege",
-      "away": "KAA Gent",
+      "time": 1769155200,
+      "home": "Brisbane Roar Women",
+      "away": "Canberra United Women",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "AUS W-League",
+      "status": "UPCOMING",
+      "time": 1769234400,
+      "home": "Central Coast Mariners women",
+      "away": "WS Wanderers Women",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -106,17 +172,6 @@
       "time": 1769194800,
       "home": "AJ Auxerre",
       "away": "Paris Saint Germain",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "UPCOMING",
-      "time": 1769194800,
-      "home": "Amiens",
-      "away": "Stade Lavallois MFC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -128,28 +183,6 @@
       "time": 1769194800,
       "home": "Annecy",
       "away": "Clermont",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "UPCOMING",
-      "time": 1769194800,
-      "home": "Bastia",
-      "away": "Montpellier Hérault SC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "UPCOMING",
-      "time": 1769194800,
-      "home": "Nancy",
-      "away": "Rodez Aveyron",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -170,41 +203,8 @@
       "league": "FRA Ligue 2",
       "status": "UPCOMING",
       "time": 1769194800,
-      "home": "Amiens",
-      "away": "Stade Lavallois MFC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "UPCOMING",
-      "time": 1769194800,
       "home": "Annecy",
       "away": "Clermont",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "UPCOMING",
-      "time": 1769194800,
-      "home": "Bastia",
-      "away": "Montpellier Hérault SC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "UPCOMING",
-      "time": 1769194800,
-      "home": "Nancy",
-      "away": "Rodez Aveyron",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -574,28 +574,6 @@
       }
     },
     {
-      "league": "SPA Segunda Division",
-      "status": "UPCOMING",
-      "time": 1769196600,
-      "home": "Malaga",
-      "away": "Burgos CF",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA Segunda Division",
-      "status": "UPCOMING",
-      "time": 1769196600,
-      "home": "Malaga",
-      "away": "Burgos CF",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
       "league": "TUR First League",
       "status": "UPCOMING",
       "time": 1769187600,
@@ -631,9 +609,31 @@
     {
       "league": "TUR Super League",
       "status": "UPCOMING",
+      "time": 1769254200,
+      "home": "Kayserispor",
+      "away": "Başakşehir Futbol Kulübü",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
       "time": 1769187600,
       "home": "Trabzonspor",
       "away": "Kasimpasa",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
+      "time": 1769254200,
+      "home": "Kayserispor",
+      "away": "Başakşehir Futbol Kulübü",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
