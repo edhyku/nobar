@@ -1,5 +1,5 @@
 {
-  "updated": 1769195797,
+  "updated": 1769197113,
   "events": [
     {
       "league": "AUS A-League",
@@ -180,6 +180,28 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Shenzhen Keysida",
+      "away": "Changle Jingangtui Football Club",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Shandong Qiutan",
+      "away": "Nantong Home Textile City",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
       "time": 1769225400,
       "home": "Dongxing Greenery",
       "away": "Hainan Shuangyu",
@@ -244,6 +266,28 @@
       }
     },
     {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Shenzhen Keysida",
+      "away": "Changle Jingangtui Football Club",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Shandong Qiutan",
+      "away": "Nantong Home Textile City",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG EFL Championship",
       "status": "LIVE",
       "time": 1769198400,
@@ -333,13 +377,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769194800,
       "home": "Nancy",
       "away": "Rodez Aveyron",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://play1.clomidx.com/live/11113951583_3881032925_adaptive.m3u8"
       }
     },
     {
@@ -388,57 +432,35 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769194800,
       "home": "Nancy",
       "away": "Rodez Aveyron",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://play1.clomidx.com/live/11113951583_3881032925_adaptive.m3u8"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769196600,
       "home": "FC St. Pauli",
       "away": "Hamburger SV",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347525.m3u8?txSecret=7bcecfb6baa5b98cb76fa0e5d3a3538e&txTime=69740DE3"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769196600,
       "home": "FC St. Pauli",
       "away": "Hamburger SV",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "LIVE",
-      "time": 1769189400,
-      "home": "Arminia Bielefeld",
-      "away": "Holstein Kiel",
-      "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355721.m3u8?txSecret=99348034bf6fadd0181cf0f08e4001f7&txTime=6973E616"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "LIVE",
-      "time": 1769189400,
-      "home": "SV Darmstadt 98",
-      "away": "1. FC Nürnberg",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355722.m3u8?txSecret=273ac3bcd8bbc1cace25860ec2de8438&txTime=6973E616"
+        "url": "https://live.vivo200.com/live/sd-1-4347525.m3u8?txSecret=7bcecfb6baa5b98cb76fa0e5d3a3538e&txTime=69740DE3"
       }
     },
     {
@@ -461,28 +483,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "LIVE",
-      "time": 1769189400,
-      "home": "Arminia Bielefeld",
-      "away": "Holstein Kiel",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355721.m3u8?txSecret=99348034bf6fadd0181cf0f08e4001f7&txTime=6973E616"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "LIVE",
-      "time": 1769189400,
-      "home": "SV Darmstadt 98",
-      "away": "1. FC Nürnberg",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355722.m3u8?txSecret=273ac3bcd8bbc1cace25860ec2de8438&txTime=6973E616"
       }
     },
     {
@@ -515,7 +515,7 @@
       "away": "Pisa",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769188752.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769196472.flv"
       }
     },
     {
@@ -526,7 +526,7 @@
       "away": "Pisa",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769188752.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769196472.flv"
       }
     },
     {
@@ -619,24 +619,24 @@
     },
     {
       "league": "SPA Segunda Division",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769196600,
       "home": "Malaga",
       "away": "Burgos CF",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4361795.m3u8?txSecret=e91c0b08ee3aeed7c35ed0cccba221b8&txTime=69740DE3"
       }
     },
     {
       "league": "SPA Segunda Division",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769196600,
       "home": "Malaga",
       "away": "Burgos CF",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4361795.m3u8?txSecret=e91c0b08ee3aeed7c35ed0cccba221b8&txTime=69740DE3"
       }
     },
     {
