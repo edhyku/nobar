@@ -1,15 +1,15 @@
 {
-  "updated": 1769125982,
+  "updated": 1769132878,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769157300,
       "home": "Newcastle Jets",
       "away": "Wellington Phoenix",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769127234.flv"
       }
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769157300,
       "home": "Newcastle Jets",
       "away": "Wellington Phoenix",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769127234.flv"
       }
     },
     {
@@ -421,24 +421,24 @@
     },
     {
       "league": "INT FRL",
-      "status": "UPCOMING",
-      "time": 1769130000,
+      "status": "LIVE",
+      "time": 1769130600,
       "home": "Panama",
       "away": "Mexico",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4478720.m3u8?txSecret=8bcf1c05a9c216c3580bb61da7953cc5&txTime=69730C0D"
       }
     },
     {
       "league": "INT FRL",
-      "status": "UPCOMING",
-      "time": 1769130000,
+      "status": "LIVE",
+      "time": 1769130600,
       "home": "Panama",
       "away": "Mexico",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4478720.m3u8?txSecret=8bcf1c05a9c216c3580bb61da7953cc5&txTime=69730C0D"
       }
     },
     {
