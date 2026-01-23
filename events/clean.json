@@ -1,5 +1,5 @@
 {
-  "updated": 1769202797,
+  "updated": 1769204224,
   "events": [
     {
       "league": "AUS A-League",
@@ -399,6 +399,17 @@
     },
     {
       "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769257800,
+      "home": "Millwall",
+      "away": "Charlton Athletic",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
       "status": "LIVE",
       "time": 1769198400,
       "home": "Derby County",
@@ -420,47 +431,36 @@
       }
     },
     {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769257800,
+      "home": "Millwall",
+      "away": "Charlton Athletic",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769257800,
       "home": "West Ham United",
       "away": "Sunderland",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769195936.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769257800,
       "home": "West Ham United",
       "away": "Sunderland",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769195936.flv"
-      }
-    },
-    {
-      "league": "GER Bundesliga",
-      "status": "LIVE",
-      "time": 1769196600,
-      "home": "FC St. Pauli",
-      "away": "Hamburger SV",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347525.m3u8?txSecret=7bcecfb6baa5b98cb76fa0e5d3a3538e&txTime=69740DE3"
-      }
-    },
-    {
-      "league": "GER Bundesliga",
-      "status": "LIVE",
-      "time": 1769196600,
-      "home": "FC St. Pauli",
-      "away": "Hamburger SV",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347525.m3u8?txSecret=7bcecfb6baa5b98cb76fa0e5d3a3538e&txTime=69740DE3"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -608,6 +608,17 @@
     },
     {
       "league": "SPA La Liga",
+      "status": "UPCOMING",
+      "time": 1769259600,
+      "home": "Rayo Vallecano",
+      "away": "CA Osasuna",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA La Liga",
       "status": "LIVE",
       "time": 1769198400,
       "home": "Levante",
@@ -618,25 +629,14 @@
       }
     },
     {
-      "league": "SPA Segunda Division",
-      "status": "LIVE",
-      "time": 1769196600,
-      "home": "Malaga",
-      "away": "Burgos CF",
+      "league": "SPA La Liga",
+      "status": "UPCOMING",
+      "time": 1769259600,
+      "home": "Rayo Vallecano",
+      "away": "CA Osasuna",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live2.trendgallary.com/live/61623528_81b1424c1740d2ea287cf224715d9b96.m3u8"
-      }
-    },
-    {
-      "league": "SPA Segunda Division",
-      "status": "LIVE",
-      "time": 1769196600,
-      "home": "Malaga",
-      "away": "Burgos CF",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live2.trendgallary.com/live/61623528_81b1424c1740d2ea287cf224715d9b96.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
