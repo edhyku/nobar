@@ -1,5 +1,5 @@
 {
-  "updated": 1769188458,
+  "updated": 1769190149,
   "events": [
     {
       "league": "AUS A-League",
@@ -137,6 +137,17 @@
       "league": "CHN FA Cup",
       "status": "UPCOMING",
       "time": 1769225400,
+      "home": "Shenzhen Xingjun",
+      "away": "Shanxi Sanjin",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
       "home": "Dongxing Greenery",
       "away": "Hainan Shuangyu",
       "stream": {
@@ -156,11 +167,11 @@
       }
     },
     {
-      "league": "ENG EFL Championship",
+      "league": "CHN FA Cup",
       "status": "UPCOMING",
-      "time": 1769198400,
-      "home": "Derby County",
-      "away": "West Bromwich Albion",
+      "time": 1769225400,
+      "home": "Shenzhen Xingjun",
+      "away": "Shanxi Sanjin",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -168,13 +179,24 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769198400,
       "home": "Derby County",
       "away": "West Bromwich Albion",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769189759.flv"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "LIVE",
+      "time": 1769198400,
+      "home": "Derby County",
+      "away": "West Bromwich Albion",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769189759.flv"
       }
     },
     {
@@ -197,6 +219,17 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769178801.flv"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
+      "status": "LIVE",
+      "time": 1769194800,
+      "home": "Amiens",
+      "away": "Stade Lavallois MFC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769178797.flv"
       }
     },
     {
@@ -216,17 +249,6 @@
       "time": 1769194800,
       "home": "Pau FC",
       "away": "Grenoble",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "UPCOMING",
-      "time": 1769194800,
-      "home": "Amiens",
-      "away": "Stade Lavallois MFC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -256,6 +278,17 @@
     },
     {
       "league": "FRA Ligue 2",
+      "status": "LIVE",
+      "time": 1769194800,
+      "home": "Amiens",
+      "away": "Stade Lavallois MFC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769178797.flv"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
       "status": "UPCOMING",
       "time": 1769194800,
       "home": "Annecy",
@@ -271,17 +304,6 @@
       "time": 1769194800,
       "home": "Pau FC",
       "away": "Grenoble",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "UPCOMING",
-      "time": 1769194800,
-      "home": "Amiens",
-      "away": "Stade Lavallois MFC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -333,13 +355,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769189400,
       "home": "Arminia Bielefeld",
       "away": "Holstein Kiel",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355721.m3u8?txSecret=99348034bf6fadd0181cf0f08e4001f7&txTime=6973E616"
       }
     },
     {
@@ -349,8 +371,8 @@
       "home": "SV Darmstadt 98",
       "away": "1. FC Nürnberg",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769181627.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355722.m3u8?txSecret=273ac3bcd8bbc1cace25860ec2de8438&txTime=6973E616"
       }
     },
     {
@@ -377,13 +399,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769189400,
       "home": "Arminia Bielefeld",
       "away": "Holstein Kiel",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355721.m3u8?txSecret=99348034bf6fadd0181cf0f08e4001f7&txTime=6973E616"
       }
     },
     {
@@ -393,8 +415,8 @@
       "home": "SV Darmstadt 98",
       "away": "1. FC Nürnberg",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769181627.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355722.m3u8?txSecret=273ac3bcd8bbc1cace25860ec2de8438&txTime=6973E616"
       }
     },
     {
@@ -427,7 +449,7 @@
       "away": "Pisa",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769186897.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769188752.flv"
       }
     },
     {
@@ -438,29 +460,7 @@
       "away": "Pisa",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769186897.flv"
-      }
-    },
-    {
-      "league": "JOR Premier League",
-      "status": "LIVE",
-      "time": 1769182200,
-      "home": "AL Salt",
-      "away": "Al Faisaly",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/67805810_5671dd330c3dfe786fb12475db0b6553.m3u8"
-      }
-    },
-    {
-      "league": "JOR Premier League",
-      "status": "LIVE",
-      "time": 1769182200,
-      "home": "AL Salt",
-      "away": "Al Faisaly",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/67805810_5671dd330c3dfe786fb12475db0b6553.m3u8"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769188752.flv"
       }
     },
     {
@@ -580,8 +580,8 @@
       "home": "Adana Demirspor",
       "away": "Bandirmaspor",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769186897.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100326.m3u8?txSecret=0728e2cd8d5ad490aa441dae059dbfad&txTime=6973B905&sign=f3d3246bcd33e9da"
       }
     },
     {
@@ -591,8 +591,8 @@
       "home": "Adana Demirspor",
       "away": "Bandirmaspor",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769186897.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100326.m3u8?txSecret=0728e2cd8d5ad490aa441dae059dbfad&txTime=6973B905&sign=f3d3246bcd33e9da"
       }
     },
     {
