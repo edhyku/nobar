@@ -1,5 +1,5 @@
 {
-  "updated": 1769171328,
+  "updated": 1769174826,
   "events": [
     {
       "league": "AUS A-League",
@@ -113,24 +113,24 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769194800,
       "home": "AJ Auxerre",
       "away": "Paris Saint Germain",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769172479.flv"
       }
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769194800,
       "home": "AJ Auxerre",
       "away": "Paris Saint Germain",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769172479.flv"
       }
     },
     {
@@ -146,13 +146,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769194800,
       "home": "Pau FC",
       "away": "Grenoble",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769173000.flv"
       }
     },
     {
@@ -179,13 +179,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769194800,
       "home": "Pau FC",
       "away": "Grenoble",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769173000.flv"
       }
     },
     {
@@ -449,18 +449,18 @@
       "away": "Kelantan The Real Warriors",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4475133.m3u8?txSecret=9c5ddd57e9bad46ea96baeecec2b4c95&txTime=69739D61"
+        "url": "https://live.vivo200.com/live/sd-1-4475133.m3u8?txSecret=b595621774e67b80d3e8d9df67ae7f10&txTime=6973B97B"
       }
     },
     {
       "league": "MAS Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769173200,
       "home": "Terengganu FC",
       "away": "UM-Damansara United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=0f79e5e2d7a5f36b8aff11549b3bd345&txTime=69737D43&sign=bc2264ba292c2fcd"
       }
     },
     {
@@ -471,18 +471,18 @@
       "away": "Kelantan The Real Warriors",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4475133.m3u8?txSecret=9c5ddd57e9bad46ea96baeecec2b4c95&txTime=69739D61"
+        "url": "https://live.vivo200.com/live/sd-1-4475133.m3u8?txSecret=b595621774e67b80d3e8d9df67ae7f10&txTime=6973B97B"
       }
     },
     {
       "league": "MAS Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769173200,
       "home": "Terengganu FC",
       "away": "UM-Damansara United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=0f79e5e2d7a5f36b8aff11549b3bd345&txTime=69737D43&sign=bc2264ba292c2fcd"
       }
     },
     {
