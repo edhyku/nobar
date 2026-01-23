@@ -1,15 +1,15 @@
 {
-  "updated": 1769174826,
+  "updated": 1769176780,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769227200,
       "home": "Auckland FC",
       "away": "Central Coast Mariners",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769167025.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769227200,
       "home": "Auckland FC",
       "away": "Central Coast Mariners",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769167025.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -460,7 +460,7 @@
       "away": "UM-Damansara United",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=0f79e5e2d7a5f36b8aff11549b3bd345&txTime=69737D43&sign=bc2264ba292c2fcd"
+        "url": "https://live.trendgallary.com/live/67694834_4eb2578ea2fef0ed4eac6cdeb46dd9d2.m3u8"
       }
     },
     {
@@ -482,7 +482,7 @@
       "away": "UM-Damansara United",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=0f79e5e2d7a5f36b8aff11549b3bd345&txTime=69737D43&sign=bc2264ba292c2fcd"
+        "url": "https://live.trendgallary.com/live/67694834_4eb2578ea2fef0ed4eac6cdeb46dd9d2.m3u8"
       }
     },
     {
