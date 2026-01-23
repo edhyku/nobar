@@ -1,5 +1,5 @@
 {
-  "updated": 1769199899,
+  "updated": 1769201377,
   "events": [
     {
       "league": "AUS A-League",
@@ -625,7 +625,7 @@
       "away": "Burgos CF",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4361795.m3u8?txSecret=e91c0b08ee3aeed7c35ed0cccba221b8&txTime=69740DE3"
+        "url": "https://live.vivo200.com/live/sd-1-4361795.m3u8?txSecret=5389b2703b00e41c1406534b49741449&txTime=6974254C"
       }
     },
     {
@@ -636,7 +636,7 @@
       "away": "Burgos CF",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4361795.m3u8?txSecret=e91c0b08ee3aeed7c35ed0cccba221b8&txTime=69740DE3"
+        "url": "https://live.vivo200.com/live/sd-1-4361795.m3u8?txSecret=5389b2703b00e41c1406534b49741449&txTime=6974254C"
       }
     },
     {
