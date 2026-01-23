@@ -8422,7 +8422,7 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "87%",
+            "humidity": "86%",
             "pressure": "742mmHg",
             "temperature": "9°C",
             "weather": 10,
@@ -8660,9 +8660,9 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "70%",
+            "humidity": "69%",
             "pressure": "749mmHg",
-            "temperature": "9°C",
+            "temperature": "8°C",
             "weather": 1,
             "wind": "3.7m/s"
           },
@@ -8859,7 +8859,7 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "87%",
+            "humidity": "86%",
             "pressure": "742mmHg",
             "temperature": "9°C",
             "weather": 10,
@@ -9097,9 +9097,9 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "70%",
+            "humidity": "69%",
             "pressure": "749mmHg",
-            "temperature": "9°C",
+            "temperature": "8°C",
             "weather": 1,
             "wind": "3.7m/s"
           },
@@ -9587,9 +9587,9 @@
           },
           "competition_id": 130,
           "environment": {
-            "humidity": "73%",
+            "humidity": "75%",
             "pressure": "752mmHg",
-            "temperature": "2°C",
+            "temperature": "1°C",
             "weather": 1,
             "wind": "2.3m/s"
           },
@@ -10298,9 +10298,9 @@
           },
           "competition_id": 130,
           "environment": {
-            "humidity": "73%",
+            "humidity": "75%",
             "pressure": "752mmHg",
-            "temperature": "2°C",
+            "temperature": "1°C",
             "weather": 1,
             "wind": "2.3m/s"
           },
@@ -10763,7 +10763,7 @@
           "environment": {
             "humidity": "79%",
             "pressure": "753mmHg",
-            "temperature": "7°C",
+            "temperature": "6°C",
             "weather": 7,
             "wind": "1.8m/s"
           },
@@ -11013,7 +11013,7 @@
           "environment": {
             "humidity": "79%",
             "pressure": "753mmHg",
-            "temperature": "7°C",
+            "temperature": "6°C",
             "weather": 7,
             "wind": "1.8m/s"
           },
