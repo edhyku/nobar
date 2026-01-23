@@ -1,5 +1,5 @@
 {
-  "updated": 1769186585,
+  "updated": 1769188458,
   "events": [
     {
       "league": "AUS A-League",
@@ -112,6 +112,50 @@
       }
     },
     {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Dongxing Greenery",
+      "away": "Hainan Shuangyu",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Shanxi Xiangyu FC",
+      "away": "Guizhou Feiying",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Dongxing Greenery",
+      "away": "Hainan Shuangyu",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769225400,
+      "home": "Shanxi Xiangyu FC",
+      "away": "Guizhou Feiying",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
       "time": 1769198400,
@@ -376,47 +420,25 @@
       }
     },
     {
-      "league": "INT CF",
-      "status": "LIVE",
-      "time": 1769182200,
-      "home": "Nashville",
-      "away": "Colorado Rapids",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=f025d5dee6ed6e91f87cf125b6497c5e&txTime=697398AD&sign=3ac9e9bf756c32e6"
-      }
-    },
-    {
-      "league": "INT CF",
-      "status": "LIVE",
-      "time": 1769182200,
-      "home": "Nashville",
-      "away": "Colorado Rapids",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=f025d5dee6ed6e91f87cf125b6497c5e&txTime=697398AD&sign=3ac9e9bf756c32e6"
-      }
-    },
-    {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769197500,
       "home": "Inter Milan",
       "away": "Pisa",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769186897.flv"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769197500,
       "home": "Inter Milan",
       "away": "Pisa",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769186897.flv"
       }
     },
     {
@@ -427,7 +449,7 @@
       "away": "Al Faisaly",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4478909.m3u8?txSecret=1aa695dd52de360689204b05a851ef3d&txTime=6973DA4C"
+        "url": "https://live.trendgallary.com/live/67805810_5671dd330c3dfe786fb12475db0b6553.m3u8"
       }
     },
     {
@@ -438,7 +460,7 @@
       "away": "Al Faisaly",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4478909.m3u8?txSecret=1aa695dd52de360689204b05a851ef3d&txTime=6973DA4C"
+        "url": "https://live.trendgallary.com/live/67805810_5671dd330c3dfe786fb12475db0b6553.m3u8"
       }
     },
     {
@@ -508,28 +530,6 @@
       }
     },
     {
-      "league": "ROM Super Liga",
-      "status": "LIVE",
-      "time": 1769180400,
-      "home": "Metaloglobus",
-      "away": "Arges",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4354364.m3u8?txSecret=35cc699a6e3549c59c99e8cb7eac43f2&txTime=6973D59D"
-      }
-    },
-    {
-      "league": "ROM Super Liga",
-      "status": "LIVE",
-      "time": 1769180400,
-      "home": "Metaloglobus",
-      "away": "Arges",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4354364.m3u8?txSecret=35cc699a6e3549c59c99e8cb7eac43f2&txTime=6973D59D"
-      }
-    },
-    {
       "league": "SPA La Liga",
       "status": "UPCOMING",
       "time": 1769198400,
@@ -575,35 +575,35 @@
     },
     {
       "league": "TUR First League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769187600,
       "home": "Adana Demirspor",
       "away": "Bandirmaspor",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769186897.flv"
       }
     },
     {
       "league": "TUR First League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769187600,
       "home": "Adana Demirspor",
       "away": "Bandirmaspor",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769186897.flv"
       }
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769187600,
       "home": "Trabzonspor",
       "away": "Kasimpasa",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4366084.m3u8?txSecret=9fe1895fe43c7c0c953daa940f1358e3&txTime=6973E3AC"
       }
     },
     {
@@ -619,13 +619,13 @@
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769187600,
       "home": "Trabzonspor",
       "away": "Kasimpasa",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4366084.m3u8?txSecret=9fe1895fe43c7c0c953daa940f1358e3&txTime=6973E3AC"
       }
     },
     {
