@@ -1,15 +1,15 @@
 {
-  "updated": 1769166011,
+  "updated": 1769167883,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769227200,
       "home": "Auckland FC",
       "away": "Central Coast Mariners",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769167025.flv"
       }
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769227200,
       "home": "Auckland FC",
       "away": "Central Coast Mariners",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769167025.flv"
       }
     },
     {
