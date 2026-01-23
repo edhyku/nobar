@@ -1,5 +1,5 @@
 {
-  "updated": 1769147895,
+  "updated": 1769151018,
   "events": [
     {
       "league": "AUS A-League",
@@ -68,72 +68,6 @@
       }
     },
     {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Dongxing Greenery",
-      "away": "Hainan Shuangyu",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Shanxi Xiangyu FC",
-      "away": "Guizhou Feiying",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Shenzhen Xingjun",
-      "away": "Shanxi Sanjin",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Dongxing Greenery",
-      "away": "Hainan Shuangyu",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Shanxi Xiangyu FC",
-      "away": "Guizhou Feiying",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Shenzhen Xingjun",
-      "away": "Shanxi Sanjin",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
       "time": 1769198400,
@@ -552,6 +486,50 @@
       }
     },
     {
+      "league": "NED Eerste Divisie",
+      "status": "UPCOMING",
+      "time": 1769194800,
+      "home": "SC Cambuur Leeuwarden",
+      "away": "FC Eindhoven",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eerste Divisie",
+      "status": "UPCOMING",
+      "time": 1769194800,
+      "home": "Roda JC",
+      "away": "FC Oss",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eerste Divisie",
+      "status": "UPCOMING",
+      "time": 1769194800,
+      "home": "SC Cambuur Leeuwarden",
+      "away": "FC Eindhoven",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eerste Divisie",
+      "status": "UPCOMING",
+      "time": 1769194800,
+      "home": "Roda JC",
+      "away": "FC Oss",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ROM Super Liga",
       "status": "UPCOMING",
       "time": 1769180400,
@@ -612,6 +590,28 @@
       "time": 1769196600,
       "home": "Malaga",
       "away": "Burgos CF",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR First League",
+      "status": "UPCOMING",
+      "time": 1769187600,
+      "home": "Adana Demirspor",
+      "away": "Bandirmaspor",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR First League",
+      "status": "UPCOMING",
+      "time": 1769187600,
+      "home": "Adana Demirspor",
+      "away": "Bandirmaspor",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
