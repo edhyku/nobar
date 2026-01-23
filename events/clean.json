@@ -1,5 +1,5 @@
 {
-  "updated": 1769197947,
+  "updated": 1769198934,
   "events": [
     {
       "league": "AUS A-League",
@@ -202,6 +202,17 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Liaocheng Legend",
+      "away": "Tianjin Kaiser",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
       "time": 1769225400,
       "home": "Dongxing Greenery",
       "away": "Hainan Shuangyu",
@@ -288,14 +299,14 @@
       }
     },
     {
-      "league": "ENG EFL Championship",
-      "status": "LIVE",
-      "time": 1769198400,
-      "home": "Derby County",
-      "away": "West Bromwich Albion",
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Liaocheng Legend",
+      "away": "Tianjin Kaiser",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769197632.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -305,8 +316,19 @@
       "home": "Derby County",
       "away": "West Bromwich Albion",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769197632.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351402.m3u8?txSecret=16a0df85dcfea999ee56cbae2bfc9135&txTime=697414F1"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "LIVE",
+      "time": 1769198400,
+      "home": "Derby County",
+      "away": "West Bromwich Albion",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351402.m3u8?txSecret=16a0df85dcfea999ee56cbae2bfc9135&txTime=697414F1"
       }
     },
     {
@@ -531,46 +553,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769199300,
       "home": "Casa Pia AC",
       "away": "AVS Futebol SAD",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769190350.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769199300,
       "home": "Casa Pia AC",
       "away": "AVS Futebol SAD",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769190350.flv"
-      }
-    },
-    {
-      "league": "Liga Portugal 2",
-      "status": "LIVE",
-      "time": 1769191200,
-      "home": "Pacos de Ferreira",
-      "away": "Viseu",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4367821.m3u8?txSecret=efab53bd6c8ede9ba5e493be0a1e40ea&txTime=6973FFCC"
-      }
-    },
-    {
-      "league": "Liga Portugal 2",
-      "status": "LIVE",
-      "time": 1769191200,
-      "home": "Pacos de Ferreira",
-      "away": "Viseu",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4367821.m3u8?txSecret=efab53bd6c8ede9ba5e493be0a1e40ea&txTime=6973FFCC"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -602,8 +602,8 @@
       "home": "Levante",
       "away": "Elche",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769197631.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358868.m3u8?txSecret=99ffa908b2a00f8842dd517461da6a49&txTime=697414F1"
       }
     },
     {
@@ -613,8 +613,8 @@
       "home": "Levante",
       "away": "Elche",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769197631.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358868.m3u8?txSecret=99ffa908b2a00f8842dd517461da6a49&txTime=697414F1"
       }
     },
     {
