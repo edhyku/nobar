@@ -1,5 +1,5 @@
 {
-  "updated": 1769201377,
+  "updated": 1769202797,
   "events": [
     {
       "league": "AUS A-League",
@@ -97,7 +97,7 @@
       "away": "KAA Gent",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347167.m3u8?txSecret=42e1725c9ca2fe827c47bd978010b0c1&txTime=697414F1"
+        "url": "https://live1.trendgallary.com/live/61358999_f594ae8a7b4265bab36f19f6f24f5a80.m3u8"
       }
     },
     {
@@ -108,7 +108,7 @@
       "away": "KAA Gent",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347167.m3u8?txSecret=42e1725c9ca2fe827c47bd978010b0c1&txTime=697414F1"
+        "url": "https://live1.trendgallary.com/live/61358999_f594ae8a7b4265bab36f19f6f24f5a80.m3u8"
       }
     },
     {
@@ -213,6 +213,39 @@
     {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Fujian Quanzhou Qinggong",
+      "away": "Guangdong Red Treasure Football Club",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Guangdong Wuchuan Youth",
+      "away": "Xiamen Chengyi",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Shanxi TYUT",
+      "away": "Wuhan Lianzhen",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
       "time": 1769225400,
       "home": "Dongxing Greenery",
       "away": "Hainan Shuangyu",
@@ -310,14 +343,36 @@
       }
     },
     {
-      "league": "ENG EFL Championship",
-      "status": "LIVE",
-      "time": 1769198400,
-      "home": "Derby County",
-      "away": "West Bromwich Albion",
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Fujian Quanzhou Qinggong",
+      "away": "Guangdong Red Treasure Football Club",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351402.m3u8?txSecret=16a0df85dcfea999ee56cbae2bfc9135&txTime=697414F1"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Guangdong Wuchuan Youth",
+      "away": "Xiamen Chengyi",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CHN FA Cup",
+      "status": "UPCOMING",
+      "time": 1769238000,
+      "home": "Shanxi TYUT",
+      "away": "Wuhan Lianzhen",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -332,135 +387,58 @@
       }
     },
     {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "AJ Auxerre",
-      "away": "Paris Saint Germain",
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769257800,
+      "home": "Middlesbrough",
+      "away": "Preston North End",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61526312_e0b7fd01961094f46241cce3c9858da7.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "FRA Ligue 1",
+      "league": "ENG EFL Championship",
       "status": "LIVE",
-      "time": 1769194800,
-      "home": "AJ Auxerre",
-      "away": "Paris Saint Germain",
+      "time": 1769198400,
+      "home": "Derby County",
+      "away": "West Bromwich Albion",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61526312_e0b7fd01961094f46241cce3c9858da7.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4351402.m3u8?txSecret=16a0df85dcfea999ee56cbae2bfc9135&txTime=697414F1"
       }
     },
     {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "Amiens",
-      "away": "Stade Lavallois MFC",
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769257800,
+      "home": "Middlesbrough",
+      "away": "Preston North End",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4401067.m3u8?txSecret=d43c86488c8a25e5340e102740d2dbeb&txTime=69741033"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "FRA Ligue 2",
+      "league": "ENG Premier League",
       "status": "LIVE",
-      "time": 1769194800,
-      "home": "Annecy",
-      "away": "Clermont",
+      "time": 1769257800,
+      "home": "West Ham United",
+      "away": "Sunderland",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4401068.m3u8?txSecret=05d984771c41cbff3d66bd7640cf25a6&txTime=69741033"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769195936.flv"
       }
     },
     {
-      "league": "FRA Ligue 2",
+      "league": "ENG Premier League",
       "status": "LIVE",
-      "time": 1769194800,
-      "home": "Pau FC",
-      "away": "Grenoble",
+      "time": 1769257800,
+      "home": "West Ham United",
+      "away": "Sunderland",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4401073.m3u8?txSecret=243186706366faa420ec37be18340049&txTime=69741033"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "Bastia",
-      "away": "Montpellier Hérault SC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4401069.m3u8?txSecret=658392589227ba77e7b0e48805644768&txTime=69741033"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "Nancy",
-      "away": "Rodez Aveyron",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61527708_5747ad0721707b347985c8e7bd53c026.m3u8"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "Amiens",
-      "away": "Stade Lavallois MFC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4401067.m3u8?txSecret=d43c86488c8a25e5340e102740d2dbeb&txTime=69741033"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "Annecy",
-      "away": "Clermont",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4401068.m3u8?txSecret=05d984771c41cbff3d66bd7640cf25a6&txTime=69741033"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "Pau FC",
-      "away": "Grenoble",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4401073.m3u8?txSecret=243186706366faa420ec37be18340049&txTime=69741033"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "Bastia",
-      "away": "Montpellier Hérault SC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4401069.m3u8?txSecret=658392589227ba77e7b0e48805644768&txTime=69741033"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "Nancy",
-      "away": "Rodez Aveyron",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61527708_5747ad0721707b347985c8e7bd53c026.m3u8"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769195936.flv"
       }
     },
     {
@@ -511,6 +489,17 @@
       "league": "GER Bundesliga 2",
       "status": "UPCOMING",
       "time": 1769256000,
+      "home": "SpVgg Greuther Fürth",
+      "away": "Eintracht Braunschweig",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769256000,
       "home": "Hannover 96",
       "away": "Fortuna Dusseldorf",
       "stream": {
@@ -530,14 +519,14 @@
       }
     },
     {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769197500,
-      "home": "Inter Milan",
-      "away": "Pisa",
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769256000,
+      "home": "SpVgg Greuther Fürth",
+      "away": "Eintracht Braunschweig",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339745.m3u8?txSecret=00d2ad4323437fc4b115a3abf4c86fc5&txTime=697414F1"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -548,7 +537,18 @@
       "away": "Pisa",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339745.m3u8?txSecret=00d2ad4323437fc4b115a3abf4c86fc5&txTime=697414F1"
+        "url": "https://live.trendgallary.com/live/61061373_e7d7ba8c6fb06be0a0323fd17919eb95.m3u8"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "LIVE",
+      "time": 1769197500,
+      "home": "Inter Milan",
+      "away": "Pisa",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/61061373_e7d7ba8c6fb06be0a0323fd17919eb95.m3u8"
       }
     },
     {
@@ -574,36 +574,25 @@
       }
     },
     {
-      "league": "NED Eerste Divisie",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "Roda JC",
-      "away": "FC Oss",
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769252400,
+      "home": "GD Chaves",
+      "away": "Lusitania FC",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426374.m3u8?txSecret=6a5c4dda35402ea98649fa33a4b200d7&txTime=69741033"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "NED Eerste Divisie",
-      "status": "LIVE",
-      "time": 1769194800,
-      "home": "Roda JC",
-      "away": "FC Oss",
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769252400,
+      "home": "GD Chaves",
+      "away": "Lusitania FC",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426374.m3u8?txSecret=6a5c4dda35402ea98649fa33a4b200d7&txTime=69741033"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769198400,
-      "home": "Levante",
-      "away": "Elche",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358868.m3u8?txSecret=99ffa908b2a00f8842dd517461da6a49&txTime=697414F1"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -614,7 +603,18 @@
       "away": "Elche",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358868.m3u8?txSecret=99ffa908b2a00f8842dd517461da6a49&txTime=697414F1"
+        "url": "https://live3.trendgallary.com/live/61624348_ef8998f3682969ba6a2d13bf711123ec.m3u8"
+      }
+    },
+    {
+      "league": "SPA La Liga",
+      "status": "LIVE",
+      "time": 1769198400,
+      "home": "Levante",
+      "away": "Elche",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live3.trendgallary.com/live/61624348_ef8998f3682969ba6a2d13bf711123ec.m3u8"
       }
     },
     {
@@ -625,7 +625,7 @@
       "away": "Burgos CF",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4361795.m3u8?txSecret=5389b2703b00e41c1406534b49741449&txTime=6974254C"
+        "url": "https://live2.trendgallary.com/live/61623528_81b1424c1740d2ea287cf224715d9b96.m3u8"
       }
     },
     {
@@ -636,7 +636,7 @@
       "away": "Burgos CF",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4361795.m3u8?txSecret=5389b2703b00e41c1406534b49741449&txTime=6974254C"
+        "url": "https://live2.trendgallary.com/live/61623528_81b1424c1740d2ea287cf224715d9b96.m3u8"
       }
     },
     {
