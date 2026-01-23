@@ -1,5 +1,5 @@
 {
-  "updated": 1769204224,
+  "updated": 1769205117,
   "events": [
     {
       "league": "AUS A-League",
@@ -90,28 +90,6 @@
       }
     },
     {
-      "league": "BEL Pro League",
-      "status": "LIVE",
-      "time": 1769197500,
-      "home": "Standard Liege",
-      "away": "KAA Gent",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/61358999_f594ae8a7b4265bab36f19f6f24f5a80.m3u8"
-      }
-    },
-    {
-      "league": "BEL Pro League",
-      "status": "LIVE",
-      "time": 1769197500,
-      "home": "Standard Liege",
-      "away": "KAA Gent",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/61358999_f594ae8a7b4265bab36f19f6f24f5a80.m3u8"
-      }
-    },
-    {
       "league": "CHN FA Cup",
       "status": "UPCOMING",
       "time": 1769225400,
@@ -464,6 +442,28 @@
       }
     },
     {
+      "league": "FRA Ligue 2",
+      "status": "UPCOMING",
+      "time": 1769259600,
+      "home": "Guingamp",
+      "away": "Troyes",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
+      "status": "UPCOMING",
+      "time": 1769259600,
+      "home": "Guingamp",
+      "away": "Troyes",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "GER Bundesliga 2",
       "status": "UPCOMING",
       "time": 1769256000,
@@ -530,25 +530,14 @@
       }
     },
     {
-      "league": "ITA Serie A",
+      "league": "Liga Portugal",
       "status": "LIVE",
-      "time": 1769197500,
-      "home": "Inter Milan",
-      "away": "Pisa",
+      "time": 1769199300,
+      "home": "Casa Pia AC",
+      "away": "AVS Futebol SAD",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61061373_e7d7ba8c6fb06be0a0323fd17919eb95.m3u8"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769197500,
-      "home": "Inter Milan",
-      "away": "Pisa",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61061373_e7d7ba8c6fb06be0a0323fd17919eb95.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4368952.m3u8?txSecret=3866a099f26693777acadc0d076e3ebb&txTime=6974335C"
       }
     },
     {
@@ -559,18 +548,7 @@
       "away": "AVS Futebol SAD",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368952.m3u8?txSecret=eb16e5e272ca287bba2d2346aefeb706&txTime=6974199B"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769199300,
-      "home": "Casa Pia AC",
-      "away": "AVS Futebol SAD",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368952.m3u8?txSecret=eb16e5e272ca287bba2d2346aefeb706&txTime=6974199B"
+        "url": "https://live.vivo200.com/live/sd-1-4368952.m3u8?txSecret=3866a099f26693777acadc0d076e3ebb&txTime=6974335C"
       }
     },
     {
@@ -634,6 +612,28 @@
       "time": 1769259600,
       "home": "Rayo Vallecano",
       "away": "CA Osasuna",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769259600,
+      "home": "Real Valladolid CF",
+      "away": "Albacete Balompié SAD",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769259600,
+      "home": "Real Valladolid CF",
+      "away": "Albacete Balompié SAD",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
