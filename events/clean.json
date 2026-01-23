@@ -1,5 +1,5 @@
 {
-  "updated": 1769159720,
+  "updated": 1769161661,
   "events": [
     {
       "league": "AUS A-League",
@@ -97,7 +97,7 @@
       "away": "Canberra United Women",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429287.m3u8?txSecret=80996807a427995156d994dfc72ae3af&txTime=69736FA8"
+        "url": "https://live2.trendgallary.com/live/63685083_ffadb5c0ff837ba8a91a18e4ddf212b4.m3u8"
       }
     },
     {
@@ -119,7 +119,7 @@
       "away": "Canberra United Women",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429287.m3u8?txSecret=80996807a427995156d994dfc72ae3af&txTime=69736FA8"
+        "url": "https://live2.trendgallary.com/live/63685083_ffadb5c0ff837ba8a91a18e4ddf212b4.m3u8"
       }
     },
     {
@@ -295,7 +295,7 @@
       "away": "Borneo FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4379331.m3u8?txSecret=e79ce2d505e345e5a8d60ed99d982832&txTime=6973732C"
+        "url": "https://live.trendgallary.com/live/62082902_a024c0821b4717e43c8918b977df3b22.m3u8"
       }
     },
     {
@@ -317,7 +317,7 @@
       "away": "Borneo FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4379331.m3u8?txSecret=e79ce2d505e345e5a8d60ed99d982832&txTime=6973732C"
+        "url": "https://live.trendgallary.com/live/62082902_a024c0821b4717e43c8918b977df3b22.m3u8"
       }
     },
     {
