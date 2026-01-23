@@ -1,5 +1,5 @@
 {
-  "updated": 1769180365,
+  "updated": 1769182615,
   "events": [
     {
       "league": "AUS A-League",
@@ -168,13 +168,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769194800,
       "home": "Pau FC",
       "away": "Grenoble",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769173000.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -223,13 +223,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769194800,
       "home": "Pau FC",
       "away": "Grenoble",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769173000.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -300,13 +300,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769189400,
       "home": "SV Darmstadt 98",
       "away": "1. FC Nürnberg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769181627.flv"
       }
     },
     {
@@ -344,13 +344,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769189400,
       "home": "SV Darmstadt 98",
       "away": "1. FC Nürnberg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769181627.flv"
       }
     },
     {
@@ -383,18 +383,18 @@
       "away": "Shanghai Shenhua FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4477315.m3u8?txSecret=0a2dbc6b96fc7059ae2ec9754c401b78&txTime=6973B991"
+        "url": "https://live.vivo200.com/live/sd-1-4477315.m3u8?txSecret=280bd94c02ce589b20779fb02ef63407&txTime=6973D59D"
       }
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769182200,
       "home": "Nashville",
       "away": "Colorado Rapids",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=f025d5dee6ed6e91f87cf125b6497c5e&txTime=697398AD&sign=3ac9e9bf756c32e6"
       }
     },
     {
@@ -405,18 +405,18 @@
       "away": "Shanghai Shenhua FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4477315.m3u8?txSecret=0a2dbc6b96fc7059ae2ec9754c401b78&txTime=6973B991"
+        "url": "https://live.vivo200.com/live/sd-1-4477315.m3u8?txSecret=280bd94c02ce589b20779fb02ef63407&txTime=6973D59D"
       }
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769182200,
       "home": "Nashville",
       "away": "Colorado Rapids",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=f025d5dee6ed6e91f87cf125b6497c5e&txTime=697398AD&sign=3ac9e9bf756c32e6"
       }
     },
     {
@@ -514,8 +514,8 @@
       "home": "Metaloglobus",
       "away": "Arges",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769179591.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4354364.m3u8?txSecret=35cc699a6e3549c59c99e8cb7eac43f2&txTime=6973D59D"
       }
     },
     {
@@ -525,8 +525,8 @@
       "home": "Metaloglobus",
       "away": "Arges",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769179591.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4354364.m3u8?txSecret=35cc699a6e3549c59c99e8cb7eac43f2&txTime=6973D59D"
       }
     },
     {
@@ -646,8 +646,8 @@
       "home": "Vietnam U23",
       "away": "South Korea U23",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769179517.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4472833.m3u8?txSecret=5f60b9387f834b053fce6df265eeee5e&txTime=6973D59D"
       }
     },
     {
@@ -657,8 +657,8 @@
       "home": "Vietnam U23",
       "away": "South Korea U23",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769179517.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4472833.m3u8?txSecret=5f60b9387f834b053fce6df265eeee5e&txTime=6973D59D"
       }
     }
   ]
