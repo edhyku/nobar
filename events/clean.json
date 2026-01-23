@@ -1,5 +1,5 @@
 {
-  "updated": 1769168974,
+  "updated": 1769170150,
   "events": [
     {
       "league": "AUS A-League",
@@ -234,13 +234,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769189400,
       "home": "SV Darmstadt 98",
       "away": "1. FC Nürnberg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769169603.flv"
       }
     },
     {
@@ -256,13 +256,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769256000,
       "home": "Karlsruher SC",
       "away": "Hertha Berlin",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769162749.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -278,13 +278,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769189400,
       "home": "SV Darmstadt 98",
       "away": "1. FC Nürnberg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769169603.flv"
       }
     },
     {
@@ -300,13 +300,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769256000,
       "home": "Karlsruher SC",
       "away": "Hertha Berlin",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769162749.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -316,8 +316,8 @@
       "home": "Persatuan Sepakbola Indonesia Jakarta",
       "away": "Madura United",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769168728.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4379365.m3u8?txSecret=6196dda6c520bebeeff1566abf98f748&txTime=69739D61"
       }
     },
     {
@@ -327,8 +327,8 @@
       "home": "Persatuan Sepakbola Indonesia Jakarta",
       "away": "Madura United",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769168728.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4379365.m3u8?txSecret=6196dda6c520bebeeff1566abf98f748&txTime=69739D61"
       }
     },
     {
@@ -344,13 +344,13 @@
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769182200,
       "home": "Nashville",
       "away": "Colorado Rapids",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769169603.flv"
       }
     },
     {
@@ -366,13 +366,13 @@
     },
     {
       "league": "INT CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769182200,
       "home": "Nashville",
       "away": "Colorado Rapids",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769169603.flv"
       }
     },
     {
@@ -443,13 +443,13 @@
     },
     {
       "league": "MAS Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769170500,
       "home": "Selangor FC",
       "away": "Kelantan The Real Warriors",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769169603.flv"
       }
     },
     {
@@ -465,13 +465,13 @@
     },
     {
       "league": "MAS Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769170500,
       "home": "Selangor FC",
       "away": "Kelantan The Real Warriors",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769169603.flv"
       }
     },
     {
@@ -641,24 +641,24 @@
     },
     {
       "league": "U23 Asian Cup",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769180400,
       "home": "Vietnam U23",
       "away": "South Korea U23",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769162749.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "U23 Asian Cup",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769180400,
       "home": "Vietnam U23",
       "away": "South Korea U23",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769162749.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     }
   ]
