@@ -11263,7 +11263,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "42%",
+            "humidity": "41%",
             "pressure": "763mmHg",
             "temperature": "20°C",
             "weather": 7,
@@ -11501,7 +11501,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "42%",
+            "humidity": "41%",
             "pressure": "763mmHg",
             "temperature": "20°C",
             "weather": 7,
@@ -13091,8 +13091,8 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "91%",
-            "pressure": "765mmHg",
+            "humidity": "90%",
+            "pressure": "764mmHg",
             "temperature": "3°C",
             "weather": 7,
             "wind": "1.5m/s"
@@ -13341,8 +13341,8 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "91%",
-            "pressure": "765mmHg",
+            "humidity": "90%",
+            "pressure": "764mmHg",
             "temperature": "3°C",
             "weather": 7,
             "wind": "1.5m/s"
