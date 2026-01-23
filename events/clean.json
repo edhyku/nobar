@@ -1,5 +1,5 @@
 {
-  "updated": 1769183878,
+  "updated": 1769186585,
   "events": [
     {
       "league": "AUS A-League",
@@ -90,6 +90,28 @@
       }
     },
     {
+      "league": "BEL Pro League",
+      "status": "UPCOMING",
+      "time": 1769197500,
+      "home": "Standard Liege",
+      "away": "KAA Gent",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BEL Pro League",
+      "status": "UPCOMING",
+      "time": 1769197500,
+      "home": "Standard Liege",
+      "away": "KAA Gent",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
       "time": 1769198400,
@@ -356,34 +378,12 @@
     {
       "league": "INT CF",
       "status": "LIVE",
-      "time": 1769178600,
-      "home": "Dynamo Moscow",
-      "away": "Shanghai Shenhua FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4477315.m3u8?txSecret=280bd94c02ce589b20779fb02ef63407&txTime=6973D59D"
-      }
-    },
-    {
-      "league": "INT CF",
-      "status": "LIVE",
       "time": 1769182200,
       "home": "Nashville",
       "away": "Colorado Rapids",
       "stream": {
         "type": "m3u8",
         "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=f025d5dee6ed6e91f87cf125b6497c5e&txTime=697398AD&sign=3ac9e9bf756c32e6"
-      }
-    },
-    {
-      "league": "INT CF",
-      "status": "LIVE",
-      "time": 1769178600,
-      "home": "Dynamo Moscow",
-      "away": "Shanghai Shenhua FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4477315.m3u8?txSecret=280bd94c02ce589b20779fb02ef63407&txTime=6973D59D"
       }
     },
     {
@@ -399,24 +399,24 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769197500,
       "home": "Inter Milan",
       "away": "Pisa",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769177849.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769197500,
       "home": "Inter Milan",
       "away": "Pisa",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769177849.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -575,24 +575,24 @@
     },
     {
       "league": "TUR First League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769187600,
       "home": "Adana Demirspor",
       "away": "Bandirmaspor",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769177849.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "TUR First League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769187600,
       "home": "Adana Demirspor",
       "away": "Bandirmaspor",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769177849.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
