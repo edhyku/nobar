@@ -1,29 +1,7 @@
 {
-  "updated": 1769251858,
+  "updated": 1769253233,
   "events": [
     {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769245200,
-      "home": "Perth Glory Women",
-      "away": "Melbourne City Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/63685087_28ea60a9c9f3058d34a17180fb276453.m3u8"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769245200,
-      "home": "Perth Glory Women",
-      "away": "Melbourne City Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/63685087_28ea60a9c9f3058d34a17180fb276453.m3u8"
-      }
-    },
-    {
       "league": "BEL Pro League",
       "status": "UPCOMING",
       "time": 1769266800,
@@ -114,6 +92,17 @@
     {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Sheffield United",
+      "away": "Ipswich Town",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
       "time": 1769257800,
       "home": "Middlesbrough",
       "away": "Preston North End",
@@ -178,47 +167,14 @@
       }
     },
     {
-      "league": "ENG Premier League",
+      "league": "ENG EFL Championship",
       "status": "UPCOMING",
-      "time": 1769257800,
-      "home": "West Ham United",
-      "away": "Sunderland",
+      "time": 1769266800,
+      "home": "Sheffield United",
+      "away": "Ipswich Town",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ENG Premier League",
-      "status": "UPCOMING",
-      "time": 1769266800,
-      "home": "Burnley",
-      "away": "Tottenham Hotspur",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ENG Premier League",
-      "status": "UPCOMING",
-      "time": 1769266800,
-      "home": "Fulham",
-      "away": "Brighton Hove Albion",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769266800,
-      "home": "Manchester City",
-      "away": "Wolverhampton Wanderers",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769244278.flv"
       }
     },
     {
@@ -256,13 +212,57 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769266800,
       "home": "Manchester City",
       "away": "Wolverhampton Wanderers",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769244278.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769257800,
+      "home": "West Ham United",
+      "away": "Sunderland",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Burnley",
+      "away": "Tottenham Hotspur",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Fulham",
+      "away": "Brighton Hove Albion",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Manchester City",
+      "away": "Wolverhampton Wanderers",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -278,13 +278,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769259600,
       "home": "Red Star FC 93",
       "away": "Boulogne",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769244278.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -300,13 +300,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769259600,
       "home": "Red Star FC 93",
       "away": "Boulogne",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769244278.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -531,13 +531,13 @@
     },
     {
       "league": "Liga Portugal 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769252400,
       "home": "GD Chaves",
       "away": "Lusitania FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367815.m3u8?txSecret=a6d6ce1d5a3313945e2cdb44d8535b85&txTime=6974E596"
       }
     },
     {
@@ -553,13 +553,13 @@
     },
     {
       "league": "Liga Portugal 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769252400,
       "home": "GD Chaves",
       "away": "Lusitania FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367815.m3u8?txSecret=a6d6ce1d5a3313945e2cdb44d8535b85&txTime=6974E596"
       }
     },
     {
