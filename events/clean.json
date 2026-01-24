@@ -1,5 +1,5 @@
 {
-  "updated": 1769276516,
+  "updated": 1769277299,
   "events": [
     {
       "league": "AUS A-League",
@@ -113,6 +113,17 @@
     },
     {
       "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "Crystal Palace",
+      "away": "Chelsea",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
       "status": "LIVE",
       "time": 1769275800,
       "home": "Bournemouth AFC",
@@ -134,25 +145,25 @@
       }
     },
     {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769270400,
-      "home": "Stade Rennais FC",
-      "away": "Lorient",
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "Crystal Palace",
+      "away": "Chelsea",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347847.m3u8?txSecret=798a042057d7e6597cf674b52ad1356d&txTime=69754594"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769277600,
       "home": "Havre Athletic Club",
       "away": "AS Monaco",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769276842.flv"
       }
     },
     {
@@ -169,23 +180,12 @@
     {
       "league": "FRA Ligue 1",
       "status": "LIVE",
-      "time": 1769270400,
-      "home": "Stade Rennais FC",
-      "away": "Lorient",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347847.m3u8?txSecret=798a042057d7e6597cf674b52ad1356d&txTime=69754594"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "UPCOMING",
       "time": 1769277600,
       "home": "Havre Athletic Club",
       "away": "AS Monaco",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769276842.flv"
       }
     },
     {
@@ -421,13 +421,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769277600,
       "home": "FC Arouca",
       "away": "Sporting CP",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769276078.flv"
       }
     },
     {
@@ -443,13 +443,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769277600,
       "home": "FC Arouca",
       "away": "Sporting CP",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769276078.flv"
       }
     },
     {
@@ -470,8 +470,8 @@
       "home": "NEC Nijmegen",
       "away": "PEC Zwolle",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769275010.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100433.m3u8?txSecret=3c5e1a87402a4d156210aaa37ce0556f&txTime=697507B8&sign=42c5f6d5ede89aeb"
       }
     },
     {
@@ -525,8 +525,8 @@
       "home": "NEC Nijmegen",
       "away": "PEC Zwolle",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769275010.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100433.m3u8?txSecret=3c5e1a87402a4d156210aaa37ce0556f&txTime=697507B8&sign=42c5f6d5ede89aeb"
       }
     },
     {
