@@ -1,26 +1,15 @@
 {
-  "updated": 1769233684,
+  "updated": 1769235278,
   "events": [
     {
       "league": "AUS A-League",
       "status": "LIVE",
-      "time": 1769227200,
-      "home": "Auckland FC",
-      "away": "Central Coast Mariners",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/63684593_6800d85cff0f539c08f9daceab3b2714.m3u8"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "LIVE",
       "time": 1769234400,
       "home": "Brisbane Roar",
       "away": "Adelaide United",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769233469.flv"
+        "type": "m3u8",
+        "url": "https://live2.trendgallary.com/live/63684595_9b2a724d7f8491ab8eb17e623690baa0.m3u8"
       }
     },
     {
@@ -37,23 +26,12 @@
     {
       "league": "AUS A-League",
       "status": "LIVE",
-      "time": 1769227200,
-      "home": "Auckland FC",
-      "away": "Central Coast Mariners",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/63684593_6800d85cff0f539c08f9daceab3b2714.m3u8"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "LIVE",
       "time": 1769234400,
       "home": "Brisbane Roar",
       "away": "Adelaide United",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769233469.flv"
+        "type": "m3u8",
+        "url": "https://live2.trendgallary.com/live/63684595_9b2a724d7f8491ab8eb17e623690baa0.m3u8"
       }
     },
     {
@@ -69,13 +47,13 @@
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769234400,
       "home": "Central Coast Mariners women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live3.trendgallary.com/live/63685085_787c75c81a8f787fb7974c0dd3ce9e9d.m3u8"
       }
     },
     {
@@ -91,13 +69,13 @@
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769234400,
       "home": "Central Coast Mariners women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live3.trendgallary.com/live/63685085_787c75c81a8f787fb7974c0dd3ce9e9d.m3u8"
       }
     },
     {
@@ -157,6 +135,17 @@
     },
     {
       "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Birmingham City",
+      "away": "Stoke City",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
       "status": "LIVE",
       "time": 1769257800,
       "home": "Middlesbrough",
@@ -172,6 +161,17 @@
       "time": 1769257800,
       "home": "Millwall",
       "away": "Charlton Athletic",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Birmingham City",
+      "away": "Stoke City",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -179,13 +179,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769257800,
       "home": "West Ham United",
       "away": "Sunderland",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769226111.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -223,13 +223,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769257800,
       "home": "West Ham United",
       "away": "Sunderland",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769226111.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -355,13 +355,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769265000,
       "home": "1. FSV Mainz 05",
       "away": "VfL Wolfsburg",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769226466.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -410,13 +410,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769265000,
       "home": "1. FSV Mainz 05",
       "away": "VfL Wolfsburg",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769226466.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
