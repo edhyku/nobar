@@ -1,5 +1,5 @@
 {
-  "updated": 1769281055,
+  "updated": 1769282660,
   "events": [
     {
       "league": "AUS A-League",
@@ -201,6 +201,17 @@
     },
     {
       "league": "FRA Ligue 1",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "FC Nantes",
+      "away": "OGC Nice",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
       "status": "LIVE",
       "time": 1769277600,
       "home": "Havre Athletic Club",
@@ -222,6 +233,17 @@
       }
     },
     {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "FC Nantes",
+      "away": "OGC Nice",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "GER Bundesliga",
       "status": "LIVE",
       "time": 1769275800,
@@ -251,7 +273,7 @@
       "away": "Dynamo Dresden",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769273251.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769282231.flv"
       }
     },
     {
@@ -284,7 +306,7 @@
       "away": "Dynamo Dresden",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769273251.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769282231.flv"
       }
     },
     {
@@ -311,24 +333,13 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769274000,
-      "home": "Fiorentina",
-      "away": "Cagliari",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339737.m3u8?txSecret=a8422e27c9fa045cd06cf2e3cbba173e&txTime=6975433B"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769283900,
       "home": "Lecce",
       "away": "Lazio",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769270337.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -366,24 +377,13 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769274000,
-      "home": "Fiorentina",
-      "away": "Cagliari",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339737.m3u8?txSecret=a8422e27c9fa045cd06cf2e3cbba173e&txTime=6975433B"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769283900,
       "home": "Lecce",
       "away": "Lazio",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769270337.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -481,8 +481,8 @@
       "home": "PSV Eindhoven",
       "away": "NAC Breda",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769280551.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344695.m3u8?txSecret=4af3273b4bc0d791be5ddfa8769e9dbb&txTime=69755D09"
       }
     },
     {
@@ -536,8 +536,8 @@
       "home": "PSV Eindhoven",
       "away": "NAC Breda",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769280551.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344695.m3u8?txSecret=4af3273b4bc0d791be5ddfa8769e9dbb&txTime=69755D09"
       }
     },
     {
