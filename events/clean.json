@@ -1,5 +1,5 @@
 {
-  "updated": 1769226428,
+  "updated": 1769228666,
   "events": [
     {
       "league": "AUS A-League",
@@ -8,8 +8,8 @@
       "home": "Auckland FC",
       "away": "Central Coast Mariners",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769226111.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/63684593_6800d85cff0f539c08f9daceab3b2714.m3u8"
       }
     },
     {
@@ -41,8 +41,8 @@
       "home": "Auckland FC",
       "away": "Central Coast Mariners",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769226111.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/63684593_6800d85cff0f539c08f9daceab3b2714.m3u8"
       }
     },
     {
@@ -355,13 +355,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769265000,
       "home": "1. FSV Mainz 05",
       "away": "VfL Wolfsburg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769226466.flv"
       }
     },
     {
@@ -410,13 +410,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769265000,
       "home": "1. FSV Mainz 05",
       "away": "VfL Wolfsburg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769226466.flv"
       }
     },
     {
