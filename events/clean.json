@@ -1,5 +1,5 @@
 {
-  "updated": 1769243903,
+  "updated": 1769245041,
   "events": [
     {
       "league": "AUS A-League",
@@ -25,24 +25,24 @@
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769245200,
       "home": "Perth Glory Women",
       "away": "Melbourne City Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769244278.flv"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769245200,
       "home": "Perth Glory Women",
       "away": "Melbourne City Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769244278.flv"
       }
     },
     {
@@ -212,13 +212,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769266800,
       "home": "Manchester City",
       "away": "Wolverhampton Wanderers",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769244278.flv"
       }
     },
     {
@@ -256,13 +256,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769266800,
       "home": "Manchester City",
       "away": "Wolverhampton Wanderers",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769244278.flv"
       }
     },
     {
@@ -278,13 +278,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769259600,
       "home": "Red Star FC 93",
       "away": "Boulogne",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769244278.flv"
       }
     },
     {
@@ -300,13 +300,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769259600,
       "home": "Red Star FC 93",
       "away": "Boulogne",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769244278.flv"
       }
     },
     {
