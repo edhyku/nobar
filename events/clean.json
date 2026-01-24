@@ -1,7 +1,29 @@
 {
-  "updated": 1769268486,
+  "updated": 1769269496,
   "events": [
     {
+      "league": "AUS W-League",
+      "status": "LIVE",
+      "time": 1769310000,
+      "home": "Wellington Phoenix Women",
+      "away": "Adelaide United Women",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769264344.flv"
+      }
+    },
+    {
+      "league": "AUS W-League",
+      "status": "LIVE",
+      "time": 1769310000,
+      "home": "Wellington Phoenix Women",
+      "away": "Adelaide United Women",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769264344.flv"
+      }
+    },
+    {
       "league": "ENG Premier League",
       "status": "LIVE",
       "time": 1769266800,
@@ -163,7 +185,7 @@
       "away": "SV Werder Bremen",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347518.m3u8?txSecret=40a4b810dd823b9a7f56d9066f75848a&txTime=697516CA"
+        "url": "https://live.vivo200.com/live/sd-1-4347518.m3u8?txSecret=9c02c517f2b52acd7cfb9c45f4bf9aab&txTime=69752E25"
       }
     },
     {
@@ -174,7 +196,7 @@
       "away": "FC Augsburg",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347519.m3u8?txSecret=f26b6733228c844983bd7044f74aa739&txTime=697516CA"
+        "url": "https://live.vivo200.com/live/sd-1-4347519.m3u8?txSecret=743c5395649848bdb1a1d3a2356c16ec&txTime=69752E25"
       }
     },
     {
@@ -185,7 +207,7 @@
       "away": "TSG Hoffenheim",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347521.m3u8?txSecret=2a70ae104c77aa102400c554b7b98ef1&txTime=697516CA"
+        "url": "https://live.vivo200.com/live/sd-1-4347521.m3u8?txSecret=939da63ddcf22198b9fa4861dd013510&txTime=69752E25"
       }
     },
     {
@@ -196,7 +218,7 @@
       "away": "RB Leipzig",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347523.m3u8?txSecret=78e3871a1b53db52c5015142c1142bb7&txTime=697516CA"
+        "url": "https://live.vivo200.com/live/sd-1-4347523.m3u8?txSecret=1c2f7fbcb29a0012e70c6ac104d1a9e9&txTime=69752E25"
       }
     },
     {
@@ -207,7 +229,7 @@
       "away": "VfL Wolfsburg",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347524.m3u8?txSecret=c664d9712494f3869c64eac0c6573667&txTime=697516CA"
+        "url": "https://live.vivo200.com/live/sd-1-4347524.m3u8?txSecret=12065bfdb298930d2c59df5fb8e124ff&txTime=69752E25"
       }
     },
     {
@@ -229,7 +251,7 @@
       "away": "SV Werder Bremen",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347518.m3u8?txSecret=40a4b810dd823b9a7f56d9066f75848a&txTime=697516CA"
+        "url": "https://live.vivo200.com/live/sd-1-4347518.m3u8?txSecret=9c02c517f2b52acd7cfb9c45f4bf9aab&txTime=69752E25"
       }
     },
     {
@@ -240,7 +262,7 @@
       "away": "FC Augsburg",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347519.m3u8?txSecret=f26b6733228c844983bd7044f74aa739&txTime=697516CA"
+        "url": "https://live.vivo200.com/live/sd-1-4347519.m3u8?txSecret=743c5395649848bdb1a1d3a2356c16ec&txTime=69752E25"
       }
     },
     {
@@ -251,7 +273,7 @@
       "away": "TSG Hoffenheim",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347521.m3u8?txSecret=2a70ae104c77aa102400c554b7b98ef1&txTime=697516CA"
+        "url": "https://live.vivo200.com/live/sd-1-4347521.m3u8?txSecret=939da63ddcf22198b9fa4861dd013510&txTime=69752E25"
       }
     },
     {
@@ -262,7 +284,7 @@
       "away": "RB Leipzig",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347523.m3u8?txSecret=78e3871a1b53db52c5015142c1142bb7&txTime=697516CA"
+        "url": "https://live.vivo200.com/live/sd-1-4347523.m3u8?txSecret=1c2f7fbcb29a0012e70c6ac104d1a9e9&txTime=69752E25"
       }
     },
     {
@@ -273,7 +295,7 @@
       "away": "VfL Wolfsburg",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347524.m3u8?txSecret=c664d9712494f3869c64eac0c6573667&txTime=697516CA"
+        "url": "https://live.vivo200.com/live/sd-1-4347524.m3u8?txSecret=12065bfdb298930d2c59df5fb8e124ff&txTime=69752E25"
       }
     },
     {
@@ -377,17 +399,6 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769261100,
-      "home": "Al Khaleej Club",
-      "away": "Al Shabab FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=dcfa01cddc018438d613701b2bcaf218&txTime=6974E5F6&sign=ed6c7e41072ba9cd"
-      }
-    },
-    {
-      "league": "KSA Professional League",
       "status": "UPCOMING",
       "time": 1769275800,
       "home": "NEOM Sports Club",
@@ -395,17 +406,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769261100,
-      "home": "Al Khaleej Club",
-      "away": "Al Shabab FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=dcfa01cddc018438d613701b2bcaf218&txTime=6974E5F6&sign=ed6c7e41072ba9cd"
       }
     },
     {
@@ -421,13 +421,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769268600,
       "home": "Moreirense",
       "away": "Santa Clara",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100309.m3u8?txSecret=f7cb8385684271f37827c1c69d043a76&txTime=6974EE67&sign=aef01784d5f302c2"
       }
     },
     {
@@ -443,24 +443,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769286600,
       "home": "Estoril",
       "away": "Vitoria Guimaraes",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769268903.flv"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769268600,
       "home": "Moreirense",
       "away": "Santa Clara",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100309.m3u8?txSecret=f7cb8385684271f37827c1c69d043a76&txTime=6974EE67&sign=aef01784d5f302c2"
       }
     },
     {
@@ -476,24 +476,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769286600,
       "home": "Estoril",
       "away": "Vitoria Guimaraes",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769268903.flv"
       }
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769268600,
       "home": "AFC Ajax",
       "away": "Volendam",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344650.m3u8?txSecret=81bf4a640021a29c99966b33e88ad0e6&txTime=69752BFB"
       }
     },
     {
@@ -531,13 +531,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769268600,
       "home": "AFC Ajax",
       "away": "Volendam",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344650.m3u8?txSecret=81bf4a640021a29c99966b33e88ad0e6&txTime=69752BFB"
       }
     },
     {
@@ -580,8 +580,8 @@
       "home": "Valencia CF",
       "away": "RCD Espanyol de Barcelona",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769258675.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358869.m3u8?txSecret=0f7bbb7ab3c70d52936d6d7983d2a6f3&txTime=6975298D"
       }
     },
     {
@@ -613,8 +613,8 @@
       "home": "Valencia CF",
       "away": "RCD Espanyol de Barcelona",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769258675.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358869.m3u8?txSecret=0f7bbb7ab3c70d52936d6d7983d2a6f3&txTime=6975298D"
       }
     },
     {
