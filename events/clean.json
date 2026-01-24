@@ -1,5 +1,5 @@
 {
-  "updated": 1769284345,
+  "updated": 1769286041,
   "events": [
     {
       "league": "AUS A-League",
@@ -158,23 +158,12 @@
     {
       "league": "FRA Ligue 1",
       "status": "LIVE",
-      "time": 1769277600,
-      "home": "Havre Athletic Club",
-      "away": "AS Monaco",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347841.m3u8?txSecret=14a15fafdcb36f7e960ea61bd86ecdcd&txTime=69755D09"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "UPCOMING",
       "time": 1769285100,
       "home": "Marseille",
       "away": "RC Lens",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347843.m3u8?txSecret=5355b92aab3d6e9ff07283eda85b7fbd&txTime=69756B1B"
       }
     },
     {
@@ -191,23 +180,12 @@
     {
       "league": "FRA Ligue 1",
       "status": "LIVE",
-      "time": 1769277600,
-      "home": "Havre Athletic Club",
-      "away": "AS Monaco",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347841.m3u8?txSecret=14a15fafdcb36f7e960ea61bd86ecdcd&txTime=69755D09"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "UPCOMING",
       "time": 1769285100,
       "home": "Marseille",
       "away": "RC Lens",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347843.m3u8?txSecret=5355b92aab3d6e9ff07283eda85b7fbd&txTime=69756B1B"
       }
     },
     {
@@ -219,6 +197,28 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769284027.flv"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
+      "status": "LIVE",
+      "time": 1769281200,
+      "home": "Stade DE Reims",
+      "away": "AS Saint-Étienne",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4401075.m3u8?txSecret=928f6bab59b9cc9d3ed1c5413ef727f1&txTime=69755D09"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
+      "status": "LIVE",
+      "time": 1769281200,
+      "home": "Stade DE Reims",
+      "away": "AS Saint-Étienne",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4401075.m3u8?txSecret=928f6bab59b9cc9d3ed1c5413ef727f1&txTime=69755D09"
       }
     },
     {
@@ -421,17 +421,6 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769277600,
-      "home": "FC Arouca",
-      "away": "Sporting CP",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368949.m3u8?txSecret=9a627d2c9325ee9e35e07d0da747bba8&txTime=69755D09"
-      }
-    },
-    {
-      "league": "Liga Portugal",
       "status": "UPCOMING",
       "time": 1769286600,
       "home": "Estoril",
@@ -450,17 +439,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769277600,
-      "home": "FC Arouca",
-      "away": "Sporting CP",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368949.m3u8?txSecret=9a627d2c9325ee9e35e07d0da747bba8&txTime=69755D09"
       }
     },
     {
@@ -499,17 +477,6 @@
     {
       "league": "NED Eredivisie",
       "status": "UPCOMING",
-      "time": 1769284800,
-      "home": "FC Twente Enschede",
-      "away": "Excelsior SBV",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "UPCOMING",
       "time": 1769339700,
       "home": "SC Telstar",
       "away": "AZ Alkmaar",
@@ -524,6 +491,28 @@
       "time": 1769347800,
       "home": "Groningen",
       "away": "Fortuna Sittard",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769355900,
+      "home": "FC Utrecht",
+      "away": "Sparta Rotterdam",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769355900,
+      "home": "Feyenoord",
+      "away": "Heracles Almelo",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -543,17 +532,6 @@
     {
       "league": "NED Eredivisie",
       "status": "UPCOMING",
-      "time": 1769284800,
-      "home": "FC Twente Enschede",
-      "away": "Excelsior SBV",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "UPCOMING",
       "time": 1769339700,
       "home": "SC Telstar",
       "away": "AZ Alkmaar",
@@ -568,6 +546,28 @@
       "time": 1769347800,
       "home": "Groningen",
       "away": "Fortuna Sittard",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769355900,
+      "home": "FC Utrecht",
+      "away": "Sparta Rotterdam",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769355900,
+      "home": "Feyenoord",
+      "away": "Heracles Almelo",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -580,8 +580,8 @@
       "home": "Villarreal CF",
       "away": "Real Madrid",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769283915.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358873.m3u8?txSecret=89fa46f733095ec4526d1a3f23185586&txTime=697568C5"
       }
     },
     {
@@ -613,8 +613,8 @@
       "home": "Villarreal CF",
       "away": "Real Madrid",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769283915.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358873.m3u8?txSecret=89fa46f733095ec4526d1a3f23185586&txTime=697568C5"
       }
     },
     {
