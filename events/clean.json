@@ -1,26 +1,26 @@
 {
-  "updated": 1769241630,
+  "updated": 1769243285,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769243700,
       "home": "Macarthur FC",
       "away": "Melbourne City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769242729.flv"
       }
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769243700,
       "home": "Macarthur FC",
       "away": "Melbourne City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769242729.flv"
       }
     },
     {
