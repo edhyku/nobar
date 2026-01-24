@@ -1,12 +1,23 @@
 {
-  "updated": 1769221298,
+  "updated": 1769226428,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769227200,
       "home": "Auckland FC",
       "away": "Central Coast Mariners",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769226111.flv"
+      }
+    },
+    {
+      "league": "AUS A-League",
+      "status": "UPCOMING",
+      "time": 1769234400,
+      "home": "Brisbane Roar",
+      "away": "Adelaide United",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -15,31 +26,31 @@
     {
       "league": "AUS A-League",
       "status": "LIVE",
-      "time": 1769234400,
-      "home": "Brisbane Roar",
-      "away": "Adelaide United",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769215545.flv"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "UPCOMING",
       "time": 1769243700,
       "home": "Macarthur FC",
       "away": "Melbourne City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769222572.flv"
+      }
+    },
+    {
+      "league": "AUS A-League",
+      "status": "LIVE",
+      "time": 1769227200,
+      "home": "Auckland FC",
+      "away": "Central Coast Mariners",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769226111.flv"
       }
     },
     {
       "league": "AUS A-League",
       "status": "UPCOMING",
-      "time": 1769227200,
-      "home": "Auckland FC",
-      "away": "Central Coast Mariners",
+      "time": 1769234400,
+      "home": "Brisbane Roar",
+      "away": "Adelaide United",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -48,20 +59,20 @@
     {
       "league": "AUS A-League",
       "status": "LIVE",
-      "time": 1769234400,
-      "home": "Brisbane Roar",
-      "away": "Adelaide United",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769215545.flv"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "UPCOMING",
       "time": 1769243700,
       "home": "Macarthur FC",
       "away": "Melbourne City",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769222572.flv"
+      }
+    },
+    {
+      "league": "AUS W-League",
+      "status": "UPCOMING",
+      "time": 1769234400,
+      "home": "Central Coast Mariners women",
+      "away": "WS Wanderers Women",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -69,285 +80,54 @@
     },
     {
       "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769234400,
-      "home": "Central Coast Mariners women",
-      "away": "WS Wanderers Women",
+      "status": "UPCOMING",
+      "time": 1769245200,
+      "home": "Perth Glory Women",
+      "away": "Melbourne City Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769213164.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769234400,
       "home": "Central Coast Mariners women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769213164.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "CHN FA Cup",
+      "league": "AUS W-League",
       "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Dongxing Greenery",
-      "away": "Hainan Shuangyu",
+      "time": 1769245200,
+      "home": "Perth Glory Women",
+      "away": "Melbourne City Women",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "CHN FA Cup",
+      "league": "BEL Pro League",
       "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Shanxi Xiangyu FC",
-      "away": "Guizhou Feiying",
+      "time": 1769266800,
+      "home": "RAAL La Louvière",
+      "away": "Sint-Truidense",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "CHN FA Cup",
+      "league": "BEL Pro League",
       "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Shenzhen Xingjun",
-      "away": "Shanxi Sanjin",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Zhoushan Jiayu",
-      "away": "Guangzhou Rock Goal",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Chongqing Handa",
-      "away": "Qingdao Fuli",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Huzhou Changxing Jintown",
-      "away": "Ningxia Pingluo Hengli",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Shenzhen Keysida",
-      "away": "Changle Jingangtui Football Club",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Shandong Qiutan",
-      "away": "Nantong Home Textile City",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Liaocheng Legend",
-      "away": "Tianjin Kaiser",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Fujian Quanzhou Qinggong",
-      "away": "Guangdong Red Treasure Football Club",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Guangdong Wuchuan Youth",
-      "away": "Xiamen Chengyi",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Shanxi TYUT",
-      "away": "Wuhan Lianzhen",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Dongxing Greenery",
-      "away": "Hainan Shuangyu",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Shanxi Xiangyu FC",
-      "away": "Guizhou Feiying",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Shenzhen Xingjun",
-      "away": "Shanxi Sanjin",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Zhoushan Jiayu",
-      "away": "Guangzhou Rock Goal",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Chongqing Handa",
-      "away": "Qingdao Fuli",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769225400,
-      "home": "Huzhou Changxing Jintown",
-      "away": "Ningxia Pingluo Hengli",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Shenzhen Keysida",
-      "away": "Changle Jingangtui Football Club",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Shandong Qiutan",
-      "away": "Nantong Home Textile City",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Liaocheng Legend",
-      "away": "Tianjin Kaiser",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Fujian Quanzhou Qinggong",
-      "away": "Guangdong Red Treasure Football Club",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Guangdong Wuchuan Youth",
-      "away": "Xiamen Chengyi",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "CHN FA Cup",
-      "status": "UPCOMING",
-      "time": 1769238000,
-      "home": "Shanxi TYUT",
-      "away": "Wuhan Lianzhen",
+      "time": 1769266800,
+      "home": "RAAL La Louvière",
+      "away": "Sint-Truidense",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -399,10 +179,21 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769257800,
       "home": "West Ham United",
       "away": "Sunderland",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769226111.flv"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Burnley",
+      "away": "Tottenham Hotspur",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -411,12 +202,67 @@
     {
       "league": "ENG Premier League",
       "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Fulham",
+      "away": "Brighton Hove Albion",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "LIVE",
+      "time": 1769266800,
+      "home": "Manchester City",
+      "away": "Wolverhampton Wanderers",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769220699.flv"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "LIVE",
       "time": 1769257800,
       "home": "West Ham United",
       "away": "Sunderland",
       "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769226111.flv"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Burnley",
+      "away": "Tottenham Hotspur",
+      "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Fulham",
+      "away": "Brighton Hove Albion",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "LIVE",
+      "time": 1769266800,
+      "home": "Manchester City",
+      "away": "Wolverhampton Wanderers",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769220699.flv"
       }
     },
     {
@@ -458,6 +304,116 @@
       "time": 1769259600,
       "home": "Red Star FC 93",
       "away": "Boulogne",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769265000,
+      "home": "Bayer 04 Leverkusen",
+      "away": "SV Werder Bremen",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769265000,
+      "home": "FC Bayern Munich",
+      "away": "FC Augsburg",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769265000,
+      "home": "Eintracht Frankfurt",
+      "away": "TSG Hoffenheim",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769265000,
+      "home": "1. FC Heidenheim 1846",
+      "away": "RB Leipzig",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769265000,
+      "home": "1. FSV Mainz 05",
+      "away": "VfL Wolfsburg",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769265000,
+      "home": "Bayer 04 Leverkusen",
+      "away": "SV Werder Bremen",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769265000,
+      "home": "FC Bayern Munich",
+      "away": "FC Augsburg",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769265000,
+      "home": "Eintracht Frankfurt",
+      "away": "TSG Hoffenheim",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769265000,
+      "home": "1. FC Heidenheim 1846",
+      "away": "RB Leipzig",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769265000,
+      "home": "1. FSV Mainz 05",
+      "away": "VfL Wolfsburg",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -587,6 +543,17 @@
     {
       "league": "Liga Portugal 2",
       "status": "UPCOMING",
+      "time": 1769263200,
+      "home": "Maritimo",
+      "away": "FC Felgueiras",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
       "time": 1769252400,
       "home": "GD Chaves",
       "away": "Lusitania FC",
@@ -596,6 +563,17 @@
       }
     },
     {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769263200,
+      "home": "Maritimo",
+      "away": "FC Felgueiras",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "SPA La Liga",
       "status": "UPCOMING",
       "time": 1769259600,
@@ -641,24 +619,46 @@
     },
     {
       "league": "TUR Super League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769254200,
       "home": "Kayserispor",
       "away": "Başakşehir Futbol Kulübü",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769213940.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "TUR Super League",
-      "status": "LIVE",
+      "status": "UPCOMING",
+      "time": 1769263200,
+      "home": "Samsunspor",
+      "away": "Kocaelispor",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
       "time": 1769254200,
       "home": "Kayserispor",
       "away": "Başakşehir Futbol Kulübü",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769213940.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
+      "time": 1769263200,
+      "home": "Samsunspor",
+      "away": "Kocaelispor",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     }
   ]
