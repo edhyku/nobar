@@ -1,5 +1,5 @@
 {
-  "updated": 1769279848,
+  "updated": 1769281055,
   "events": [
     {
       "league": "AUS A-League",
@@ -97,7 +97,7 @@
       "away": "Liverpool",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343128.m3u8?txSecret=95183293381e254de0b4397598c4a9c8&txTime=69754342"
+        "url": "https://live.vivo200.com/live/sd-1-4343128.m3u8?txSecret=8b4fce9f643e184f0fc494aa82acf2a5&txTime=69755D04"
       }
     },
     {
@@ -141,7 +141,7 @@
       "away": "Liverpool",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343128.m3u8?txSecret=95183293381e254de0b4397598c4a9c8&txTime=69754342"
+        "url": "https://live.vivo200.com/live/sd-1-4343128.m3u8?txSecret=8b4fce9f643e184f0fc494aa82acf2a5&txTime=69755D04"
       }
     },
     {
@@ -185,7 +185,7 @@
       "away": "AS Monaco",
       "stream": {
         "type": "m3u8",
-        "url": "https://play3.clomidx.com/live/111235483478_1609453451_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4347841.m3u8?txSecret=14a15fafdcb36f7e960ea61bd86ecdcd&txTime=69755D09"
       }
     },
     {
@@ -207,7 +207,7 @@
       "away": "AS Monaco",
       "stream": {
         "type": "m3u8",
-        "url": "https://play3.clomidx.com/live/111235483478_1609453451_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4347841.m3u8?txSecret=14a15fafdcb36f7e960ea61bd86ecdcd&txTime=69755D09"
       }
     },
     {
@@ -427,7 +427,7 @@
       "away": "Sporting CP",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368949.m3u8?txSecret=8d92da5f5437150ad7d659dafd22c90c&txTime=6975434A"
+        "url": "https://live.vivo200.com/live/sd-1-4368949.m3u8?txSecret=9a627d2c9325ee9e35e07d0da747bba8&txTime=69755D09"
       }
     },
     {
@@ -449,7 +449,7 @@
       "away": "Sporting CP",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368949.m3u8?txSecret=8d92da5f5437150ad7d659dafd22c90c&txTime=6975434A"
+        "url": "https://live.vivo200.com/live/sd-1-4368949.m3u8?txSecret=9a627d2c9325ee9e35e07d0da747bba8&txTime=69755D09"
       }
     },
     {
@@ -476,13 +476,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769281200,
       "home": "PSV Eindhoven",
       "away": "NAC Breda",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769280551.flv"
       }
     },
     {
@@ -531,13 +531,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769281200,
       "home": "PSV Eindhoven",
       "away": "NAC Breda",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769280551.flv"
       }
     },
     {
@@ -581,7 +581,7 @@
       "away": "Athletic Club",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358865.m3u8?txSecret=63f90e3d4c8757aae7fc3634f0647277&txTime=69754342"
+        "url": "https://live.vivo200.com/live/sd-1-4358865.m3u8?txSecret=687a1e3b1ae2dcc4f46946b574ecae81&txTime=69755D04"
       }
     },
     {
@@ -614,7 +614,7 @@
       "away": "Athletic Club",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358865.m3u8?txSecret=63f90e3d4c8757aae7fc3634f0647277&txTime=69754342"
+        "url": "https://live.vivo200.com/live/sd-1-4358865.m3u8?txSecret=687a1e3b1ae2dcc4f46946b574ecae81&txTime=69755D04"
       }
     },
     {
