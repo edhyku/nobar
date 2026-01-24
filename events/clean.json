@@ -1,5 +1,5 @@
 {
-  "updated": 1769275410,
+  "updated": 1769276516,
   "events": [
     {
       "league": "AUS A-League",
@@ -96,8 +96,19 @@
       "home": "Bournemouth AFC",
       "away": "Liverpool",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769274895.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4343128.m3u8?txSecret=95183293381e254de0b4397598c4a9c8&txTime=69754342"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "Brentford",
+      "away": "Nottingham Forest",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -107,8 +118,19 @@
       "home": "Bournemouth AFC",
       "away": "Liverpool",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769274895.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4343128.m3u8?txSecret=95183293381e254de0b4397598c4a9c8&txTime=69754342"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "Brentford",
+      "away": "Nottingham Forest",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -184,8 +206,8 @@
       "home": "1. FC Union Berlin",
       "away": "Borussia Dortmund",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769275298.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347526.m3u8?txSecret=81e1bf67f076c66452063fdce6d70226&txTime=69754342"
       }
     },
     {
@@ -195,8 +217,8 @@
       "home": "1. FC Union Berlin",
       "away": "Borussia Dortmund",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769275298.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347526.m3u8?txSecret=81e1bf67f076c66452063fdce6d70226&txTime=69754342"
       }
     },
     {
@@ -382,8 +404,8 @@
       "home": "NEOM Sports Club",
       "away": "Al Ahli SFC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769275281.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404491.m3u8?txSecret=941c436a0e3c238d1bc7e0b67aac73ab&txTime=69754342"
       }
     },
     {
@@ -393,19 +415,30 @@
       "home": "NEOM Sports Club",
       "away": "Al Ahli SFC",
       "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404491.m3u8?txSecret=941c436a0e3c238d1bc7e0b67aac73ab&txTime=69754342"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769277600,
+      "home": "FC Arouca",
+      "away": "Sporting CP",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "LIVE",
+      "time": 1769286600,
+      "home": "Estoril",
+      "away": "Vitoria Guimaraes",
+      "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769275281.flv"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769268600,
-      "home": "Moreirense",
-      "away": "Santa Clara",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368956.m3u8?txSecret=9f22003065b845111ee22ab57cc92ae9&txTime=6975308C"
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769275372.flv"
       }
     },
     {
@@ -421,57 +454,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
-      "time": 1769286600,
-      "home": "Estoril",
-      "away": "Vitoria Guimaraes",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal",
       "status": "LIVE",
-      "time": 1769268600,
-      "home": "Moreirense",
-      "away": "Santa Clara",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368956.m3u8?txSecret=9f22003065b845111ee22ab57cc92ae9&txTime=6975308C"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "UPCOMING",
-      "time": 1769277600,
-      "home": "FC Arouca",
-      "away": "Sporting CP",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "UPCOMING",
       "time": 1769286600,
       "home": "Estoril",
       "away": "Vitoria Guimaraes",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769275372.flv"
       }
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769276700,
       "home": "NEC Nijmegen",
       "away": "PEC Zwolle",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769275010.flv"
       }
     },
     {
@@ -520,13 +520,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769276700,
       "home": "NEC Nijmegen",
       "away": "PEC Zwolle",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769275010.flv"
       }
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769275800,
       "home": "Sevilla FC",
       "away": "Athletic Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358865.m3u8?txSecret=63f90e3d4c8757aae7fc3634f0647277&txTime=69754342"
       }
     },
     {
@@ -608,13 +608,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769275800,
       "home": "Sevilla FC",
       "away": "Athletic Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358865.m3u8?txSecret=63f90e3d4c8757aae7fc3634f0647277&txTime=69754342"
       }
     },
     {
