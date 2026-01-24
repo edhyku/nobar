@@ -1,5 +1,5 @@
 {
-  "updated": 1769283575,
+  "updated": 1769284345,
   "events": [
     {
       "league": "AUS A-League",
@@ -179,13 +179,13 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "FC Nantes",
       "away": "OGC Nice",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769284027.flv"
       }
     },
     {
@@ -212,13 +212,13 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "FC Nantes",
       "away": "OGC Nice",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769284027.flv"
       }
     },
     {
@@ -316,8 +316,8 @@
       "home": "Lecce",
       "away": "Lazio",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769282726.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4339749.m3u8?txSecret=de7e2ca43045720cab584dbf0333333c&txTime=6975666A"
       }
     },
     {
@@ -360,8 +360,8 @@
       "home": "Lecce",
       "away": "Lazio",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769282726.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4339749.m3u8?txSecret=de7e2ca43045720cab584dbf0333333c&txTime=6975666A"
       }
     },
     {
@@ -443,6 +443,17 @@
     },
     {
       "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769355000,
+      "home": "Nacional da Madeira",
+      "away": "Rio Ave",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
       "status": "LIVE",
       "time": 1769277600,
       "home": "FC Arouca",
@@ -464,14 +475,14 @@
       }
     },
     {
-      "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769276700,
-      "home": "NEC Nijmegen",
-      "away": "PEC Zwolle",
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769355000,
+      "home": "Nacional da Madeira",
+      "away": "Rio Ave",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344649.m3u8?txSecret=a79bfb747620f481e946dcb671d39bb6&txTime=69755152"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -516,17 +527,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769276700,
-      "home": "NEC Nijmegen",
-      "away": "PEC Zwolle",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344649.m3u8?txSecret=a79bfb747620f481e946dcb671d39bb6&txTime=69755152"
       }
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769284800,
       "home": "Villarreal CF",
       "away": "Real Madrid",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769283915.flv"
       }
     },
     {
@@ -608,13 +608,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769284800,
       "home": "Villarreal CF",
       "away": "Real Madrid",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769283915.flv"
       }
     },
     {
