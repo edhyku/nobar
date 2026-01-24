@@ -1,5 +1,5 @@
 {
-  "updated": 1769269496,
+  "updated": 1769270254,
   "events": [
     {
       "league": "AUS W-League",
@@ -14,6 +14,17 @@
     },
     {
       "league": "AUS W-League",
+      "status": "UPCOMING",
+      "time": 1769320800,
+      "home": "Melbourne Victory Women",
+      "away": "Sydney FC Women",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "AUS W-League",
       "status": "LIVE",
       "time": 1769310000,
       "home": "Wellington Phoenix Women",
@@ -24,6 +35,17 @@
       }
     },
     {
+      "league": "AUS W-League",
+      "status": "UPCOMING",
+      "time": 1769320800,
+      "home": "Melbourne Victory Women",
+      "away": "Sydney FC Women",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG Premier League",
       "status": "LIVE",
       "time": 1769266800,
@@ -113,13 +135,13 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769270400,
       "home": "Stade Rennais FC",
       "away": "Lorient",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769269782.flv"
       }
     },
     {
@@ -146,13 +168,13 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769270400,
       "home": "Stade Rennais FC",
       "away": "Lorient",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769269782.flv"
       }
     },
     {
@@ -329,17 +351,6 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769264231.flv"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769263200,
-      "home": "Como",
-      "away": "Torino",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339736.m3u8?txSecret=7f60b230ec7ab101c799a4ef8c9d02cf&txTime=69750FC9"
       }
     },
     {
@@ -362,17 +373,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769263200,
-      "home": "Como",
-      "away": "Torino",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339736.m3u8?txSecret=7f60b230ec7ab101c799a4ef8c9d02cf&txTime=69750FC9"
       }
     },
     {
@@ -427,7 +427,7 @@
       "away": "Santa Clara",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100309.m3u8?txSecret=f7cb8385684271f37827c1c69d043a76&txTime=6974EE67&sign=aef01784d5f302c2"
+        "url": "https://live.vivo200.com/live/sd-1-4368956.m3u8?txSecret=9f22003065b845111ee22ab57cc92ae9&txTime=6975308C"
       }
     },
     {
@@ -460,7 +460,7 @@
       "away": "Santa Clara",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100309.m3u8?txSecret=f7cb8385684271f37827c1c69d043a76&txTime=6974EE67&sign=aef01784d5f302c2"
+        "url": "https://live.vivo200.com/live/sd-1-4368956.m3u8?txSecret=9f22003065b845111ee22ab57cc92ae9&txTime=6975308C"
       }
     },
     {
@@ -509,13 +509,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769281200,
       "home": "PSV Eindhoven",
       "away": "NAC Breda",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769269782.flv"
       }
     },
     {
@@ -553,13 +553,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769281200,
       "home": "PSV Eindhoven",
       "away": "NAC Breda",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769269782.flv"
       }
     },
     {
