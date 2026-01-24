@@ -1,5 +1,5 @@
 {
-  "updated": 1769282660,
+  "updated": 1769283575,
   "events": [
     {
       "league": "AUS A-League",
@@ -91,17 +91,6 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769275800,
-      "home": "Bournemouth AFC",
-      "away": "Liverpool",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343128.m3u8?txSecret=8b4fce9f643e184f0fc494aa82acf2a5&txTime=69755D04"
-      }
-    },
-    {
-      "league": "ENG Premier League",
       "status": "UPCOMING",
       "time": 1769349600,
       "home": "Brentford",
@@ -131,17 +120,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769275800,
-      "home": "Bournemouth AFC",
-      "away": "Liverpool",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343128.m3u8?txSecret=8b4fce9f643e184f0fc494aa82acf2a5&txTime=69755D04"
       }
     },
     {
@@ -190,13 +168,13 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769285100,
       "home": "Marseille",
       "away": "RC Lens",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769275298.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -223,13 +201,13 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769285100,
       "home": "Marseille",
       "away": "RC Lens",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769275298.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -245,24 +223,24 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
-      "time": 1769275800,
-      "home": "1. FC Union Berlin",
-      "away": "Borussia Dortmund",
+      "status": "UPCOMING",
+      "time": 1769351400,
+      "home": "Borussia Monchengladbach",
+      "away": "VfB Stuttgart",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347526.m3u8?txSecret=81e1bf67f076c66452063fdce6d70226&txTime=69754342"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
-      "time": 1769275800,
-      "home": "1. FC Union Berlin",
-      "away": "Borussia Dortmund",
+      "status": "UPCOMING",
+      "time": 1769351400,
+      "home": "Borussia Monchengladbach",
+      "away": "VfB Stuttgart",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347526.m3u8?txSecret=81e1bf67f076c66452063fdce6d70226&txTime=69754342"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -272,8 +250,8 @@
       "home": "1. FC Magdeburg",
       "away": "Dynamo Dresden",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769282231.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355727.m3u8?txSecret=3b4a80e9b7e02615fe9905c042250552&txTime=697561BC"
       }
     },
     {
@@ -305,8 +283,8 @@
       "home": "1. FC Magdeburg",
       "away": "Dynamo Dresden",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769282231.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355727.m3u8?txSecret=3b4a80e9b7e02615fe9905c042250552&txTime=697561BC"
       }
     },
     {
@@ -333,13 +311,13 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769283900,
       "home": "Lecce",
       "away": "Lazio",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769282726.flv"
       }
     },
     {
@@ -377,13 +355,13 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769283900,
       "home": "Lecce",
       "away": "Lazio",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769282726.flv"
       }
     },
     {
@@ -420,6 +398,28 @@
       }
     },
     {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1769354400,
+      "home": "Al Najma(KSA)",
+      "away": "Al Qadsiah",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1769354400,
+      "home": "Al Najma(KSA)",
+      "away": "Al Qadsiah",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "Liga Portugal",
       "status": "LIVE",
       "time": 1769277600,
@@ -432,13 +432,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769286600,
       "home": "Estoril",
       "away": "Vitoria Guimaraes",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769275372.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769286600,
       "home": "Estoril",
       "away": "Vitoria Guimaraes",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769275372.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -575,24 +575,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769275800,
-      "home": "Sevilla FC",
-      "away": "Athletic Club",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358865.m3u8?txSecret=687a1e3b1ae2dcc4f46946b574ecae81&txTime=69755D04"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769284800,
       "home": "Villarreal CF",
       "away": "Real Madrid",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769274895.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -608,24 +597,24 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769275800,
-      "home": "Sevilla FC",
-      "away": "Athletic Club",
+      "status": "UPCOMING",
+      "time": 1769354100,
+      "home": "FC Barcelona",
+      "away": "Real Oviedo",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358865.m3u8?txSecret=687a1e3b1ae2dcc4f46946b574ecae81&txTime=69755D04"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769284800,
       "home": "Villarreal CF",
       "away": "Real Madrid",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769274895.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -634,6 +623,17 @@
       "time": 1769346000,
       "home": "Atletico Madrid",
       "away": "RCD Mallorca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA La Liga",
+      "status": "UPCOMING",
+      "time": 1769354100,
+      "home": "FC Barcelona",
+      "away": "Real Oviedo",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
