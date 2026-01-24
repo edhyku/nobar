@@ -1,5 +1,5 @@
 {
-  "updated": 1769261907,
+  "updated": 1769262829,
   "events": [
     {
       "league": "BEL Pro League",
@@ -31,7 +31,7 @@
       "away": "Preston North End",
       "stream": {
         "type": "m3u8",
-        "url": "https://play3.clomidx.com/live/111231988014_2688909792_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4351404.m3u8?txSecret=7791118f475847c73aad1dd58a1b76e0&txTime=69751203"
       }
     },
     {
@@ -130,7 +130,7 @@
       "away": "Preston North End",
       "stream": {
         "type": "m3u8",
-        "url": "https://play3.clomidx.com/live/111231988014_2688909792_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4351404.m3u8?txSecret=7791118f475847c73aad1dd58a1b76e0&txTime=69751203"
       }
     },
     {
@@ -559,7 +559,7 @@
       "away": "Al Shabab FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=272e47625f9031b86c2d9e4780412180&txTime=6974D0DE&sign=43c2cec12dfb3c0f"
+        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=c20603be2a6bc775c689d6c95f14ef1b&txTime=6974D462&sign=e7ffb63e393f27cf"
       }
     },
     {
@@ -570,7 +570,7 @@
       "away": "Al Shabab FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=272e47625f9031b86c2d9e4780412180&txTime=6974D0DE&sign=43c2cec12dfb3c0f"
+        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=c20603be2a6bc775c689d6c95f14ef1b&txTime=6974D462&sign=e7ffb63e393f27cf"
       }
     },
     {
