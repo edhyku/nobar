@@ -1,5 +1,5 @@
 {
-  "updated": 1769290753,
+  "updated": 1769291536,
   "events": [
     {
       "league": "AUS A-League",
@@ -68,28 +68,6 @@
       }
     },
     {
-      "league": "BEL Pro League",
-      "status": "LIVE",
-      "time": 1769283900,
-      "home": "Oud-Heverlee Leuven",
-      "away": "Union Saint-Gilloise",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61358993_38526fa8acaeffe8dad202097019bd50.m3u8"
-      }
-    },
-    {
-      "league": "BEL Pro League",
-      "status": "LIVE",
-      "time": 1769283900,
-      "home": "Oud-Heverlee Leuven",
-      "away": "Union Saint-Gilloise",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61358993_38526fa8acaeffe8dad202097019bd50.m3u8"
-      }
-    },
-    {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
       "time": 1769342400,
@@ -289,17 +267,6 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769283900,
-      "home": "Lecce",
-      "away": "Lazio",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61061377_24730f1f1c47ece9a4186fd5645ee0d8.m3u8"
-      }
-    },
-    {
-      "league": "ITA Serie A",
       "status": "UPCOMING",
       "time": 1769340600,
       "home": "Sassuolo",
@@ -329,17 +296,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769283900,
-      "home": "Lecce",
-      "away": "Lazio",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61061377_24730f1f1c47ece9a4186fd5645ee0d8.m3u8"
       }
     },
     {
@@ -436,6 +392,50 @@
       "time": 1769355000,
       "home": "Nacional da Madeira",
       "away": "Rio Ave",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769338800,
+      "home": "Porto B",
+      "away": "Vizela",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769338800,
+      "home": "Portimonense",
+      "away": "Feirense",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769338800,
+      "home": "Porto B",
+      "away": "Vizela",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769338800,
+      "home": "Portimonense",
+      "away": "Feirense",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
