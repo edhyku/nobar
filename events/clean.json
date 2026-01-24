@@ -1,5 +1,5 @@
 {
-  "updated": 1769289745,
+  "updated": 1769290753,
   "events": [
     {
       "league": "AUS A-League",
@@ -245,17 +245,6 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "LIVE",
-      "time": 1769283000,
-      "home": "1. FC Magdeburg",
-      "away": "Dynamo Dresden",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355727.m3u8?txSecret=3b4a80e9b7e02615fe9905c042250552&txTime=697561BC"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
       "status": "UPCOMING",
       "time": 1769344200,
       "home": "SV Elversberg",
@@ -274,17 +263,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "LIVE",
-      "time": 1769283000,
-      "home": "1. FC Magdeburg",
-      "away": "Dynamo Dresden",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355727.m3u8?txSecret=3b4a80e9b7e02615fe9905c042250552&txTime=697561BC"
       }
     },
     {
@@ -637,6 +615,28 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "LIVE",
+      "time": 1769284800,
+      "home": "Cadiz",
+      "away": "Granada CF",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live2.trendgallary.com/live/61623516_d7228c9e47284274cd2d81a8d36e6d36.m3u8"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "LIVE",
+      "time": 1769284800,
+      "home": "Cadiz",
+      "away": "Granada CF",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live2.trendgallary.com/live/61623516_d7228c9e47284274cd2d81a8d36e6d36.m3u8"
       }
     },
     {
