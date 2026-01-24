@@ -1,5 +1,5 @@
 {
-  "updated": 1769287266,
+  "updated": 1769288064,
   "events": [
     {
       "league": "AUS A-League",
@@ -427,7 +427,7 @@
       "away": "Vitoria Guimaraes",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100470.m3u8?txSecret=f0f199b42728862b075ad22305ba8f33&txTime=69752E62&sign=9cdffa2e249090b2"
+        "url": "https://live.vivo200.com/live/sd-1-4368953.m3u8?txSecret=fc525c711b371f8e766769789156a370&txTime=697576D3"
       }
     },
     {
@@ -449,7 +449,7 @@
       "away": "Vitoria Guimaraes",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100470.m3u8?txSecret=f0f199b42728862b075ad22305ba8f33&txTime=69752E62&sign=9cdffa2e249090b2"
+        "url": "https://live.vivo200.com/live/sd-1-4368953.m3u8?txSecret=fc525c711b371f8e766769789156a370&txTime=697576D3"
       }
     },
     {
