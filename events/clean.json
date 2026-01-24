@@ -1,5 +1,5 @@
 {
-  "updated": 1769235278,
+  "updated": 1769237404,
   "events": [
     {
       "league": "AUS A-League",
@@ -9,7 +9,7 @@
       "away": "Adelaide United",
       "stream": {
         "type": "m3u8",
-        "url": "https://live2.trendgallary.com/live/63684595_9b2a724d7f8491ab8eb17e623690baa0.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4426648.m3u8?txSecret=fbd10a44931d79f42c33f569c5f25f7c&txTime=6974AAE3"
       }
     },
     {
@@ -31,7 +31,7 @@
       "away": "Adelaide United",
       "stream": {
         "type": "m3u8",
-        "url": "https://live2.trendgallary.com/live/63684595_9b2a724d7f8491ab8eb17e623690baa0.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4426648.m3u8?txSecret=fbd10a44931d79f42c33f569c5f25f7c&txTime=6974AAE3"
       }
     },
     {
@@ -53,7 +53,7 @@
       "away": "WS Wanderers Women",
       "stream": {
         "type": "m3u8",
-        "url": "https://live3.trendgallary.com/live/63685085_787c75c81a8f787fb7974c0dd3ce9e9d.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4429332.m3u8?txSecret=0a6f0e0340ebff82d4d67452872c2005&txTime=6974AAE3"
       }
     },
     {
@@ -75,7 +75,7 @@
       "away": "WS Wanderers Women",
       "stream": {
         "type": "m3u8",
-        "url": "https://live3.trendgallary.com/live/63685085_787c75c81a8f787fb7974c0dd3ce9e9d.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4429332.m3u8?txSecret=0a6f0e0340ebff82d4d67452872c2005&txTime=6974AAE3"
       }
     },
     {
