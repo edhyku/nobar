@@ -1,5 +1,5 @@
 {
-  "updated": 1769237404,
+  "updated": 1769238869,
   "events": [
     {
       "league": "AUS A-League",
@@ -113,13 +113,13 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769257800,
       "home": "Middlesbrough",
       "away": "Preston North End",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769229669.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -146,13 +146,13 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769257800,
       "home": "Middlesbrough",
       "away": "Preston North End",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769229669.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -190,13 +190,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769266800,
       "home": "Burnley",
       "away": "Tottenham Hotspur",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769229669.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -234,13 +234,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769266800,
       "home": "Burnley",
       "away": "Tottenham Hotspur",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769229669.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
