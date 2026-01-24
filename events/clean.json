@@ -1,26 +1,26 @@
 {
-  "updated": 1769265803,
+  "updated": 1769266543,
   "events": [
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769266800,
       "home": "Burnley",
       "away": "Tottenham Hotspur",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769265297.flv"
       }
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769266800,
       "home": "Fulham",
       "away": "Brighton Hove Albion",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769266151.flv"
       }
     },
     {
@@ -31,40 +31,40 @@
       "away": "Wolverhampton Wanderers",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769256102.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769265785.flv"
       }
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769275800,
       "home": "Bournemouth AFC",
       "away": "Liverpool",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769265829.flv"
       }
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769266800,
       "home": "Burnley",
       "away": "Tottenham Hotspur",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769265297.flv"
       }
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769266800,
       "home": "Fulham",
       "away": "Brighton Hove Albion",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769266151.flv"
       }
     },
     {
@@ -75,18 +75,18 @@
       "away": "Wolverhampton Wanderers",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769256102.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769265785.flv"
       }
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769275800,
       "home": "Bournemouth AFC",
       "away": "Liverpool",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769265829.flv"
       }
     },
     {
@@ -102,13 +102,13 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769277600,
       "home": "Havre Athletic Club",
       "away": "AS Monaco",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769265811.flv"
       }
     },
     {
@@ -124,13 +124,13 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769277600,
       "home": "Havre Athletic Club",
       "away": "AS Monaco",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769265811.flv"
       }
     },
     {
@@ -383,7 +383,7 @@
       "away": "Al Shabab FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=c4b93eebcfc303f019a3bd3cb1715e13&txTime=6974E056&sign=0a395877690d9dec"
+        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=d45694620d0e76e8c11a60fdc2177843&txTime=6974E3D9&sign=e75dfd52ae68890c"
       }
     },
     {
@@ -405,7 +405,7 @@
       "away": "Al Shabab FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=c4b93eebcfc303f019a3bd3cb1715e13&txTime=6974E056&sign=0a395877690d9dec"
+        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=d45694620d0e76e8c11a60fdc2177843&txTime=6974E3D9&sign=e75dfd52ae68890c"
       }
     },
     {
@@ -432,13 +432,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769277600,
       "home": "FC Arouca",
       "away": "Sporting CP",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769265297.flv"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769277600,
       "home": "FC Arouca",
       "away": "Sporting CP",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769265297.flv"
       }
     },
     {
@@ -586,13 +586,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769284800,
       "home": "Villarreal CF",
       "away": "Real Madrid",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769265829.flv"
       }
     },
     {
@@ -630,13 +630,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769284800,
       "home": "Villarreal CF",
       "away": "Real Madrid",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769265829.flv"
       }
     },
     {
