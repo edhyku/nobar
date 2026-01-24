@@ -1,5 +1,5 @@
 {
-  "updated": 1769230543,
+  "updated": 1769232555,
   "events": [
     {
       "league": "AUS A-League",
@@ -25,13 +25,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769243700,
       "home": "Macarthur FC",
       "away": "Melbourne City",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769222572.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -58,13 +58,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769243700,
       "home": "Macarthur FC",
       "away": "Melbourne City",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769222572.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -212,13 +212,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769266800,
       "home": "Manchester City",
       "away": "Wolverhampton Wanderers",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769220699.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -256,13 +256,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769266800,
       "home": "Manchester City",
       "away": "Wolverhampton Wanderers",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769220699.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
