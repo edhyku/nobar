@@ -1,5 +1,5 @@
 {
-  "updated": 1769260064,
+  "updated": 1769261907,
   "events": [
     {
       "league": "BEL Pro League",
@@ -31,7 +31,7 @@
       "away": "Preston North End",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351404.m3u8?txSecret=42f8d656c154205b6fd7e4506abe1c09&txTime=6974FAA3"
+        "url": "https://play3.clomidx.com/live/111231988014_2688909792_adaptive.m3u8"
       }
     },
     {
@@ -106,6 +106,17 @@
       "time": 1769266800,
       "home": "Hull City",
       "away": "Swansea City",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Queens Park Rangers",
+      "away": "Wrexham",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -119,7 +130,7 @@
       "away": "Preston North End",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351404.m3u8?txSecret=42f8d656c154205b6fd7e4506abe1c09&txTime=6974FAA3"
+        "url": "https://play3.clomidx.com/live/111231988014_2688909792_adaptive.m3u8"
       }
     },
     {
@@ -200,6 +211,17 @@
       }
     },
     {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Queens Park Rangers",
+      "away": "Wrexham",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG Premier League",
       "status": "LIVE",
       "time": 1769257800,
@@ -366,13 +388,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769265000,
       "home": "1. FC Heidenheim 1846",
       "away": "RB Leipzig",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769253577.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -421,13 +443,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769265000,
       "home": "1. FC Heidenheim 1846",
       "away": "RB Leipzig",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769253577.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -531,24 +553,24 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769261100,
       "home": "Al Khaleej Club",
       "away": "Al Shabab FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=272e47625f9031b86c2d9e4780412180&txTime=6974D0DE&sign=43c2cec12dfb3c0f"
       }
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769261100,
       "home": "Al Khaleej Club",
       "away": "Al Shabab FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100286.m3u8?txSecret=272e47625f9031b86c2d9e4780412180&txTime=6974D0DE&sign=43c2cec12dfb3c0f"
       }
     },
     {
@@ -615,17 +637,6 @@
       "stream": {
         "type": "m3u8",
         "url": "https://live.vivo200.com/live/sd-1-4361796.m3u8?txSecret=89d76441cc65006f5ecefce170dde183&txTime=697501BE"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "LIVE",
-      "time": 1769254200,
-      "home": "Kayserispor",
-      "away": "Başakşehir Futbol Kulübü",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4366010.m3u8?txSecret=7cf5e857b4ec4530b03400a3bb479e7f&txTime=697503F4"
       }
     },
     {
@@ -637,17 +648,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "LIVE",
-      "time": 1769254200,
-      "home": "Kayserispor",
-      "away": "Başakşehir Futbol Kulübü",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4366010.m3u8?txSecret=7cf5e857b4ec4530b03400a3bb479e7f&txTime=697503F4"
       }
     },
     {
