@@ -1,5 +1,5 @@
 {
-  "updated": 1769277299,
+  "updated": 1769279848,
   "events": [
     {
       "league": "AUS A-League",
@@ -124,6 +124,17 @@
     },
     {
       "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "Newcastle United",
+      "away": "Aston Villa",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
       "status": "LIVE",
       "time": 1769275800,
       "home": "Bournemouth AFC",
@@ -156,14 +167,25 @@
       }
     },
     {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "Newcastle United",
+      "away": "Aston Villa",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "FRA Ligue 1",
       "status": "LIVE",
       "time": 1769277600,
       "home": "Havre Athletic Club",
       "away": "AS Monaco",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769276842.flv"
+        "type": "m3u8",
+        "url": "https://play3.clomidx.com/live/111235483478_1609453451_adaptive.m3u8"
       }
     },
     {
@@ -184,8 +206,8 @@
       "home": "Havre Athletic Club",
       "away": "AS Monaco",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769276842.flv"
+        "type": "m3u8",
+        "url": "https://play3.clomidx.com/live/111235483478_1609453451_adaptive.m3u8"
       }
     },
     {
@@ -395,28 +417,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769275800,
-      "home": "NEOM Sports Club",
-      "away": "Al Ahli SFC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404491.m3u8?txSecret=941c436a0e3c238d1bc7e0b67aac73ab&txTime=69754342"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769275800,
-      "home": "NEOM Sports Club",
-      "away": "Al Ahli SFC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404491.m3u8?txSecret=941c436a0e3c238d1bc7e0b67aac73ab&txTime=69754342"
       }
     },
     {
@@ -426,8 +426,8 @@
       "home": "FC Arouca",
       "away": "Sporting CP",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769276078.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368949.m3u8?txSecret=8d92da5f5437150ad7d659dafd22c90c&txTime=6975434A"
       }
     },
     {
@@ -448,8 +448,8 @@
       "home": "FC Arouca",
       "away": "Sporting CP",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769276078.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368949.m3u8?txSecret=8d92da5f5437150ad7d659dafd22c90c&txTime=6975434A"
       }
     },
     {
@@ -471,29 +471,29 @@
       "away": "PEC Zwolle",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100433.m3u8?txSecret=3c5e1a87402a4d156210aaa37ce0556f&txTime=697507B8&sign=42c5f6d5ede89aeb"
+        "url": "https://live.vivo200.com/live/sd-1-4344649.m3u8?txSecret=a79bfb747620f481e946dcb671d39bb6&txTime=69755152"
       }
     },
     {
       "league": "NED Eredivisie",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769281200,
       "home": "PSV Eindhoven",
       "away": "NAC Breda",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769269782.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "NED Eredivisie",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769284800,
       "home": "FC Twente Enschede",
       "away": "Excelsior SBV",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769275281.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -526,29 +526,29 @@
       "away": "PEC Zwolle",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100433.m3u8?txSecret=3c5e1a87402a4d156210aaa37ce0556f&txTime=697507B8&sign=42c5f6d5ede89aeb"
+        "url": "https://live.vivo200.com/live/sd-1-4344649.m3u8?txSecret=a79bfb747620f481e946dcb671d39bb6&txTime=69755152"
       }
     },
     {
       "league": "NED Eredivisie",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769281200,
       "home": "PSV Eindhoven",
       "away": "NAC Breda",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2157340_1769269782.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "NED Eredivisie",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769284800,
       "home": "FC Twente Enschede",
       "away": "Excelsior SBV",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769275281.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
