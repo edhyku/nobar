@@ -1,5 +1,5 @@
 {
-  "updated": 1769240075,
+  "updated": 1769240874,
   "events": [
     {
       "league": "AUS A-League",
@@ -423,28 +423,6 @@
       "league": "GER Bundesliga 2",
       "status": "UPCOMING",
       "time": 1769256000,
-      "home": "Hannover 96",
-      "away": "Fortuna Dusseldorf",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
-      "time": 1769256000,
-      "home": "Karlsruher SC",
-      "away": "Hertha Berlin",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
-      "time": 1769256000,
       "home": "SpVgg Greuther Fürth",
       "away": "Eintracht Braunschweig",
       "stream": {
@@ -480,6 +458,28 @@
       "time": 1769256000,
       "home": "SpVgg Greuther Fürth",
       "away": "Eintracht Braunschweig",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769256000,
+      "home": "Hannover 96",
+      "away": "Fortuna Dusseldorf",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769256000,
+      "home": "Karlsruher SC",
+      "away": "Hertha Berlin",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
