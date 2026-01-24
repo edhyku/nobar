@@ -1,26 +1,26 @@
 {
-  "updated": 1769293108,
+  "updated": 1769294447,
   "events": [
     {
       "league": "ARG Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769293800,
       "home": "Gimnasia La Plata",
       "away": "Racing Club de Avellaneda",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4465058.m3u8?txSecret=1be3eed368a98c1025dca4742da513fc&txTime=6975898B"
       }
     },
     {
       "league": "ARG Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769293800,
       "home": "Gimnasia La Plata",
       "away": "Racing Club de Avellaneda",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4465058.m3u8?txSecret=1be3eed368a98c1025dca4742da513fc&txTime=6975898B"
       }
     },
     {
@@ -291,6 +291,17 @@
       "league": "GER Bundesliga 2",
       "status": "UPCOMING",
       "time": 1769344200,
+      "home": "SC Paderborn 07",
+      "away": "Preuben Munster",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769344200,
       "home": "SV Elversberg",
       "away": "VfL Bochum 1848",
       "stream": {
@@ -310,6 +321,17 @@
       }
     },
     {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769344200,
+      "home": "SC Paderborn 07",
+      "away": "Preuben Munster",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ITA Serie A",
       "status": "UPCOMING",
       "time": 1769340600,
@@ -377,68 +399,46 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769354400,
       "home": "Al Najma(KSA)",
       "away": "Al Qadsiah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769286017.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769354400,
       "home": "Al Najma(KSA)",
       "away": "Al Qadsiah",
       "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "LIVE",
+      "time": 1769355000,
+      "home": "Nacional da Madeira",
+      "away": "Rio Ave",
+      "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769286017.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769293161.flv"
       }
     },
     {
       "league": "Liga Portugal",
       "status": "LIVE",
-      "time": 1769286600,
-      "home": "Estoril",
-      "away": "Vitoria Guimaraes",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368953.m3u8?txSecret=fc525c711b371f8e766769789156a370&txTime=697576D3"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "UPCOMING",
       "time": 1769355000,
       "home": "Nacional da Madeira",
       "away": "Rio Ave",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769286600,
-      "home": "Estoril",
-      "away": "Vitoria Guimaraes",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368953.m3u8?txSecret=fc525c711b371f8e766769789156a370&txTime=697576D3"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "UPCOMING",
-      "time": 1769355000,
-      "home": "Nacional da Madeira",
-      "away": "Rio Ave",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769293161.flv"
       }
     },
     {
@@ -487,24 +487,24 @@
     },
     {
       "league": "MEX Liga MX Femenil",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769293800,
       "home": "Saint Louis Athletica Women",
       "away": "Tijuana Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769293161.flv"
       }
     },
     {
       "league": "MEX Liga MX Femenil",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769293800,
       "home": "Saint Louis Athletica Women",
       "away": "Tijuana Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769293161.flv"
       }
     },
     {
