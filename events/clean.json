@@ -1,5 +1,5 @@
 {
-  "updated": 1769288064,
+  "updated": 1769289745,
   "events": [
     {
       "league": "AUS A-League",
@@ -68,6 +68,28 @@
       }
     },
     {
+      "league": "BEL Pro League",
+      "status": "LIVE",
+      "time": 1769283900,
+      "home": "Oud-Heverlee Leuven",
+      "away": "Union Saint-Gilloise",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/61358993_38526fa8acaeffe8dad202097019bd50.m3u8"
+      }
+    },
+    {
+      "league": "BEL Pro League",
+      "status": "LIVE",
+      "time": 1769283900,
+      "home": "Oud-Heverlee Leuven",
+      "away": "Union Saint-Gilloise",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/61358993_38526fa8acaeffe8dad202097019bd50.m3u8"
+      }
+    },
+    {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
       "time": 1769342400,
@@ -197,28 +219,6 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769284027.flv"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769281200,
-      "home": "Stade DE Reims",
-      "away": "AS Saint-Étienne",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4401075.m3u8?txSecret=928f6bab59b9cc9d3ed1c5413ef727f1&txTime=69755D09"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769281200,
-      "home": "Stade DE Reims",
-      "away": "AS Saint-Étienne",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4401075.m3u8?txSecret=928f6bab59b9cc9d3ed1c5413ef727f1&txTime=69755D09"
       }
     },
     {
@@ -317,7 +317,7 @@
       "away": "Lazio",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339749.m3u8?txSecret=de7e2ca43045720cab584dbf0333333c&txTime=6975666A"
+        "url": "https://live.trendgallary.com/live/61061377_24730f1f1c47ece9a4186fd5645ee0d8.m3u8"
       }
     },
     {
@@ -361,7 +361,7 @@
       "away": "Lazio",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339749.m3u8?txSecret=de7e2ca43045720cab584dbf0333333c&txTime=6975666A"
+        "url": "https://live.trendgallary.com/live/61061377_24730f1f1c47ece9a4186fd5645ee0d8.m3u8"
       }
     },
     {
@@ -466,12 +466,12 @@
     {
       "league": "NED Eredivisie",
       "status": "LIVE",
-      "time": 1769281200,
-      "home": "PSV Eindhoven",
-      "away": "NAC Breda",
+      "time": 1769284800,
+      "home": "FC Twente Enschede",
+      "away": "Excelsior SBV",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344695.m3u8?txSecret=4af3273b4bc0d791be5ddfa8769e9dbb&txTime=69755D09"
+        "url": "https://live.vivo200.com/live/sd-1-4344634.m3u8?txSecret=dc74d4dbb070058afcbdaa55cd764dba&txTime=69756FC5"
       }
     },
     {
@@ -521,12 +521,12 @@
     {
       "league": "NED Eredivisie",
       "status": "LIVE",
-      "time": 1769281200,
-      "home": "PSV Eindhoven",
-      "away": "NAC Breda",
+      "time": 1769284800,
+      "home": "FC Twente Enschede",
+      "away": "Excelsior SBV",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344695.m3u8?txSecret=4af3273b4bc0d791be5ddfa8769e9dbb&txTime=69755D09"
+        "url": "https://live.vivo200.com/live/sd-1-4344634.m3u8?txSecret=dc74d4dbb070058afcbdaa55cd764dba&txTime=69756FC5"
       }
     },
     {
@@ -581,7 +581,7 @@
       "away": "Real Madrid",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358873.m3u8?txSecret=89fa46f733095ec4526d1a3f23185586&txTime=697568C5"
+        "url": "https://live.trendgallary.com/live/61624356_fd00a05913711a982024399780a36baf.m3u8"
       }
     },
     {
@@ -614,7 +614,7 @@
       "away": "Real Madrid",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358873.m3u8?txSecret=89fa46f733095ec4526d1a3f23185586&txTime=697568C5"
+        "url": "https://live.trendgallary.com/live/61624356_fd00a05913711a982024399780a36baf.m3u8"
       }
     },
     {
