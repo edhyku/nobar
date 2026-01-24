@@ -1,19 +1,8 @@
 {
-  "updated": 1769240874,
+  "updated": 1769241619,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769234400,
-      "home": "Brisbane Roar",
-      "away": "Adelaide United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426648.m3u8?txSecret=fbd10a44931d79f42c33f569c5f25f7c&txTime=6974AAE3"
-      }
-    },
-    {
-      "league": "AUS A-League",
       "status": "UPCOMING",
       "time": 1769243700,
       "home": "Macarthur FC",
@@ -25,17 +14,6 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769234400,
-      "home": "Brisbane Roar",
-      "away": "Adelaide United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426648.m3u8?txSecret=fbd10a44931d79f42c33f569c5f25f7c&txTime=6974AAE3"
-      }
-    },
-    {
-      "league": "AUS A-League",
       "status": "UPCOMING",
       "time": 1769243700,
       "home": "Macarthur FC",
@@ -43,17 +21,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769234400,
-      "home": "Central Coast Mariners women",
-      "away": "WS Wanderers Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429332.m3u8?txSecret=0a6f0e0340ebff82d4d67452872c2005&txTime=6974AAE3"
       }
     },
     {
@@ -65,17 +32,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769234400,
-      "home": "Central Coast Mariners women",
-      "away": "WS Wanderers Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429332.m3u8?txSecret=0a6f0e0340ebff82d4d67452872c2005&txTime=6974AAE3"
       }
     },
     {
@@ -147,6 +103,28 @@
     {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Blackburn Rovers",
+      "away": "Watford",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Bristol City",
+      "away": "Sheffield Wednesday",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
       "time": 1769257800,
       "home": "Middlesbrough",
       "away": "Preston North End",
@@ -172,6 +150,28 @@
       "time": 1769266800,
       "home": "Birmingham City",
       "away": "Stoke City",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Blackburn Rovers",
+      "away": "Watford",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Bristol City",
+      "away": "Sheffield Wednesday",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -322,13 +322,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769265000,
       "home": "FC Bayern Munich",
       "away": "FC Augsburg",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769233469.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769265000,
       "home": "FC Bayern Munich",
       "away": "FC Augsburg",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769233469.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
