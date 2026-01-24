@@ -1,5 +1,5 @@
 {
-  "updated": 1769212711,
+  "updated": 1769221298,
   "events": [
     {
       "league": "AUS A-League",
@@ -14,13 +14,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769234400,
       "home": "Brisbane Roar",
       "away": "Adelaide United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769215545.flv"
       }
     },
     {
@@ -47,13 +47,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769234400,
       "home": "Brisbane Roar",
       "away": "Adelaide United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769215545.flv"
       }
     },
     {
@@ -69,24 +69,24 @@
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769234400,
       "home": "Central Coast Mariners women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769213164.flv"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769234400,
       "home": "Central Coast Mariners women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769213164.flv"
       }
     },
     {
@@ -641,24 +641,24 @@
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769254200,
       "home": "Kayserispor",
       "away": "Başakşehir Futbol Kulübü",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769213940.flv"
       }
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769254200,
       "home": "Kayserispor",
       "away": "Başakşehir Futbol Kulübü",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769213940.flv"
       }
     }
   ]
