@@ -1,5 +1,5 @@
 {
-  "updated": 1769296991,
+  "updated": 1769298075,
   "events": [
     {
       "league": "ARG Division 1",
@@ -119,7 +119,7 @@
       "away": "Orsomarso",
       "stream": {
         "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/o07dni5wornbmkn_83b5e9195b8e8eca97a9311bd831e423.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4483502.m3u8?txSecret=7e91818c3bb0530876dc69cb9adfe62f&txTime=69759C4C"
       }
     },
     {
@@ -130,7 +130,7 @@
       "away": "Orsomarso",
       "stream": {
         "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/o07dni5wornbmkn_83b5e9195b8e8eca97a9311bd831e423.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4483502.m3u8?txSecret=7e91818c3bb0530876dc69cb9adfe62f&txTime=69759C4C"
       }
     },
     {
