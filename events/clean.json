@@ -1,29 +1,7 @@
 {
-  "updated": 1769250791,
+  "updated": 1769251858,
   "events": [
     {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769243700,
-      "home": "Macarthur FC",
-      "away": "Melbourne City",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426649.m3u8?txSecret=5bc760148b01e9adc99ee3c54c562066&txTime=6974C4AE"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769243700,
-      "home": "Macarthur FC",
-      "away": "Melbourne City",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426649.m3u8?txSecret=5bc760148b01e9adc99ee3c54c562066&txTime=6974C4AE"
-      }
-    },
-    {
       "league": "AUS W-League",
       "status": "LIVE",
       "time": 1769245200,
@@ -125,6 +103,17 @@
     {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Leicester City",
+      "away": "Oxford United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
       "time": 1769257800,
       "home": "Middlesbrough",
       "away": "Preston North End",
@@ -172,6 +161,17 @@
       "time": 1769266800,
       "home": "Bristol City",
       "away": "Sheffield Wednesday",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769266800,
+      "home": "Leicester City",
+      "away": "Oxford United",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
