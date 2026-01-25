@@ -1742,11 +1742,11 @@
           },
           "competition_id": 114,
           "environment": {
-            "humidity": "85%",
+            "humidity": "83%",
             "pressure": "754mmHg",
-            "temperature": "9°C",
+            "temperature": "8°C",
             "weather": 10,
-            "wind": "2.3m/s"
+            "wind": "2.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -1969,11 +1969,11 @@
           },
           "competition_id": 114,
           "environment": {
-            "humidity": "85%",
+            "humidity": "83%",
             "pressure": "754mmHg",
-            "temperature": "9°C",
+            "temperature": "8°C",
             "weather": 10,
-            "wind": "2.3m/s"
+            "wind": "2.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3625,7 +3625,7 @@
           },
           "competition_id": 129,
           "environment": {
-            "humidity": "89%",
+            "humidity": "90%",
             "pressure": "750mmHg",
             "temperature": "0°C",
             "weather": 7,
@@ -4079,7 +4079,7 @@
           },
           "competition_id": 129,
           "environment": {
-            "humidity": "89%",
+            "humidity": "90%",
             "pressure": "750mmHg",
             "temperature": "0°C",
             "weather": 7,
@@ -4278,7 +4278,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "红尘",
-              "online_status": 9,
+              "online_status": 1,
               "profile": {
                 "age": 24,
                 "birthday": "",
@@ -4516,7 +4516,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "红尘",
-              "online_status": 9,
+              "online_status": 1,
               "profile": {
                 "age": 24,
                 "birthday": "",
@@ -5404,7 +5404,7 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "90%",
+            "humidity": "89%",
             "pressure": "755mmHg",
             "temperature": "3°C",
             "weather": 5,
@@ -5603,7 +5603,7 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "90%",
+            "humidity": "89%",
             "pressure": "755mmHg",
             "temperature": "3°C",
             "weather": 5,
@@ -6321,17 +6321,17 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 113500,
+                "hot": 257900,
                 "isvideo": 0,
                 "liveid": 1769380272226,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 42,
+                "peak_num": 79,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 1,
+                "private_count": 3,
                 "profit": 0,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/2048226_1769380236.flv",
                 "rec_weight": 1,
@@ -7674,17 +7674,17 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 113500,
+                "hot": 257900,
                 "isvideo": 0,
                 "liveid": 1769380272226,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 42,
+                "peak_num": 79,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 1,
+                "private_count": 3,
                 "profit": 0,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/2048226_1769380236.flv",
                 "rec_weight": 1,
@@ -8944,7 +8944,7 @@
           "away_id": 11838,
           "away_otscrore": 0,
           "away_pointscore": 0,
-          "away_rank": "4",
+          "away_rank": "5",
           "away_redcard": 0,
           "away_score": 0,
           "away_yellowcard": 0,
@@ -8982,7 +8982,7 @@
             "pressure": "752mmHg",
             "temperature": "14°C",
             "weather": 9,
-            "wind": "11.m/s"
+            "wind": "10.m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9143,7 +9143,7 @@
           "away_id": 11838,
           "away_otscrore": 0,
           "away_pointscore": 0,
-          "away_rank": "4",
+          "away_rank": "5",
           "away_redcard": 0,
           "away_score": 0,
           "away_yellowcard": 0,
@@ -9181,7 +9181,7 @@
             "pressure": "752mmHg",
             "temperature": "14°C",
             "weather": 9,
-            "wind": "11.m/s"
+            "wind": "10.m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9817,9 +9817,9 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "98%",
+            "humidity": "97%",
             "pressure": "761mmHg",
-            "temperature": "15°C",
+            "temperature": "16°C",
             "weather": 10,
             "wind": "9.0m/s"
           },
@@ -10055,7 +10055,7 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "97%",
+            "humidity": "96%",
             "pressure": "755mmHg",
             "temperature": "14°C",
             "weather": 10,
@@ -10293,9 +10293,9 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "98%",
+            "humidity": "97%",
             "pressure": "761mmHg",
-            "temperature": "15°C",
+            "temperature": "16°C",
             "weather": 10,
             "wind": "9.0m/s"
           },
@@ -10531,7 +10531,7 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "97%",
+            "humidity": "96%",
             "pressure": "755mmHg",
             "temperature": "14°C",
             "weather": 10,
@@ -11176,7 +11176,7 @@
           "away_id": 10042,
           "away_otscrore": 0,
           "away_pointscore": 0,
-          "away_rank": "17",
+          "away_rank": "18",
           "away_redcard": 0,
           "away_score": 0,
           "away_yellowcard": 0,
@@ -11375,7 +11375,7 @@
           "away_id": 10042,
           "away_otscrore": 0,
           "away_pointscore": 0,
-          "away_rank": "17",
+          "away_rank": "18",
           "away_redcard": 0,
           "away_score": 0,
           "away_yellowcard": 0,
@@ -11612,9 +11612,9 @@
           "environment": {
             "humidity": "85%",
             "pressure": "764mmHg",
-            "temperature": "16°C",
+            "temperature": "17°C",
             "weather": 7,
-            "wind": "8.4m/s"
+            "wind": "8.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11811,9 +11811,9 @@
           "environment": {
             "humidity": "85%",
             "pressure": "764mmHg",
-            "temperature": "16°C",
+            "temperature": "17°C",
             "weather": 7,
-            "wind": "8.4m/s"
+            "wind": "8.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12010,11 +12010,11 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "62%",
+            "humidity": "63%",
             "pressure": "752mmHg",
             "temperature": "15°C",
             "weather": 9,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12209,11 +12209,11 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "62%",
+            "humidity": "63%",
             "pressure": "752mmHg",
             "temperature": "15°C",
             "weather": 9,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12412,9 +12412,9 @@
           "environment": {
             "humidity": "94%",
             "pressure": "749mmHg",
-            "temperature": "2°C",
+            "temperature": "1°C",
             "weather": 4,
-            "wind": "3.7m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -13009,9 +13009,9 @@
           "environment": {
             "humidity": "94%",
             "pressure": "749mmHg",
-            "temperature": "2°C",
+            "temperature": "1°C",
             "weather": 4,
-            "wind": "3.7m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
