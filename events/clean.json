@@ -1,5 +1,5 @@
 {
-  "updated": 1769361559,
+  "updated": 1769362806,
   "events": [
     {
       "league": "AUS A-League",
@@ -31,7 +31,7 @@
       "away": "Manchester United",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343132.m3u8?txSecret=276e7e781d7806e85a7affd6fc547ba1&txTime=6976821C"
+        "url": "http://play.clomidx.com/live/111805293071_4082329442_adaptive.m3u8"
       }
     },
     {
@@ -42,7 +42,7 @@
       "away": "Manchester United",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343132.m3u8?txSecret=276e7e781d7806e85a7affd6fc547ba1&txTime=6976821C"
+        "url": "http://play.clomidx.com/live/111805293071_4082329442_adaptive.m3u8"
       }
     },
     {
@@ -141,7 +141,7 @@
       "away": "FC Köln",
       "stream": {
         "type": "m3u8",
-        "url": "https://play4.clomidx.com/live/113282646316_3850986129_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4347522.m3u8?txSecret=2c53636459d46909225181b7289929d4&txTime=69769973"
       }
     },
     {
@@ -152,7 +152,7 @@
       "away": "FC Köln",
       "stream": {
         "type": "m3u8",
-        "url": "https://play4.clomidx.com/live/113282646316_3850986129_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4347522.m3u8?txSecret=2c53636459d46909225181b7289929d4&txTime=69769973"
       }
     },
     {
@@ -207,7 +207,7 @@
       "away": "Napoli",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100370.m3u8?txSecret=5ee0d933ccd3081996ae103eb927fc9c&txTime=69765666&sign=914ef62536bf8656"
+        "url": "https://live.vivo200.com/live/sd-1-4339747.m3u8?txSecret=e3605477169ef4cc3ed285ef978f8017&txTime=69769973"
       }
     },
     {
@@ -219,6 +219,17 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769357662.flv"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769456700,
+      "home": "Hellas Verona",
+      "away": "Udinese",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -229,7 +240,7 @@
       "away": "Napoli",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100370.m3u8?txSecret=5ee0d933ccd3081996ae103eb927fc9c&txTime=69765666&sign=914ef62536bf8656"
+        "url": "https://live.vivo200.com/live/sd-1-4339747.m3u8?txSecret=e3605477169ef4cc3ed285ef978f8017&txTime=69769973"
       }
     },
     {
@@ -244,6 +255,17 @@
       }
     },
     {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769456700,
+      "home": "Hellas Verona",
+      "away": "Udinese",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "KSA Division 1",
       "status": "LIVE",
       "time": 1769439300,
@@ -267,13 +289,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769362200,
       "home": "Al Fayha",
       "away": "Al Fateh SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100386.m3u8?txSecret=3c1c8e100d346ec7c9ea2f80c4a97c6c&txTime=69765A9E&sign=23518d3b682e1a99"
       }
     },
     {
@@ -283,19 +305,19 @@
       "home": "Al Riyadh",
       "away": "Al Hilal",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769361153.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100362.m3u8?txSecret=9b54bcf2d22f528ba1162288e1935fbc&txTime=697657CE&sign=1c80a59983672c8c"
       }
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769440800,
       "home": "Al Hazem",
       "away": "Damac",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769353641.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -322,13 +344,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769362200,
       "home": "Al Fayha",
       "away": "Al Fateh SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100386.m3u8?txSecret=9b662bf3dad7d555b0a46a9f375016ac&txTime=69765C0E&sign=4c69dade18d43e05"
       }
     },
     {
@@ -338,19 +360,19 @@
       "home": "Al Riyadh",
       "away": "Al Hilal",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769361153.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100362.m3u8?txSecret=f08d8e1d0da428686f79708ea0b495f8&txTime=69765C0E&sign=86b12a8912be4a47"
       }
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769440800,
       "home": "Al Hazem",
       "away": "Damac",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769353641.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -377,13 +399,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769355000,
-      "home": "Nacional da Madeira",
-      "away": "Rio Ave",
+      "status": "UPCOMING",
+      "time": 1769364000,
+      "home": "Benfica",
+      "away": "CF Estrela Amadora SAD",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368957.m3u8?txSecret=131f254bbb666bc01133c3d936ababcd&txTime=6976820A"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769373000,
+      "home": "Sporting Braga",
+      "away": "Alverca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -399,46 +432,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769373000,
       "home": "Sporting Braga",
       "away": "Alverca",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769353641.flv"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769355000,
-      "home": "Nacional da Madeira",
-      "away": "Rio Ave",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368957.m3u8?txSecret=131f254bbb666bc01133c3d936ababcd&txTime=6976820A"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "UPCOMING",
-      "time": 1769364000,
-      "home": "Benfica",
-      "away": "CF Estrela Amadora SAD",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769373000,
-      "home": "Sporting Braga",
-      "away": "Alverca",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769353641.flv"
       }
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769362200,
       "home": "Real Sociedad",
       "away": "RC Celta",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100363.m3u8?txSecret=3e02867c088cc2b36ba91ed3c4036cea&txTime=69765A9E&sign=be645a1915bca44a"
       }
     },
     {
@@ -597,13 +597,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769362200,
       "home": "Real Sociedad",
       "away": "RC Celta",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100363.m3u8?txSecret=89e2f419d8837be57e5d75d5e98a53e0&txTime=69765C0E&sign=e1a2934ab092e69e"
       }
     },
     {
