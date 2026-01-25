@@ -1,70 +1,48 @@
 {
-  "updated": 1769317036,
+  "updated": 1769319356,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769328000,
       "home": "Western Sydney",
       "away": "Perth Glory",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769316071.flv"
       }
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769328000,
       "home": "Western Sydney",
       "away": "Perth Glory",
       "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769316071.flv"
+      }
+    },
+    {
+      "league": "AUS W-League",
+      "status": "UPCOMING",
+      "time": 1769320800,
+      "home": "Melbourne Victory Women",
+      "away": "Sydney FC Women",
+      "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769310000,
-      "home": "Wellington Phoenix Women",
-      "away": "Adelaide United Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/63685089_54219bbb9640d98365eaab4b7789fd62.m3u8"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769320800,
       "home": "Melbourne Victory Women",
       "away": "Sydney FC Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769311212.flv"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769310000,
-      "home": "Wellington Phoenix Women",
-      "away": "Adelaide United Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/63685089_54219bbb9640d98365eaab4b7789fd62.m3u8"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769320800,
-      "home": "Melbourne Victory Women",
-      "away": "Sydney FC Women",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769311212.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -201,24 +179,24 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769351400,
       "home": "Borussia Monchengladbach",
       "away": "VfB Stuttgart",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769309310.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769351400,
       "home": "Borussia Monchengladbach",
       "away": "VfB Stuttgart",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769309310.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -234,13 +212,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769344200,
       "home": "Schalke 04",
       "away": "1. FC Kaiserslautern",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769309310.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -267,13 +245,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769344200,
       "home": "Schalke 04",
       "away": "1. FC Kaiserslautern",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769309310.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -422,6 +400,17 @@
     {
       "league": "Liga Portugal 2",
       "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "SCU Torreense",
+      "away": "SC Farense",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
       "time": 1769338800,
       "home": "Porto B",
       "away": "Vizela",
@@ -436,6 +425,17 @@
       "time": 1769338800,
       "home": "Portimonense",
       "away": "Feirense",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "SCU Torreense",
+      "away": "SC Farense",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -443,13 +443,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769339700,
       "home": "SC Telstar",
       "away": "AZ Alkmaar",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769307372.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769339700,
       "home": "SC Telstar",
       "away": "AZ Alkmaar",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769307372.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
