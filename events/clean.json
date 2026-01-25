@@ -1,5 +1,5 @@
 {
-  "updated": 1769341251,
+  "updated": 1769342022,
   "events": [
     {
       "league": "BEL Pro League",
@@ -47,35 +47,35 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769342400,
       "home": "Portsmouth",
       "away": "Southampton",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769339910.flv"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769342400,
       "home": "Portsmouth",
       "away": "Southampton",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769339910.flv"
       }
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Brentford",
       "away": "Nottingham Forest",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769339910.flv"
       }
     },
     {
@@ -102,13 +102,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Brentford",
       "away": "Nottingham Forest",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769339910.flv"
       }
     },
     {
