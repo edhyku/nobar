@@ -1,5 +1,5 @@
 {
-  "updated": 1769328017,
+  "updated": 1769330327,
   "events": [
     {
       "league": "AUS A-League",
@@ -9,7 +9,7 @@
       "away": "Perth Glory",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426650.m3u8?txSecret=86fa20fd273b6063ce6b18cf7b31fa08&txTime=69760F23"
+        "url": "https://live1.trendgallary.com/live/63684599_1c48e4687da6c007d1aac0ef20d46d15.m3u8"
       }
     },
     {
@@ -20,7 +20,7 @@
       "away": "Perth Glory",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426650.m3u8?txSecret=86fa20fd273b6063ce6b18cf7b31fa08&txTime=69760F23"
+        "url": "https://live1.trendgallary.com/live/63684599_1c48e4687da6c007d1aac0ef20d46d15.m3u8"
       }
     },
     {
