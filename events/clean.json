@@ -1,5 +1,5 @@
 {
-  "updated": 1769338537,
+  "updated": 1769340256,
   "events": [
     {
       "league": "BEL Pro League",
@@ -80,24 +80,24 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Crystal Palace",
       "away": "Chelsea",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769339990.flv"
       }
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Newcastle United",
       "away": "Aston Villa",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769338243.flv"
       }
     },
     {
@@ -113,24 +113,24 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Crystal Palace",
       "away": "Chelsea",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769339990.flv"
       }
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Newcastle United",
       "away": "Aston Villa",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769338243.flv"
       }
     },
     {
@@ -245,13 +245,13 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769340600,
       "home": "Sassuolo",
       "away": "Cremonese",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769338243.flv"
       }
     },
     {
@@ -278,13 +278,13 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769340600,
       "home": "Sassuolo",
       "away": "Cremonese",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769338243.flv"
       }
     },
     {
@@ -355,24 +355,24 @@
     },
     {
       "league": "Liga Portugal 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769338800,
       "home": "Porto B",
       "away": "Vizela",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367816.m3u8?txSecret=c87f45870044af8c9694b86827bac493&txTime=697642B4"
       }
     },
     {
       "league": "Liga Portugal 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769338800,
       "home": "Portimonense",
       "away": "Feirense",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367822.m3u8?txSecret=e999d8da871e07335dad68b94c34e64b&txTime=69763701"
       }
     },
     {
@@ -388,24 +388,24 @@
     },
     {
       "league": "Liga Portugal 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769338800,
       "home": "Porto B",
       "away": "Vizela",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367816.m3u8?txSecret=c87f45870044af8c9694b86827bac493&txTime=697642B4"
       }
     },
     {
       "league": "Liga Portugal 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769338800,
       "home": "Portimonense",
       "away": "Feirense",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367822.m3u8?txSecret=e999d8da871e07335dad68b94c34e64b&txTime=69763701"
       }
     },
     {
@@ -421,13 +421,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769339700,
       "home": "SC Telstar",
       "away": "AZ Alkmaar",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344670.m3u8?txSecret=407c238c0372caa6d7c8c452bb7dbde7&txTime=69763BB9"
       }
     },
     {
@@ -465,13 +465,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769339700,
       "home": "SC Telstar",
       "away": "AZ Alkmaar",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344670.m3u8?txSecret=407c238c0372caa6d7c8c452bb7dbde7&txTime=69763BB9"
       }
     },
     {
@@ -597,13 +597,13 @@
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769340600,
       "home": "Gazisehir Gaziantep",
       "away": "Konyaspor",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769339990.flv"
       }
     },
     {
@@ -630,13 +630,13 @@
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769340600,
       "home": "Gazisehir Gaziantep",
       "away": "Konyaspor",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769339990.flv"
       }
     },
     {
