@@ -1,5 +1,5 @@
 {
-  "updated": 1769377505,
+  "updated": 1769378282,
   "events": [
     {
       "league": "AUS A-League",
@@ -509,17 +509,6 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769371200,
-      "home": "Deportivo Alavés",
-      "away": "Real Betis",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358861.m3u8?txSecret=59fa75a67e55ad17f68e56663d9d7b4a&txTime=6976BEEC"
-      }
-    },
-    {
-      "league": "SPA La Liga",
       "status": "UPCOMING",
       "time": 1769457600,
       "home": "Girona FC",
@@ -527,17 +516,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769371200,
-      "home": "Deportivo Alavés",
-      "away": "Real Betis",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358861.m3u8?txSecret=59fa75a67e55ad17f68e56663d9d7b4a&txTime=6976BEEC"
       }
     },
     {
@@ -632,6 +610,17 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "Atletico Madrid",
+      "away": "Bodo Glimt",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +645,17 @@
       "time": 1769630400,
       "home": "Athletic Club",
       "away": "Sporting CP",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Atletico Madrid",
+      "away": "Bodo Glimt",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
