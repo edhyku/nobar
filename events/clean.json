@@ -1,5 +1,5 @@
 {
-  "updated": 1769327239,
+  "updated": 1769328017,
   "events": [
     {
       "league": "AUS A-League",
@@ -8,8 +8,8 @@
       "home": "Western Sydney",
       "away": "Perth Glory",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769326459.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4426650.m3u8?txSecret=86fa20fd273b6063ce6b18cf7b31fa08&txTime=69760F23"
       }
     },
     {
@@ -19,30 +19,8 @@
       "home": "Western Sydney",
       "away": "Perth Glory",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769326459.flv"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769320800,
-      "home": "Melbourne Victory Women",
-      "away": "Sydney FC Women",
-      "stream": {
         "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/63685091_fd074eb9809df3577196078cff0d1f4b.m3u8"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769320800,
-      "home": "Melbourne Victory Women",
-      "away": "Sydney FC Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/63685091_fd074eb9809df3577196078cff0d1f4b.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4426650.m3u8?txSecret=86fa20fd273b6063ce6b18cf7b31fa08&txTime=69760F23"
       }
     },
     {
@@ -59,9 +37,31 @@
     {
       "league": "BEL Pro League",
       "status": "UPCOMING",
+      "time": 1769353200,
+      "home": "Racing Genk",
+      "away": "Cercle Brugge",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BEL Pro League",
+      "status": "UPCOMING",
       "time": 1769344200,
       "home": "Royal Antwerp",
       "away": "RC Sporting Charleroi",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BEL Pro League",
+      "status": "UPCOMING",
+      "time": 1769353200,
+      "home": "Racing Genk",
+      "away": "Cercle Brugge",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
