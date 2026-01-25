@@ -1,26 +1,26 @@
 {
-  "updated": 1769313641,
+  "updated": 1769317036,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769328000,
       "home": "Western Sydney",
       "away": "Perth Glory",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1769303293.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769328000,
       "home": "Western Sydney",
       "away": "Perth Glory",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1769303293.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -377,24 +377,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769355000,
       "home": "Nacional da Madeira",
       "away": "Rio Ave",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769316482.flv"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769355000,
       "home": "Nacional da Madeira",
       "away": "Rio Ave",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769316482.flv"
       }
     },
     {
@@ -476,13 +476,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769355900,
       "home": "Feyenoord",
       "away": "Heracles Almelo",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769316492.flv"
       }
     },
     {
@@ -520,13 +520,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769355900,
       "home": "Feyenoord",
       "away": "Heracles Almelo",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769316492.flv"
       }
     },
     {
