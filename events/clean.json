@@ -1,5 +1,5 @@
 {
-  "updated": 1769372470,
+  "updated": 1769373845,
   "events": [
     {
       "league": "AUS A-League",
@@ -426,8 +426,8 @@
       "home": "Sporting Braga",
       "away": "Alverca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769372366.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368951.m3u8?txSecret=ef1ce86cadb44ca47469d172de468bc9&txTime=6976B592"
       }
     },
     {
@@ -448,8 +448,8 @@
       "home": "Sporting Braga",
       "away": "Alverca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769372366.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368951.m3u8?txSecret=ef1ce86cadb44ca47469d172de468bc9&txTime=6976B592"
       }
     },
     {
