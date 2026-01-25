@@ -1,5 +1,5 @@
 {
-  "updated": 1769319356,
+  "updated": 1769320556,
   "events": [
     {
       "league": "AUS A-League",
@@ -25,24 +25,24 @@
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769320800,
       "home": "Melbourne Victory Women",
       "away": "Sydney FC Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769319189.flv"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769320800,
       "home": "Melbourne Victory Women",
       "away": "Sydney FC Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769319189.flv"
       }
     },
     {
