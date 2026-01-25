@@ -1,5 +1,5 @@
 {
-  "updated": 1769369929,
+  "updated": 1769370709,
   "events": [
     {
       "league": "AUS A-League",
@@ -96,8 +96,8 @@
       "home": "LOSC Lille",
       "away": "RC Strasbourg Alsace",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769369729.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100508.m3u8?txSecret=b63b2258fb094bff3878046aef362016&txTime=69767A42&sign=20a59c2952a43ec3"
       }
     },
     {
@@ -107,8 +107,8 @@
       "home": "LOSC Lille",
       "away": "RC Strasbourg Alsace",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769369729.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100508.m3u8?txSecret=b63b2258fb094bff3878046aef362016&txTime=69767A42&sign=20a59c2952a43ec3"
       }
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769371200,
       "home": "Deportivo Alavés",
       "away": "Real Betis",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769370495.flv"
       }
     },
     {
@@ -597,13 +597,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769371200,
       "home": "Deportivo Alavés",
       "away": "Real Betis",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769370495.flv"
       }
     },
     {
