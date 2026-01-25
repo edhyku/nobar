@@ -1,29 +1,7 @@
 {
-  "updated": 1769334501,
+  "updated": 1769335823,
   "events": [
     {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769328000,
-      "home": "Western Sydney",
-      "away": "Perth Glory",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/63684599_1c48e4687da6c007d1aac0ef20d46d15.m3u8"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769328000,
-      "home": "Western Sydney",
-      "away": "Perth Glory",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/63684599_1c48e4687da6c007d1aac0ef20d46d15.m3u8"
-      }
-    },
-    {
       "league": "BEL Pro League",
       "status": "UPCOMING",
       "time": 1769344200,
@@ -587,9 +565,31 @@
     {
       "league": "SPA Segunda Division",
       "status": "UPCOMING",
+      "time": 1769354100,
+      "home": "Eibar",
+      "away": "Almeria",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
       "time": 1769346000,
       "home": "Andorra CF",
       "away": "SD Huesca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769354100,
+      "home": "Eibar",
+      "away": "Almeria",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
