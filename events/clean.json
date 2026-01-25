@@ -1,5 +1,5 @@
 {
-  "updated": 1769340256,
+  "updated": 1769341251,
   "events": [
     {
       "league": "BEL Pro League",
@@ -250,19 +250,19 @@
       "home": "Sassuolo",
       "away": "Cremonese",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769338243.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4339751.m3u8?txSecret=3ab3c1abfe3f7a897c6e61c4b8e147ef&txTime=69763E10"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Atalanta",
       "away": "Parma",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1769340234.flv"
       }
     },
     {
@@ -283,19 +283,19 @@
       "home": "Sassuolo",
       "away": "Cremonese",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769338243.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4339751.m3u8?txSecret=3ab3c1abfe3f7a897c6e61c4b8e147ef&txTime=69763E10"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Atalanta",
       "away": "Parma",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1769340234.flv"
       }
     },
     {
@@ -602,8 +602,8 @@
       "home": "Gazisehir Gaziantep",
       "away": "Konyaspor",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769339990.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4366024.m3u8?txSecret=c92114febcacc5d476e8753364bf4ada&txTime=69763E10"
       }
     },
     {
@@ -635,8 +635,8 @@
       "home": "Gazisehir Gaziantep",
       "away": "Konyaspor",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769339990.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4366024.m3u8?txSecret=c92114febcacc5d476e8753364bf4ada&txTime=69763E10"
       }
     },
     {
