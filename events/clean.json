@@ -1,5 +1,5 @@
 {
-  "updated": 1769324516,
+  "updated": 1769326285,
   "events": [
     {
       "league": "AUS A-League",
@@ -102,13 +102,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Crystal Palace",
       "away": "Chelsea",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769325618.flv"
       }
     },
     {
@@ -135,13 +135,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Crystal Palace",
       "away": "Chelsea",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769325618.flv"
       }
     },
     {
@@ -597,13 +597,13 @@
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769340600,
       "home": "Gazisehir Gaziantep",
       "away": "Konyaspor",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769325618.flv"
       }
     },
     {
@@ -630,13 +630,13 @@
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769340600,
       "home": "Gazisehir Gaziantep",
       "away": "Konyaspor",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769325618.flv"
       }
     },
     {
