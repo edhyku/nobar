@@ -1,5 +1,5 @@
 {
-  "updated": 1769355659,
+  "updated": 1769356470,
   "events": [
     {
       "league": "AUS A-League",
@@ -470,8 +470,8 @@
       "home": "Nacional da Madeira",
       "away": "Rio Ave",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769354286.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368957.m3u8?txSecret=131f254bbb666bc01133c3d936ababcd&txTime=6976820A"
       }
     },
     {
@@ -503,8 +503,8 @@
       "home": "Nacional da Madeira",
       "away": "Rio Ave",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769354286.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368957.m3u8?txSecret=131f254bbb666bc01133c3d936ababcd&txTime=6976820A"
       }
     },
     {
@@ -536,8 +536,8 @@
       "home": "FC Utrecht",
       "away": "Sparta Rotterdam",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769355194.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344614.m3u8?txSecret=70c97642f1d01cf454ae4399fe85c989&txTime=6976820A"
       }
     },
     {
@@ -547,8 +547,8 @@
       "home": "Feyenoord",
       "away": "Heracles Almelo",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769355355.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344623.m3u8?txSecret=6ad7d714bf0b8a57032864fe0bc07ddd&txTime=6976820A"
       }
     },
     {
@@ -558,8 +558,8 @@
       "home": "FC Utrecht",
       "away": "Sparta Rotterdam",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769355194.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344614.m3u8?txSecret=70c97642f1d01cf454ae4399fe85c989&txTime=6976820A"
       }
     },
     {
@@ -569,8 +569,8 @@
       "home": "Feyenoord",
       "away": "Heracles Almelo",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769355355.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344623.m3u8?txSecret=6ad7d714bf0b8a57032864fe0bc07ddd&txTime=6976820A"
       }
     },
     {
@@ -602,8 +602,8 @@
       "home": "FC Barcelona",
       "away": "Real Oviedo",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769352933.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358863.m3u8?txSecret=271634afb83904c0b1d1304e0fe48754&txTime=6976820A"
       }
     },
     {
@@ -635,8 +635,8 @@
       "home": "FC Barcelona",
       "away": "Real Oviedo",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769352933.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358863.m3u8?txSecret=271634afb83904c0b1d1304e0fe48754&txTime=6976820A"
       }
     },
     {
