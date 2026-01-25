@@ -74,7 +74,7 @@
           },
           "competition_id": 175,
           "environment": {
-            "humidity": "73%",
+            "humidity": "72%",
             "pressure": "748mmHg",
             "temperature": "6°C",
             "weather": 5,
@@ -524,7 +524,7 @@
           },
           "competition_id": 175,
           "environment": {
-            "humidity": "73%",
+            "humidity": "72%",
             "pressure": "748mmHg",
             "temperature": "6°C",
             "weather": 5,
@@ -1019,7 +1019,7 @@
             "pressure": "744mmHg",
             "temperature": "8°C",
             "weather": 9,
-            "wind": "5.3m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -1061,7 +1061,7 @@
           },
           "id": 4351407,
           "is_animation": 1,
-          "is_lineup": 0,
+          "is_lineup": 1,
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
@@ -1297,7 +1297,7 @@
             "pressure": "744mmHg",
             "temperature": "8°C",
             "weather": 9,
-            "wind": "5.3m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -1339,7 +1339,7 @@
           },
           "id": 4351407,
           "is_animation": 1,
-          "is_lineup": 0,
+          "is_lineup": 1,
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
@@ -2042,7 +2042,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "花海",
-              "online_status": 9,
+              "online_status": 1,
               "profile": {
                 "age": 22,
                 "birthday": "",
@@ -2830,7 +2830,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "花海",
-              "online_status": 9,
+              "online_status": 1,
               "profile": {
                 "age": 22,
                 "birthday": "",
@@ -4155,11 +4155,11 @@
           },
           "competition_id": 130,
           "environment": {
-            "humidity": "85%",
+            "humidity": "86%",
             "pressure": "750mmHg",
-            "temperature": "0°C",
+            "temperature": "-1°C",
             "weather": 7,
-            "wind": "1.8m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4950,11 +4950,11 @@
           },
           "competition_id": 130,
           "environment": {
-            "humidity": "85%",
+            "humidity": "86%",
             "pressure": "750mmHg",
-            "temperature": "0°C",
+            "temperature": "-1°C",
             "weather": 7,
-            "wind": "1.8m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5678,7 +5678,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "花海",
-              "online_status": 9,
+              "online_status": 1,
               "profile": {
                 "age": 22,
                 "birthday": "",
@@ -5747,11 +5747,11 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "94%",
+            "humidity": "96%",
             "pressure": "750mmHg",
             "temperature": "7°C",
             "weather": 7,
-            "wind": "5.3m/s"
+            "wind": "4.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5793,7 +5793,7 @@
           },
           "id": 4339751,
           "is_animation": 1,
-          "is_lineup": 0,
+          "is_lineup": 1,
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
@@ -6456,7 +6456,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "花海",
-              "online_status": 9,
+              "online_status": 1,
               "profile": {
                 "age": 22,
                 "birthday": "",
@@ -6525,11 +6525,11 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "94%",
+            "humidity": "96%",
             "pressure": "750mmHg",
             "temperature": "7°C",
             "weather": 7,
-            "wind": "5.3m/s"
+            "wind": "4.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6571,7 +6571,7 @@
           },
           "id": 4339751,
           "is_animation": 1,
-          "is_lineup": 0,
+          "is_lineup": 1,
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
@@ -8246,11 +8246,11 @@
           },
           "competition_id": 152,
           "environment": {
-            "humidity": "77%",
+            "humidity": "78%",
             "pressure": "761mmHg",
             "temperature": "13°C",
             "weather": 7,
-            "wind": "5.3m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8477,7 +8477,7 @@
             "pressure": "766mmHg",
             "temperature": "16°C",
             "weather": 1,
-            "wind": "6.8m/s"
+            "wind": "7.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8923,11 +8923,11 @@
           },
           "competition_id": 152,
           "environment": {
-            "humidity": "77%",
+            "humidity": "78%",
             "pressure": "761mmHg",
             "temperature": "13°C",
             "weather": 7,
-            "wind": "5.3m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9154,7 +9154,7 @@
             "pressure": "766mmHg",
             "temperature": "16°C",
             "weather": 1,
-            "wind": "6.8m/s"
+            "wind": "7.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9644,8 +9644,8 @@
             "humidity": "84%",
             "pressure": "750mmHg",
             "temperature": "0°C",
-            "weather": 1,
-            "wind": "5.1m/s"
+            "weather": 7,
+            "wind": "6.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10648,8 +10648,8 @@
             "humidity": "84%",
             "pressure": "750mmHg",
             "temperature": "0°C",
-            "weather": 1,
-            "wind": "5.1m/s"
+            "weather": 7,
+            "wind": "6.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12690,9 +12690,9 @@
           },
           "competition_id": 121,
           "environment": {
-            "humidity": "77%",
+            "humidity": "80%",
             "pressure": "752mmHg",
-            "temperature": "-7°C",
+            "temperature": "-8°C",
             "weather": 7,
             "wind": "2.9m/s"
           },
@@ -13112,9 +13112,9 @@
           },
           "competition_id": 121,
           "environment": {
-            "humidity": "77%",
+            "humidity": "80%",
             "pressure": "752mmHg",
-            "temperature": "-7°C",
+            "temperature": "-8°C",
             "weather": 7,
             "wind": "2.9m/s"
           },
@@ -13575,11 +13575,11 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "63%",
+            "humidity": "59%",
             "pressure": "768mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 5,
-            "wind": "0.9m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -14028,7 +14028,7 @@
             "humidity": "82%",
             "pressure": "767mmHg",
             "temperature": "14°C",
-            "weather": 9,
+            "weather": 10,
             "wind": "1.2m/s"
           },
           "explain": "",
@@ -14275,11 +14275,11 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "63%",
+            "humidity": "59%",
             "pressure": "768mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 5,
-            "wind": "0.9m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -14728,7 +14728,7 @@
             "humidity": "82%",
             "pressure": "767mmHg",
             "temperature": "14°C",
-            "weather": 9,
+            "weather": 10,
             "wind": "1.2m/s"
           },
           "explain": "",
