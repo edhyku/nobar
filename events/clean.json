@@ -1,5 +1,5 @@
 {
-  "updated": 1769365814,
+  "updated": 1769367325,
   "events": [
     {
       "league": "AUS A-League",
@@ -207,18 +207,18 @@
       "away": "Napoli",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339747.m3u8?txSecret=e3605477169ef4cc3ed285ef978f8017&txTime=69769973"
+        "url": "https://live3.trendgallary.com/live/61061375_6dcf45ac4be9ff0d310616e4a3a3a838.m3u8"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769370300,
       "home": "AS Roma",
       "away": "AC Milan",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769357662.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -240,18 +240,18 @@
       "away": "Napoli",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339747.m3u8?txSecret=e3605477169ef4cc3ed285ef978f8017&txTime=69769973"
+        "url": "https://live3.trendgallary.com/live/61061375_6dcf45ac4be9ff0d310616e4a3a3a838.m3u8"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769370300,
       "home": "AS Roma",
       "away": "AC Milan",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769357662.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
