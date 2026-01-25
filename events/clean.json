@@ -1,48 +1,26 @@
 {
-  "updated": 1769298820,
+  "updated": 1769306733,
   "events": [
     {
-      "league": "ARG Division 1",
-      "status": "LIVE",
-      "time": 1769293800,
-      "home": "Gimnasia La Plata",
-      "away": "Racing Club de Avellaneda",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/66919080_5da433170fc114b1f0a001a7a2f373a5.m3u8"
-      }
-    },
-    {
-      "league": "ARG Division 1",
-      "status": "LIVE",
-      "time": 1769293800,
-      "home": "Gimnasia La Plata",
-      "away": "Racing Club de Avellaneda",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/66919080_5da433170fc114b1f0a001a7a2f373a5.m3u8"
-      }
-    },
-    {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769328000,
       "home": "Western Sydney",
       "away": "Perth Glory",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1769303293.flv"
       }
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769328000,
       "home": "Western Sydney",
       "away": "Perth Glory",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1769303293.flv"
       }
     },
     {
@@ -109,28 +87,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "COL Torneo BetPlay Dimayor",
-      "status": "LIVE",
-      "time": 1769292000,
-      "home": "Barranquilla FC",
-      "away": "Orsomarso",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4483502.m3u8?txSecret=7e91818c3bb0530876dc69cb9adfe62f&txTime=69759C4C"
-      }
-    },
-    {
-      "league": "COL Torneo BetPlay Dimayor",
-      "status": "LIVE",
-      "time": 1769292000,
-      "home": "Barranquilla FC",
-      "away": "Orsomarso",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4483502.m3u8?txSecret=7e91818c3bb0530876dc69cb9adfe62f&txTime=69759C4C"
       }
     },
     {
@@ -168,13 +124,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Crystal Palace",
       "away": "Chelsea",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769301775.flv"
       }
     },
     {
@@ -201,13 +157,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769349600,
       "home": "Crystal Palace",
       "away": "Chelsea",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769301775.flv"
       }
     },
     {
@@ -421,44 +377,22 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769355000,
       "home": "Nacional da Madeira",
       "away": "Rio Ave",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769293161.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769355000,
       "home": "Nacional da Madeira",
       "away": "Rio Ave",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769293161.flv"
-      }
-    },
-    {
-      "league": "Liga Portugal 2",
-      "status": "UPCOMING",
-      "time": 1769338800,
-      "home": "Porto B",
-      "away": "Vizela",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal 2",
-      "status": "UPCOMING",
-      "time": 1769338800,
-      "home": "Portimonense",
-      "away": "Feirense",
-      "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
@@ -486,25 +420,25 @@
       }
     },
     {
-      "league": "MEX Liga MX Femenil",
-      "status": "LIVE",
-      "time": 1769293800,
-      "home": "Saint Louis Athletica Women",
-      "away": "Tijuana Women",
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769338800,
+      "home": "Porto B",
+      "away": "Vizela",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769293161.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "MEX Liga MX Femenil",
-      "status": "LIVE",
-      "time": 1769293800,
-      "home": "Saint Louis Athletica Women",
-      "away": "Tijuana Women",
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769338800,
+      "home": "Portimonense",
+      "away": "Feirense",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769293161.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -520,13 +454,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769347800,
       "home": "Groningen",
       "away": "Fortuna Sittard",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769301998.flv"
       }
     },
     {
@@ -564,13 +498,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769347800,
       "home": "Groningen",
       "away": "Fortuna Sittard",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769301998.flv"
       }
     },
     {
@@ -640,6 +574,28 @@
       }
     },
     {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769346000,
+      "home": "Andorra CF",
+      "away": "SD Huesca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769346000,
+      "home": "Andorra CF",
+      "away": "SD Huesca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "TUR Super League",
       "status": "UPCOMING",
       "time": 1769340600,
@@ -653,9 +609,53 @@
     {
       "league": "TUR Super League",
       "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "Caykur Rizespor",
+      "away": "Alanyaspor",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "Antalyaspor",
+      "away": "Genclerbirligi",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
       "time": 1769340600,
       "home": "Gazisehir Gaziantep",
       "away": "Konyaspor",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "Caykur Rizespor",
+      "away": "Alanyaspor",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "Antalyaspor",
+      "away": "Genclerbirligi",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
