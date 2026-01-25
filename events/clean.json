@@ -1,5 +1,5 @@
 {
-  "updated": 1769374637,
+  "updated": 1769376473,
   "events": [
     {
       "league": "AUS A-League",
@@ -427,7 +427,7 @@
       "away": "Alverca",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368951.m3u8?txSecret=ef1ce86cadb44ca47469d172de468bc9&txTime=6976B592"
+        "url": "https://live.vivo200.com/live/sd-1-4368951.m3u8?txSecret=fdaf687c983280bde49d9e3f28ab9ca3&txTime=6976D1AC"
       }
     },
     {
@@ -449,7 +449,7 @@
       "away": "Alverca",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368951.m3u8?txSecret=ef1ce86cadb44ca47469d172de468bc9&txTime=6976B592"
+        "url": "https://live.vivo200.com/live/sd-1-4368951.m3u8?txSecret=fdaf687c983280bde49d9e3f28ab9ca3&txTime=6976D1AC"
       }
     },
     {
