@@ -44,7 +44,7 @@
        "is_anchor": 1,
        "live": null,
        "nick_name": "南北",
-       "online_status": 9,
+       "online_status": 1,
        "profile": {
         "age": 22,
         "birthday": "",
@@ -910,11 +910,11 @@
      },
      "competition_id": 114,
      "environment": {
-      "humidity": "83%",
+      "humidity": "85%",
       "pressure": "754mmHg",
-      "temperature": "8°C",
+      "temperature": "9°C",
       "weather": 10,
-      "wind": "2.9m/s"
+      "wind": "2.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2748,7 +2748,7 @@
      },
      "competition_id": 108,
      "environment": {
-      "humidity": "89%",
+      "humidity": "90%",
       "pressure": "755mmHg",
       "temperature": "3°C",
       "weather": 5,
@@ -3234,17 +3234,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 257900,
+        "hot": 372400,
         "isvideo": 0,
         "liveid": 1769380272226,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 79,
+        "peak_num": 86,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 3,
+        "private_count": 5,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2048226_1769380236.flv",
         "rec_weight": 1,
@@ -3345,7 +3345,7 @@
       "humidity": "41%",
       "pressure": "766mmHg",
       "temperature": "16°C",
-      "weather": 5,
+      "weather": 1,
       "wind": "2.9m/s"
      },
      "explain": "",
@@ -4981,9 +4981,9 @@
      "environment": {
       "humidity": "97%",
       "pressure": "761mmHg",
-      "temperature": "16°C",
-      "weather": 10,
-      "wind": "9.0m/s"
+      "temperature": "15°C",
+      "weather": 7,
+      "wind": "9.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6661,7 +6661,7 @@
      "environment": {
       "humidity": "68%",
       "pressure": "749mmHg",
-      "temperature": "10°C",
+      "temperature": "11°C",
       "weather": 7,
       "wind": "3.4m/s"
      },
