@@ -1,5 +1,5 @@
 {
-  "updated": 1769367325,
+  "updated": 1769368979,
   "events": [
     {
       "league": "AUS A-League",
@@ -24,6 +24,28 @@
       }
     },
     {
+      "league": "Coppa Italia",
+      "status": "UPCOMING",
+      "time": 1769544000,
+      "home": "Fiorentina",
+      "away": "Como",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Coppa Italia",
+      "status": "UPCOMING",
+      "time": 1769544000,
+      "home": "Fiorentina",
+      "away": "Como",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
       "time": 1769457600,
@@ -197,17 +219,6 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769361452.flv"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769360400,
-      "home": "Juventus",
-      "away": "Napoli",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live3.trendgallary.com/live/61061375_6dcf45ac4be9ff0d310616e4a3a3a838.m3u8"
       }
     },
     {
@@ -230,17 +241,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769360400,
-      "home": "Juventus",
-      "away": "Napoli",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live3.trendgallary.com/live/61061375_6dcf45ac4be9ff0d310616e4a3a3a838.m3u8"
       }
     },
     {
@@ -405,7 +405,7 @@
       "away": "CF Estrela Amadora SAD",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368950.m3u8?txSecret=4eb2241c58e8810efa289944a3e4bd5c&txTime=6976A2D3"
+        "url": "https://live3.trendgallary.com/live/61731216_5cdb1c813176fff85e09838114e1a6bc.m3u8"
       }
     },
     {
@@ -438,7 +438,7 @@
       "away": "CF Estrela Amadora SAD",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368950.m3u8?txSecret=4eb2241c58e8810efa289944a3e4bd5c&txTime=6976A2D3"
+        "url": "https://live3.trendgallary.com/live/61731216_5cdb1c813176fff85e09838114e1a6bc.m3u8"
       }
     },
     {
