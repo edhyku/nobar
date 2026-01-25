@@ -1,5 +1,5 @@
 {
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": {
     "AUS A-League": [
       {
@@ -38,7 +38,7 @@
               "account": "18245451507",
               "anchor_level": 20,
               "avatar": "https://wtsymycyh.99kq.top/pq8cos/image/2165019_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250925200942_5132_65_1758893709580.jpg",
-              "diamond": 4639089,
+              "diamond": 4639505,
               "has_mobile": 1,
               "id": 2165019,
               "is_anchor": 1,
@@ -87,18 +87,18 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 243900,
+                "hot": 489400,
                 "isvideo": 0,
                 "liveid": 1769318084019,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 107,
+                "peak_num": 128,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 8,
-                "profit": 0,
+                "private_count": 12,
+                "profit": 1041,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/2165019_1769316071.flv",
                 "rec_weight": 1,
                 "recommend": 0,
@@ -338,7 +338,35 @@
           "status": 1,
           "time": 1769328000,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "381236",
+            "away_logo": "https://photo.365live88.com/img/fb/team/3c8c2cbb7a1f49d0b6d8464e65f68e1f",
+            "away_name": "珀斯光荣|珀斯光輝|Perth Glory",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 1,
+            "home_half_score": 0,
+            "home_id": "390242",
+            "home_logo": "https://photo.365live88.com/img/fb/team/814857ccf047443c9e731ebb80c447cd",
+            "home_name": "西悉尼流浪者|西悉尼流浪者|Western Sydney Wanderers FC",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "716930",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/45722d5a037a47d7afbe9a8dcd3e9ca1",
+            "league_name": "澳超|澳A聯|AUS A-League",
+            "match_time": 1769328000,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "223405966",
+            "third_id": "4426650",
+            "wale_match_id": "1779157",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 590,
@@ -408,7 +436,7 @@
               "account": "18245451507",
               "anchor_level": 20,
               "avatar": "https://wtsymycyh.99kq.top/pq8cos/image/2165019_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250925200942_5132_65_1758893709580.jpg",
-              "diamond": 4639089,
+              "diamond": 4639505,
               "has_mobile": 1,
               "id": 2165019,
               "is_anchor": 1,
@@ -457,18 +485,18 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 243900,
+                "hot": 489400,
                 "isvideo": 0,
                 "liveid": 1769318084019,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 107,
+                "peak_num": 128,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 8,
-                "profit": 0,
+                "private_count": 12,
+                "profit": 1041,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/2165019_1769316071.flv",
                 "rec_weight": 1,
                 "recommend": 0,
@@ -708,7 +736,35 @@
           "status": 1,
           "time": 1769328000,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "381236",
+            "away_logo": "https://photo.365live88.com/img/fb/team/3c8c2cbb7a1f49d0b6d8464e65f68e1f",
+            "away_name": "珀斯光荣|珀斯光輝|Perth Glory",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 1,
+            "home_half_score": 0,
+            "home_id": "390242",
+            "home_logo": "https://photo.365live88.com/img/fb/team/814857ccf047443c9e731ebb80c447cd",
+            "home_name": "西悉尼流浪者|西悉尼流浪者|Western Sydney Wanderers FC",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "716930",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/45722d5a037a47d7afbe9a8dcd3e9ca1",
+            "league_name": "澳超|澳A聯|AUS A-League",
+            "match_time": 1769328000,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "223405966",
+            "third_id": "4426650",
+            "wale_match_id": "1779157",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 590,
@@ -829,17 +885,17 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 17900,
+                "hot": 221800,
                 "isvideo": 0,
                 "liveid": 1769320174734,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 8,
+                "peak_num": 53,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 2,
+                "private_count": 9,
                 "profit": 0,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/2401734_1769319189.flv",
                 "rec_weight": 1,
@@ -898,7 +954,7 @@
             }
           ],
           "animation_url": "",
-          "away_corner": 0,
+          "away_corner": 4,
           "away_halfscore": 0,
           "away_id": 19177,
           "away_otscrore": 0,
@@ -937,19 +993,19 @@
           },
           "competition_id": 602,
           "environment": {
-            "humidity": "46%",
+            "humidity": "50%",
             "pressure": "757mmHg",
             "temperature": "26°C",
             "weather": 5,
             "wind": "5.1m/s"
           },
           "explain": "",
-          "home_corner": 0,
+          "home_corner": 2,
           "home_halfscore": 0,
           "home_id": 24383,
           "home_otscrore": 0,
           "home_pointscore": 0,
-          "home_rank": "6",
+          "home_rank": "7",
           "home_redcard": 0,
           "home_score": 0,
           "home_yellowcard": 0,
@@ -987,7 +1043,7 @@
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
-          "kickoff_time": 0,
+          "kickoff_time": 1769320808,
           "live": {
             "away": "悉尼FC女足",
             "comp": "澳女联",
@@ -996,10 +1052,10 @@
             "is_extend_expire2": 0,
             "is_extend_expire3": 0,
             "match_id": 4429263,
-            "match_status": 1,
+            "match_status": 2,
             "match_time": 1769320800,
             "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4429263",
-            "pushurl1_status": 0,
+            "pushurl1_status": 1,
             "pushurl2": "",
             "pushurl2_status": 0,
             "pushurl3": "",
@@ -1030,7 +1086,7 @@
             "short_name_zh": "澳女联",
             "short_name_zht": "澳女聯",
             "type": 1,
-            "updated_at": 1768983110
+            "updated_at": 1769321330
           },
           "recommend": 1,
           "round": 14,
@@ -1039,7 +1095,7 @@
           "stage_group": 0,
           "stage_id": 232204,
           "stage_round": 14,
-          "status": 1,
+          "status": 2,
           "time": 1769320800,
           "video_type": "live",
           "walematch": {
@@ -1051,7 +1107,7 @@
             "away_penalty_score": 0,
             "away_score": 0,
             "game_type": 6,
-            "has_live": 0,
+            "has_live": 1,
             "home_half_score": 0,
             "home_id": "390165",
             "home_logo": "https://photo.365live88.com/img/fb/team/5230a552f135497f9afcf2b21a5d5f0f",
@@ -1063,13 +1119,116 @@
             "league_logo": "https://photo.365live88.com/img/fb/cup/b06434f3193b471daee01aface7972e7",
             "league_name": "澳女联|澳女聯|AUS W-League",
             "match_time": 1769320800,
-            "status": "未",
-            "status_id": 0,
+            "status": "42",
+            "status_id": 1,
             "stream_id": "223405967",
             "third_id": "4429263",
             "wale_match_id": "1783800",
-            "walematchstreams": [],
-            "walematchvideos": []
+            "walematchstreams": [
+              {
+                "file_id": null,
+                "id": 74495,
+                "is_extend_expire": 0,
+                "language": "en_US",
+                "pushing": 1,
+                "record_url": null,
+                "stream_name": "202_4418253_1",
+                "stream_type": 0,
+                "wale_match_id": "1783800"
+              }
+            ],
+            "walematchvideos": [
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 20,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "flv",
+                "video_url": "https://live1.trendgallary.com/live/63685091_fd074eb9809df3577196078cff0d1f4b.flv"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 21,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "flv",
+                "video_url": "https://live.vivo200.com/live/sd-1-4429263.flv?txSecret=786156802335b0d8f857d0de43f2d2e1&txTime=6975FC65"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 22,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "flv",
+                "video_url": "rtmp://video6.letaocm.top/live/sd-1-4429263.flv"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 23,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "m3u8",
+                "video_url": "https://live1.trendgallary.com/live/63685091_fd074eb9809df3577196078cff0d1f4b.m3u8"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 24,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "m3u8",
+                "video_url": "https://live.vivo200.com/live/sd-1-4429263.m3u8?txSecret=786156802335b0d8f857d0de43f2d2e1&txTime=6975FC65"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 25,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "m3u8",
+                "video_url": "https://v.lfsxfj.com/live/100469.m3u8?txSecret=4f063c03bf940c838d6d551e8395ef90&txTime=6975C156&sign=df56d05345a3b014"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 26,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://live1.trendgallary.com/live/63685091_fd074eb9809df3577196078cff0d1f4b.flv"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 27,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://live1.trendgallary.com/live/63685091_fd074eb9809df3577196078cff0d1f4b.m3u8"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 28,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "h5",
+                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvY73BxmCaHpnFPwD.m3u8?txSecret=7b41e2bdb02b15c57c700af45544c4b8&txTime=69770A57"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 29,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100469.m3u8?txSecret=4f063c03bf940c838d6d551e8395ef90&txTime=6975C156&sign=df56d05345a3b014"
+              }
+            ]
           }
         },
         "home": {
@@ -1101,8 +1260,8 @@
           "website": ""
         },
         "home_score": 0,
-        "status": 1,
-        "streams": false
+        "status": 2,
+        "streams": true
       },
       {
         "away": {
@@ -1189,17 +1348,17 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 17900,
+                "hot": 221800,
                 "isvideo": 0,
                 "liveid": 1769320174734,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 8,
+                "peak_num": 53,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 2,
+                "private_count": 9,
                 "profit": 0,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/2401734_1769319189.flv",
                 "rec_weight": 1,
@@ -1258,7 +1417,7 @@
             }
           ],
           "animation_url": "",
-          "away_corner": 0,
+          "away_corner": 4,
           "away_halfscore": 0,
           "away_id": 19177,
           "away_otscrore": 0,
@@ -1297,19 +1456,19 @@
           },
           "competition_id": 602,
           "environment": {
-            "humidity": "46%",
+            "humidity": "50%",
             "pressure": "757mmHg",
             "temperature": "26°C",
             "weather": 5,
             "wind": "5.1m/s"
           },
           "explain": "",
-          "home_corner": 0,
+          "home_corner": 2,
           "home_halfscore": 0,
           "home_id": 24383,
           "home_otscrore": 0,
           "home_pointscore": 0,
-          "home_rank": "6",
+          "home_rank": "7",
           "home_redcard": 0,
           "home_score": 0,
           "home_yellowcard": 0,
@@ -1347,7 +1506,7 @@
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
-          "kickoff_time": 0,
+          "kickoff_time": 1769320808,
           "live": {
             "away": "悉尼FC女足",
             "comp": "澳女联",
@@ -1356,10 +1515,10 @@
             "is_extend_expire2": 0,
             "is_extend_expire3": 0,
             "match_id": 4429263,
-            "match_status": 1,
+            "match_status": 2,
             "match_time": 1769320800,
             "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4429263",
-            "pushurl1_status": 0,
+            "pushurl1_status": 1,
             "pushurl2": "",
             "pushurl2_status": 0,
             "pushurl3": "",
@@ -1390,7 +1549,7 @@
             "short_name_zh": "澳女联",
             "short_name_zht": "澳女聯",
             "type": 1,
-            "updated_at": 1768983110
+            "updated_at": 1769321330
           },
           "recommend": 1,
           "round": 14,
@@ -1399,7 +1558,7 @@
           "stage_group": 0,
           "stage_id": 232204,
           "stage_round": 14,
-          "status": 1,
+          "status": 2,
           "time": 1769320800,
           "video_type": "live",
           "walematch": {
@@ -1411,7 +1570,7 @@
             "away_penalty_score": 0,
             "away_score": 0,
             "game_type": 6,
-            "has_live": 0,
+            "has_live": 1,
             "home_half_score": 0,
             "home_id": "390165",
             "home_logo": "https://photo.365live88.com/img/fb/team/5230a552f135497f9afcf2b21a5d5f0f",
@@ -1423,13 +1582,116 @@
             "league_logo": "https://photo.365live88.com/img/fb/cup/b06434f3193b471daee01aface7972e7",
             "league_name": "澳女联|澳女聯|AUS W-League",
             "match_time": 1769320800,
-            "status": "未",
-            "status_id": 0,
+            "status": "42",
+            "status_id": 1,
             "stream_id": "223405967",
             "third_id": "4429263",
             "wale_match_id": "1783800",
-            "walematchstreams": [],
-            "walematchvideos": []
+            "walematchstreams": [
+              {
+                "file_id": null,
+                "id": 74495,
+                "is_extend_expire": 0,
+                "language": "en_US",
+                "pushing": 1,
+                "record_url": null,
+                "stream_name": "202_4418253_1",
+                "stream_type": 0,
+                "wale_match_id": "1783800"
+              }
+            ],
+            "walematchvideos": [
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 20,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "flv",
+                "video_url": "https://live1.trendgallary.com/live/63685091_fd074eb9809df3577196078cff0d1f4b.flv"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 21,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "flv",
+                "video_url": "https://live.vivo200.com/live/sd-1-4429263.flv?txSecret=786156802335b0d8f857d0de43f2d2e1&txTime=6975FC65"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 22,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "flv",
+                "video_url": "rtmp://video6.letaocm.top/live/sd-1-4429263.flv"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 23,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "m3u8",
+                "video_url": "https://live1.trendgallary.com/live/63685091_fd074eb9809df3577196078cff0d1f4b.m3u8"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 24,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "m3u8",
+                "video_url": "https://live.vivo200.com/live/sd-1-4429263.m3u8?txSecret=786156802335b0d8f857d0de43f2d2e1&txTime=6975FC65"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 25,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "m3u8",
+                "video_url": "https://v.lfsxfj.com/live/100469.m3u8?txSecret=4f063c03bf940c838d6d551e8395ef90&txTime=6975C156&sign=df56d05345a3b014"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 26,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://live1.trendgallary.com/live/63685091_fd074eb9809df3577196078cff0d1f4b.flv"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 27,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://live1.trendgallary.com/live/63685091_fd074eb9809df3577196078cff0d1f4b.m3u8"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 28,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "h5",
+                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvY73BxmCaHpnFPwD.m3u8?txSecret=7b41e2bdb02b15c57c700af45544c4b8&txTime=69770A57"
+              },
+              {
+                "created_at": "2026-01-25 14:40:02",
+                "id": 29,
+                "match_id": "1783800",
+                "playing": 1,
+                "updated_at": "2026-01-25 14:40:02",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100469.m3u8?txSecret=4f063c03bf940c838d6d551e8395ef90&txTime=6975C156&sign=df56d05345a3b014"
+              }
+            ]
           }
         },
         "home": {
@@ -1461,8 +1723,8 @@
           "website": ""
         },
         "home_score": 0,
-        "status": 1,
-        "streams": false
+        "status": 2,
+        "streams": true
       }
     ],
     "BEL Pro League": [
@@ -1538,7 +1800,7 @@
           },
           "competition_id": 175,
           "environment": {
-            "humidity": "74%",
+            "humidity": "73%",
             "pressure": "748mmHg",
             "temperature": "5°C",
             "weather": 5,
@@ -1749,7 +2011,7 @@
           },
           "competition_id": 175,
           "environment": {
-            "humidity": "74%",
+            "humidity": "73%",
             "pressure": "748mmHg",
             "temperature": "5°C",
             "weather": 5,
@@ -2005,7 +2267,7 @@
             "pressure": "744mmHg",
             "temperature": "8°C",
             "weather": 10,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2255,7 +2517,7 @@
             "pressure": "744mmHg",
             "temperature": "8°C",
             "weather": 10,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2503,7 +2765,7 @@
           },
           "competition_id": 82,
           "environment": {
-            "humidity": "85%",
+            "humidity": "86%",
             "pressure": "746mmHg",
             "temperature": "8°C",
             "weather": 7,
@@ -3041,9 +3303,9 @@
           },
           "competition_id": 82,
           "environment": {
-            "humidity": "89%",
+            "humidity": "88%",
             "pressure": "750mmHg",
-            "temperature": "5°C",
+            "temperature": "6°C",
             "weather": 10,
             "wind": "5.6m/s"
           },
@@ -3291,7 +3553,7 @@
           },
           "competition_id": 82,
           "environment": {
-            "humidity": "85%",
+            "humidity": "86%",
             "pressure": "746mmHg",
             "temperature": "8°C",
             "weather": 7,
@@ -3829,9 +4091,9 @@
           },
           "competition_id": 82,
           "environment": {
-            "humidity": "89%",
+            "humidity": "88%",
             "pressure": "750mmHg",
-            "temperature": "5°C",
+            "temperature": "6°C",
             "weather": 10,
             "wind": "5.6m/s"
           },
@@ -4081,11 +4343,11 @@
           },
           "competition_id": 142,
           "environment": {
-            "humidity": "78%",
+            "humidity": "77%",
             "pressure": "744mmHg",
             "temperature": "9°C",
             "weather": 10,
-            "wind": "4.5m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4331,11 +4593,11 @@
           },
           "competition_id": 142,
           "environment": {
-            "humidity": "78%",
+            "humidity": "77%",
             "pressure": "744mmHg",
             "temperature": "9°C",
             "weather": 10,
-            "wind": "4.5m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4583,7 +4845,7 @@
           },
           "competition_id": 129,
           "environment": {
-            "humidity": "73%",
+            "humidity": "74%",
             "pressure": "749mmHg",
             "temperature": "3°C",
             "weather": 7,
@@ -4833,7 +5095,7 @@
           },
           "competition_id": 129,
           "environment": {
-            "humidity": "73%",
+            "humidity": "74%",
             "pressure": "749mmHg",
             "temperature": "3°C",
             "weather": 7,
@@ -5085,7 +5347,7 @@
           },
           "competition_id": 130,
           "environment": {
-            "humidity": "85%",
+            "humidity": "84%",
             "pressure": "750mmHg",
             "temperature": "0°C",
             "weather": 7,
@@ -5335,7 +5597,7 @@
           },
           "competition_id": 130,
           "environment": {
-            "humidity": "73%",
+            "humidity": "74%",
             "pressure": "750mmHg",
             "temperature": "3°C",
             "weather": 7,
@@ -5796,7 +6058,7 @@
           },
           "competition_id": 130,
           "environment": {
-            "humidity": "85%",
+            "humidity": "84%",
             "pressure": "750mmHg",
             "temperature": "0°C",
             "weather": 7,
@@ -6046,7 +6308,7 @@
           },
           "competition_id": 130,
           "environment": {
-            "humidity": "73%",
+            "humidity": "74%",
             "pressure": "750mmHg",
             "temperature": "3°C",
             "weather": 7,
@@ -7009,11 +7271,11 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "69%",
+            "humidity": "67%",
             "pressure": "749mmHg",
-            "temperature": "10°C",
+            "temperature": "11°C",
             "weather": 7,
-            "wind": "2.9m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -7759,11 +8021,11 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "69%",
+            "humidity": "67%",
             "pressure": "749mmHg",
-            "temperature": "10°C",
+            "temperature": "11°C",
             "weather": 7,
-            "wind": "2.9m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8011,7 +8273,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "40%",
+            "humidity": "41%",
             "pressure": "761mmHg",
             "temperature": "27°C",
             "weather": 5,
@@ -8033,7 +8295,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 12,
+            "foreign_players": 10,
             "foundation_time": "1960",
             "id": 22391,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/fde877e452f79f75955ad4e4f326c654.png",
@@ -8046,12 +8308,12 @@
             "name_zh": "纳杰马体育",
             "name_zht": "納傑馬體育",
             "national": 0,
-            "national_players": 3,
+            "national_players": 2,
             "short_name_en": "Al Najma(KSA)",
             "short_name_zh": "纳杰马体育",
             "short_name_zht": "納傑馬體育",
-            "total_players": 26,
-            "updated_at": 1769102810,
+            "total_players": 25,
+            "updated_at": 1769322554,
             "venue_id": 3154,
             "website": ""
           },
@@ -8112,7 +8374,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 12,
+          "foreign_players": 10,
           "foundation_time": "1960",
           "id": 22391,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/fde877e452f79f75955ad4e4f326c654.png",
@@ -8125,12 +8387,12 @@
           "name_zh": "纳杰马体育",
           "name_zht": "納傑馬體育",
           "national": 0,
-          "national_players": 3,
+          "national_players": 2,
           "short_name_en": "Al Najma(KSA)",
           "short_name_zh": "纳杰马体育",
           "short_name_zht": "納傑馬體育",
-          "total_players": 26,
-          "updated_at": 1769102810,
+          "total_players": 25,
+          "updated_at": 1769322554,
           "venue_id": 3154,
           "website": ""
         },
@@ -8249,7 +8511,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "40%",
+            "humidity": "41%",
             "pressure": "761mmHg",
             "temperature": "27°C",
             "weather": 5,
@@ -8271,7 +8533,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 12,
+            "foreign_players": 10,
             "foundation_time": "1960",
             "id": 22391,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/fde877e452f79f75955ad4e4f326c654.png",
@@ -8284,12 +8546,12 @@
             "name_zh": "纳杰马体育",
             "name_zht": "納傑馬體育",
             "national": 0,
-            "national_players": 3,
+            "national_players": 2,
             "short_name_en": "Al Najma(KSA)",
             "short_name_zh": "纳杰马体育",
             "short_name_zht": "納傑馬體育",
-            "total_players": 26,
-            "updated_at": 1769102810,
+            "total_players": 25,
+            "updated_at": 1769322554,
             "venue_id": 3154,
             "website": ""
           },
@@ -8350,7 +8612,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 12,
+          "foreign_players": 10,
           "foundation_time": "1960",
           "id": 22391,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/fde877e452f79f75955ad4e4f326c654.png",
@@ -8363,12 +8625,12 @@
           "name_zh": "纳杰马体育",
           "name_zht": "納傑馬體育",
           "national": 0,
-          "national_players": 3,
+          "national_players": 2,
           "short_name_en": "Al Najma(KSA)",
           "short_name_zh": "纳杰马体育",
           "short_name_zht": "納傑馬體育",
-          "total_players": 26,
-          "updated_at": 1769102810,
+          "total_players": 25,
+          "updated_at": 1769322554,
           "venue_id": 3154,
           "website": ""
         },
@@ -8463,7 +8725,7 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 266200,
+                "hot": 414400,
                 "isvideo": 0,
                 "liveid": 176931651464,
                 "livestream_source": 4,
@@ -8473,7 +8735,7 @@
                 "peak_num": 77,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 5,
+                "private_count": 11,
                 "profit": 88,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/808764_1769316482.flv",
                 "rec_weight": 1,
@@ -8795,7 +9057,7 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 266200,
+                "hot": 414400,
                 "isvideo": 0,
                 "liveid": 176931651464,
                 "livestream_source": 4,
@@ -8805,7 +9067,7 @@
                 "peak_num": 77,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 5,
+                "private_count": 11,
                 "profit": 88,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/808764_1769316482.flv",
                 "rec_weight": 1,
@@ -9337,7 +9599,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 26,
+            "foreign_players": 25,
             "foundation_time": "1914",
             "id": 13571,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/0cc2d287567257415606ae2958332363.png",
@@ -9354,8 +9616,8 @@
             "short_name_en": "Portimonense SC",
             "short_name_zh": "波尔蒂芒人",
             "short_name_zht": "樸迪莫倫斯",
-            "total_players": 41,
-            "updated_at": 1768983891,
+            "total_players": 40,
+            "updated_at": 1769322269,
             "venue_id": 1630,
             "website": "http://www.portimonense.pt/sad/index.php"
           },
@@ -9428,7 +9690,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 26,
+          "foreign_players": 25,
           "foundation_time": "1914",
           "id": 13571,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/0cc2d287567257415606ae2958332363.png",
@@ -9445,8 +9707,8 @@
           "short_name_en": "Portimonense SC",
           "short_name_zh": "波尔蒂芒人",
           "short_name_zht": "樸迪莫倫斯",
-          "total_players": 41,
-          "updated_at": 1768983891,
+          "total_players": 40,
+          "updated_at": 1769322269,
           "venue_id": 1630,
           "website": "http://www.portimonense.pt/sad/index.php"
         },
@@ -9526,10 +9788,10 @@
           },
           "competition_id": 152,
           "environment": {
-            "humidity": "97%",
+            "humidity": "96%",
             "pressure": "762mmHg",
             "temperature": "14°C",
-            "weather": 10,
+            "weather": 9,
             "wind": "6.5m/s"
           },
           "explain": "",
@@ -9958,7 +10220,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 26,
+            "foreign_players": 25,
             "foundation_time": "1914",
             "id": 13571,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/0cc2d287567257415606ae2958332363.png",
@@ -9975,8 +10237,8 @@
             "short_name_en": "Portimonense SC",
             "short_name_zh": "波尔蒂芒人",
             "short_name_zht": "樸迪莫倫斯",
-            "total_players": 41,
-            "updated_at": 1768983891,
+            "total_players": 40,
+            "updated_at": 1769322269,
             "venue_id": 1630,
             "website": "http://www.portimonense.pt/sad/index.php"
           },
@@ -10049,7 +10311,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 26,
+          "foreign_players": 25,
           "foundation_time": "1914",
           "id": 13571,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/0cc2d287567257415606ae2958332363.png",
@@ -10066,8 +10328,8 @@
           "short_name_en": "Portimonense SC",
           "short_name_zh": "波尔蒂芒人",
           "short_name_zht": "樸迪莫倫斯",
-          "total_players": 41,
-          "updated_at": 1768983891,
+          "total_players": 40,
+          "updated_at": 1769322269,
           "venue_id": 1630,
           "website": "http://www.portimonense.pt/sad/index.php"
         },
@@ -10147,10 +10409,10 @@
           },
           "competition_id": 152,
           "environment": {
-            "humidity": "97%",
+            "humidity": "96%",
             "pressure": "762mmHg",
             "temperature": "14°C",
-            "weather": 10,
+            "weather": 9,
             "wind": "6.5m/s"
           },
           "explain": "",
@@ -11099,7 +11361,7 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 210900,
+                "hot": 265200,
                 "isvideo": 0,
                 "liveid": 1769316521612,
                 "livestream_source": 4,
@@ -11109,7 +11371,7 @@
                 "peak_num": 39,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 2,
+                "private_count": 3,
                 "profit": 0,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/2359612_1769316492.flv",
                 "rec_weight": 1,
@@ -11210,7 +11472,7 @@
             "humidity": "79%",
             "pressure": "749mmHg",
             "temperature": "2°C",
-            "weather": 1,
+            "weather": 5,
             "wind": "4.0m/s"
           },
           "explain": "",
@@ -12157,7 +12419,7 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 210900,
+                "hot": 265200,
                 "isvideo": 0,
                 "liveid": 1769316521612,
                 "livestream_source": 4,
@@ -12167,7 +12429,7 @@
                 "peak_num": 39,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 2,
+                "private_count": 3,
                 "profit": 0,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/2359612_1769316492.flv",
                 "rec_weight": 1,
@@ -12268,7 +12530,7 @@
             "humidity": "79%",
             "pressure": "749mmHg",
             "temperature": "2°C",
-            "weather": 1,
+            "weather": 5,
             "wind": "4.0m/s"
           },
           "explain": "",
@@ -12805,11 +13067,11 @@
           },
           "competition_id": 120,
           "environment": {
-            "humidity": "67%",
+            "humidity": "65%",
             "pressure": "751mmHg",
-            "temperature": "11°C",
+            "temperature": "12°C",
             "weather": 7,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -13343,11 +13605,11 @@
           },
           "competition_id": 120,
           "environment": {
-            "humidity": "67%",
+            "humidity": "65%",
             "pressure": "751mmHg",
-            "temperature": "11°C",
+            "temperature": "12°C",
             "weather": 7,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -13558,7 +13820,7 @@
           "environment": {
             "humidity": "77%",
             "pressure": "752mmHg",
-            "temperature": "-6°C",
+            "temperature": "-5°C",
             "weather": 4,
             "wind": "2.6m/s"
           },
@@ -13769,7 +14031,7 @@
           "environment": {
             "humidity": "77%",
             "pressure": "752mmHg",
-            "temperature": "-6°C",
+            "temperature": "-5°C",
             "weather": 4,
             "wind": "2.6m/s"
           },
@@ -14230,7 +14492,7 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "71%",
+            "humidity": "70%",
             "pressure": "767mmHg",
             "temperature": "11°C",
             "weather": 7,
@@ -14441,7 +14703,7 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "81%",
+            "humidity": "80%",
             "pressure": "767mmHg",
             "temperature": "14°C",
             "weather": 10,
@@ -14902,7 +15164,7 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "71%",
+            "humidity": "70%",
             "pressure": "767mmHg",
             "temperature": "11°C",
             "weather": 7,
@@ -15113,7 +15375,7 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "81%",
+            "humidity": "80%",
             "pressure": "767mmHg",
             "temperature": "14°C",
             "weather": 10,
