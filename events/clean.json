@@ -1,5 +1,5 @@
 {
-  "updated": 1769345276,
+  "updated": 1769347489,
   "events": [
     {
       "league": "BEL Pro League",
@@ -53,7 +53,7 @@
       "away": "Southampton",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351407.m3u8?txSecret=20355105bf0f2a93264d2193e6487a23&txTime=69764518"
+        "url": "https://live.vivo200.com/live/sd-1-4351407.m3u8?txSecret=076b025ce6a9e44b6bc9c6e16b374609&txTime=69765ED5"
       }
     },
     {
@@ -64,7 +64,7 @@
       "away": "Southampton",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351407.m3u8?txSecret=20355105bf0f2a93264d2193e6487a23&txTime=69764518"
+        "url": "https://live.vivo200.com/live/sd-1-4351407.m3u8?txSecret=076b025ce6a9e44b6bc9c6e16b374609&txTime=69765ED5"
       }
     },
     {
@@ -147,9 +147,53 @@
     {
       "league": "FRA Ligue 1",
       "status": "UPCOMING",
+      "time": 1769357700,
+      "home": "Stade Brestois 29",
+      "away": "Toulouse FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
+      "time": 1769357700,
+      "home": "Metz",
+      "away": "Lyon",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
       "time": 1769349600,
       "home": "FC Nantes",
       "away": "OGC Nice",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
+      "time": 1769357700,
+      "home": "Stade Brestois 29",
+      "away": "Toulouse FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
+      "time": 1769357700,
+      "home": "Metz",
+      "away": "Lyon",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -251,7 +295,7 @@
       "away": "Cremonese",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339751.m3u8?txSecret=3ab3c1abfe3f7a897c6e61c4b8e147ef&txTime=69763E10"
+        "url": "https://live2.trendgallary.com/live/61061381_a83759329c103f9411e71ef8cc2fa7e7.m3u8"
       }
     },
     {
@@ -284,7 +328,7 @@
       "away": "Cremonese",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339751.m3u8?txSecret=3ab3c1abfe3f7a897c6e61c4b8e147ef&txTime=69763E10"
+        "url": "https://live2.trendgallary.com/live/61061381_a83759329c103f9411e71ef8cc2fa7e7.m3u8"
       }
     },
     {
@@ -355,24 +399,24 @@
     },
     {
       "league": "Liga Portugal 2",
-      "status": "LIVE",
-      "time": 1769338800,
-      "home": "Porto B",
-      "away": "Vizela",
+      "status": "UPCOMING",
+      "time": 1769349600,
+      "home": "SCU Torreense",
+      "away": "SC Farense",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61732028_57f9998aca6b7927276d595256a6b928.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "Liga Portugal 2",
-      "status": "LIVE",
-      "time": 1769338800,
-      "home": "Portimonense",
-      "away": "Feirense",
+      "status": "UPCOMING",
+      "time": 1769355000,
+      "home": "Oliveirense",
+      "away": "Penafiel",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4367822.m3u8?txSecret=e999d8da871e07335dad68b94c34e64b&txTime=69763701"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -388,32 +432,10 @@
     },
     {
       "league": "Liga Portugal 2",
-      "status": "LIVE",
-      "time": 1769338800,
-      "home": "Porto B",
-      "away": "Vizela",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61732028_57f9998aca6b7927276d595256a6b928.m3u8"
-      }
-    },
-    {
-      "league": "Liga Portugal 2",
-      "status": "LIVE",
-      "time": 1769338800,
-      "home": "Portimonense",
-      "away": "Feirense",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4367822.m3u8?txSecret=e999d8da871e07335dad68b94c34e64b&txTime=69763701"
-      }
-    },
-    {
-      "league": "Liga Portugal 2",
       "status": "UPCOMING",
-      "time": 1769349600,
-      "home": "SCU Torreense",
-      "away": "SC Farense",
+      "time": 1769355000,
+      "home": "Oliveirense",
+      "away": "Penafiel",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -422,23 +444,12 @@
     {
       "league": "NED Eredivisie",
       "status": "LIVE",
-      "time": 1769339700,
-      "home": "SC Telstar",
-      "away": "AZ Alkmaar",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344670.m3u8?txSecret=fe16fad82633844cb1a582b30acd372a&txTime=69765321"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "UPCOMING",
       "time": 1769347800,
       "home": "Groningen",
       "away": "Fortuna Sittard",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769347026.flv"
       }
     },
     {
@@ -466,23 +477,12 @@
     {
       "league": "NED Eredivisie",
       "status": "LIVE",
-      "time": 1769339700,
-      "home": "SC Telstar",
-      "away": "AZ Alkmaar",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344670.m3u8?txSecret=fe16fad82633844cb1a582b30acd372a&txTime=69765321"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "UPCOMING",
       "time": 1769347800,
       "home": "Groningen",
       "away": "Fortuna Sittard",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769347026.flv"
       }
     },
     {
@@ -514,8 +514,8 @@
       "home": "Atletico Madrid",
       "away": "RCD Mallorca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769344305.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358862.m3u8?txSecret=420ef40b5e381f83867391845daabcfd&txTime=69765329"
       }
     },
     {
@@ -536,8 +536,8 @@
       "home": "Atletico Madrid",
       "away": "RCD Mallorca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769344305.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358862.m3u8?txSecret=420ef40b5e381f83867391845daabcfd&txTime=69765329"
       }
     },
     {
@@ -553,13 +553,13 @@
     },
     {
       "league": "SPA Segunda Division",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769346000,
       "home": "Andorra CF",
       "away": "SD Huesca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4361787.m3u8?txSecret=cb51fa91c937d6a9149d87ea071827db&txTime=69765329"
       }
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "league": "SPA Segunda Division",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769346000,
       "home": "Andorra CF",
       "away": "SD Huesca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4361787.m3u8?txSecret=cb51fa91c937d6a9149d87ea071827db&txTime=69765329"
       }
     },
     {
