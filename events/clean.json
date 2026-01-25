@@ -1,5 +1,5 @@
 {
-  "updated": 1769349923,
+  "updated": 1769350452,
   "events": [
     {
       "league": "BEL Pro League",
@@ -625,7 +625,7 @@
       "away": "Alanyaspor",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100348.m3u8?txSecret=f44b0be21ea76dc447255b14ceaf8052&txTime=69762697&sign=d2ff0ba103bbd7f0"
+        "url": "https://v.lfsxfj.com/live/100348.m3u8?txSecret=340320c28ad39195a6b3123b22be1be9&txTime=69762ACE&sign=4bb0883c620eae7a"
       }
     },
     {
@@ -647,7 +647,7 @@
       "away": "Alanyaspor",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100348.m3u8?txSecret=f44b0be21ea76dc447255b14ceaf8052&txTime=69762697&sign=d2ff0ba103bbd7f0"
+        "url": "https://v.lfsxfj.com/live/100348.m3u8?txSecret=340320c28ad39195a6b3123b22be1be9&txTime=69762ACE&sign=4bb0883c620eae7a"
       }
     },
     {
