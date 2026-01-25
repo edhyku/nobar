@@ -1,5 +1,5 @@
 {
-  "updated": 1769362806,
+  "updated": 1769363566,
   "events": [
     {
       "league": "AUS A-League",
@@ -36,6 +36,17 @@
     },
     {
       "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769457600,
+      "home": "Everton",
+      "away": "Leeds United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
       "status": "LIVE",
       "time": 1769358600,
       "home": "Arsenal",
@@ -46,47 +57,14 @@
       }
     },
     {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769357700,
-      "home": "Stade Brestois 29",
-      "away": "Toulouse FC",
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769457600,
+      "home": "Everton",
+      "away": "Leeds United",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347840.m3u8?txSecret=e8c1fe4739ac7a0ba2da69ae478a7f89&txTime=697686B7"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769357700,
-      "home": "Metz",
-      "away": "Lyon",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347844.m3u8?txSecret=b6ff08e2be0436df0298da970420fb3b&txTime=697686B7"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769357700,
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347846.m3u8?txSecret=86399416b0cb3f435eaa312222f7f2b5&txTime=697686B7"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769370300,
-      "home": "LOSC Lille",
-      "away": "RC Strasbourg Alsace",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769358010.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -131,6 +109,72 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769358010.flv"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "LIVE",
+      "time": 1769357700,
+      "home": "Stade Brestois 29",
+      "away": "Toulouse FC",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347840.m3u8?txSecret=e8c1fe4739ac7a0ba2da69ae478a7f89&txTime=697686B7"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "LIVE",
+      "time": 1769357700,
+      "home": "Metz",
+      "away": "Lyon",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347844.m3u8?txSecret=b6ff08e2be0436df0298da970420fb3b&txTime=697686B7"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "LIVE",
+      "time": 1769357700,
+      "home": "Paris FC",
+      "away": "Angers SCO",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347846.m3u8?txSecret=86399416b0cb3f435eaa312222f7f2b5&txTime=697686B7"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "LIVE",
+      "time": 1769370300,
+      "home": "LOSC Lille",
+      "away": "RC Strasbourg Alsace",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769358010.flv"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
+      "status": "UPCOMING",
+      "time": 1769456700,
+      "home": "Le Mans",
+      "away": "USL Dunkerque",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
+      "status": "UPCOMING",
+      "time": 1769456700,
+      "home": "Le Mans",
+      "away": "USL Dunkerque",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -267,24 +311,24 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769439300,
       "home": "Jubail",
       "away": "Al Zulfi",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769355194.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769439300,
       "home": "Jubail",
       "away": "Al Zulfi",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769355194.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -295,7 +339,7 @@
       "away": "Al Fateh SC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100386.m3u8?txSecret=3c1c8e100d346ec7c9ea2f80c4a97c6c&txTime=69765A9E&sign=23518d3b682e1a99"
+        "url": "https://v.lfsxfj.com/live/100386.m3u8?txSecret=24dba6c6ebd44982268240063d3a33af&txTime=69765E22&sign=126666d09647aa60"
       }
     },
     {
@@ -306,7 +350,7 @@
       "away": "Al Hilal",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100362.m3u8?txSecret=9b54bcf2d22f528ba1162288e1935fbc&txTime=697657CE&sign=1c80a59983672c8c"
+        "url": "https://v.lfsxfj.com/live/100362.m3u8?txSecret=a96931a94da2582b860d79ed955e9db1&txTime=69765E22&sign=9ce0ce334fb8139d"
       }
     },
     {
@@ -350,7 +394,7 @@
       "away": "Al Fateh SC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100386.m3u8?txSecret=9b662bf3dad7d555b0a46a9f375016ac&txTime=69765C0E&sign=4c69dade18d43e05"
+        "url": "https://v.lfsxfj.com/live/100386.m3u8?txSecret=24dba6c6ebd44982268240063d3a33af&txTime=69765E22&sign=126666d09647aa60"
       }
     },
     {
@@ -361,7 +405,7 @@
       "away": "Al Hilal",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100362.m3u8?txSecret=f08d8e1d0da428686f79708ea0b495f8&txTime=69765C0E&sign=86b12a8912be4a47"
+        "url": "https://v.lfsxfj.com/live/100362.m3u8?txSecret=a96931a94da2582b860d79ed955e9db1&txTime=69765E22&sign=9ce0ce334fb8139d"
       }
     },
     {
@@ -464,50 +508,6 @@
       }
     },
     {
-      "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769355900,
-      "home": "FC Utrecht",
-      "away": "Sparta Rotterdam",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344614.m3u8?txSecret=70c97642f1d01cf454ae4399fe85c989&txTime=6976820A"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769355900,
-      "home": "Feyenoord",
-      "away": "Heracles Almelo",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344623.m3u8?txSecret=6ad7d714bf0b8a57032864fe0bc07ddd&txTime=6976820A"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769355900,
-      "home": "FC Utrecht",
-      "away": "Sparta Rotterdam",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344614.m3u8?txSecret=70c97642f1d01cf454ae4399fe85c989&txTime=6976820A"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769355900,
-      "home": "Feyenoord",
-      "away": "Heracles Almelo",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344623.m3u8?txSecret=6ad7d714bf0b8a57032864fe0bc07ddd&txTime=6976820A"
-      }
-    },
-    {
       "league": "POR U23",
       "status": "UPCOMING",
       "time": 1769425200,
@@ -553,24 +553,24 @@
     },
     {
       "league": "ROM Super Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769439600,
       "home": "FC Otelul Galati",
       "away": "FK Csikszereda Miercurea Ciuc",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769355355.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "ROM Super Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769439600,
       "home": "FC Otelul Galati",
       "away": "FK Csikszereda Miercurea Ciuc",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769355355.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -581,7 +581,7 @@
       "away": "RC Celta",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100363.m3u8?txSecret=3e02867c088cc2b36ba91ed3c4036cea&txTime=69765A9E&sign=be645a1915bca44a"
+        "url": "https://v.lfsxfj.com/live/100363.m3u8?txSecret=72c43fa7a9eaf15b0baf9e9a1d5859a7&txTime=69765E21&sign=7cfd0dc35d715b01"
       }
     },
     {
@@ -603,7 +603,7 @@
       "away": "RC Celta",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100363.m3u8?txSecret=89e2f419d8837be57e5d75d5e98a53e0&txTime=69765C0E&sign=e1a2934ab092e69e"
+        "url": "https://v.lfsxfj.com/live/100363.m3u8?txSecret=72c43fa7a9eaf15b0baf9e9a1d5859a7&txTime=69765E21&sign=7cfd0dc35d715b01"
       }
     },
     {
