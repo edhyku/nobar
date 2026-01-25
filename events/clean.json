@@ -1,48 +1,48 @@
 {
-  "updated": 1769384151,
+  "updated": 1769385073,
   "events": [
     {
       "league": "ARG Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769385600,
       "home": "Club Atletico Tigre",
       "away": "Estudiantes Rio Cuarto",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769384844.flv"
       }
     },
     {
       "league": "ARG Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769385600,
       "home": "Argentinos Juniors",
       "away": "Sarmiento Junin",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769384942.flv"
       }
     },
     {
       "league": "ARG Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769385600,
       "home": "Club Atletico Tigre",
       "away": "Estudiantes Rio Cuarto",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769384844.flv"
       }
     },
     {
       "league": "ARG Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769385600,
       "home": "Argentinos Juniors",
       "away": "Sarmiento Junin",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769384942.flv"
       }
     },
     {
@@ -465,13 +465,13 @@
     },
     {
       "league": "POR U23",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769425200,
       "home": "Torreense U23",
       "away": "Leixoes U23",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769384957.flv"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "POR U23",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769425200,
       "home": "Torreense U23",
       "away": "Leixoes U23",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769384957.flv"
       }
     },
     {
