@@ -1,5 +1,5 @@
 {
-  "updated": 1769352788,
+  "updated": 1769354476,
   "events": [
     {
       "league": "AUS A-League",
@@ -9,7 +9,7 @@
       "away": "Sydney FC",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769348939.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769353267.flv"
       }
     },
     {
@@ -20,7 +20,7 @@
       "away": "Sydney FC",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769348939.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769353267.flv"
       }
     },
     {
@@ -266,6 +266,28 @@
       }
     },
     {
+      "league": "IDN Liga 1",
+      "status": "UPCOMING",
+      "time": 1769428800,
+      "home": "Dewa United FC",
+      "away": "Arema FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "IDN Liga 1",
+      "status": "UPCOMING",
+      "time": 1769428800,
+      "home": "Dewa United FC",
+      "away": "Arema FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ITA Serie A",
       "status": "LIVE",
       "time": 1769349600,
@@ -355,13 +377,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769354400,
       "home": "Al Najma(KSA)",
       "away": "Al Qadsiah",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769353641.flv"
       }
     },
     {
@@ -388,13 +410,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769354400,
       "home": "Al Najma(KSA)",
       "away": "Al Qadsiah",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769353641.flv"
       }
     },
     {
@@ -421,13 +443,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769355000,
       "home": "Nacional da Madeira",
       "away": "Rio Ave",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769354286.flv"
       }
     },
     {
@@ -443,24 +465,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769373000,
       "home": "Sporting Braga",
       "away": "Alverca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769353641.flv"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769355000,
       "home": "Nacional da Madeira",
       "away": "Rio Ave",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769354286.flv"
       }
     },
     {
@@ -476,13 +498,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769373000,
       "home": "Sporting Braga",
       "away": "Alverca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769353641.flv"
       }
     },
     {
@@ -571,17 +593,6 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769348672.flv"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769346000,
-      "home": "Atletico Madrid",
-      "away": "RCD Mallorca",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358862.m3u8?txSecret=01bd1365926a5c846577a0273e0ce0c8&txTime=69766CE4"
       }
     },
     {
@@ -592,7 +603,7 @@
       "away": "Real Oviedo",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769344305.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769352933.flv"
       }
     },
     {
@@ -603,7 +614,7 @@
       "away": "RC Celta",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769344305.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769352933.flv"
       }
     },
     {
@@ -620,23 +631,12 @@
     {
       "league": "SPA La Liga",
       "status": "LIVE",
-      "time": 1769346000,
-      "home": "Atletico Madrid",
-      "away": "RCD Mallorca",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358862.m3u8?txSecret=01bd1365926a5c846577a0273e0ce0c8&txTime=69766CE4"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
       "time": 1769354100,
       "home": "FC Barcelona",
       "away": "Real Oviedo",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769344305.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769352933.flv"
       }
     },
     {
@@ -647,7 +647,7 @@
       "away": "RC Celta",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769344305.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769352933.flv"
       }
     },
     {
