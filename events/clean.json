@@ -1,5 +1,5 @@
 {
-  "updated": 1769376473,
+  "updated": 1769377505,
   "events": [
     {
       "league": "AUS A-League",
@@ -90,28 +90,6 @@
       }
     },
     {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769370300,
-      "home": "LOSC Lille",
-      "away": "RC Strasbourg Alsace",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347842.m3u8?txSecret=9f06471cb3ab86094df6018fa72b37af&txTime=6976BEEC"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769370300,
-      "home": "LOSC Lille",
-      "away": "RC Strasbourg Alsace",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347842.m3u8?txSecret=9f06471cb3ab86094df6018fa72b37af&txTime=6976BEEC"
-      }
-    },
-    {
       "league": "FRA Ligue 2",
       "status": "UPCOMING",
       "time": 1769456700,
@@ -219,17 +197,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769370300,
-      "home": "AS Roma",
-      "away": "AC Milan",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339731.m3u8?txSecret=c6b647b57ab66e88c70c3926ef1be12e&txTime=6976BEEC"
       }
     },
     {
@@ -241,17 +208,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769370300,
-      "home": "AS Roma",
-      "away": "AC Milan",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339731.m3u8?txSecret=c6b647b57ab66e88c70c3926ef1be12e&txTime=6976BEEC"
       }
     },
     {
@@ -654,8 +610,52 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "Arsenal",
+      "away": "FC Kairat Almaty",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Athletic Club",
+      "away": "Sporting CP",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Arsenal",
+      "away": "FC Kairat Almaty",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Athletic Club",
+      "away": "Sporting CP",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
