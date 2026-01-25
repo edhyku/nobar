@@ -1,15 +1,15 @@
 {
-  "updated": 1769342022,
+  "updated": 1769345276,
   "events": [
     {
       "league": "BEL Pro League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769344200,
       "home": "Royal Antwerp",
       "away": "RC Sporting Charleroi",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347177.m3u8?txSecret=19f5b7a7c13452d169d0cf709856904c&txTime=69764C2A"
       }
     },
     {
@@ -25,13 +25,13 @@
     },
     {
       "league": "BEL Pro League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769344200,
       "home": "Royal Antwerp",
       "away": "RC Sporting Charleroi",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347177.m3u8?txSecret=19f5b7a7c13452d169d0cf709856904c&txTime=69764C2A"
       }
     },
     {
@@ -52,8 +52,8 @@
       "home": "Portsmouth",
       "away": "Southampton",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769339910.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351407.m3u8?txSecret=20355105bf0f2a93264d2193e6487a23&txTime=69764518"
       }
     },
     {
@@ -63,8 +63,8 @@
       "home": "Portsmouth",
       "away": "Southampton",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769339910.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351407.m3u8?txSecret=20355105bf0f2a93264d2193e6487a23&txTime=69764518"
       }
     },
     {
@@ -157,90 +157,90 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769351400,
       "home": "Borussia Monchengladbach",
       "away": "VfB Stuttgart",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769343505.flv"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769351400,
       "home": "Borussia Monchengladbach",
       "away": "VfB Stuttgart",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769343505.flv"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769344200,
       "home": "SV Elversberg",
       "away": "VfL Bochum 1848",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355723.m3u8?txSecret=698bb88991cf31b205000e761370ed88&txTime=69764C2A"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769344200,
       "home": "Schalke 04",
       "away": "1. FC Kaiserslautern",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355729.m3u8?txSecret=fc119836ec88441626578ef258444064&txTime=69764C2A"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769344200,
       "home": "SC Paderborn 07",
       "away": "Preuben Munster",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355728.m3u8?txSecret=b7fc82baf2d3f86afb4b4afc09d85c17&txTime=69764C2A"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769344200,
       "home": "SV Elversberg",
       "away": "VfL Bochum 1848",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355723.m3u8?txSecret=698bb88991cf31b205000e761370ed88&txTime=69764C2A"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769344200,
       "home": "Schalke 04",
       "away": "1. FC Kaiserslautern",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355729.m3u8?txSecret=fc119836ec88441626578ef258444064&txTime=69764C2A"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769344200,
       "home": "SC Paderborn 07",
       "away": "Preuben Munster",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355728.m3u8?txSecret=b7fc82baf2d3f86afb4b4afc09d85c17&txTime=69764C2A"
       }
     },
     {
@@ -361,7 +361,7 @@
       "away": "Vizela",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4367816.m3u8?txSecret=c87f45870044af8c9694b86827bac493&txTime=697642B4"
+        "url": "https://live.trendgallary.com/live/61732028_57f9998aca6b7927276d595256a6b928.m3u8"
       }
     },
     {
@@ -394,7 +394,7 @@
       "away": "Vizela",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4367816.m3u8?txSecret=c87f45870044af8c9694b86827bac493&txTime=697642B4"
+        "url": "https://live.trendgallary.com/live/61732028_57f9998aca6b7927276d595256a6b928.m3u8"
       }
     },
     {
@@ -427,7 +427,7 @@
       "away": "AZ Alkmaar",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344670.m3u8?txSecret=407c238c0372caa6d7c8c452bb7dbde7&txTime=69763BB9"
+        "url": "https://live.vivo200.com/live/sd-1-4344670.m3u8?txSecret=fe16fad82633844cb1a582b30acd372a&txTime=69765321"
       }
     },
     {
@@ -443,13 +443,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769355900,
       "home": "FC Utrecht",
       "away": "Sparta Rotterdam",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769343221.flv"
       }
     },
     {
@@ -471,7 +471,7 @@
       "away": "AZ Alkmaar",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344670.m3u8?txSecret=407c238c0372caa6d7c8c452bb7dbde7&txTime=69763BB9"
+        "url": "https://live.vivo200.com/live/sd-1-4344670.m3u8?txSecret=fe16fad82633844cb1a582b30acd372a&txTime=69765321"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769355900,
       "home": "FC Utrecht",
       "away": "Sparta Rotterdam",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769343221.flv"
       }
     },
     {
@@ -509,46 +509,46 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769346000,
       "home": "Atletico Madrid",
       "away": "RCD Mallorca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769344305.flv"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769354100,
       "home": "FC Barcelona",
       "away": "Real Oviedo",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769344305.flv"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769346000,
       "home": "Atletico Madrid",
       "away": "RCD Mallorca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769344305.flv"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769354100,
       "home": "FC Barcelona",
       "away": "Real Oviedo",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769344305.flv"
       }
     },
     {
