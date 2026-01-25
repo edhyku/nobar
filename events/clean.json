@@ -1,37 +1,48 @@
 {
-  "updated": 1769363566,
+  "updated": 1769365814,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769409600,
       "home": "Melbourne Victory",
       "away": "Sydney FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769357920.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769409600,
       "home": "Melbourne Victory",
       "away": "Sydney FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769357920.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769358600,
-      "home": "Arsenal",
-      "away": "Manchester United",
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769457600,
+      "home": "Norwich City",
+      "away": "Coventry City",
       "stream": {
-        "type": "m3u8",
-        "url": "http://play.clomidx.com/live/111805293071_4082329442_adaptive.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1769457600,
+      "home": "Norwich City",
+      "away": "Coventry City",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -47,17 +58,6 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769358600,
-      "home": "Arsenal",
-      "away": "Manchester United",
-      "stream": {
-        "type": "m3u8",
-        "url": "http://play.clomidx.com/live/111805293071_4082329442_adaptive.m3u8"
-      }
-    },
-    {
-      "league": "ENG Premier League",
       "status": "UPCOMING",
       "time": 1769457600,
       "home": "Everton",
@@ -69,90 +69,24 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769357700,
-      "home": "Stade Brestois 29",
-      "away": "Toulouse FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347840.m3u8?txSecret=e8c1fe4739ac7a0ba2da69ae478a7f89&txTime=697686B7"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769357700,
-      "home": "Metz",
-      "away": "Lyon",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347844.m3u8?txSecret=b6ff08e2be0436df0298da970420fb3b&txTime=697686B7"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769357700,
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347846.m3u8?txSecret=86399416b0cb3f435eaa312222f7f2b5&txTime=697686B7"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769370300,
       "home": "LOSC Lille",
       "away": "RC Strasbourg Alsace",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769358010.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769357700,
-      "home": "Stade Brestois 29",
-      "away": "Toulouse FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347840.m3u8?txSecret=e8c1fe4739ac7a0ba2da69ae478a7f89&txTime=697686B7"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769357700,
-      "home": "Metz",
-      "away": "Lyon",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347844.m3u8?txSecret=b6ff08e2be0436df0298da970420fb3b&txTime=697686B7"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769357700,
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347846.m3u8?txSecret=86399416b0cb3f435eaa312222f7f2b5&txTime=697686B7"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769370300,
       "home": "LOSC Lille",
       "away": "RC Strasbourg Alsace",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769358010.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -179,24 +113,46 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
-      "time": 1769358600,
-      "home": "SC Freiburg",
-      "away": "FC Köln",
+      "status": "UPCOMING",
+      "time": 1769542200,
+      "home": "FC St. Pauli",
+      "away": "RB Leipzig",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347522.m3u8?txSecret=2c53636459d46909225181b7289929d4&txTime=69769973"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
-      "time": 1769358600,
-      "home": "SC Freiburg",
-      "away": "FC Köln",
+      "status": "UPCOMING",
+      "time": 1769542200,
+      "home": "SV Werder Bremen",
+      "away": "TSG Hoffenheim",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347522.m3u8?txSecret=2c53636459d46909225181b7289929d4&txTime=69769973"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769542200,
+      "home": "FC St. Pauli",
+      "away": "RB Leipzig",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769542200,
+      "home": "SV Werder Bremen",
+      "away": "TSG Hoffenheim",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -229,7 +185,7 @@
       "away": "Uzbekistan",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769357920.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769361452.flv"
       }
     },
     {
@@ -240,7 +196,7 @@
       "away": "Uzbekistan",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769357920.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769361452.flv"
       }
     },
     {
@@ -339,7 +295,7 @@
       "away": "Al Fateh SC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100386.m3u8?txSecret=24dba6c6ebd44982268240063d3a33af&txTime=69765E22&sign=126666d09647aa60"
+        "url": "https://live.vivo200.com/live/sd-1-4404484.m3u8?txSecret=688dc185accff666ee0e3fa50d275873&txTime=6976A2D3"
       }
     },
     {
@@ -350,7 +306,7 @@
       "away": "Al Hilal",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100362.m3u8?txSecret=a96931a94da2582b860d79ed955e9db1&txTime=69765E22&sign=9ce0ce334fb8139d"
+        "url": "https://live.vivo200.com/live/sd-1-4404586.m3u8?txSecret=37874b0bb69561dc3fd9df467ee6cd23&txTime=6976A2D3"
       }
     },
     {
@@ -394,7 +350,7 @@
       "away": "Al Fateh SC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100386.m3u8?txSecret=24dba6c6ebd44982268240063d3a33af&txTime=69765E22&sign=126666d09647aa60"
+        "url": "https://live.vivo200.com/live/sd-1-4404484.m3u8?txSecret=688dc185accff666ee0e3fa50d275873&txTime=6976A2D3"
       }
     },
     {
@@ -405,7 +361,7 @@
       "away": "Al Hilal",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100362.m3u8?txSecret=a96931a94da2582b860d79ed955e9db1&txTime=69765E22&sign=9ce0ce334fb8139d"
+        "url": "https://live.vivo200.com/live/sd-1-4404586.m3u8?txSecret=37874b0bb69561dc3fd9df467ee6cd23&txTime=6976A2D3"
       }
     },
     {
@@ -443,13 +399,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769364000,
       "home": "Benfica",
       "away": "CF Estrela Amadora SAD",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368950.m3u8?txSecret=4eb2241c58e8810efa289944a3e4bd5c&txTime=6976A2D3"
       }
     },
     {
@@ -466,12 +422,23 @@
     {
       "league": "Liga Portugal",
       "status": "UPCOMING",
+      "time": 1769458500,
+      "home": "FC Porto",
+      "away": "Gil Vicente",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "LIVE",
       "time": 1769364000,
       "home": "Benfica",
       "away": "CF Estrela Amadora SAD",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368950.m3u8?txSecret=4eb2241c58e8810efa289944a3e4bd5c&txTime=6976A2D3"
       }
     },
     {
@@ -480,6 +447,17 @@
       "time": 1769373000,
       "home": "Sporting Braga",
       "away": "Alverca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769458500,
+      "home": "FC Porto",
+      "away": "Gil Vicente",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -581,18 +559,29 @@
       "away": "RC Celta",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100363.m3u8?txSecret=72c43fa7a9eaf15b0baf9e9a1d5859a7&txTime=69765E21&sign=7cfd0dc35d715b01"
+        "url": "https://live.vivo200.com/live/sd-1-4358867.m3u8?txSecret=bd0823080c4032faed348e650569f0ed&txTime=6976A2D3"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769371200,
       "home": "Deportivo Alavés",
       "away": "Real Betis",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769356949.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA La Liga",
+      "status": "UPCOMING",
+      "time": 1769457600,
+      "home": "Girona FC",
+      "away": "Getafe",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -603,18 +592,29 @@
       "away": "RC Celta",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100363.m3u8?txSecret=72c43fa7a9eaf15b0baf9e9a1d5859a7&txTime=69765E21&sign=7cfd0dc35d715b01"
+        "url": "https://live.vivo200.com/live/sd-1-4358867.m3u8?txSecret=bd0823080c4032faed348e650569f0ed&txTime=6976A2D3"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769371200,
       "home": "Deportivo Alavés",
       "away": "Real Betis",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769356949.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA La Liga",
+      "status": "UPCOMING",
+      "time": 1769457600,
+      "home": "Girona FC",
+      "away": "Getafe",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
