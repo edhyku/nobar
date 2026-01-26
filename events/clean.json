@@ -1,5 +1,5 @@
 {
-  "updated": 1769430078,
+  "updated": 1769433916,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -113,24 +113,24 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769456700,
       "home": "Le Mans",
       "away": "USL Dunkerque",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769429553.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "FRA Ligue 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769456700,
       "home": "Le Mans",
       "away": "USL Dunkerque",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769429553.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -214,6 +214,28 @@
       "league": "INT CF",
       "status": "UPCOMING",
       "time": 1769436000,
+      "home": "Brondby IF",
+      "away": "Real Salt Lake",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769439600,
+      "home": "Elfsborg",
+      "away": "Aarhus AGF",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769436000,
       "home": "Dynamo Moscow",
       "away": "Chengdu Rongcheng FC",
       "stream": {
@@ -222,25 +244,25 @@
       }
     },
     {
-      "league": "INT FRL",
-      "status": "LIVE",
-      "time": 1769430600,
-      "home": "Uzbekistan",
-      "away": "China",
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769436000,
+      "home": "Brondby IF",
+      "away": "Real Salt Lake",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769429661.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "INT FRL",
-      "status": "LIVE",
-      "time": 1769430600,
-      "home": "Uzbekistan",
-      "away": "China",
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769439600,
+      "home": "Elfsborg",
+      "away": "Aarhus AGF",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769429661.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -268,12 +290,34 @@
     {
       "league": "KSA Division 1",
       "status": "LIVE",
+      "time": 1769430600,
+      "home": "Al-Batin",
+      "away": "Al-Raed SFC",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4478972.m3u8?txSecret=2bbc29d613bc89aca975ddbb36c9d853&txTime=69779FEC"
+      }
+    },
+    {
+      "league": "KSA Division 1",
+      "status": "LIVE",
       "time": 1769439300,
       "home": "Jubail",
       "away": "Al Zulfi",
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769424501.flv"
+      }
+    },
+    {
+      "league": "KSA Division 1",
+      "status": "LIVE",
+      "time": 1769430600,
+      "home": "Al-Batin",
+      "away": "Al-Raed SFC",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4478972.m3u8?txSecret=2bbc29d613bc89aca975ddbb36c9d853&txTime=69779FEC"
       }
     },
     {
@@ -323,28 +367,6 @@
     {
       "league": "KSA Professional League",
       "status": "UPCOMING",
-      "time": 1769613600,
-      "home": "Al Najma(KSA)",
-      "away": "Al Riyadh",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
-      "time": 1769621400,
-      "home": "Al Fayha",
-      "away": "Al Khaleej Club",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
       "time": 1769440800,
       "home": "Al Hazem",
       "away": "Damac",
@@ -370,28 +392,6 @@
       "time": 1769448600,
       "home": "Al Ittihad Club",
       "away": "Al Okhdood",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
-      "time": 1769613600,
-      "home": "Al Najma(KSA)",
-      "away": "Al Riyadh",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
-      "time": 1769621400,
-      "home": "Al Fayha",
-      "away": "Al Khaleej Club",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -597,24 +597,24 @@
     },
     {
       "league": "TUR First League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769446800,
       "home": "Sakaryaspor",
       "away": "Bodrum FK",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769429553.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "TUR First League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769446800,
       "home": "Sakaryaspor",
       "away": "Bodrum FK",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769429553.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -641,24 +641,24 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769519700,
       "home": "Ittihad Kalba FC",
       "away": "Al Ain FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769429661.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769519700,
       "home": "Ittihad Kalba FC",
       "away": "Al Ain FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769429661.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     }
   ]
