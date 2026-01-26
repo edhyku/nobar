@@ -1,5 +1,5 @@
 {
-  "updated": 1769459639,
+  "updated": 1769460956,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -288,28 +288,6 @@
       }
     },
     {
-      "league": "NED Eerste Divisie",
-      "status": "LIVE",
-      "time": 1769454000,
-      "home": "De Graafschap",
-      "away": "Den Bosch",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426357.m3u8?txSecret=76e794e7033f3af5df2a499189a6594e&txTime=6978070D"
-      }
-    },
-    {
-      "league": "NED Eerste Divisie",
-      "status": "LIVE",
-      "time": 1769454000,
-      "home": "De Graafschap",
-      "away": "Den Bosch",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426357.m3u8?txSecret=76e794e7033f3af5df2a499189a6594e&txTime=6978070D"
-      }
-    },
-    {
       "league": "POR U23",
       "status": "UPCOMING",
       "time": 1769526000,
@@ -533,6 +511,17 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "AS Monaco",
+      "away": "Juventus",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +645,17 @@
       "time": 1769630400,
       "home": "Manchester City",
       "away": "Galatasaray",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "AS Monaco",
+      "away": "Juventus",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
