@@ -1,5 +1,5 @@
 {
-  "updated": 1769427049,
+  "updated": 1769428095,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -200,9 +200,31 @@
       }
     },
     {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769436000,
+      "home": "Dynamo Moscow",
+      "away": "Chengdu Rongcheng FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769436000,
+      "home": "Dynamo Moscow",
+      "away": "Chengdu Rongcheng FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "INT FRL",
       "status": "UPCOMING",
-      "time": 1769434200,
+      "time": 1769430600,
       "home": "Uzbekistan",
       "away": "China",
       "stream": {
@@ -213,7 +235,7 @@
     {
       "league": "INT FRL",
       "status": "UPCOMING",
-      "time": 1769434200,
+      "time": 1769430600,
       "home": "Uzbekistan",
       "away": "China",
       "stream": {
@@ -447,17 +469,6 @@
       "time": 1769439600,
       "home": "Braga U23",
       "away": "Sporting CP U23",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "POR U23",
-      "status": "UPCOMING",
-      "time": 1769439600,
-      "home": "Torreense U23",
-      "away": "Leixoes U23",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -480,17 +491,6 @@
       "time": 1769439600,
       "home": "Braga U23",
       "away": "Sporting CP U23",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "POR U23",
-      "status": "UPCOMING",
-      "time": 1769439600,
-      "home": "Torreense U23",
-      "away": "Leixoes U23",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
