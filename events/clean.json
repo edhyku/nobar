@@ -1,5 +1,5 @@
 {
-  "updated": 1769454793,
+  "updated": 1769456374,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -69,24 +69,24 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769457600,
       "home": "Norwich City",
       "away": "Coventry City",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769447861.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769457600,
       "home": "Norwich City",
       "away": "Coventry City",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769447861.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -97,7 +97,7 @@
       "away": "Leeds United",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769445391.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769449922.flv"
       }
     },
     {
@@ -108,29 +108,29 @@
       "away": "Leeds United",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769445391.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769449922.flv"
       }
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769456700,
       "home": "Le Mans",
       "away": "USL Dunkerque",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769455845.flv"
       }
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769456700,
       "home": "Le Mans",
       "away": "USL Dunkerque",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769455845.flv"
       }
     },
     {
@@ -185,7 +185,7 @@
       "away": "Udinese",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769447837.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769455789.flv"
       }
     },
     {
@@ -196,29 +196,7 @@
       "away": "Udinese",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769447837.flv"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769448600,
-      "home": "Al Nassr FC",
-      "away": "Al Taawoun",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/64055609_c7062c4c34de11bdabceb8015cf2225f.m3u8"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769448600,
-      "home": "Al Ittihad Club",
-      "away": "Al Okhdood",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404572.m3u8?txSecret=c09f9f1b4e9a49bebd3de8e6b7ee2cb5&txTime=6977DCDC"
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769455789.flv"
       }
     },
     {
@@ -252,28 +230,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769448600,
-      "home": "Al Nassr FC",
-      "away": "Al Taawoun",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/64055609_c7062c4c34de11bdabceb8015cf2225f.m3u8"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769448600,
-      "home": "Al Ittihad Club",
-      "away": "Al Okhdood",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404572.m3u8?txSecret=c09f9f1b4e9a49bebd3de8e6b7ee2cb5&txTime=6977DCDC"
       }
     },
     {
@@ -360,8 +316,8 @@
       "home": "De Graafschap",
       "away": "Den Bosch",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769453285.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4426357.m3u8?txSecret=76e794e7033f3af5df2a499189a6594e&txTime=6978070D"
       }
     },
     {
@@ -371,8 +327,8 @@
       "home": "De Graafschap",
       "away": "Den Bosch",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769453285.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4426357.m3u8?txSecret=76e794e7033f3af5df2a499189a6594e&txTime=6978070D"
       }
     },
     {
@@ -448,8 +404,8 @@
       "home": "AD Ceuta",
       "away": "Cultural Leonesa",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2403950_1769454617.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100470.m3u8?txSecret=ee9b02b1e850b0787303506766df4ddb&txTime=6977C56D&sign=1d646a1a4d43bd47"
       }
     },
     {
@@ -459,8 +415,8 @@
       "home": "AD Ceuta",
       "away": "Cultural Leonesa",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2403950_1769454617.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100470.m3u8?txSecret=ee9b02b1e850b0787303506766df4ddb&txTime=6977C56D&sign=1d646a1a4d43bd47"
       }
     },
     {
@@ -577,6 +533,28 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "Borussia Dortmund",
+      "away": "Inter Milan",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Eintracht Frankfurt",
+      "away": "Tottenham Hotspur",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +634,28 @@
       "time": 1769630400,
       "home": "Club Brugge",
       "away": "Marseille",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Borussia Dortmund",
+      "away": "Inter Milan",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Eintracht Frankfurt",
+      "away": "Tottenham Hotspur",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
