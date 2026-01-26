@@ -515,9 +515,9 @@
      "environment": {
       "humidity": "76%",
       "pressure": "762mmHg",
-      "temperature": "27°C",
+      "temperature": "26°C",
       "weather": 7,
-      "wind": "4.8m/s"
+      "wind": "4.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1838,7 +1838,7 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "30%",
+      "humidity": "31%",
       "pressure": "763mmHg",
       "temperature": "20°C",
       "weather": 1,
@@ -3554,7 +3554,7 @@
       "short_name_zh": "巴萨",
       "short_name_zht": "巴塞隆拿",
       "total_players": 28,
-      "updated_at": 1769465068,
+      "updated_at": 1769467045,
       "venue_id": 1123,
       "website": "http://www.fcbarcelona.com"
      },
@@ -3633,7 +3633,7 @@
      "short_name_zh": "巴萨",
      "short_name_zht": "巴塞隆拿",
      "total_players": 28,
-     "updated_at": 1769465068,
+     "updated_at": 1769467045,
      "venue_id": 1123,
      "website": "http://www.fcbarcelona.com"
     },
@@ -5743,7 +5743,7 @@
       "short_name_zh": "巴黎圣日耳曼",
       "short_name_zht": "巴黎聖日門",
       "total_players": 24,
-      "updated_at": 1769465068,
+      "updated_at": 1769467046,
       "venue_id": 1229,
       "website": "http://www.psg.fr"
      },
@@ -5822,7 +5822,7 @@
      "short_name_zh": "巴黎圣日耳曼",
      "short_name_zht": "巴黎聖日門",
      "total_players": 24,
-     "updated_at": 1769465068,
+     "updated_at": 1769467046,
      "venue_id": 1229,
      "website": "http://www.psg.fr"
     },
