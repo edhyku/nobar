@@ -1,26 +1,26 @@
 {
-  "updated": 1769414306,
+  "updated": 1769417290,
   "events": [
     {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769409600,
-      "home": "Melbourne Victory",
-      "away": "Sydney FC",
+      "league": "AUS QPS Cup",
+      "status": "UPCOMING",
+      "time": 1769506200,
+      "home": "Brisbane Wolves",
+      "away": "St George Willawong FC",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426651.m3u8?txSecret=f1dabec96d675117fe36416c354143d0&txTime=69775294"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769409600,
-      "home": "Melbourne Victory",
-      "away": "Sydney FC",
+      "league": "AUS QPS Cup",
+      "status": "UPCOMING",
+      "time": 1769506200,
+      "home": "Brisbane Wolves",
+      "away": "St George Willawong FC",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426651.m3u8?txSecret=f1dabec96d675117fe36416c354143d0&txTime=69775294"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -40,6 +40,28 @@
       "time": 1769544000,
       "home": "Fiorentina",
       "away": "Como",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "EGY Premier League",
+      "status": "UPCOMING",
+      "time": 1769526000,
+      "home": "Al Ahly FC",
+      "away": "Wadi Degla SC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "EGY Premier League",
+      "status": "UPCOMING",
+      "time": 1769526000,
+      "home": "Al Ahly FC",
+      "away": "Wadi Degla SC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -179,24 +201,24 @@
     },
     {
       "league": "INT FRL",
-      "status": "LIVE",
-      "time": 1769432400,
+      "status": "UPCOMING",
+      "time": 1769434200,
       "home": "China",
       "away": "Uzbekistan",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769408655.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "INT FRL",
-      "status": "LIVE",
-      "time": 1769432400,
+      "status": "UPCOMING",
+      "time": 1769434200,
       "home": "China",
       "away": "Uzbekistan",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769408655.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -301,17 +323,6 @@
     {
       "league": "KSA Professional League",
       "status": "UPCOMING",
-      "time": 1769621400,
-      "home": "Al Ahli SFC",
-      "away": "Al Ettifaq FC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
       "time": 1769440800,
       "home": "Al Hazem",
       "away": "Damac",
@@ -365,17 +376,6 @@
       }
     },
     {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
-      "time": 1769621400,
-      "home": "Al Ahli SFC",
-      "away": "Al Ettifaq FC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
       "league": "Liga Portugal",
       "status": "UPCOMING",
       "time": 1769458500,
@@ -420,6 +420,28 @@
       }
     },
     {
+      "league": "NED Eerste Divisie",
+      "status": "UPCOMING",
+      "time": 1769454000,
+      "home": "De Graafschap",
+      "away": "Den Bosch",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eerste Divisie",
+      "status": "UPCOMING",
+      "time": 1769454000,
+      "home": "De Graafschap",
+      "away": "Den Bosch",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "POR U23",
       "status": "UPCOMING",
       "time": 1769439600,
@@ -444,6 +466,17 @@
     {
       "league": "POR U23",
       "status": "UPCOMING",
+      "time": 1769526000,
+      "home": "Famalicao U23",
+      "away": "Academico Viseu U23",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "POR U23",
+      "status": "UPCOMING",
       "time": 1769439600,
       "home": "Braga U23",
       "away": "Sporting CP U23",
@@ -464,6 +497,17 @@
       }
     },
     {
+      "league": "POR U23",
+      "status": "UPCOMING",
+      "time": 1769526000,
+      "home": "Famalicao U23",
+      "away": "Academico Viseu U23",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ROM Super Liga",
       "status": "UPCOMING",
       "time": 1769439600,
@@ -477,9 +521,31 @@
     {
       "league": "ROM Super Liga",
       "status": "UPCOMING",
+      "time": 1769450400,
+      "home": "UTA Arad",
+      "away": "FC Rapid 1923",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ROM Super Liga",
+      "status": "UPCOMING",
       "time": 1769439600,
       "home": "FC Otelul Galati",
       "away": "FK Csikszereda Miercurea Ciuc",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ROM Super Liga",
+      "status": "UPCOMING",
+      "time": 1769450400,
+      "home": "UTA Arad",
+      "away": "FC Rapid 1923",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -530,6 +596,28 @@
       }
     },
     {
+      "league": "TUR First League",
+      "status": "UPCOMING",
+      "time": 1769446800,
+      "home": "Sakaryaspor",
+      "away": "Bodrum FK",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR First League",
+      "status": "UPCOMING",
+      "time": 1769446800,
+      "home": "Sakaryaspor",
+      "away": "Bodrum FK",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "TUR Super League",
       "status": "UPCOMING",
       "time": 1769446800,
@@ -552,110 +640,22 @@
       }
     },
     {
-      "league": "UEFA UCL",
+      "league": "UAE Adnoc Pro-League",
       "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "AFC Ajax",
-      "away": "Olympiakos Piraeus",
+      "time": 1769519700,
+      "home": "Ittihad Kalba FC",
+      "away": "Al Ain FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
+      "league": "UAE Adnoc Pro-League",
       "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Arsenal",
-      "away": "FC Kairat Almaty",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Athletic Club",
-      "away": "Sporting CP",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Atletico Madrid",
-      "away": "Bodo Glimt",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "FC Barcelona",
-      "away": "FC Copenhagen",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "AFC Ajax",
-      "away": "Olympiakos Piraeus",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Arsenal",
-      "away": "FC Kairat Almaty",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Athletic Club",
-      "away": "Sporting CP",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Atletico Madrid",
-      "away": "Bodo Glimt",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "FC Barcelona",
-      "away": "FC Copenhagen",
+      "time": 1769519700,
+      "home": "Ittihad Kalba FC",
+      "away": "Al Ain FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
