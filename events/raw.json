@@ -151,7 +151,7 @@
           },
           "competition_id": 590,
           "environment": {
-            "humidity": "34%",
+            "humidity": "33%",
             "pressure": "756mmHg",
             "temperature": "32°C",
             "weather": 5,
@@ -467,7 +467,7 @@
           },
           "competition_id": 590,
           "environment": {
-            "humidity": "34%",
+            "humidity": "33%",
             "pressure": "756mmHg",
             "temperature": "32°C",
             "weather": 5,
@@ -1568,7 +1568,7 @@
             "pressure": "747mmHg",
             "temperature": "5°C",
             "weather": 10,
-            "wind": "8.2m/s"
+            "wind": "7.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -1767,7 +1767,7 @@
             "pressure": "747mmHg",
             "temperature": "5°C",
             "weather": 10,
-            "wind": "8.2m/s"
+            "wind": "7.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5922,7 +5922,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "38%",
+            "humidity": "39%",
             "pressure": "760mmHg",
             "temperature": "24°C",
             "weather": 1,
@@ -7193,7 +7193,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "38%",
+            "humidity": "39%",
             "pressure": "760mmHg",
             "temperature": "24°C",
             "weather": 1,
@@ -8193,7 +8193,7 @@
           "competition_id": 152,
           "environment": {
             "humidity": "90%",
-            "pressure": "756mmHg",
+            "pressure": "757mmHg",
             "temperature": "15°C",
             "weather": 10,
             "wind": "7.0m/s"
@@ -8392,7 +8392,7 @@
           "competition_id": 152,
           "environment": {
             "humidity": "90%",
-            "pressure": "756mmHg",
+            "pressure": "757mmHg",
             "temperature": "15°C",
             "weather": 10,
             "wind": "7.0m/s"
@@ -8633,8 +8633,8 @@
           "environment": {
             "humidity": "97%",
             "pressure": "761mmHg",
-            "temperature": "16°C",
-            "weather": 9,
+            "temperature": "15°C",
+            "weather": 7,
             "wind": "9.0m/s"
           },
           "explain": "",
@@ -8869,9 +8869,9 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "96%",
+            "humidity": "97%",
             "pressure": "755mmHg",
-            "temperature": "15°C",
+            "temperature": "14°C",
             "weather": 10,
             "wind": "7.6m/s"
           },
@@ -9109,8 +9109,8 @@
           "environment": {
             "humidity": "97%",
             "pressure": "761mmHg",
-            "temperature": "16°C",
-            "weather": 9,
+            "temperature": "15°C",
+            "weather": 7,
             "wind": "9.0m/s"
           },
           "explain": "",
@@ -9345,9 +9345,9 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "96%",
+            "humidity": "97%",
             "pressure": "755mmHg",
-            "temperature": "15°C",
+            "temperature": "14°C",
             "weather": 10,
             "wind": "7.6m/s"
           },
@@ -10426,9 +10426,9 @@
           "environment": {
             "humidity": "85%",
             "pressure": "764mmHg",
-            "temperature": "17°C",
+            "temperature": "16°C",
             "weather": 7,
-            "wind": "7.8m/s"
+            "wind": "8.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10625,9 +10625,9 @@
           "environment": {
             "humidity": "85%",
             "pressure": "764mmHg",
-            "temperature": "17°C",
+            "temperature": "16°C",
             "weather": 7,
-            "wind": "7.8m/s"
+            "wind": "8.2m/s"
           },
           "explain": "",
           "home_corner": 0,
