@@ -1,5 +1,5 @@
 {
-  "updated": 1769423823,
+  "updated": 1769425140,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -245,24 +245,24 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769439300,
       "home": "Jubail",
       "away": "Al Zulfi",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769424501.flv"
       }
     },
     {
       "league": "KSA Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769439300,
       "home": "Jubail",
       "away": "Al Zulfi",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769424501.flv"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "POR U23",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769439600,
       "home": "Torreense U23",
       "away": "Leixoes U23",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769424556.flv"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "POR U23",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769439600,
       "home": "Torreense U23",
       "away": "Leixoes U23",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769424556.flv"
       }
     },
     {
