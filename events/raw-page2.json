@@ -714,11 +714,11 @@
      },
      "competition_id": 114,
      "environment": {
-      "humidity": "85%",
+      "humidity": "84%",
       "pressure": "753mmHg",
       "temperature": "9°C",
       "weather": 10,
-      "wind": "2.6m/s"
+      "wind": "2.9m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3553,8 +3553,8 @@
       "short_name_en": "Barcelona",
       "short_name_zh": "巴萨",
       "short_name_zht": "巴塞隆拿",
-      "total_players": 27,
-      "updated_at": 1769470130,
+      "total_players": 28,
+      "updated_at": 1769471065,
       "venue_id": 1123,
       "website": "http://www.fcbarcelona.com"
      },
@@ -3632,8 +3632,8 @@
      "short_name_en": "Barcelona",
      "short_name_zh": "巴萨",
      "short_name_zht": "巴塞隆拿",
-     "total_players": 27,
-     "updated_at": 1769470130,
+     "total_players": 28,
+     "updated_at": 1769471065,
      "venue_id": 1123,
      "website": "http://www.fcbarcelona.com"
     },
@@ -3713,11 +3713,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "93%",
+      "humidity": "94%",
       "pressure": "748mmHg",
-      "temperature": "4°C",
+      "temperature": "3°C",
       "weather": 10,
-      "wind": "1.8m/s"
+      "wind": "2.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4509,7 +4509,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "96%",
+      "humidity": "95%",
       "pressure": "748mmHg",
       "temperature": "2°C",
       "weather": 4,
@@ -5725,7 +5725,7 @@
       "country_logo": "",
       "country_logo_handle": 0,
       "country_logo_rt": "",
-      "foreign_players": 16,
+      "foreign_players": 15,
       "foundation_time": "1970",
       "id": 10368,
       "logo": "https://wtsymycyh.99kq.top/logo/football_team/3b720f181ce9993f9422d276acf7b292.png",
@@ -5742,8 +5742,8 @@
       "short_name_en": "PSG",
       "short_name_zh": "巴黎圣日耳曼",
       "short_name_zht": "巴黎聖日門",
-      "total_players": 25,
-      "updated_at": 1769470031,
+      "total_players": 24,
+      "updated_at": 1769471065,
       "venue_id": 1229,
       "website": "http://www.psg.fr"
      },
@@ -5804,7 +5804,7 @@
      "country_logo": "",
      "country_logo_handle": 0,
      "country_logo_rt": "",
-     "foreign_players": 16,
+     "foreign_players": 15,
      "foundation_time": "1970",
      "id": 10368,
      "logo": "https://wtsymycyh.99kq.top/logo/football_team/3b720f181ce9993f9422d276acf7b292.png",
@@ -5821,8 +5821,8 @@
      "short_name_en": "PSG",
      "short_name_zh": "巴黎圣日耳曼",
      "short_name_zht": "巴黎聖日門",
-     "total_players": 25,
-     "updated_at": 1769470031,
+     "total_players": 24,
+     "updated_at": 1769471065,
      "venue_id": 1229,
      "website": "http://www.psg.fr"
     },
@@ -5906,7 +5906,7 @@
       "pressure": "749mmHg",
       "temperature": "3°C",
       "weather": 9,
-      "wind": "2.6m/s"
+      "wind": "2.3m/s"
      },
      "explain": "",
      "home_corner": 0,
