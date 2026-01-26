@@ -1,5 +1,5 @@
 {
-  "updated": 1769456374,
+  "updated": 1769457309,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -69,24 +69,24 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769457600,
       "home": "Norwich City",
       "away": "Coventry City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769456608.flv"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769457600,
       "home": "Norwich City",
       "away": "Coventry City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769456608.flv"
       }
     },
     {
@@ -97,7 +97,7 @@
       "away": "Leeds United",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769449922.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769455538.flv"
       }
     },
     {
@@ -108,7 +108,7 @@
       "away": "Leeds United",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769449922.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769455538.flv"
       }
     },
     {
@@ -118,8 +118,8 @@
       "home": "Le Mans",
       "away": "USL Dunkerque",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769455845.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=9dc18b169b5e666a8962e6a9c7de9d28&txTime=6977CBC2&sign=b5b7a508f9831476"
       }
     },
     {
@@ -129,8 +129,8 @@
       "home": "Le Mans",
       "away": "USL Dunkerque",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769455845.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=9dc18b169b5e666a8962e6a9c7de9d28&txTime=6977CBC2&sign=b5b7a508f9831476"
       }
     },
     {
@@ -184,8 +184,8 @@
       "home": "Hellas Verona",
       "away": "Udinese",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769455789.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/61061383_9503fa7d3510503860e49a0fb39e5a3d.m3u8"
       }
     },
     {
@@ -195,8 +195,8 @@
       "home": "Hellas Verona",
       "away": "Udinese",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769455789.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/61061383_9503fa7d3510503860e49a0fb39e5a3d.m3u8"
       }
     },
     {
@@ -377,24 +377,24 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769457600,
       "home": "Girona FC",
       "away": "Getafe",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769457118.flv"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769457600,
       "home": "Girona FC",
       "away": "Getafe",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769457118.flv"
       }
     },
     {
@@ -405,7 +405,7 @@
       "away": "Cultural Leonesa",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100470.m3u8?txSecret=ee9b02b1e850b0787303506766df4ddb&txTime=6977C56D&sign=1d646a1a4d43bd47"
+        "url": "https://live.trendgallary.com/live/61623518_21cae8fb56cf112cddd1285b4d29c60f.m3u8"
       }
     },
     {
@@ -416,7 +416,7 @@
       "away": "Cultural Leonesa",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100470.m3u8?txSecret=ee9b02b1e850b0787303506766df4ddb&txTime=6977C56D&sign=1d646a1a4d43bd47"
+        "url": "https://live.trendgallary.com/live/61623518_21cae8fb56cf112cddd1285b4d29c60f.m3u8"
       }
     },
     {
