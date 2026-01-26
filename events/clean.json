@@ -1,5 +1,5 @@
 {
-  "updated": 1769436025,
+  "updated": 1769438549,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -184,8 +184,8 @@
       "home": "Dynamo Moscow",
       "away": "Chengdu Rongcheng FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769435395.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4477316.m3u8?txSecret=b0d218283c5fc23ebf9db500597a66a1&txTime=6977C0BC"
       }
     },
     {
@@ -195,8 +195,8 @@
       "home": "Brondby IF",
       "away": "Real Salt Lake",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769435092.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100460.m3u8?txSecret=549a93ae2481c6b8268e890fec1972b7&txTime=69778355&sign=bb2516bfc49b3047"
       }
     },
     {
@@ -217,8 +217,8 @@
       "home": "Dynamo Moscow",
       "away": "Chengdu Rongcheng FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769435395.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4477316.m3u8?txSecret=b0d218283c5fc23ebf9db500597a66a1&txTime=6977C0BC"
       }
     },
     {
@@ -228,8 +228,8 @@
       "home": "Brondby IF",
       "away": "Real Salt Lake",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769435092.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100460.m3u8?txSecret=549a93ae2481c6b8268e890fec1972b7&txTime=69778355&sign=bb2516bfc49b3047"
       }
     },
     {
@@ -268,12 +268,12 @@
     {
       "league": "KSA Division 1",
       "status": "LIVE",
-      "time": 1769430600,
-      "home": "Al-Batin",
-      "away": "Al-Raed SFC",
+      "time": 1769439300,
+      "home": "Jubail",
+      "away": "Al Zulfi",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4478972.m3u8?txSecret=7ca9345d08e7dbc466f0c12436ec6943&txTime=6977B888"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769438267.flv"
       }
     },
     {
@@ -284,29 +284,7 @@
       "away": "Al Zulfi",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769424501.flv"
-      }
-    },
-    {
-      "league": "KSA Division 1",
-      "status": "LIVE",
-      "time": 1769430600,
-      "home": "Al-Batin",
-      "away": "Al-Raed SFC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4478972.m3u8?txSecret=7ca9345d08e7dbc466f0c12436ec6943&txTime=6977B888"
-      }
-    },
-    {
-      "league": "KSA Division 1",
-      "status": "LIVE",
-      "time": 1769439300,
-      "home": "Jubail",
-      "away": "Al Zulfi",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769424501.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2350952_1769438267.flv"
       }
     },
     {
@@ -356,6 +334,17 @@
     {
       "league": "KSA Professional League",
       "status": "UPCOMING",
+      "time": 1769621400,
+      "home": "Al Fayha",
+      "away": "Al Khaleej Club",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
       "time": 1769440800,
       "home": "Al Hazem",
       "away": "Damac",
@@ -392,6 +381,17 @@
       "time": 1769613600,
       "home": "Al Najma(KSA)",
       "away": "Al Riyadh",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1769621400,
+      "home": "Al Fayha",
+      "away": "Al Khaleej Club",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
