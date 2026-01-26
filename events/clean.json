@@ -1,5 +1,5 @@
 {
-  "updated": 1769450061,
+  "updated": 1769452905,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -338,8 +338,8 @@
       "home": "Uniao Leiria",
       "away": "Sporting CP B",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769449922.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367817.m3u8?txSecret=32b63e0a88258bd57be160a050d857d5&txTime=6977F8FB"
       }
     },
     {
@@ -349,8 +349,8 @@
       "home": "Uniao Leiria",
       "away": "Sporting CP B",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769449922.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367817.m3u8?txSecret=32b63e0a88258bd57be160a050d857d5&txTime=6977F8FB"
       }
     },
     {
@@ -404,8 +404,8 @@
       "home": "UTA Arad",
       "away": "FC Rapid 1923",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769449122.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4354362.m3u8?txSecret=9f332c9c18914b1d4876e0eeaff702e0&txTime=6977DCDC"
       }
     },
     {
@@ -415,8 +415,8 @@
       "home": "UTA Arad",
       "away": "FC Rapid 1923",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769449122.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4354362.m3u8?txSecret=9f332c9c18914b1d4876e0eeaff702e0&txTime=6977DCDC"
       }
     },
     {
