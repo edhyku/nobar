@@ -1,5 +1,5 @@
 {
-  "updated": 1769443343,
+  "updated": 1769446251,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -200,28 +200,6 @@
       }
     },
     {
-      "league": "INT CF",
-      "status": "LIVE",
-      "time": 1769436000,
-      "home": "Dynamo Moscow",
-      "away": "Chengdu Rongcheng FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/68209120_e228383320c3f693eee35f5481b54c5b.m3u8"
-      }
-    },
-    {
-      "league": "INT CF",
-      "status": "LIVE",
-      "time": 1769436000,
-      "home": "Dynamo Moscow",
-      "away": "Chengdu Rongcheng FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/68209120_e228383320c3f693eee35f5481b54c5b.m3u8"
-      }
-    },
-    {
       "league": "ITA Serie A",
       "status": "LIVE",
       "time": 1769456700,
@@ -273,7 +251,7 @@
       "away": "Damac",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404553.m3u8?txSecret=bef73afd424d7784b7a94f6bf7af58ec&txTime=6977C0BC"
+        "url": "https://live.vivo200.com/live/sd-1-4404553.m3u8?txSecret=edb528e606335f7819371f7820aa11fe&txTime=6977DCDC"
       }
     },
     {
@@ -339,7 +317,7 @@
       "away": "Damac",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404553.m3u8?txSecret=bef73afd424d7784b7a94f6bf7af58ec&txTime=6977C0BC"
+        "url": "https://live.vivo200.com/live/sd-1-4404553.m3u8?txSecret=edb528e606335f7819371f7820aa11fe&txTime=6977DCDC"
       }
     },
     {
@@ -471,7 +449,7 @@
       "away": "Sporting CP U23",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4472499.m3u8?txSecret=9325d06778449d724dd8b07559ef5cd6&txTime=6977C0BC"
+        "url": "https://live.vivo200.com/live/sd-1-4472499.m3u8?txSecret=a6dd3d66e065692f5ffdd96fe6b042bb&txTime=6977DCDC"
       }
     },
     {
@@ -493,7 +471,7 @@
       "away": "Sporting CP U23",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4472499.m3u8?txSecret=9325d06778449d724dd8b07559ef5cd6&txTime=6977C0BC"
+        "url": "https://live.vivo200.com/live/sd-1-4472499.m3u8?txSecret=a6dd3d66e065692f5ffdd96fe6b042bb&txTime=6977DCDC"
       }
     },
     {
@@ -515,7 +493,7 @@
       "away": "FK Csikszereda Miercurea Ciuc",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4354372.m3u8?txSecret=31cd38ea93b183afffc1fd4197658be8&txTime=6977C0BC"
+        "url": "https://live.vivo200.com/live/sd-1-4354372.m3u8?txSecret=fd8b92f64f9b8311ed151e53c7e983ed&txTime=6977DCDC"
       }
     },
     {
@@ -537,7 +515,7 @@
       "away": "FK Csikszereda Miercurea Ciuc",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4354372.m3u8?txSecret=31cd38ea93b183afffc1fd4197658be8&txTime=6977C0BC"
+        "url": "https://live.vivo200.com/live/sd-1-4354372.m3u8?txSecret=fd8b92f64f9b8311ed151e53c7e983ed&txTime=6977DCDC"
       }
     },
     {
@@ -553,24 +531,24 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769457600,
       "home": "Girona FC",
       "away": "Getafe",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769446212.flv"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769457600,
       "home": "Girona FC",
       "away": "Getafe",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769446212.flv"
       }
     },
     {
@@ -619,24 +597,24 @@
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769446800,
       "home": "Eyupspor",
       "away": "Besiktas JK",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769446212.flv"
       }
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769446800,
       "home": "Eyupspor",
       "away": "Besiktas JK",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769446212.flv"
       }
     },
     {
@@ -656,6 +634,28 @@
       "time": 1769519700,
       "home": "Ittihad Kalba FC",
       "away": "Al Ain FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "AFC Ajax",
+      "away": "Olympiakos Piraeus",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "AFC Ajax",
+      "away": "Olympiakos Piraeus",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
