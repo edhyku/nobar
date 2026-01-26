@@ -1,5 +1,5 @@
 {
-  "updated": 1769448309,
+  "updated": 1769450061,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -206,8 +206,8 @@
       "home": "Al Nassr FC",
       "away": "Al Taawoun",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769447837.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/64055609_c7062c4c34de11bdabceb8015cf2225f.m3u8"
       }
     },
     {
@@ -217,8 +217,8 @@
       "home": "Al Ittihad Club",
       "away": "Al Okhdood",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769445391.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404572.m3u8?txSecret=c09f9f1b4e9a49bebd3de8e6b7ee2cb5&txTime=6977DCDC"
       }
     },
     {
@@ -261,8 +261,8 @@
       "home": "Al Nassr FC",
       "away": "Al Taawoun",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769447837.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/64055609_c7062c4c34de11bdabceb8015cf2225f.m3u8"
       }
     },
     {
@@ -272,8 +272,8 @@
       "home": "Al Ittihad Club",
       "away": "Al Okhdood",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769445391.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404572.m3u8?txSecret=c09f9f1b4e9a49bebd3de8e6b7ee2cb5&txTime=6977DCDC"
       }
     },
     {
@@ -311,46 +311,46 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769458500,
       "home": "FC Porto",
       "away": "Gil Vicente",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769449122.flv"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769458500,
       "home": "FC Porto",
       "away": "Gil Vicente",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769449122.flv"
       }
     },
     {
       "league": "Liga Portugal 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769450400,
       "home": "Uniao Leiria",
       "away": "Sporting CP B",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769449922.flv"
       }
     },
     {
       "league": "Liga Portugal 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769450400,
       "home": "Uniao Leiria",
       "away": "Sporting CP B",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769449922.flv"
       }
     },
     {
@@ -399,24 +399,24 @@
     },
     {
       "league": "ROM Super Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769450400,
       "home": "UTA Arad",
       "away": "FC Rapid 1923",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769449122.flv"
       }
     },
     {
       "league": "ROM Super Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769450400,
       "home": "UTA Arad",
       "away": "FC Rapid 1923",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769449122.flv"
       }
     },
     {
