@@ -1,5 +1,5 @@
 {
-  "updated": 1769439783,
+  "updated": 1769442168,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -178,6 +178,28 @@
       }
     },
     {
+      "league": "HNL",
+      "status": "LIVE",
+      "time": 1769439600,
+      "home": "HNK Gorica",
+      "away": "NK Varteks Varazdin",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/61286525_c4b962c23a04414b3737a56bb0a8fb16.m3u8"
+      }
+    },
+    {
+      "league": "HNL",
+      "status": "LIVE",
+      "time": 1769439600,
+      "home": "HNK Gorica",
+      "away": "NK Varteks Varazdin",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/61286525_c4b962c23a04414b3737a56bb0a8fb16.m3u8"
+      }
+    },
+    {
       "league": "INT CF",
       "status": "LIVE",
       "time": 1769436000,
@@ -202,17 +224,6 @@
     {
       "league": "INT CF",
       "status": "LIVE",
-      "time": 1769439600,
-      "home": "Elfsborg",
-      "away": "Aarhus AGF",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769438014.flv"
-      }
-    },
-    {
-      "league": "INT CF",
-      "status": "LIVE",
       "time": 1769436000,
       "home": "Dynamo Moscow",
       "away": "Chengdu Rongcheng FC",
@@ -233,36 +244,25 @@
       }
     },
     {
-      "league": "INT CF",
+      "league": "ITA Serie A",
       "status": "LIVE",
-      "time": 1769439600,
-      "home": "Elfsborg",
-      "away": "Aarhus AGF",
+      "time": 1769456700,
+      "home": "Hellas Verona",
+      "away": "Udinese",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769438014.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769440067.flv"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769456700,
       "home": "Hellas Verona",
       "away": "Udinese",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "UPCOMING",
-      "time": 1769456700,
-      "home": "Hellas Verona",
-      "away": "Udinese",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769440067.flv"
       }
     },
     {
@@ -289,13 +289,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769440800,
       "home": "Al Hazem",
       "away": "Damac",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404553.m3u8?txSecret=bef73afd424d7784b7a94f6bf7af58ec&txTime=6977C0BC"
       }
     },
     {
@@ -306,7 +306,7 @@
       "away": "Al Taawoun",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769438213.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769440067.flv"
       }
     },
     {
@@ -344,13 +344,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769440800,
       "home": "Al Hazem",
       "away": "Damac",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404553.m3u8?txSecret=bef73afd424d7784b7a94f6bf7af58ec&txTime=6977C0BC"
       }
     },
     {
@@ -361,7 +361,7 @@
       "away": "Al Taawoun",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769438213.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769440067.flv"
       }
     },
     {
@@ -575,24 +575,24 @@
     },
     {
       "league": "SPA Segunda Division",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769455800,
       "home": "AD Ceuta",
       "away": "Cultural Leonesa",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2403950_1769439813.flv"
       }
     },
     {
       "league": "SPA Segunda Division",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769455800,
       "home": "AD Ceuta",
       "away": "Cultural Leonesa",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2403950_1769439813.flv"
       }
     },
     {
