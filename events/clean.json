@@ -1,51 +1,7 @@
 {
-  "updated": 1769390838,
+  "updated": 1769398439,
   "events": [
     {
-      "league": "ARG Division 1",
-      "status": "LIVE",
-      "time": 1769385600,
-      "home": "Argentinos Juniors",
-      "away": "Sarmiento Junin",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live3.trendgallary.com/live/527r3i4l8zvb47e_f7a9fc805e3c089fe9588fa65735a816.m3u8"
-      }
-    },
-    {
-      "league": "ARG Division 1",
-      "status": "LIVE",
-      "time": 1769385600,
-      "home": "Club Atletico Tigre",
-      "away": "Estudiantes Rio Cuarto",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4465047.m3u8?txSecret=d00b7826f1838b7145bd6e35db6eacf3&txTime=6976FBDC"
-      }
-    },
-    {
-      "league": "ARG Division 1",
-      "status": "LIVE",
-      "time": 1769385600,
-      "home": "Argentinos Juniors",
-      "away": "Sarmiento Junin",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live3.trendgallary.com/live/527r3i4l8zvb47e_f7a9fc805e3c089fe9588fa65735a816.m3u8"
-      }
-    },
-    {
-      "league": "ARG Division 1",
-      "status": "LIVE",
-      "time": 1769385600,
-      "home": "Club Atletico Tigre",
-      "away": "Estudiantes Rio Cuarto",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4465047.m3u8?txSecret=d00b7826f1838b7145bd6e35db6eacf3&txTime=6976FBDC"
-      }
-    },
-    {
       "league": "AUS A-League",
       "status": "UPCOMING",
       "time": 1769409600,
@@ -465,13 +421,13 @@
     },
     {
       "league": "POR U23",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769425200,
       "home": "Torreense U23",
       "away": "Leixoes U23",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769384957.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -487,13 +443,13 @@
     },
     {
       "league": "POR U23",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769425200,
       "home": "Torreense U23",
       "away": "Leixoes U23",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769384957.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -632,6 +588,28 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "Atletico Madrid",
+      "away": "Bodo Glimt",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "FC Barcelona",
+      "away": "FC Copenhagen",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +634,28 @@
       "time": 1769630400,
       "home": "Athletic Club",
       "away": "Sporting CP",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Atletico Madrid",
+      "away": "Bodo Glimt",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "FC Barcelona",
+      "away": "FC Copenhagen",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
