@@ -1,5 +1,5 @@
 {
-  "updated": 1769463164,
+  "updated": 1769464382,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -112,28 +112,6 @@
       }
     },
     {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769456700,
-      "home": "Le Mans",
-      "away": "USL Dunkerque",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/66129116_9504a855fd5033e2a1717ba2d3d55069.m3u8"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "LIVE",
-      "time": 1769456700,
-      "home": "Le Mans",
-      "away": "USL Dunkerque",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/66129116_9504a855fd5033e2a1717ba2d3d55069.m3u8"
-      }
-    },
-    {
       "league": "GER Bundesliga",
       "status": "UPCOMING",
       "time": 1769542200,
@@ -175,28 +153,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769456700,
-      "home": "Hellas Verona",
-      "away": "Udinese",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61061383_9503fa7d3510503860e49a0fb39e5a3d.m3u8"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769456700,
-      "home": "Hellas Verona",
-      "away": "Udinese",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61061383_9503fa7d3510503860e49a0fb39e5a3d.m3u8"
       }
     },
     {
@@ -511,6 +467,28 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "Pafos FC",
+      "away": "Slavia Praha",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Paris Saint Germain",
+      "away": "Newcastle United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +634,28 @@
       "time": 1769630400,
       "home": "Napoli",
       "away": "Chelsea",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Pafos FC",
+      "away": "Slavia Praha",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Paris Saint Germain",
+      "away": "Newcastle United",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
