@@ -1,5 +1,5 @@
 {
-  "updated": 1769417290,
+  "updated": 1769419325,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -203,8 +203,8 @@
       "league": "INT FRL",
       "status": "UPCOMING",
       "time": 1769434200,
-      "home": "China",
-      "away": "Uzbekistan",
+      "home": "Uzbekistan",
+      "away": "China",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -214,8 +214,8 @@
       "league": "INT FRL",
       "status": "UPCOMING",
       "time": 1769434200,
-      "home": "China",
-      "away": "Uzbekistan",
+      "home": "Uzbekistan",
+      "away": "China",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
