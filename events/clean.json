@@ -1,5 +1,5 @@
 {
-  "updated": 1769428095,
+  "updated": 1769430078,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -113,24 +113,24 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769456700,
       "home": "Le Mans",
       "away": "USL Dunkerque",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769429553.flv"
       }
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769456700,
       "home": "Le Mans",
       "away": "USL Dunkerque",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769429553.flv"
       }
     },
     {
@@ -179,24 +179,24 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769428800,
       "home": "Dewa United FC",
       "away": "Arema FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4379336.m3u8?txSecret=a17b84cb8ff493ac1604b755057be06b&txTime=69779FEC"
       }
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769428800,
       "home": "Dewa United FC",
       "away": "Arema FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4379336.m3u8?txSecret=a17b84cb8ff493ac1604b755057be06b&txTime=69779FEC"
       }
     },
     {
@@ -223,24 +223,24 @@
     },
     {
       "league": "INT FRL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769430600,
       "home": "Uzbekistan",
       "away": "China",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769429661.flv"
       }
     },
     {
       "league": "INT FRL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769430600,
       "home": "Uzbekistan",
       "away": "China",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769429661.flv"
       }
     },
     {
@@ -443,24 +443,24 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769454000,
       "home": "De Graafschap",
       "away": "Den Bosch",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769428096.flv"
       }
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769454000,
       "home": "De Graafschap",
       "away": "Den Bosch",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769428096.flv"
       }
     },
     {
@@ -597,24 +597,24 @@
     },
     {
       "league": "TUR First League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769446800,
       "home": "Sakaryaspor",
       "away": "Bodrum FK",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769429553.flv"
       }
     },
     {
       "league": "TUR First League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769446800,
       "home": "Sakaryaspor",
       "away": "Bodrum FK",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769429553.flv"
       }
     },
     {
@@ -641,24 +641,24 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769519700,
       "home": "Ittihad Kalba FC",
       "away": "Al Ain FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769429661.flv"
       }
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769519700,
       "home": "Ittihad Kalba FC",
       "away": "Al Ain FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769429661.flv"
       }
     }
   ]
