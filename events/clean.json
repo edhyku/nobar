@@ -1,5 +1,5 @@
 {
-  "updated": 1769460956,
+  "updated": 1769463164,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -332,28 +332,6 @@
       }
     },
     {
-      "league": "SPA Segunda Division",
-      "status": "LIVE",
-      "time": 1769455800,
-      "home": "AD Ceuta",
-      "away": "Cultural Leonesa",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61623518_21cae8fb56cf112cddd1285b4d29c60f.m3u8"
-      }
-    },
-    {
-      "league": "SPA Segunda Division",
-      "status": "LIVE",
-      "time": 1769455800,
-      "home": "AD Ceuta",
-      "away": "Cultural Leonesa",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61623518_21cae8fb56cf112cddd1285b4d29c60f.m3u8"
-      }
-    },
-    {
       "league": "UAE Adnoc Pro-League",
       "status": "UPCOMING",
       "time": 1769519700,
@@ -522,6 +500,17 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "Napoli",
+      "away": "Chelsea",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +645,17 @@
       "time": 1769630400,
       "home": "AS Monaco",
       "away": "Juventus",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Napoli",
+      "away": "Chelsea",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
