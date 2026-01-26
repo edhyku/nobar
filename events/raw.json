@@ -27,7 +27,7 @@
           "short_name_zh": "圣乔治维莱FC",
           "short_name_zht": "聖喬治維萊FC",
           "total_players": 0,
-          "updated_at": 1769464490,
+          "updated_at": 1769468390,
           "venue_id": 12462,
           "website": ""
         },
@@ -107,7 +107,7 @@
             "short_name_zh": "圣乔治维莱FC",
             "short_name_zht": "聖喬治維萊FC",
             "total_players": 0,
-            "updated_at": 1769464490,
+            "updated_at": 1769468390,
             "venue_id": 12462,
             "website": ""
           },
@@ -153,7 +153,7 @@
             "short_name_zh": "布里斯班狼队",
             "short_name_zht": "布里斯班狼隊",
             "total_players": 0,
-            "updated_at": 1769464550,
+            "updated_at": 1769468450,
             "venue_id": 3438,
             "website": ""
           },
@@ -232,7 +232,7 @@
           "short_name_zh": "布里斯班狼队",
           "short_name_zht": "布里斯班狼隊",
           "total_players": 0,
-          "updated_at": 1769464550,
+          "updated_at": 1769468450,
           "venue_id": 3438,
           "website": ""
         },
@@ -265,7 +265,7 @@
           "short_name_zh": "圣乔治维莱FC",
           "short_name_zht": "聖喬治維萊FC",
           "total_players": 0,
-          "updated_at": 1769464490,
+          "updated_at": 1769468390,
           "venue_id": 12462,
           "website": ""
         },
@@ -345,7 +345,7 @@
             "short_name_zh": "圣乔治维莱FC",
             "short_name_zht": "聖喬治維萊FC",
             "total_players": 0,
-            "updated_at": 1769464490,
+            "updated_at": 1769468390,
             "venue_id": 12462,
             "website": ""
           },
@@ -391,7 +391,7 @@
             "short_name_zh": "布里斯班狼队",
             "short_name_zht": "布里斯班狼隊",
             "total_players": 0,
-            "updated_at": 1769464550,
+            "updated_at": 1769468450,
             "venue_id": 3438,
             "website": ""
           },
@@ -470,7 +470,7 @@
           "short_name_zh": "布里斯班狼队",
           "short_name_zht": "布里斯班狼隊",
           "total_players": 0,
-          "updated_at": 1769464550,
+          "updated_at": 1769468450,
           "venue_id": 3438,
           "website": ""
         },
@@ -753,7 +753,7 @@
           "environment": {
             "humidity": "76%",
             "pressure": "762mmHg",
-            "temperature": "26°C",
+            "temperature": "27°C",
             "weather": 7,
             "wind": "4.5m/s"
           },
@@ -1151,7 +1151,7 @@
           "environment": {
             "humidity": "76%",
             "pressure": "762mmHg",
-            "temperature": "26°C",
+            "temperature": "27°C",
             "weather": 7,
             "wind": "4.5m/s"
           },
@@ -3393,7 +3393,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "31%",
+            "humidity": "30%",
             "pressure": "763mmHg",
             "temperature": "20°C",
             "weather": 1,
@@ -3990,7 +3990,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "31%",
+            "humidity": "30%",
             "pressure": "763mmHg",
             "temperature": "20°C",
             "weather": 1,
@@ -4429,7 +4429,7 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "85%",
+            "humidity": "84%",
             "pressure": "751mmHg",
             "temperature": "8°C",
             "weather": 9,
@@ -4667,7 +4667,7 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "85%",
+            "humidity": "84%",
             "pressure": "751mmHg",
             "temperature": "8°C",
             "weather": 9,
@@ -5744,9 +5744,9 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "72%",
-            "pressure": "751mmHg",
-            "temperature": "8°C",
+            "humidity": "71%",
+            "pressure": "750mmHg",
+            "temperature": "9°C",
             "weather": 7,
             "wind": "3.2m/s"
           },
@@ -6146,7 +6146,7 @@
             "pressure": "749mmHg",
             "temperature": "7°C",
             "weather": 1,
-            "wind": "4.0m/s"
+            "wind": "3.7m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6181,8 +6181,8 @@
             "short_name_en": "Barcelona",
             "short_name_zh": "巴萨",
             "short_name_zht": "巴塞隆拿",
-            "total_players": 28,
-            "updated_at": 1769467045,
+            "total_players": 27,
+            "updated_at": 1769468063,
             "venue_id": 1123,
             "website": "http://www.fcbarcelona.com"
           },
@@ -6260,8 +6260,8 @@
           "short_name_en": "Barcelona",
           "short_name_zh": "巴萨",
           "short_name_zht": "巴塞隆拿",
-          "total_players": 28,
-          "updated_at": 1769467045,
+          "total_players": 27,
+          "updated_at": 1769468063,
           "venue_id": 1123,
           "website": "http://www.fcbarcelona.com"
         },
@@ -6341,7 +6341,7 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "93%",
+            "humidity": "94%",
             "pressure": "748mmHg",
             "temperature": "4°C",
             "weather": 10,
@@ -6739,7 +6739,7 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "97%",
+            "humidity": "96%",
             "pressure": "749mmHg",
             "temperature": "4°C",
             "weather": 7,
@@ -7336,11 +7336,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "90%",
+            "humidity": "89%",
             "pressure": "748mmHg",
-            "temperature": "5°C",
+            "temperature": "4°C",
             "weather": 1,
-            "wind": "4.5m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -7535,7 +7535,7 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "87%",
+            "humidity": "88%",
             "pressure": "749mmHg",
             "temperature": "4°C",
             "weather": 7,
@@ -7937,7 +7937,7 @@
             "pressure": "749mmHg",
             "temperature": "12°C",
             "weather": 7,
-            "wind": "4.8m/s"
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8132,11 +8132,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "86%",
+            "humidity": "85%",
             "pressure": "763mmHg",
-            "temperature": "11°C",
+            "temperature": "12°C",
             "weather": 1,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8353,7 +8353,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 15,
+            "foreign_players": 16,
             "foundation_time": "1970",
             "id": 10368,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/3b720f181ce9993f9422d276acf7b292.png",
@@ -8370,8 +8370,8 @@
             "short_name_en": "PSG",
             "short_name_zh": "巴黎圣日耳曼",
             "short_name_zht": "巴黎聖日門",
-            "total_players": 24,
-            "updated_at": 1769467046,
+            "total_players": 25,
+            "updated_at": 1769468063,
             "venue_id": 1229,
             "website": "http://www.psg.fr"
           },
@@ -8432,7 +8432,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 15,
+          "foreign_players": 16,
           "foundation_time": "1970",
           "id": 10368,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/3b720f181ce9993f9422d276acf7b292.png",
@@ -8449,8 +8449,8 @@
           "short_name_en": "PSG",
           "short_name_zh": "巴黎圣日耳曼",
           "short_name_zht": "巴黎聖日門",
-          "total_players": 24,
-          "updated_at": 1769467046,
+          "total_players": 25,
+          "updated_at": 1769468063,
           "venue_id": 1229,
           "website": "http://www.psg.fr"
         },
@@ -8534,7 +8534,7 @@
             "pressure": "749mmHg",
             "temperature": "3°C",
             "weather": 9,
-            "wind": "2.3m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9326,9 +9326,9 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "72%",
-            "pressure": "751mmHg",
-            "temperature": "8°C",
+            "humidity": "71%",
+            "pressure": "750mmHg",
+            "temperature": "9°C",
             "weather": 7,
             "wind": "3.2m/s"
           },
@@ -9728,7 +9728,7 @@
             "pressure": "749mmHg",
             "temperature": "7°C",
             "weather": 1,
-            "wind": "4.0m/s"
+            "wind": "3.7m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9763,8 +9763,8 @@
             "short_name_en": "Barcelona",
             "short_name_zh": "巴萨",
             "short_name_zht": "巴塞隆拿",
-            "total_players": 28,
-            "updated_at": 1769467045,
+            "total_players": 27,
+            "updated_at": 1769468063,
             "venue_id": 1123,
             "website": "http://www.fcbarcelona.com"
           },
@@ -9842,8 +9842,8 @@
           "short_name_en": "Barcelona",
           "short_name_zh": "巴萨",
           "short_name_zht": "巴塞隆拿",
-          "total_players": 28,
-          "updated_at": 1769467045,
+          "total_players": 27,
+          "updated_at": 1769468063,
           "venue_id": 1123,
           "website": "http://www.fcbarcelona.com"
         },
@@ -9923,7 +9923,7 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "93%",
+            "humidity": "94%",
             "pressure": "748mmHg",
             "temperature": "4°C",
             "weather": 10,
@@ -10321,7 +10321,7 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "97%",
+            "humidity": "96%",
             "pressure": "749mmHg",
             "temperature": "4°C",
             "weather": 7,
@@ -10918,11 +10918,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "90%",
+            "humidity": "89%",
             "pressure": "748mmHg",
-            "temperature": "5°C",
+            "temperature": "4°C",
             "weather": 1,
-            "wind": "4.5m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11117,7 +11117,7 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "87%",
+            "humidity": "88%",
             "pressure": "749mmHg",
             "temperature": "4°C",
             "weather": 7,
@@ -11519,7 +11519,7 @@
             "pressure": "749mmHg",
             "temperature": "12°C",
             "weather": 7,
-            "wind": "4.8m/s"
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11714,11 +11714,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "86%",
+            "humidity": "85%",
             "pressure": "763mmHg",
-            "temperature": "11°C",
+            "temperature": "12°C",
             "weather": 1,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11935,7 +11935,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 15,
+            "foreign_players": 16,
             "foundation_time": "1970",
             "id": 10368,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/3b720f181ce9993f9422d276acf7b292.png",
@@ -11952,8 +11952,8 @@
             "short_name_en": "PSG",
             "short_name_zh": "巴黎圣日耳曼",
             "short_name_zht": "巴黎聖日門",
-            "total_players": 24,
-            "updated_at": 1769467046,
+            "total_players": 25,
+            "updated_at": 1769468063,
             "venue_id": 1229,
             "website": "http://www.psg.fr"
           },
@@ -12014,7 +12014,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 15,
+          "foreign_players": 16,
           "foundation_time": "1970",
           "id": 10368,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/3b720f181ce9993f9422d276acf7b292.png",
@@ -12031,8 +12031,8 @@
           "short_name_en": "PSG",
           "short_name_zh": "巴黎圣日耳曼",
           "short_name_zht": "巴黎聖日門",
-          "total_players": 24,
-          "updated_at": 1769467046,
+          "total_players": 25,
+          "updated_at": 1769468063,
           "venue_id": 1229,
           "website": "http://www.psg.fr"
         },
@@ -12116,7 +12116,7 @@
             "pressure": "749mmHg",
             "temperature": "3°C",
             "weather": 9,
-            "wind": "2.3m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
           "home_corner": 0,
