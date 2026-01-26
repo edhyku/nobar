@@ -27,7 +27,7 @@
      "short_name_zh": "圣乔治维莱FC",
      "short_name_zht": "聖喬治維萊FC",
      "total_players": 0,
-     "updated_at": 1769417690,
+     "updated_at": 1769421610,
      "venue_id": 12462,
      "website": ""
     },
@@ -107,7 +107,7 @@
       "short_name_zh": "圣乔治维莱FC",
       "short_name_zht": "聖喬治維萊FC",
       "total_players": 0,
-      "updated_at": 1769417690,
+      "updated_at": 1769421610,
       "venue_id": 12462,
       "website": ""
      },
@@ -147,7 +147,7 @@
       "short_name_zh": "布里斯班狼队",
       "short_name_zht": "布里斯班狼隊",
       "total_players": 0,
-      "updated_at": 1769417750,
+      "updated_at": 1769421650,
       "venue_id": 3438,
       "website": ""
      },
@@ -226,7 +226,7 @@
      "short_name_zh": "布里斯班狼队",
      "short_name_zht": "布里斯班狼隊",
      "total_players": 0,
-     "updated_at": 1769417750,
+     "updated_at": 1769421650,
      "venue_id": 3438,
      "website": ""
     },
@@ -580,7 +580,7 @@
       "pressure": "761mmHg",
       "temperature": "20°C",
       "weather": 1,
-      "wind": "6.5m/s"
+      "wind": "6.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -817,10 +817,10 @@
      "competition_id": 83,
      "environment": {
       "humidity": "83%",
-      "pressure": "752mmHg",
+      "pressure": "753mmHg",
       "temperature": "4°C",
       "weather": 7,
-      "wind": "4.0m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1098,7 +1098,7 @@
       "pressure": "747mmHg",
       "temperature": "5°C",
       "weather": 10,
-      "wind": "7.8m/s"
+      "wind": "8.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1335,9 +1335,9 @@
      "competition_id": 143,
      "environment": {
       "humidity": "91%",
-      "pressure": "750mmHg",
+      "pressure": "751mmHg",
       "temperature": "8°C",
-      "weather": 7,
+      "weather": 10,
       "wind": "4.0m/s"
      },
      "explain": "",
@@ -1535,7 +1535,7 @@
      },
      "competition_id": 129,
      "environment": {
-      "humidity": "92%",
+      "humidity": "91%",
       "pressure": "751mmHg",
       "temperature": "-1°C",
       "weather": 7,
@@ -1762,8 +1762,8 @@
      },
      "competition_id": 129,
      "environment": {
-      "humidity": "90%",
-      "pressure": "750mmHg",
+      "humidity": "89%",
+      "pressure": "749mmHg",
       "temperature": "0°C",
       "weather": 7,
       "wind": "5.6m/s"
@@ -2082,15 +2082,27 @@
      "isneutrality": 0,
      "kickoff_time": 0,
      "live": {
-      "away": "away",
-      "comp": "comp",
-      "home": "home",
+      "away": "阿雷马",
+      "comp": "印尼超",
+      "home": "德瓦FC",
+      "is_extend_expire1": 0,
+      "is_extend_expire2": 0,
+      "is_extend_expire3": 0,
       "match_id": 4379336,
       "match_status": 1,
       "match_time": 1769428800,
-      "pushurl1": "rtmp://nami-push.sxy2008.cn/live/sd-1-4379336",
+      "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4379336",
+      "pushurl1_status": 0,
       "pushurl2": "",
+      "pushurl2_status": 0,
       "pushurl3": "",
+      "pushurl3_status": 0,
+      "recordurl1": null,
+      "recordurl1_file_id": null,
+      "recordurl2": null,
+      "recordurl2_file_id": null,
+      "recordurl3": null,
+      "recordurl3_file_id": null,
       "sport_id": 1
      },
      "matchevent": {
@@ -2123,7 +2135,35 @@
      "status": 1,
      "time": 1769428800,
      "video_type": "live",
-     "walematch": null
+     "walematch": {
+      "away_half_score": 0,
+      "away_id": "383956",
+      "away_logo": "https://photo.365live88.com/img/fb/team/85a01a6fd8cf4b34b5d812621ca17418",
+      "away_name": "阿雷马|阿雷馬|Arema",
+      "away_overtime_score": 0,
+      "away_penalty_score": 0,
+      "away_score": 0,
+      "game_type": 6,
+      "has_live": 0,
+      "home_half_score": 0,
+      "home_id": "426604",
+      "home_logo": "https://photo.365live88.com/img/fb/team/84d8236d0e404df68dc2619b0892e7bb",
+      "home_name": "德瓦|德瓦|Dewa United",
+      "home_overtime_score": 0,
+      "home_penalty_score": 0,
+      "home_score": 0,
+      "league_id": "2568",
+      "league_logo": "https://photo.365live88.com/img/fb/cup/47c15b1840174f96a54082de87443185",
+      "league_name": "印尼超|印尼超|IDN Liga 1",
+      "match_time": 1769428800,
+      "status": "未",
+      "status_id": 0,
+      "stream_id": "223554800",
+      "third_id": "4379336",
+      "wale_match_id": "1718228",
+      "walematchstreams": [],
+      "walematchvideos": []
+     }
     },
     "home": {
      "competition_id": 1788,
@@ -2618,7 +2658,7 @@
      },
      "competition_id": 108,
      "environment": {
-      "humidity": "90%",
+      "humidity": "89%",
       "pressure": "755mmHg",
       "temperature": "4°C",
       "weather": 5,
@@ -3414,7 +3454,7 @@
      "environment": {
       "humidity": "40%",
       "pressure": "768mmHg",
-      "temperature": "13°C",
+      "temperature": "14°C",
       "weather": 5,
       "wind": "0.9m/s"
      },
@@ -3887,7 +3927,7 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "39%",
+      "humidity": "40%",
       "pressure": "760mmHg",
       "temperature": "24°C",
       "weather": 1,
@@ -4566,11 +4606,11 @@
      },
      "competition_id": 152,
      "environment": {
-      "humidity": "90%",
+      "humidity": "91%",
       "pressure": "756mmHg",
       "temperature": "15°C",
       "weather": 10,
-      "wind": "7.0m/s"
+      "wind": "7.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4806,7 +4846,7 @@
      },
      "competition_id": 169,
      "environment": {
-      "humidity": "93%",
+      "humidity": "91%",
       "pressure": "754mmHg",
       "temperature": "1°C",
       "weather": 7,
@@ -5074,11 +5114,11 @@
      },
      "competition_id": 2915,
      "environment": {
-      "humidity": "95%",
+      "humidity": "96%",
       "pressure": "755mmHg",
       "temperature": "14°C",
       "weather": 10,
-      "wind": "7.3m/s"
+      "wind": "7.6m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5312,7 +5352,7 @@
      },
      "competition_id": 2915,
      "environment": {
-      "humidity": "99%",
+      "humidity": "98%",
       "pressure": "760mmHg",
       "temperature": "15°C",
       "weather": 7,
@@ -5790,7 +5830,7 @@
      },
      "competition_id": 270,
      "environment": {
-      "humidity": "98%",
+      "humidity": "99%",
       "pressure": "756mmHg",
       "temperature": "7°C",
       "weather": 9,
@@ -6031,8 +6071,8 @@
       "humidity": "101%",
       "pressure": "752mmHg",
       "temperature": "6°C",
-      "weather": 10,
-      "wind": "2.6m/s"
+      "weather": 9,
+      "wind": "2.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6268,7 +6308,7 @@
      },
      "competition_id": 120,
      "environment": {
-      "humidity": "85%",
+      "humidity": "88%",
       "pressure": "756mmHg",
       "temperature": "8°C",
       "weather": 7,
@@ -7228,7 +7268,7 @@
      },
      "competition_id": 627,
      "environment": {
-      "humidity": "52%",
+      "humidity": "51%",
       "pressure": "767mmHg",
       "temperature": "22°C",
       "weather": 1,
