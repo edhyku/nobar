@@ -87,17 +87,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 230440,
+        "hot": 987700,
         "isvideo": 0,
         "liveid": 1769408702339,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 233,
+        "peak_num": 470,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 5,
+        "private_count": 21,
         "profit": 5936,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/1052339_1769408655.flv",
         "rec_weight": 1,
@@ -207,17 +207,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 126500,
+        "hot": 523000,
         "isvideo": 0,
         "liveid": 176940899963,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 82,
+        "peak_num": 150,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 4,
+        "private_count": 11,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/956863_1769408963.flv",
         "rec_weight": 1,
@@ -284,7 +284,7 @@
      "away_rank": "4",
      "away_redcard": 0,
      "away_score": 0,
-     "away_yellowcard": 0,
+     "away_yellowcard": 1,
      "awayteam": {
       "competition_id": 590,
       "country_id": 72,
@@ -315,14 +315,14 @@
      },
      "competition_id": 590,
      "environment": {
-      "humidity": "32%",
+      "humidity": "34%",
       "pressure": "757mmHg",
       "temperature": "32°C",
       "weather": 5,
       "wind": "5.3m/s"
      },
      "explain": "",
-     "home_corner": 0,
+     "home_corner": 3,
      "home_halfscore": 0,
      "home_id": 13967,
      "home_otscrore": 0,
@@ -408,7 +408,7 @@
       "short_name_zh": "澳超",
       "short_name_zht": "澳A聯",
       "type": 1,
-      "updated_at": 1768716846
+      "updated_at": 1769410610
      },
      "recommend": 1,
      "round": 14,
@@ -441,7 +441,7 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/b17dd1abf0f84676b10e4d67fd0684be",
       "league_name": "澳超|澳A聯|AUS A-League",
       "match_time": 1769409600,
-      "status": "2",
+      "status": "32",
       "status_id": 1,
       "stream_id": "223522660",
       "third_id": "4426651",
@@ -449,7 +449,18 @@
       "walematchstreams": [
        {
         "file_id": null,
-        "id": 74771,
+        "id": 74773,
+        "is_extend_expire": 0,
+        "language": "en_US",
+        "pushing": 1,
+        "record_url": null,
+        "stream_name": "202_4423565_2",
+        "stream_type": 0,
+        "wale_match_id": "1779158"
+       },
+       {
+        "file_id": null,
+        "id": 74774,
         "is_extend_expire": 0,
         "language": "en_US",
         "pushing": 1,
@@ -461,40 +472,103 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-26 14:45:02",
-        "id": 4,
+        "created_at": "2026-01-26 15:15:02",
+        "id": 6,
         "match_id": "1779158",
         "playing": 1,
-        "updated_at": "2026-01-26 14:45:02",
+        "updated_at": "2026-01-26 15:15:02",
         "v_type": "flv",
         "video_url": "https://live.vivo200.com/live/sd-1-4426651.flv?txSecret=f1dabec96d675117fe36416c354143d0\u0026txTime=69775294"
        },
        {
-        "created_at": "2026-01-26 14:45:02",
-        "id": 5,
+        "created_at": "2026-01-26 15:15:02",
+        "id": 7,
         "match_id": "1779158",
         "playing": 1,
-        "updated_at": "2026-01-26 14:45:02",
+        "updated_at": "2026-01-26 15:15:02",
+        "v_type": "flv",
+        "video_url": "https://live.trendgallary.com/live/63684601_beee79b624d3cd35dc10d41fe2a9f498.flv"
+       },
+       {
+        "created_at": "2026-01-26 15:15:02",
+        "id": 8,
+        "match_id": "1779158",
+        "playing": 1,
+        "updated_at": "2026-01-26 15:15:02",
         "v_type": "flv",
         "video_url": "rtmp://video6.letaocm.top/live/sd-1-4426651.flv"
        },
        {
-        "created_at": "2026-01-26 14:45:02",
-        "id": 6,
+        "created_at": "2026-01-26 15:15:02",
+        "id": 9,
         "match_id": "1779158",
         "playing": 1,
-        "updated_at": "2026-01-26 14:45:02",
+        "updated_at": "2026-01-26 15:15:02",
         "v_type": "m3u8",
         "video_url": "https://live.vivo200.com/live/sd-1-4426651.m3u8?txSecret=f1dabec96d675117fe36416c354143d0\u0026txTime=69775294"
        },
        {
-        "created_at": "2026-01-26 14:45:02",
-        "id": 7,
+        "created_at": "2026-01-26 15:15:02",
+        "id": 10,
         "match_id": "1779158",
         "playing": 1,
-        "updated_at": "2026-01-26 14:45:02",
+        "updated_at": "2026-01-26 15:15:02",
+        "v_type": "m3u8",
+        "video_url": "https://live.trendgallary.com/live/63684601_beee79b624d3cd35dc10d41fe2a9f498.m3u8"
+       },
+       {
+        "created_at": "2026-01-26 15:15:02",
+        "id": 11,
+        "match_id": "1779158",
+        "playing": 1,
+        "updated_at": "2026-01-26 15:15:02",
+        "v_type": "m3u8",
+        "video_url": "http://live.trendgallary.com/live/63684601_beee79b624d3cd35dc10d41fe2a9f498.m3u8"
+       },
+       {
+        "created_at": "2026-01-26 15:15:02",
+        "id": 12,
+        "match_id": "1779158",
+        "playing": 1,
+        "updated_at": "2026-01-26 15:15:02",
+        "v_type": "m3u8",
+        "video_url": "https://play3.clomidx.com/live/112965341747_788836881_adaptive.m3u8"
+       },
+       {
+        "created_at": "2026-01-26 15:15:02",
+        "id": 13,
+        "match_id": "1779158",
+        "playing": 1,
+        "updated_at": "2026-01-26 15:15:02",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/sd-6MvY6kwvodn1uRWxis.m3u8?txSecret=a42d00fcca6b0b3812d4750e90e5faa4\u0026txTime=69785DB2"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/sd-6MvY6kwvodn1uRWxis.m3u8?txSecret=00b95409ddd4acc30b0da510d327622b\u0026txTime=697864BB"
+       },
+       {
+        "created_at": "2026-01-26 15:15:02",
+        "id": 14,
+        "match_id": "1779158",
+        "playing": 1,
+        "updated_at": "2026-01-26 15:15:02",
+        "v_type": "h5",
+        "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/63684601_beee79b624d3cd35dc10d41fe2a9f498.m3u8"
+       },
+       {
+        "created_at": "2026-01-26 15:15:02",
+        "id": 15,
+        "match_id": "1779158",
+        "playing": 1,
+        "updated_at": "2026-01-26 15:15:02",
+        "v_type": "h5",
+        "video_url": "https://play.365live88.com/?url=http://live.trendgallary.com/live/63684601_beee79b624d3cd35dc10d41fe2a9f498.m3u8"
+       },
+       {
+        "created_at": "2026-01-26 15:15:02",
+        "id": 16,
+        "match_id": "1779158",
+        "playing": 1,
+        "updated_at": "2026-01-26 15:15:02",
+        "v_type": "h5",
+        "video_url": "https://play.365live88.com/?url=https://play3.clomidx.com/live/112965341747_788836881_adaptive.m3u8"
        }
       ]
      }
@@ -609,7 +683,7 @@
       "pressure": "754mmHg",
       "temperature": "9°C",
       "weather": 10,
-      "wind": "2.6m/s"
+      "wind": "2.9m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -835,10 +909,10 @@
      "competition_id": 83,
      "environment": {
       "humidity": "85%",
-      "pressure": "752mmHg",
+      "pressure": "753mmHg",
       "temperature": "4°C",
       "weather": 7,
-      "wind": "4.0m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1238,7 +1312,7 @@
      "environment": {
       "humidity": "91%",
       "pressure": "750mmHg",
-      "temperature": "7°C",
+      "temperature": "8°C",
       "weather": 7,
       "wind": "4.0m/s"
      },
@@ -2146,17 +2220,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 230440,
+        "hot": 987700,
         "isvideo": 0,
         "liveid": 1769408702339,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 233,
+        "peak_num": 470,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 5,
+        "private_count": 21,
         "profit": 5936,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/1052339_1769408655.flv",
         "rec_weight": 1,
@@ -2266,17 +2340,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 126500,
+        "hot": 523000,
         "isvideo": 0,
         "liveid": 176940899963,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 82,
+        "peak_num": 150,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 4,
+        "private_count": 11,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/956863_1769408963.flv",
         "rec_weight": 1,
@@ -3125,11 +3199,11 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "43%",
+      "humidity": "42%",
       "pressure": "766mmHg",
       "temperature": "16°C",
       "weather": 1,
-      "wind": "3.2m/s"
+      "wind": "2.9m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3327,7 +3401,7 @@
       "humidity": "40%",
       "pressure": "768mmHg",
       "temperature": "14°C",
-      "weather": 1,
+      "weather": 5,
       "wind": "0.9m/s"
      },
      "explain": "",
@@ -3523,11 +3597,11 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "65%",
+      "humidity": "64%",
       "pressure": "762mmHg",
-      "temperature": "26°C",
+      "temperature": "25°C",
       "weather": 5,
-      "wind": "1.5m/s"
+      "wind": "1.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3722,7 +3796,7 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "39%",
+      "humidity": "38%",
       "pressure": "760mmHg",
       "temperature": "24°C",
       "weather": 1,
@@ -3924,7 +3998,7 @@
       "humidity": "29%",
       "pressure": "763mmHg",
       "temperature": "19°C",
-      "weather": 5,
+      "weather": 1,
       "wind": "4.8m/s"
      },
      "explain": "",
@@ -5243,7 +5317,7 @@
       "humidity": "97%",
       "pressure": "756mmHg",
       "temperature": "7°C",
-      "weather": 9,
+      "weather": 10,
       "wind": "3.7m/s"
      },
      "explain": "",
@@ -5646,7 +5720,7 @@
       "pressure": "764mmHg",
       "temperature": "16°C",
       "weather": 7,
-      "wind": "8.4m/s"
+      "wind": "8.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5847,7 +5921,7 @@
       "pressure": "752mmHg",
       "temperature": "15°C",
       "weather": 9,
-      "wind": "2.9m/s"
+      "wind": "3.4m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6842,9 +6916,9 @@
      "environment": {
       "humidity": "74%",
       "pressure": "747mmHg",
-      "temperature": "9°C",
+      "temperature": "8°C",
       "weather": 5,
-      "wind": "4.0m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
