@@ -1,5 +1,5 @@
 {
-  "updated": 1769464382,
+  "updated": 1769466170,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -24,6 +24,50 @@
       }
     },
     {
+      "league": "BRA Serie A",
+      "status": "UPCOMING",
+      "time": 1769637600,
+      "home": "Atletico Mineiro",
+      "away": "Palmeiras",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BRA Serie A",
+      "status": "UPCOMING",
+      "time": 1769637600,
+      "home": "Vitoria BA",
+      "away": "Remo Belem (PA)",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BRA Serie A",
+      "status": "UPCOMING",
+      "time": 1769637600,
+      "home": "Atletico Mineiro",
+      "away": "Palmeiras",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BRA Serie A",
+      "status": "UPCOMING",
+      "time": 1769637600,
+      "home": "Vitoria BA",
+      "away": "Remo Belem (PA)",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "Coppa Italia",
       "status": "UPCOMING",
       "time": 1769544000,
@@ -65,50 +109,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ENG EFL Championship",
-      "status": "LIVE",
-      "time": 1769457600,
-      "home": "Norwich City",
-      "away": "Coventry City",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351406.m3u8?txSecret=b0d9f59a2fc4bd193801f972b1ec886f&txTime=6978106B"
-      }
-    },
-    {
-      "league": "ENG EFL Championship",
-      "status": "LIVE",
-      "time": 1769457600,
-      "home": "Norwich City",
-      "away": "Coventry City",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4351406.m3u8?txSecret=b0d9f59a2fc4bd193801f972b1ec886f&txTime=6978106B"
-      }
-    },
-    {
-      "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769457600,
-      "home": "Everton",
-      "away": "Leeds United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343138.m3u8?txSecret=4c31e1cbf56db44dadce0a26de7d311f&txTime=6978106B"
-      }
-    },
-    {
-      "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769457600,
-      "home": "Everton",
-      "away": "Leeds United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343138.m3u8?txSecret=4c31e1cbf56db44dadce0a26de7d311f&txTime=6978106B"
       }
     },
     {
@@ -222,28 +222,6 @@
       }
     },
     {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769458500,
-      "home": "FC Porto",
-      "away": "Gil Vicente",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368955.m3u8?txSecret=bc2f3f134a9b9dd4d13cd4d454e6b081&txTime=6978151C"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769458500,
-      "home": "FC Porto",
-      "away": "Gil Vicente",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368955.m3u8?txSecret=bc2f3f134a9b9dd4d13cd4d454e6b081&txTime=6978151C"
-      }
-    },
-    {
       "league": "POR U23",
       "status": "UPCOMING",
       "time": 1769526000,
@@ -263,28 +241,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769457600,
-      "home": "Girona FC",
-      "away": "Getafe",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358870.m3u8?txSecret=71d494415d2544ef1874c675eef0c424&txTime=6978106B"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769457600,
-      "home": "Girona FC",
-      "away": "Getafe",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358870.m3u8?txSecret=71d494415d2544ef1874c675eef0c424&txTime=6978106B"
       }
     },
     {
@@ -489,6 +445,28 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "PSV Eindhoven",
+      "away": "FC Bayern Munich",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Union Saint-Gilloise",
+      "away": "Atalanta",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +634,28 @@
       "time": 1769630400,
       "home": "Paris Saint Germain",
       "away": "Newcastle United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "PSV Eindhoven",
+      "away": "FC Bayern Munich",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Union Saint-Gilloise",
+      "away": "Atalanta",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
