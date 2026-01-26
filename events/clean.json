@@ -1,26 +1,15 @@
 {
-  "updated": 1769385073,
+  "updated": 1769390838,
   "events": [
     {
       "league": "ARG Division 1",
       "status": "LIVE",
       "time": 1769385600,
-      "home": "Club Atletico Tigre",
-      "away": "Estudiantes Rio Cuarto",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769384844.flv"
-      }
-    },
-    {
-      "league": "ARG Division 1",
-      "status": "LIVE",
-      "time": 1769385600,
       "home": "Argentinos Juniors",
       "away": "Sarmiento Junin",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769384942.flv"
+        "type": "m3u8",
+        "url": "https://live3.trendgallary.com/live/527r3i4l8zvb47e_f7a9fc805e3c089fe9588fa65735a816.m3u8"
       }
     },
     {
@@ -30,8 +19,8 @@
       "home": "Club Atletico Tigre",
       "away": "Estudiantes Rio Cuarto",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769384844.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4465047.m3u8?txSecret=d00b7826f1838b7145bd6e35db6eacf3&txTime=6976FBDC"
       }
     },
     {
@@ -41,8 +30,19 @@
       "home": "Argentinos Juniors",
       "away": "Sarmiento Junin",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769384942.flv"
+        "type": "m3u8",
+        "url": "https://live3.trendgallary.com/live/527r3i4l8zvb47e_f7a9fc805e3c089fe9588fa65735a816.m3u8"
+      }
+    },
+    {
+      "league": "ARG Division 1",
+      "status": "LIVE",
+      "time": 1769385600,
+      "home": "Club Atletico Tigre",
+      "away": "Estudiantes Rio Cuarto",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4465047.m3u8?txSecret=d00b7826f1838b7145bd6e35db6eacf3&txTime=6976FBDC"
       }
     },
     {
@@ -289,13 +289,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769440800,
       "home": "Al Hazem",
       "away": "Damac",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769380236.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -355,13 +355,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769440800,
       "home": "Al Hazem",
       "away": "Damac",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769380236.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
