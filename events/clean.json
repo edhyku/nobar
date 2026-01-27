@@ -1,5 +1,5 @@
 {
-  "updated": 1769527460,
+  "updated": 1769529119,
   "events": [
     {
       "league": "AUS W-League",
@@ -25,68 +25,68 @@
     },
     {
       "league": "BHR Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769529600,
       "home": "Al Hidd",
       "away": "Bahrain SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769528068.flv"
       }
     },
     {
       "league": "BHR Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769529600,
       "home": "Al-Muharraq",
       "away": "Al-Shabbab",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769528805.flv"
       }
     },
     {
       "league": "BHR Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769529600,
       "home": "Al Hidd",
       "away": "Bahrain SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769528068.flv"
       }
     },
     {
       "league": "BHR Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769529600,
       "home": "Al-Muharraq",
       "away": "Al-Shabbab",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769528805.flv"
       }
     },
     {
       "league": "Coppa Italia",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769544000,
       "home": "Fiorentina",
       "away": "Como",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769528855.flv"
       }
     },
     {
       "league": "Coppa Italia",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769544000,
       "home": "Fiorentina",
       "away": "Como",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769528855.flv"
       }
     },
     {
@@ -168,13 +168,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769542200,
       "home": "SV Werder Bremen",
       "away": "TSG Hoffenheim",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769528068.flv"
       }
     },
     {
@@ -190,13 +190,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769542200,
       "home": "SV Werder Bremen",
       "away": "TSG Hoffenheim",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769528068.flv"
       }
     },
     {
@@ -421,13 +421,13 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769529600,
       "home": "Al-Wahda FC",
       "away": "Dabba Al-Fujairah",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769528855.flv"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769529600,
       "home": "Al-Wahda FC",
       "away": "Dabba Al-Fujairah",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769528855.flv"
       }
     },
     {
