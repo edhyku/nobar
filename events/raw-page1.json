@@ -27,7 +27,7 @@
      "short_name_zh": "圣乔治维莱FC",
      "short_name_zht": "聖喬治維萊FC",
      "total_players": 0,
-     "updated_at": 1769483990,
+     "updated_at": 1769487907,
      "venue_id": 12462,
      "website": ""
     },
@@ -107,7 +107,7 @@
       "short_name_zh": "圣乔治维莱FC",
       "short_name_zht": "聖喬治維萊FC",
       "total_players": 0,
-      "updated_at": 1769483990,
+      "updated_at": 1769487907,
       "venue_id": 12462,
       "website": ""
      },
@@ -153,7 +153,7 @@
       "short_name_zh": "布里斯班狼队",
       "short_name_zht": "布里斯班狼隊",
       "total_players": 0,
-      "updated_at": 1769484050,
+      "updated_at": 1769487967,
       "venue_id": 3438,
       "website": ""
      },
@@ -244,7 +244,7 @@
      "short_name_zh": "布里斯班狼队",
      "short_name_zht": "布里斯班狼隊",
      "total_players": 0,
-     "updated_at": 1769484050,
+     "updated_at": 1769487967,
      "venue_id": 3438,
      "website": ""
     },
@@ -326,7 +326,7 @@
      },
      "competition_id": 435,
      "environment": {
-      "humidity": "60%",
+      "humidity": "61%",
       "pressure": "761mmHg",
       "temperature": "26°C",
       "weather": 7,
@@ -730,7 +730,7 @@
       "pressure": "753mmHg",
       "temperature": "9°C",
       "weather": 10,
-      "wind": "2.6m/s"
+      "wind": "2.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -994,7 +994,7 @@
      },
      "competition_id": 730,
      "environment": {
-      "humidity": "18%",
+      "humidity": "17%",
       "pressure": "761mmHg",
       "temperature": "20°C",
       "weather": 1,
@@ -1195,7 +1195,7 @@
      },
      "competition_id": 129,
      "environment": {
-      "humidity": "93%",
+      "humidity": "91%",
       "pressure": "752mmHg",
       "temperature": "-1°C",
       "weather": 7,
@@ -2314,10 +2314,10 @@
      "competition_id": 2915,
      "environment": {
       "humidity": "82%",
-      "pressure": "751mmHg",
-      "temperature": "8°C",
-      "weather": 9,
-      "wind": "5.1m/s"
+      "pressure": "750mmHg",
+      "temperature": "9°C",
+      "weather": 10,
+      "wind": "4.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2770,7 +2770,7 @@
       "pressure": "750mmHg",
       "temperature": "1°C",
       "weather": 4,
-      "wind": "4.0m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2965,9 +2965,9 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "91%",
+      "humidity": "94%",
       "pressure": "749mmHg",
-      "temperature": "5°C",
+      "temperature": "6°C",
       "weather": 7,
       "wind": "2.3m/s"
      },
@@ -3168,7 +3168,7 @@
       "pressure": "751mmHg",
       "temperature": "9°C",
       "weather": 7,
-      "wind": "2.6m/s"
+      "wind": "2.9m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3363,7 +3363,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "80%",
+      "humidity": "82%",
       "pressure": "755mmHg",
       "temperature": "7°C",
       "weather": 7,
@@ -3564,7 +3564,7 @@
      "environment": {
       "humidity": "76%",
       "pressure": "749mmHg",
-      "temperature": "7°C",
+      "temperature": "8°C",
       "weather": 1,
       "wind": "3.7m/s"
      },
@@ -3762,8 +3762,8 @@
      "competition_id": 46,
      "environment": {
       "humidity": "93%",
-      "pressure": "748mmHg",
-      "temperature": "4°C",
+      "pressure": "749mmHg",
+      "temperature": "3°C",
       "weather": 10,
       "wind": "2.0m/s"
      },
@@ -3960,7 +3960,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "97%",
+      "humidity": "96%",
       "pressure": "755mmHg",
       "temperature": "15°C",
       "weather": 10,
@@ -4159,7 +4159,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "96%",
+      "humidity": "95%",
       "pressure": "749mmHg",
       "temperature": "4°C",
       "weather": 7,
@@ -4358,7 +4358,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "98%",
+      "humidity": "97%",
       "pressure": "749mmHg",
       "temperature": "1°C",
       "weather": 4,
@@ -4560,7 +4560,7 @@
       "humidity": "97%",
       "pressure": "748mmHg",
       "temperature": "2°C",
-      "weather": 9,
+      "weather": 4,
       "wind": "2.6m/s"
      },
      "explain": "",
@@ -4760,7 +4760,7 @@
       "pressure": "748mmHg",
       "temperature": "4°C",
       "weather": 1,
-      "wind": "4.3m/s"
+      "wind": "4.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4955,10 +4955,10 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "87%",
+      "humidity": "86%",
       "pressure": "749mmHg",
       "temperature": "4°C",
-      "weather": 1,
+      "weather": 7,
       "wind": "2.3m/s"
      },
      "explain": "",
@@ -5156,9 +5156,9 @@
      "environment": {
       "humidity": "84%",
       "pressure": "744mmHg",
-      "temperature": "9°C",
-      "weather": 1,
-      "wind": "3.4m/s"
+      "temperature": "8°C",
+      "weather": 7,
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5356,8 +5356,8 @@
       "humidity": "74%",
       "pressure": "749mmHg",
       "temperature": "12°C",
-      "weather": 7,
-      "wind": "4.8m/s"
+      "weather": 10,
+      "wind": "4.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5950,11 +5950,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "96%",
+      "humidity": "98%",
       "pressure": "749mmHg",
-      "temperature": "3°C",
-      "weather": 9,
-      "wind": "2.3m/s"
+      "temperature": "2°C",
+      "weather": 7,
+      "wind": "2.6m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6149,11 +6149,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "100%",
+      "humidity": "101%",
       "pressure": "749mmHg",
-      "temperature": "4°C",
+      "temperature": "5°C",
       "weather": 7,
-      "wind": "2.0m/s"
+      "wind": "2.3m/s"
      },
      "explain": "",
      "home_corner": 0,
