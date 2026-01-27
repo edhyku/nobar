@@ -1,29 +1,7 @@
 {
-  "updated": 1769511337,
+  "updated": 1769513393,
   "events": [
     {
-      "league": "AUS QPS Cup",
-      "status": "LIVE",
-      "time": 1769506200,
-      "home": "Brisbane Wolves",
-      "away": "St George Willawong FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4480728.m3u8?txSecret=321c135541cfbd83c675425965e47ad2&txTime=6978CAC0"
-      }
-    },
-    {
-      "league": "AUS QPS Cup",
-      "status": "LIVE",
-      "time": 1769506200,
-      "home": "Brisbane Wolves",
-      "away": "St George Willawong FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4480728.m3u8?txSecret=321c135541cfbd83c675425965e47ad2&txTime=6978CAC0"
-      }
-    },
-    {
       "league": "AUS W-League",
       "status": "UPCOMING",
       "time": 1769598000,
@@ -113,13 +91,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769526000,
       "home": "Al Ahly FC",
       "away": "Wadi Degla SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769512863.flv"
       }
     },
     {
@@ -135,13 +113,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769526000,
       "home": "Al Ahly FC",
       "away": "Wadi Degla SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769512863.flv"
       }
     },
     {
@@ -179,13 +157,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769542200,
       "home": "FC St. Pauli",
       "away": "RB Leipzig",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769513029.flv"
       }
     },
     {
@@ -201,13 +179,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769542200,
       "home": "FC St. Pauli",
       "away": "RB Leipzig",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769513029.flv"
       }
     },
     {
@@ -245,13 +223,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769613600,
       "home": "Al Najma(KSA)",
       "away": "Al Riyadh",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769512777.flv"
       }
     },
     {
@@ -278,13 +256,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769613600,
       "home": "Al Najma(KSA)",
       "away": "Al Riyadh",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769512777.flv"
       }
     },
     {
@@ -599,6 +577,17 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "Benfica",
+      "away": "Real Madrid",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +645,17 @@
       "time": 1769630400,
       "home": "Bayer 04 Leverkusen",
       "away": "Villarreal CF",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Benfica",
+      "away": "Real Madrid",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
