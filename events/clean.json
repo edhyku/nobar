@@ -1,5 +1,5 @@
 {
-  "updated": 1769543559,
+  "updated": 1769545361,
   "events": [
     {
       "league": "AUS W-League",
@@ -30,8 +30,8 @@
       "home": "Fiorentina",
       "away": "Como",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769541720.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4436913.m3u8?txSecret=0531ddbcfabbbab6bc201ea3282f6889&txTime=697961F1"
       }
     },
     {
@@ -41,8 +41,8 @@
       "home": "Fiorentina",
       "away": "Como",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769541720.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4436913.m3u8?txSecret=0531ddbcfabbbab6bc201ea3282f6889&txTime=697961F1"
       }
     },
     {
@@ -62,28 +62,6 @@
       "time": 1769612400,
       "home": "Zamalek SC",
       "away": "Petrojet",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ENG EFL League One",
-      "status": "UPCOMING",
-      "time": 1769544000,
-      "home": "Doncaster Rovers",
-      "away": "Leyton Orient",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ENG EFL League One",
-      "status": "UPCOMING",
-      "time": 1769544000,
-      "home": "Doncaster Rovers",
-      "away": "Leyton Orient",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -522,6 +500,17 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "Napoli",
+      "away": "Chelsea",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +645,17 @@
       "time": 1769630400,
       "home": "AS Monaco",
       "away": "Juventus",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Napoli",
+      "away": "Chelsea",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
