@@ -1,5 +1,5 @@
 {
-  "updated": 1769529119,
+  "updated": 1769531276,
   "events": [
     {
       "league": "AUS W-League",
@@ -30,8 +30,8 @@
       "home": "Al Hidd",
       "away": "Bahrain SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769528068.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/67764782_e00f4a0dcc9c62e7bacf7f30e3e19edc.m3u8"
       }
     },
     {
@@ -41,8 +41,8 @@
       "home": "Al-Muharraq",
       "away": "Al-Shabbab",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769528805.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/67764784_84be1cc07d7718a36a49a898dbbfc98b.m3u8"
       }
     },
     {
@@ -52,8 +52,8 @@
       "home": "Al Hidd",
       "away": "Bahrain SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769528068.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/67764782_e00f4a0dcc9c62e7bacf7f30e3e19edc.m3u8"
       }
     },
     {
@@ -63,8 +63,8 @@
       "home": "Al-Muharraq",
       "away": "Al-Shabbab",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769528805.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/67764784_84be1cc07d7718a36a49a898dbbfc98b.m3u8"
       }
     },
     {
@@ -97,7 +97,7 @@
       "away": "Wadi Degla SC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4399246.m3u8?txSecret=4b828fa495aed4a0939a055c93569f0f&txTime=69790D8C"
+        "url": "https://live.vivo200.com/live/sd-1-4399246.m3u8?txSecret=0606441d897280c88d368a4fe4d5afd8&txTime=697929AB"
       }
     },
     {
@@ -119,7 +119,7 @@
       "away": "Wadi Degla SC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4399246.m3u8?txSecret=4b828fa495aed4a0939a055c93569f0f&txTime=69790D8C"
+        "url": "https://live.vivo200.com/live/sd-1-4399246.m3u8?txSecret=0606441d897280c88d368a4fe4d5afd8&txTime=697929AB"
       }
     },
     {
@@ -317,7 +317,7 @@
       "away": "Academico Viseu U23",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4472501.m3u8?txSecret=d809a1b37ebf6fd6e2dbc169ed6c1618&txTime=6979123B"
+        "url": "https://live.vivo200.com/live/sd-1-4472501.m3u8?txSecret=0a91f538dee18fb7346379f60cd9150a&txTime=69792E5C"
       }
     },
     {
@@ -339,7 +339,7 @@
       "away": "Academico Viseu U23",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4472501.m3u8?txSecret=d809a1b37ebf6fd6e2dbc169ed6c1618&txTime=6979123B"
+        "url": "https://live.vivo200.com/live/sd-1-4472501.m3u8?txSecret=0a91f538dee18fb7346379f60cd9150a&txTime=69792E5C"
       }
     },
     {
@@ -426,8 +426,8 @@
       "home": "Al-Wahda FC",
       "away": "Dabba Al-Fujairah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769528855.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4477048.m3u8?txSecret=343281e19ee48c90cffcfe4a8c5be7c9&txTime=697929AB"
       }
     },
     {
@@ -459,8 +459,8 @@
       "home": "Al-Wahda FC",
       "away": "Dabba Al-Fujairah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769528855.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4477048.m3u8?txSecret=343281e19ee48c90cffcfe4a8c5be7c9&txTime=697929AB"
       }
     },
     {
