@@ -1,5 +1,5 @@
 {
-  "updated": 1769540093,
+  "updated": 1769542336,
   "events": [
     {
       "league": "AUS W-League",
@@ -91,46 +91,46 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769542200,
       "home": "FC St. Pauli",
       "away": "RB Leipzig",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769541314.flv"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769542200,
       "home": "SV Werder Bremen",
       "away": "TSG Hoffenheim",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769541198.flv"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769542200,
       "home": "FC St. Pauli",
       "away": "RB Leipzig",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769541314.flv"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769542200,
       "home": "SV Werder Bremen",
       "away": "TSG Hoffenheim",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769541198.flv"
       }
     },
     {
