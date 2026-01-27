@@ -1975,7 +1975,7 @@
             "pressure": "764mmHg",
             "temperature": "25°C",
             "weather": 5,
-            "wind": "5.6m/s"
+            "wind": "5.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2649,7 +2649,7 @@
             "pressure": "764mmHg",
             "temperature": "25°C",
             "weather": 5,
-            "wind": "5.6m/s"
+            "wind": "5.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4079,9 +4079,9 @@
           },
           "competition_id": 6903,
           "environment": {
-            "humidity": "44%",
+            "humidity": "43%",
             "pressure": "760mmHg",
-            "temperature": "28°C",
+            "temperature": "29°C",
             "weather": 7,
             "wind": "2.0m/s"
           },
@@ -4321,7 +4321,7 @@
             "pressure": "760mmHg",
             "temperature": "28°C",
             "weather": 7,
-            "wind": "1.2m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4793,9 +4793,9 @@
           },
           "competition_id": 6903,
           "environment": {
-            "humidity": "44%",
+            "humidity": "43%",
             "pressure": "760mmHg",
-            "temperature": "28°C",
+            "temperature": "29°C",
             "weather": 7,
             "wind": "2.0m/s"
           },
@@ -5035,7 +5035,7 @@
             "pressure": "760mmHg",
             "temperature": "28°C",
             "weather": 7,
-            "wind": "1.2m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5271,7 +5271,7 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "55%",
+            "humidity": "54%",
             "pressure": "765mmHg",
             "temperature": "23°C",
             "weather": 7,
@@ -5747,7 +5747,7 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "55%",
+            "humidity": "54%",
             "pressure": "765mmHg",
             "temperature": "23°C",
             "weather": 7,
@@ -6586,9 +6586,9 @@
           "environment": {
             "humidity": "74%",
             "pressure": "751mmHg",
-            "temperature": "9°C",
+            "temperature": "8°C",
             "weather": 1,
-            "wind": "2.6m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -7133,8 +7133,8 @@
           "short_name_en": "Villarreal",
           "short_name_zh": "比利亚雷亚尔",
           "short_name_zht": "維拉利爾",
-          "total_players": 27,
-          "updated_at": 1769555690,
+          "total_players": 28,
+          "updated_at": 1769557149,
           "venue_id": 1059,
           "website": "http://www.villarrealcf.es"
         },
@@ -7174,14 +7174,14 @@
             "short_name_en": "Villarreal",
             "short_name_zh": "比利亚雷亚尔",
             "short_name_zht": "維拉利爾",
-            "total_players": 27,
-            "updated_at": 1769555690,
+            "total_players": 28,
+            "updated_at": 1769557149,
             "venue_id": 1059,
             "website": "http://www.villarrealcf.es"
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "93%",
+            "humidity": "94%",
             "pressure": "748mmHg",
             "temperature": "3°C",
             "weather": 10,
@@ -7521,8 +7521,8 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png",
           "manager_id": 0,
-          "market_value": 450000000,
-          "market_value_currency": "",
+          "market_value": 446000000,
+          "market_value_currency": "€",
           "name_en": "Marseille",
           "name_zh": "马赛",
           "name_zht": "馬賽",
@@ -7532,7 +7532,7 @@
           "short_name_zh": "马赛",
           "short_name_zht": "馬賽",
           "total_players": 30,
-          "updated_at": 1769555293,
+          "updated_at": 1769556950,
           "venue_id": 1226,
           "website": "http://www.om.net/"
         },
@@ -7562,8 +7562,8 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png",
             "manager_id": 0,
-            "market_value": 450000000,
-            "market_value_currency": "",
+            "market_value": 446000000,
+            "market_value_currency": "€",
             "name_en": "Marseille",
             "name_zh": "马赛",
             "name_zht": "馬賽",
@@ -7573,7 +7573,7 @@
             "short_name_zh": "马赛",
             "short_name_zht": "馬賽",
             "total_players": 30,
-            "updated_at": 1769555293,
+            "updated_at": 1769556950,
             "venue_id": 1226,
             "website": "http://www.om.net/"
           },
@@ -7977,7 +7977,7 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "93%",
+            "humidity": "92%",
             "pressure": "748mmHg",
             "temperature": "2°C",
             "weather": 4,
@@ -8574,9 +8574,9 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "88%",
+            "humidity": "87%",
             "pressure": "744mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 7,
             "wind": "3.4m/s"
           },
@@ -8775,9 +8775,9 @@
           "environment": {
             "humidity": "71%",
             "pressure": "749mmHg",
-            "temperature": "12°C",
+            "temperature": "13°C",
             "weather": 7,
-            "wind": "4.5m/s"
+            "wind": "4.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9312,7 +9312,7 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
           "manager_id": 0,
-          "market_value": 981750000,
+          "market_value": 981450000,
           "market_value_currency": "€",
           "name_en": "FC Bayern Munich",
           "name_zh": "拜仁慕尼黑",
@@ -9323,7 +9323,7 @@
           "short_name_zh": "拜仁",
           "short_name_zht": "拜仁",
           "total_players": 27,
-          "updated_at": 1769383551,
+          "updated_at": 1769556530,
           "venue_id": 1021,
           "website": "http://www.fcbayern.t-com.de"
         },
@@ -9353,7 +9353,7 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
             "manager_id": 0,
-            "market_value": 981750000,
+            "market_value": 981450000,
             "market_value_currency": "€",
             "name_en": "FC Bayern Munich",
             "name_zh": "拜仁慕尼黑",
@@ -9364,17 +9364,17 @@
             "short_name_zh": "拜仁",
             "short_name_zht": "拜仁",
             "total_players": 27,
-            "updated_at": 1769383551,
+            "updated_at": 1769556530,
             "venue_id": 1021,
             "website": "http://www.fcbayern.t-com.de"
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "92%",
+            "humidity": "91%",
             "pressure": "749mmHg",
             "temperature": "2°C",
             "weather": 7,
-            "wind": "2.9m/s"
+            "wind": "3.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9969,9 +9969,9 @@
           "environment": {
             "humidity": "74%",
             "pressure": "751mmHg",
-            "temperature": "9°C",
+            "temperature": "8°C",
             "weather": 1,
-            "wind": "2.6m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10516,8 +10516,8 @@
           "short_name_en": "Villarreal",
           "short_name_zh": "比利亚雷亚尔",
           "short_name_zht": "維拉利爾",
-          "total_players": 27,
-          "updated_at": 1769555690,
+          "total_players": 28,
+          "updated_at": 1769557149,
           "venue_id": 1059,
           "website": "http://www.villarrealcf.es"
         },
@@ -10557,14 +10557,14 @@
             "short_name_en": "Villarreal",
             "short_name_zh": "比利亚雷亚尔",
             "short_name_zht": "維拉利爾",
-            "total_players": 27,
-            "updated_at": 1769555690,
+            "total_players": 28,
+            "updated_at": 1769557149,
             "venue_id": 1059,
             "website": "http://www.villarrealcf.es"
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "93%",
+            "humidity": "94%",
             "pressure": "748mmHg",
             "temperature": "3°C",
             "weather": 10,
@@ -10904,8 +10904,8 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png",
           "manager_id": 0,
-          "market_value": 450000000,
-          "market_value_currency": "",
+          "market_value": 446000000,
+          "market_value_currency": "€",
           "name_en": "Marseille",
           "name_zh": "马赛",
           "name_zht": "馬賽",
@@ -10915,7 +10915,7 @@
           "short_name_zh": "马赛",
           "short_name_zht": "馬賽",
           "total_players": 30,
-          "updated_at": 1769555293,
+          "updated_at": 1769556950,
           "venue_id": 1226,
           "website": "http://www.om.net/"
         },
@@ -10945,8 +10945,8 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png",
             "manager_id": 0,
-            "market_value": 450000000,
-            "market_value_currency": "",
+            "market_value": 446000000,
+            "market_value_currency": "€",
             "name_en": "Marseille",
             "name_zh": "马赛",
             "name_zht": "馬賽",
@@ -10956,7 +10956,7 @@
             "short_name_zh": "马赛",
             "short_name_zht": "馬賽",
             "total_players": 30,
-            "updated_at": 1769555293,
+            "updated_at": 1769556950,
             "venue_id": 1226,
             "website": "http://www.om.net/"
           },
@@ -11360,7 +11360,7 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "93%",
+            "humidity": "92%",
             "pressure": "748mmHg",
             "temperature": "2°C",
             "weather": 4,
@@ -11957,9 +11957,9 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "88%",
+            "humidity": "87%",
             "pressure": "744mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 7,
             "wind": "3.4m/s"
           },
@@ -12158,9 +12158,9 @@
           "environment": {
             "humidity": "71%",
             "pressure": "749mmHg",
-            "temperature": "12°C",
+            "temperature": "13°C",
             "weather": 7,
-            "wind": "4.5m/s"
+            "wind": "4.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12695,7 +12695,7 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
           "manager_id": 0,
-          "market_value": 981750000,
+          "market_value": 981450000,
           "market_value_currency": "€",
           "name_en": "FC Bayern Munich",
           "name_zh": "拜仁慕尼黑",
@@ -12706,7 +12706,7 @@
           "short_name_zh": "拜仁",
           "short_name_zht": "拜仁",
           "total_players": 27,
-          "updated_at": 1769383551,
+          "updated_at": 1769556530,
           "venue_id": 1021,
           "website": "http://www.fcbayern.t-com.de"
         },
@@ -12736,7 +12736,7 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
             "manager_id": 0,
-            "market_value": 981750000,
+            "market_value": 981450000,
             "market_value_currency": "€",
             "name_en": "FC Bayern Munich",
             "name_zh": "拜仁慕尼黑",
@@ -12747,17 +12747,17 @@
             "short_name_zh": "拜仁",
             "short_name_zht": "拜仁",
             "total_players": 27,
-            "updated_at": 1769383551,
+            "updated_at": 1769556530,
             "venue_id": 1021,
             "website": "http://www.fcbayern.t-com.de"
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "92%",
+            "humidity": "91%",
             "pressure": "749mmHg",
             "temperature": "2°C",
             "weather": 7,
-            "wind": "2.9m/s"
+            "wind": "3.2m/s"
           },
           "explain": "",
           "home_corner": 0,
