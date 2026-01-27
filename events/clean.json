@@ -1,5 +1,5 @@
 {
-  "updated": 1769503326,
+  "updated": 1769505440,
   "events": [
     {
       "league": "AUS QPS Cup",
@@ -125,6 +125,17 @@
     {
       "league": "EGY Premier League",
       "status": "UPCOMING",
+      "time": 1769612400,
+      "home": "Zamalek SC",
+      "away": "Petrojet",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "EGY Premier League",
+      "status": "UPCOMING",
       "time": 1769526000,
       "home": "Al Ahly FC",
       "away": "Wadi Degla SC",
@@ -134,6 +145,17 @@
       }
     },
     {
+      "league": "EGY Premier League",
+      "status": "UPCOMING",
+      "time": 1769612400,
+      "home": "Zamalek SC",
+      "away": "Petrojet",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG EFL League One",
       "status": "UPCOMING",
       "time": 1769544000,
@@ -194,6 +216,28 @@
       "time": 1769542200,
       "home": "SV Werder Bremen",
       "away": "TSG Hoffenheim",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769605200,
+      "home": "Ural Yekaterinburg",
+      "away": "Chengdu Rongcheng FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "INT CF",
+      "status": "UPCOMING",
+      "time": 1769605200,
+      "home": "Ural Yekaterinburg",
+      "away": "Chengdu Rongcheng FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -301,6 +345,17 @@
     {
       "league": "POR U23",
       "status": "UPCOMING",
+      "time": 1769612400,
+      "home": "Estrela FC U23",
+      "away": "Farense U23",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "POR U23",
+      "status": "UPCOMING",
       "time": 1769526000,
       "home": "Famalicao U23",
       "away": "Academico Viseu U23",
@@ -310,6 +365,50 @@
       }
     },
     {
+      "league": "POR U23",
+      "status": "UPCOMING",
+      "time": 1769612400,
+      "home": "Estrela FC U23",
+      "away": "Farense U23",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Shopee Cup",
+      "status": "UPCOMING",
+      "time": 1769599800,
+      "home": "Tampines Rovers FC",
+      "away": "Buriram United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Shopee Cup",
+      "status": "UPCOMING",
+      "time": 1769601600,
+      "home": "BG Pathum United",
+      "away": "Dynamic Herb Cebu",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Shopee Cup",
+      "status": "UPCOMING",
+      "time": 1769605200,
+      "home": "Selangor FC",
+      "away": "Cong An Ha Noi FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "Shopee Cup",
       "status": "UPCOMING",
       "time": 1769599800,
@@ -334,20 +433,9 @@
     {
       "league": "Shopee Cup",
       "status": "UPCOMING",
-      "time": 1769599800,
-      "home": "Tampines Rovers FC",
-      "away": "Buriram United",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Shopee Cup",
-      "status": "UPCOMING",
-      "time": 1769601600,
-      "home": "BG Pathum United",
-      "away": "Dynamic Herb Cebu",
+      "time": 1769605200,
+      "home": "Selangor FC",
+      "away": "Cong An Ha Noi FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -378,6 +466,28 @@
     {
       "league": "UAE Adnoc Pro-League",
       "status": "UPCOMING",
+      "time": 1769606100,
+      "home": "Ajman",
+      "away": "Shabab Al Ahli",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UAE Adnoc Pro-League",
+      "status": "LIVE",
+      "time": 1769606100,
+      "home": "Al-Dhafra",
+      "away": "Al-Sharjah",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2403885_1769499437.flv"
+      }
+    },
+    {
+      "league": "UAE Adnoc Pro-League",
+      "status": "UPCOMING",
       "time": 1769519700,
       "home": "Ittihad Kalba FC",
       "away": "Al Ain FC",
@@ -395,6 +505,28 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UAE Adnoc Pro-League",
+      "status": "UPCOMING",
+      "time": 1769606100,
+      "home": "Ajman",
+      "away": "Shabab Al Ahli",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UAE Adnoc Pro-League",
+      "status": "LIVE",
+      "time": 1769606100,
+      "home": "Al-Dhafra",
+      "away": "Al-Sharjah",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2403885_1769499437.flv"
       }
     },
     {
@@ -467,72 +599,6 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
-      "home": "Benfica",
-      "away": "Real Madrid",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Club Brugge",
-      "away": "Marseille",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Borussia Dortmund",
-      "away": "Inter Milan",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Eintracht Frankfurt",
-      "away": "Tottenham Hotspur",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Liverpool",
-      "away": "Qarabag",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Manchester City",
-      "away": "Galatasaray",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -590,72 +656,6 @@
       "time": 1769630400,
       "home": "Bayer 04 Leverkusen",
       "away": "Villarreal CF",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Benfica",
-      "away": "Real Madrid",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Club Brugge",
-      "away": "Marseille",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Borussia Dortmund",
-      "away": "Inter Milan",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Eintracht Frankfurt",
-      "away": "Tottenham Hotspur",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Liverpool",
-      "away": "Qarabag",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "UPCOMING",
-      "time": 1769630400,
-      "home": "Manchester City",
-      "away": "Galatasaray",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
