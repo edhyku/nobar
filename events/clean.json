@@ -1,5 +1,5 @@
 {
-  "updated": 1769542336,
+  "updated": 1769543559,
   "events": [
     {
       "league": "AUS W-League",
@@ -25,24 +25,24 @@
     },
     {
       "league": "Coppa Italia",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769544000,
       "home": "Fiorentina",
       "away": "Como",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769541720.flv"
       }
     },
     {
       "league": "Coppa Italia",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769544000,
       "home": "Fiorentina",
       "away": "Como",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769541720.flv"
       }
     },
     {
@@ -96,8 +96,8 @@
       "home": "FC St. Pauli",
       "away": "RB Leipzig",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769541314.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347497.m3u8?txSecret=4cce626c3eb6c61d302d35459f82993e&txTime=69795D3C"
       }
     },
     {
@@ -107,8 +107,8 @@
       "home": "SV Werder Bremen",
       "away": "TSG Hoffenheim",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769541198.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347499.m3u8?txSecret=5241be0468b0097647d3166a116db494&txTime=69795D3C"
       }
     },
     {
@@ -118,8 +118,8 @@
       "home": "FC St. Pauli",
       "away": "RB Leipzig",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769541314.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347497.m3u8?txSecret=4cce626c3eb6c61d302d35459f82993e&txTime=69795D3C"
       }
     },
     {
@@ -129,8 +129,8 @@
       "home": "SV Werder Bremen",
       "away": "TSG Hoffenheim",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769541198.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347499.m3u8?txSecret=5241be0468b0097647d3166a116db494&txTime=69795D3C"
       }
     },
     {
