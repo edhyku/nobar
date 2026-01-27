@@ -44,7 +44,7 @@
        "is_anchor": 1,
        "live": null,
        "nick_name": "西米露",
-       "online_status": 9,
+       "online_status": 1,
        "profile": {
         "age": 22,
         "birthday": "",
@@ -869,7 +869,7 @@
      },
      "competition_id": 114,
      "environment": {
-      "humidity": "84%",
+      "humidity": "83%",
       "pressure": "753mmHg",
       "temperature": "9°C",
       "weather": 10,
@@ -1111,17 +1111,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 248200,
+        "hot": 664800,
         "isvideo": 0,
         "liveid": 1769512912667,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 269,
+        "peak_num": 421,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 0,
+        "private_count": 9,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2401667_1769512863.flv",
         "rec_weight": 1,
@@ -1911,17 +1911,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 223800,
+        "hot": 586000,
         "isvideo": 0,
         "liveid": 1769513074612,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 95,
+        "peak_num": 118,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 3,
+        "private_count": 4,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2359612_1769513029.flv",
         "rec_weight": 1,
@@ -2069,17 +2069,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 114300,
+        "hot": 331300,
         "isvideo": 0,
         "liveid": 1769513044996,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 102,
+        "peak_num": 111,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 3,
+        "private_count": 4,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2382996_1769512334.flv",
         "rec_weight": 1,
@@ -2177,7 +2177,7 @@
      },
      "competition_id": 129,
      "environment": {
-      "humidity": "89%",
+      "humidity": "91%",
       "pressure": "752mmHg",
       "temperature": "0°C",
       "weather": 7,
@@ -2531,7 +2531,7 @@
      },
      "competition_id": 129,
      "environment": {
-      "humidity": "85%",
+      "humidity": "86%",
       "pressure": "750mmHg",
       "temperature": "-1°C",
       "weather": 7,
@@ -3019,14 +3019,14 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 113800,
+        "hot": 177400,
         "isvideo": 0,
         "liveid": 1769512806436,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 47,
+        "peak_num": 51,
         "polling_ad_enable": 1,
         "price": 0,
         "private_count": 0,
@@ -3165,11 +3165,11 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "39%",
+      "humidity": "37%",
       "pressure": "760mmHg",
       "temperature": "24°C",
       "weather": 1,
-      "wind": "3.2m/s"
+      "wind": "3.4m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3567,7 +3567,7 @@
       "pressure": "764mmHg",
       "temperature": "25°C",
       "weather": 5,
-      "wind": "5.8m/s"
+      "wind": "5.6m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4043,11 +4043,11 @@
      },
      "competition_id": 2915,
      "environment": {
-      "humidity": "80%",
+      "humidity": "81%",
       "pressure": "750mmHg",
       "temperature": "9°C",
       "weather": 7,
-      "wind": "4.8m/s"
+      "wind": "5.1m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4281,11 +4281,11 @@
      },
      "competition_id": 2915,
      "environment": {
-      "humidity": "81%",
+      "humidity": "80%",
       "pressure": "756mmHg",
-      "temperature": "13°C",
+      "temperature": "14°C",
       "weather": 7,
-      "wind": "6.8m/s"
+      "wind": "7.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4759,10 +4759,10 @@
      },
      "competition_id": 6903,
      "environment": {
-      "humidity": "43%",
+      "humidity": "42%",
       "pressure": "760mmHg",
       "temperature": "29°C",
-      "weather": 1,
+      "weather": 5,
       "wind": "2.0m/s"
      },
      "explain": "",
@@ -4928,7 +4928,7 @@
        "is_anchor": 1,
        "live": null,
        "nick_name": "西米露",
-       "online_status": 9,
+       "online_status": 1,
        "profile": {
         "age": 22,
         "birthday": "",
@@ -5168,7 +5168,7 @@
        "is_anchor": 1,
        "live": null,
        "nick_name": "西米露",
-       "online_status": 9,
+       "online_status": 1,
        "profile": {
         "age": 22,
         "birthday": "",
@@ -5283,7 +5283,7 @@
      },
      "id": 4477046,
      "is_animation": 1,
-     "is_lineup": 0,
+     "is_lineup": 1,
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
@@ -5515,11 +5515,11 @@
      },
      "competition_id": 627,
      "environment": {
-      "humidity": "65%",
+      "humidity": "66%",
       "pressure": "767mmHg",
       "temperature": "21°C",
       "weather": 1,
-      "wind": "4.5m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5994,7 +5994,7 @@
       "humidity": "33%",
       "pressure": "765mmHg",
       "temperature": "25°C",
-      "weather": 7,
+      "weather": 1,
       "wind": "2.3m/s"
      },
      "explain": "",
@@ -6192,11 +6192,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "91%",
+      "humidity": "93%",
       "pressure": "750mmHg",
       "temperature": "1°C",
       "weather": 7,
-      "wind": "4.0m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6391,11 +6391,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "94%",
+      "humidity": "95%",
       "pressure": "749mmHg",
       "temperature": "5°C",
-      "weather": 1,
-      "wind": "2.0m/s"
+      "weather": 7,
+      "wind": "1.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6590,9 +6590,9 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "70%",
+      "humidity": "72%",
       "pressure": "751mmHg",
-      "temperature": "10°C",
+      "temperature": "9°C",
       "weather": 7,
       "wind": "2.6m/s"
      },
@@ -6789,11 +6789,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "80%",
+      "humidity": "78%",
       "pressure": "755mmHg",
-      "temperature": "7°C",
+      "temperature": "8°C",
       "weather": 10,
-      "wind": "4.3m/s"
+      "wind": "4.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6988,7 +6988,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "74%",
+      "humidity": "73%",
       "pressure": "750mmHg",
       "temperature": "8°C",
       "weather": 5,
@@ -7187,11 +7187,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "93%",
+      "humidity": "94%",
       "pressure": "749mmHg",
       "temperature": "4°C",
       "weather": 10,
-      "wind": "2.0m/s"
+      "wind": "1.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -7386,11 +7386,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "96%",
-      "pressure": "755mmHg",
-      "temperature": "15°C",
+      "humidity": "97%",
+      "pressure": "756mmHg",
+      "temperature": "14°C",
       "weather": 10,
-      "wind": "7.6m/s"
+      "wind": "7.0m/s"
      },
      "explain": "",
      "home_corner": 0,
