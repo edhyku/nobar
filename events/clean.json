@@ -1,5 +1,5 @@
 {
-  "updated": 1769547634,
+  "updated": 1769549387,
   "events": [
     {
       "league": "AUS W-League",
@@ -71,33 +71,11 @@
       "league": "GER Bundesliga",
       "status": "LIVE",
       "time": 1769542200,
-      "home": "FC St. Pauli",
-      "away": "RB Leipzig",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347497.m3u8?txSecret=4cce626c3eb6c61d302d35459f82993e&txTime=69795D3C"
-      }
-    },
-    {
-      "league": "GER Bundesliga",
-      "status": "LIVE",
-      "time": 1769542200,
       "home": "SV Werder Bremen",
       "away": "TSG Hoffenheim",
       "stream": {
         "type": "m3u8",
         "url": "https://live.vivo200.com/live/sd-1-4347499.m3u8?txSecret=5241be0468b0097647d3166a116db494&txTime=69795D3C"
-      }
-    },
-    {
-      "league": "GER Bundesliga",
-      "status": "LIVE",
-      "time": 1769542200,
-      "home": "FC St. Pauli",
-      "away": "RB Leipzig",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347497.m3u8?txSecret=4cce626c3eb6c61d302d35459f82993e&txTime=69795D3C"
       }
     },
     {
@@ -511,6 +489,17 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "Pafos FC",
+      "away": "Slavia Praha",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +645,17 @@
       "time": 1769630400,
       "home": "Napoli",
       "away": "Chelsea",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Pafos FC",
+      "away": "Slavia Praha",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
