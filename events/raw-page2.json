@@ -1507,7 +1507,7 @@
       "pressure": "760mmHg",
       "temperature": "33°C",
       "weather": 1,
-      "wind": "2.3m/s"
+      "wind": "2.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2463,7 +2463,7 @@
       "pressure": "760mmHg",
       "temperature": "28°C",
       "weather": 7,
-      "wind": "1.5m/s"
+      "wind": "1.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3142,7 +3142,7 @@
       "pressure": "750mmHg",
       "temperature": "1°C",
       "weather": 7,
-      "wind": "4.5m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4075,7 +4075,7 @@
      "logo_handle": 1,
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/aee62af96a956756cc29fe4831286357.png",
      "manager_id": 0,
-     "market_value": 251300000,
+     "market_value": 252300000,
      "market_value_currency": "€",
      "name_en": "Villarreal CF",
      "name_zh": "比利亚雷亚尔",
@@ -4086,7 +4086,7 @@
      "short_name_zh": "比利亚雷亚尔",
      "short_name_zht": "維拉利爾",
      "total_players": 27,
-     "updated_at": 1769545970,
+     "updated_at": 1769555690,
      "venue_id": 1059,
      "website": "http://www.villarrealcf.es"
     },
@@ -4116,7 +4116,7 @@
       "logo_handle": 1,
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/aee62af96a956756cc29fe4831286357.png",
       "manager_id": 0,
-      "market_value": 251300000,
+      "market_value": 252300000,
       "market_value_currency": "€",
       "name_en": "Villarreal CF",
       "name_zh": "比利亚雷亚尔",
@@ -4127,15 +4127,15 @@
       "short_name_zh": "比利亚雷亚尔",
       "short_name_zht": "維拉利爾",
       "total_players": 27,
-      "updated_at": 1769545970,
+      "updated_at": 1769555690,
       "venue_id": 1059,
       "website": "http://www.villarrealcf.es"
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "92%",
+      "humidity": "93%",
       "pressure": "748mmHg",
-      "temperature": "4°C",
+      "temperature": "3°C",
       "weather": 10,
       "wind": "2.0m/s"
      },
@@ -4484,7 +4484,7 @@
      "short_name_zh": "马赛",
      "short_name_zht": "馬賽",
      "total_players": 30,
-     "updated_at": 1769554107,
+     "updated_at": 1769555293,
      "venue_id": 1226,
      "website": "http://www.om.net/"
     },
@@ -4525,7 +4525,7 @@
       "short_name_zh": "马赛",
       "short_name_zht": "馬賽",
       "total_players": 30,
-      "updated_at": 1769554107,
+      "updated_at": 1769555293,
       "venue_id": 1226,
       "website": "http://www.om.net/"
      },
@@ -4929,7 +4929,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "92%",
+      "humidity": "93%",
       "pressure": "748mmHg",
       "temperature": "2°C",
       "weather": 4,
@@ -5331,7 +5331,7 @@
       "pressure": "749mmHg",
       "temperature": "4°C",
       "weather": 1,
-      "wind": "1.5m/s"
+      "wind": "1.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5729,7 +5729,7 @@
       "pressure": "749mmHg",
       "temperature": "12°C",
       "weather": 7,
-      "wind": "4.8m/s"
+      "wind": "4.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5926,7 +5926,7 @@
      "environment": {
       "humidity": "82%",
       "pressure": "763mmHg",
-      "temperature": "13°C",
+      "temperature": "12°C",
       "weather": 1,
       "wind": "4.0m/s"
      },
@@ -6322,7 +6322,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "91%",
+      "humidity": "92%",
       "pressure": "749mmHg",
       "temperature": "2°C",
       "weather": 7,
