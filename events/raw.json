@@ -27,7 +27,7 @@
           "short_name_zh": "圣乔治维莱FC",
           "short_name_zht": "聖喬治維萊FC",
           "total_players": 0,
-          "updated_at": 1769487907,
+          "updated_at": 1769491791,
           "venue_id": 12462,
           "website": ""
         },
@@ -79,7 +79,7 @@
           "away_id": 40594,
           "away_otscrore": 0,
           "away_pointscore": 0,
-          "away_rank": "3",
+          "away_rank": "",
           "away_redcard": 0,
           "away_score": 0,
           "away_yellowcard": 0,
@@ -107,7 +107,7 @@
             "short_name_zh": "圣乔治维莱FC",
             "short_name_zht": "聖喬治維萊FC",
             "total_players": 0,
-            "updated_at": 1769487907,
+            "updated_at": 1769491791,
             "venue_id": 12462,
             "website": ""
           },
@@ -125,7 +125,7 @@
           "home_id": 25285,
           "home_otscrore": 0,
           "home_pointscore": 0,
-          "home_rank": "2",
+          "home_rank": "澳昆超8",
           "home_redcard": 0,
           "home_score": 0,
           "home_yellowcard": 0,
@@ -153,7 +153,7 @@
             "short_name_zh": "布里斯班狼队",
             "short_name_zht": "布里斯班狼隊",
             "total_players": 0,
-            "updated_at": 1769487967,
+            "updated_at": 1769491851,
             "venue_id": 3438,
             "website": ""
           },
@@ -244,7 +244,7 @@
           "short_name_zh": "布里斯班狼队",
           "short_name_zht": "布里斯班狼隊",
           "total_players": 0,
-          "updated_at": 1769487967,
+          "updated_at": 1769491851,
           "venue_id": 3438,
           "website": ""
         },
@@ -277,7 +277,7 @@
           "short_name_zh": "圣乔治维莱FC",
           "short_name_zht": "聖喬治維萊FC",
           "total_players": 0,
-          "updated_at": 1769487907,
+          "updated_at": 1769491791,
           "venue_id": 12462,
           "website": ""
         },
@@ -329,7 +329,7 @@
           "away_id": 40594,
           "away_otscrore": 0,
           "away_pointscore": 0,
-          "away_rank": "3",
+          "away_rank": "",
           "away_redcard": 0,
           "away_score": 0,
           "away_yellowcard": 0,
@@ -357,7 +357,7 @@
             "short_name_zh": "圣乔治维莱FC",
             "short_name_zht": "聖喬治維萊FC",
             "total_players": 0,
-            "updated_at": 1769487907,
+            "updated_at": 1769491791,
             "venue_id": 12462,
             "website": ""
           },
@@ -375,7 +375,7 @@
           "home_id": 25285,
           "home_otscrore": 0,
           "home_pointscore": 0,
-          "home_rank": "2",
+          "home_rank": "澳昆超8",
           "home_redcard": 0,
           "home_score": 0,
           "home_yellowcard": 0,
@@ -403,7 +403,7 @@
             "short_name_zh": "布里斯班狼队",
             "short_name_zht": "布里斯班狼隊",
             "total_players": 0,
-            "updated_at": 1769487967,
+            "updated_at": 1769491851,
             "venue_id": 3438,
             "website": ""
           },
@@ -494,7 +494,7 @@
           "short_name_zh": "布里斯班狼队",
           "short_name_zht": "布里斯班狼隊",
           "total_players": 0,
-          "updated_at": 1769487967,
+          "updated_at": 1769491851,
           "venue_id": 3438,
           "website": ""
         },
@@ -2310,7 +2310,7 @@
           "environment": {
             "humidity": "91%",
             "pressure": "752mmHg",
-            "temperature": "-1°C",
+            "temperature": "0°C",
             "weather": 7,
             "wind": "4.5m/s"
           },
@@ -2788,7 +2788,7 @@
           "environment": {
             "humidity": "91%",
             "pressure": "752mmHg",
-            "temperature": "-1°C",
+            "temperature": "0°C",
             "weather": 7,
             "wind": "4.5m/s"
           },
@@ -3468,8 +3468,8 @@
             "humidity": "30%",
             "pressure": "763mmHg",
             "temperature": "20°C",
-            "weather": 1,
-            "wind": "4.3m/s"
+            "weather": 5,
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4065,8 +4065,8 @@
             "humidity": "30%",
             "pressure": "763mmHg",
             "temperature": "20°C",
-            "weather": 1,
-            "wind": "4.3m/s"
+            "weather": 5,
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6439,7 +6439,7 @@
           "environment": {
             "humidity": "93%",
             "pressure": "749mmHg",
-            "temperature": "3°C",
+            "temperature": "4°C",
             "weather": 10,
             "wind": "2.0m/s"
           },
@@ -7830,11 +7830,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "83%",
+            "humidity": "85%",
             "pressure": "744mmHg",
-            "temperature": "9°C",
+            "temperature": "7°C",
             "weather": 7,
-            "wind": "3.7m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8033,7 +8033,7 @@
             "pressure": "749mmHg",
             "temperature": "12°C",
             "weather": 7,
-            "wind": "5.6m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8626,11 +8626,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "98%",
+            "humidity": "97%",
             "pressure": "749mmHg",
-            "temperature": "2°C",
-            "weather": 7,
-            "wind": "2.6m/s"
+            "temperature": "3°C",
+            "weather": 9,
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10021,7 +10021,7 @@
           "environment": {
             "humidity": "93%",
             "pressure": "749mmHg",
-            "temperature": "3°C",
+            "temperature": "4°C",
             "weather": 10,
             "wind": "2.0m/s"
           },
@@ -11412,11 +11412,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "83%",
+            "humidity": "85%",
             "pressure": "744mmHg",
-            "temperature": "9°C",
+            "temperature": "7°C",
             "weather": 7,
-            "wind": "3.7m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11615,7 +11615,7 @@
             "pressure": "749mmHg",
             "temperature": "12°C",
             "weather": 7,
-            "wind": "5.6m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12208,11 +12208,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "98%",
+            "humidity": "97%",
             "pressure": "749mmHg",
-            "temperature": "2°C",
-            "weather": 7,
-            "wind": "2.6m/s"
+            "temperature": "3°C",
+            "weather": 9,
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
