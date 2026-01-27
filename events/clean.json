@@ -1,5 +1,5 @@
 {
-  "updated": 1769520756,
+  "updated": 1769522713,
   "events": [
     {
       "league": "AUS W-League",
@@ -91,13 +91,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769526000,
       "home": "Al Ahly FC",
       "away": "Wadi Degla SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769512863.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -113,13 +113,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769526000,
       "home": "Al Ahly FC",
       "away": "Wadi Degla SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769512863.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -157,13 +157,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769542200,
       "home": "FC St. Pauli",
       "away": "RB Leipzig",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769512334.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -179,13 +179,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769542200,
       "home": "FC St. Pauli",
       "away": "RB Leipzig",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2382996_1769512334.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
