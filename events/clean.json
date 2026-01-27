@@ -1,26 +1,26 @@
 {
-  "updated": 1769525413,
+  "updated": 1769527460,
   "events": [
     {
       "league": "AUS W-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769598000,
       "home": "Perth Glory Women",
       "away": "Sydney FC Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769518799.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769598000,
       "home": "Perth Glory Women",
       "away": "Sydney FC Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769518799.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -96,8 +96,8 @@
       "home": "Al Ahly FC",
       "away": "Wadi Degla SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769525184.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399246.m3u8?txSecret=4b828fa495aed4a0939a055c93569f0f&txTime=69790D8C"
       }
     },
     {
@@ -118,8 +118,8 @@
       "home": "Al Ahly FC",
       "away": "Wadi Degla SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769525184.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399246.m3u8?txSecret=4b828fa495aed4a0939a055c93569f0f&txTime=69790D8C"
       }
     },
     {
@@ -316,8 +316,8 @@
       "home": "Famalicao U23",
       "away": "Academico Viseu U23",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769525180.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4472501.m3u8?txSecret=d809a1b37ebf6fd6e2dbc169ed6c1618&txTime=6979123B"
       }
     },
     {
@@ -338,8 +338,8 @@
       "home": "Famalicao U23",
       "away": "Academico Viseu U23",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769525180.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4472501.m3u8?txSecret=d809a1b37ebf6fd6e2dbc169ed6c1618&txTime=6979123B"
       }
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769605200,
       "home": "Selangor FC",
       "away": "Cong An Ha Noi FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769518799.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -410,24 +410,13 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769605200,
       "home": "Selangor FC",
       "away": "Cong An Ha Noi FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769518799.flv"
-      }
-    },
-    {
-      "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
-      "time": 1769519700,
-      "home": "Ittihad Kalba FC",
-      "away": "Al Ain FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4477046.m3u8?txSecret=d71c021bcc140e62e6d2438f1824a83b&txTime=6978FF7B"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -461,17 +450,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
-      "time": 1769519700,
-      "home": "Ittihad Kalba FC",
-      "away": "Al Ain FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4477046.m3u8?txSecret=d71c021bcc140e62e6d2438f1824a83b&txTime=6978FF7B"
       }
     },
     {
@@ -588,6 +566,17 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "Club Brugge",
+      "away": "Marseille",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +645,17 @@
       "time": 1769630400,
       "home": "Benfica",
       "away": "Real Madrid",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "Club Brugge",
+      "away": "Marseille",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
