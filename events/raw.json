@@ -27,7 +27,7 @@
           "short_name_zh": "圣乔治维莱FC",
           "short_name_zht": "聖喬治維萊FC",
           "total_players": 0,
-          "updated_at": 1769503506,
+          "updated_at": 1769507390,
           "venue_id": 12462,
           "website": ""
         },
@@ -87,14 +87,14 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 85300,
+                "hot": 181100,
                 "isvideo": 0,
                 "liveid": 176950555330,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 29,
+                "peak_num": 34,
                 "polling_ad_enable": 1,
                 "price": 0,
                 "private_count": 4,
@@ -189,7 +189,7 @@
             "short_name_zh": "圣乔治维莱FC",
             "short_name_zht": "聖喬治維萊FC",
             "total_players": 0,
-            "updated_at": 1769503506,
+            "updated_at": 1769507390,
             "venue_id": 12462,
             "website": ""
           },
@@ -199,17 +199,17 @@
             "pressure": "759mmHg",
             "temperature": "25°C",
             "weather": 2,
-            "wind": "4.3m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
-          "home_corner": 1,
-          "home_halfscore": 0,
+          "home_corner": 4,
+          "home_halfscore": 3,
           "home_id": 25285,
           "home_otscrore": 0,
           "home_pointscore": 0,
           "home_rank": "2",
           "home_redcard": 0,
-          "home_score": 0,
+          "home_score": 3,
           "home_yellowcard": 0,
           "hometeam": {
             "competition_id": 3482,
@@ -235,7 +235,7 @@
             "short_name_zh": "布里斯班狼队",
             "short_name_zht": "布里斯班狼隊",
             "total_players": 0,
-            "updated_at": 1769503550,
+            "updated_at": 1769507450,
             "venue_id": 3438,
             "website": ""
           },
@@ -245,7 +245,7 @@
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
-          "kickoff_time": 1769506383,
+          "kickoff_time": 0,
           "live": {
             "away": "圣乔治维莱FC",
             "comp": "澳昆杯",
@@ -254,7 +254,7 @@
             "is_extend_expire2": 0,
             "is_extend_expire3": 0,
             "match_id": 4480728,
-            "match_status": 2,
+            "match_status": 3,
             "match_time": 1769506200,
             "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4480728",
             "pushurl1_status": 1,
@@ -297,7 +297,7 @@
           "stage_group": 6,
           "stage_id": 233318,
           "stage_round": 0,
-          "status": 2,
+          "status": 3,
           "time": 1769506200,
           "video_type": "live",
           "walematch": {
@@ -310,19 +310,19 @@
             "away_score": 0,
             "game_type": 6,
             "has_live": 1,
-            "home_half_score": 0,
+            "home_half_score": 3,
             "home_id": "391065",
             "home_logo": "https://photo.365live88.com/img/fb/team/aa8cdd92cd2f4d10b76c215b4e3cbe5b",
             "home_name": "布里斯班狼队|布里斯班狼隊|Brisbane Wolves",
             "home_overtime_score": 0,
             "home_penalty_score": 0,
-            "home_score": 0,
+            "home_score": 3,
             "league_id": "717910",
             "league_logo": "https://photo.365live88.com/img/fb/cup/171fdde7f6b64ebbafab15824516cd08",
             "league_name": "澳昆杯|澳昆杯|AUS QPS Cup",
             "match_time": 1769506200,
-            "status": "17",
-            "status_id": 1,
+            "status": "中场",
+            "status_id": 2,
             "stream_id": "223727298",
             "third_id": "4480728",
             "wale_match_id": "1855278",
@@ -331,7 +331,7 @@
                 "file_id": null,
                 "id": 74900,
                 "is_extend_expire": 0,
-                "language": "",
+                "language": "en_US",
                 "pushing": 1,
                 "record_url": null,
                 "stream_name": "202_4901864_1",
@@ -341,85 +341,85 @@
             ],
             "walematchvideos": [
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 40,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 37,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "flv",
                 "video_url": "https://live.vivo200.com/live/sd-1-4480728.flv?txSecret=321c135541cfbd83c675425965e47ad2&txTime=6978CAC0"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 41,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 38,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "flv",
                 "video_url": "https://live1.trendgallary.com/live/l6kegi8wez9cv75_7ba62448159d8cafce7a0ce5058dcfe5.flv"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 42,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 39,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "flv",
                 "video_url": "rtmp://video6.letaocm.top/live/sd-1-4480728.flv"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 43,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 40,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "m3u8",
                 "video_url": "https://live.vivo200.com/live/sd-1-4480728.m3u8?txSecret=321c135541cfbd83c675425965e47ad2&txTime=6978CAC0"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 44,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 41,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "m3u8",
                 "video_url": "https://live1.trendgallary.com/live/l6kegi8wez9cv75_7ba62448159d8cafce7a0ce5058dcfe5.m3u8"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 45,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 42,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "m3u8",
-                "video_url": "https://v.lfsxfj.com/live/100451.m3u8?txSecret=a3f104a5f310dc6a337abfc1d105c1a0&txTime=697890A1&sign=c421f3709c869121"
+                "video_url": "https://v.lfsxfj.com/live/100451.m3u8?txSecret=a666308e538558b76b23efbd02ea1c3a&txTime=697897AA&sign=24e285dc5dd1fad6"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 46,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 43,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "h5",
-                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvVcpZtQGLAWZ6SvK.m3u8?txSecret=ba04d9e4c5189a8f2e3a77868ea6f1e5&txTime=6979D964"
+                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvVcpZtQGLAWZ6SvK.m3u8?txSecret=401ff8b43f87cb1a95d75d207c15483b&txTime=6979E06C"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 47,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 44,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "h5",
                 "video_url": "https://play.365live88.com/?url=https://live1.trendgallary.com/live/l6kegi8wez9cv75_7ba62448159d8cafce7a0ce5058dcfe5.m3u8"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 48,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 45,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "h5",
-                "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100451.m3u8?txSecret=a3f104a5f310dc6a337abfc1d105c1a0&txTime=697890A1&sign=c421f3709c869121"
+                "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100451.m3u8?txSecret=a666308e538558b76b23efbd02ea1c3a&txTime=697897AA&sign=24e285dc5dd1fad6"
               }
             ]
           }
@@ -448,12 +448,12 @@
           "short_name_zh": "布里斯班狼队",
           "short_name_zht": "布里斯班狼隊",
           "total_players": 0,
-          "updated_at": 1769503550,
+          "updated_at": 1769507450,
           "venue_id": 3438,
           "website": ""
         },
-        "home_score": 0,
-        "status": 2,
+        "home_score": 3,
+        "status": 3,
         "streams": true
       },
       {
@@ -481,7 +481,7 @@
           "short_name_zh": "圣乔治维莱FC",
           "short_name_zht": "聖喬治維萊FC",
           "total_players": 0,
-          "updated_at": 1769503506,
+          "updated_at": 1769507390,
           "venue_id": 12462,
           "website": ""
         },
@@ -541,14 +541,14 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 85300,
+                "hot": 181100,
                 "isvideo": 0,
                 "liveid": 176950555330,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 29,
+                "peak_num": 34,
                 "polling_ad_enable": 1,
                 "price": 0,
                 "private_count": 4,
@@ -643,7 +643,7 @@
             "short_name_zh": "圣乔治维莱FC",
             "short_name_zht": "聖喬治維萊FC",
             "total_players": 0,
-            "updated_at": 1769503506,
+            "updated_at": 1769507390,
             "venue_id": 12462,
             "website": ""
           },
@@ -653,17 +653,17 @@
             "pressure": "759mmHg",
             "temperature": "25°C",
             "weather": 2,
-            "wind": "4.3m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
-          "home_corner": 1,
-          "home_halfscore": 0,
+          "home_corner": 4,
+          "home_halfscore": 3,
           "home_id": 25285,
           "home_otscrore": 0,
           "home_pointscore": 0,
           "home_rank": "2",
           "home_redcard": 0,
-          "home_score": 0,
+          "home_score": 3,
           "home_yellowcard": 0,
           "hometeam": {
             "competition_id": 3482,
@@ -689,7 +689,7 @@
             "short_name_zh": "布里斯班狼队",
             "short_name_zht": "布里斯班狼隊",
             "total_players": 0,
-            "updated_at": 1769503550,
+            "updated_at": 1769507450,
             "venue_id": 3438,
             "website": ""
           },
@@ -699,7 +699,7 @@
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
-          "kickoff_time": 1769506383,
+          "kickoff_time": 0,
           "live": {
             "away": "圣乔治维莱FC",
             "comp": "澳昆杯",
@@ -708,7 +708,7 @@
             "is_extend_expire2": 0,
             "is_extend_expire3": 0,
             "match_id": 4480728,
-            "match_status": 2,
+            "match_status": 3,
             "match_time": 1769506200,
             "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4480728",
             "pushurl1_status": 1,
@@ -751,7 +751,7 @@
           "stage_group": 6,
           "stage_id": 233318,
           "stage_round": 0,
-          "status": 2,
+          "status": 3,
           "time": 1769506200,
           "video_type": "live",
           "walematch": {
@@ -764,19 +764,19 @@
             "away_score": 0,
             "game_type": 6,
             "has_live": 1,
-            "home_half_score": 0,
+            "home_half_score": 3,
             "home_id": "391065",
             "home_logo": "https://photo.365live88.com/img/fb/team/aa8cdd92cd2f4d10b76c215b4e3cbe5b",
             "home_name": "布里斯班狼队|布里斯班狼隊|Brisbane Wolves",
             "home_overtime_score": 0,
             "home_penalty_score": 0,
-            "home_score": 0,
+            "home_score": 3,
             "league_id": "717910",
             "league_logo": "https://photo.365live88.com/img/fb/cup/171fdde7f6b64ebbafab15824516cd08",
             "league_name": "澳昆杯|澳昆杯|AUS QPS Cup",
             "match_time": 1769506200,
-            "status": "17",
-            "status_id": 1,
+            "status": "中场",
+            "status_id": 2,
             "stream_id": "223727298",
             "third_id": "4480728",
             "wale_match_id": "1855278",
@@ -785,7 +785,7 @@
                 "file_id": null,
                 "id": 74900,
                 "is_extend_expire": 0,
-                "language": "",
+                "language": "en_US",
                 "pushing": 1,
                 "record_url": null,
                 "stream_name": "202_4901864_1",
@@ -795,85 +795,85 @@
             ],
             "walematchvideos": [
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 40,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 37,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "flv",
                 "video_url": "https://live.vivo200.com/live/sd-1-4480728.flv?txSecret=321c135541cfbd83c675425965e47ad2&txTime=6978CAC0"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 41,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 38,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "flv",
                 "video_url": "https://live1.trendgallary.com/live/l6kegi8wez9cv75_7ba62448159d8cafce7a0ce5058dcfe5.flv"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 42,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 39,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "flv",
                 "video_url": "rtmp://video6.letaocm.top/live/sd-1-4480728.flv"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 43,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 40,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "m3u8",
                 "video_url": "https://live.vivo200.com/live/sd-1-4480728.m3u8?txSecret=321c135541cfbd83c675425965e47ad2&txTime=6978CAC0"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 44,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 41,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "m3u8",
                 "video_url": "https://live1.trendgallary.com/live/l6kegi8wez9cv75_7ba62448159d8cafce7a0ce5058dcfe5.m3u8"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 45,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 42,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "m3u8",
-                "video_url": "https://v.lfsxfj.com/live/100451.m3u8?txSecret=a3f104a5f310dc6a337abfc1d105c1a0&txTime=697890A1&sign=c421f3709c869121"
+                "video_url": "https://v.lfsxfj.com/live/100451.m3u8?txSecret=a666308e538558b76b23efbd02ea1c3a&txTime=697897AA&sign=24e285dc5dd1fad6"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 46,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 43,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "h5",
-                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvVcpZtQGLAWZ6SvK.m3u8?txSecret=ba04d9e4c5189a8f2e3a77868ea6f1e5&txTime=6979D964"
+                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvVcpZtQGLAWZ6SvK.m3u8?txSecret=401ff8b43f87cb1a95d75d207c15483b&txTime=6979E06C"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 47,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 44,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "h5",
                 "video_url": "https://play.365live88.com/?url=https://live1.trendgallary.com/live/l6kegi8wez9cv75_7ba62448159d8cafce7a0ce5058dcfe5.m3u8"
               },
               {
-                "created_at": "2026-01-27 17:50:03",
-                "id": 48,
+                "created_at": "2026-01-27 18:20:02",
+                "id": 45,
                 "match_id": "1855278",
                 "playing": 1,
-                "updated_at": "2026-01-27 17:50:03",
+                "updated_at": "2026-01-27 18:20:02",
                 "v_type": "h5",
-                "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100451.m3u8?txSecret=a3f104a5f310dc6a337abfc1d105c1a0&txTime=697890A1&sign=c421f3709c869121"
+                "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100451.m3u8?txSecret=a666308e538558b76b23efbd02ea1c3a&txTime=697897AA&sign=24e285dc5dd1fad6"
               }
             ]
           }
@@ -902,12 +902,12 @@
           "short_name_zh": "布里斯班狼队",
           "short_name_zht": "布里斯班狼隊",
           "total_players": 0,
-          "updated_at": 1769503550,
+          "updated_at": 1769507450,
           "venue_id": 3438,
           "website": ""
         },
-        "home_score": 0,
-        "status": 2,
+        "home_score": 3,
+        "status": 3,
         "streams": true
       }
     ],
@@ -1023,7 +1023,7 @@
           },
           "competition_id": 602,
           "environment": {
-            "humidity": "47%",
+            "humidity": "48%",
             "pressure": "760mmHg",
             "temperature": "25°C",
             "weather": 5,
@@ -1261,7 +1261,7 @@
           },
           "competition_id": 602,
           "environment": {
-            "humidity": "47%",
+            "humidity": "48%",
             "pressure": "760mmHg",
             "temperature": "25°C",
             "weather": 5,
@@ -1741,7 +1741,7 @@
           "environment": {
             "humidity": "75%",
             "pressure": "768mmHg",
-            "temperature": "16°C",
+            "temperature": "17°C",
             "weather": 7,
             "wind": "1.2m/s"
           },
@@ -2217,7 +2217,7 @@
           "environment": {
             "humidity": "75%",
             "pressure": "768mmHg",
-            "temperature": "16°C",
+            "temperature": "17°C",
             "weather": 7,
             "wind": "1.2m/s"
           },
@@ -2494,7 +2494,7 @@
           "competition_id": 114,
           "environment": {
             "humidity": "84%",
-            "pressure": "754mmHg",
+            "pressure": "753mmHg",
             "temperature": "9°C",
             "weather": 10,
             "wind": "2.6m/s"
@@ -2798,7 +2798,7 @@
           "competition_id": 114,
           "environment": {
             "humidity": "84%",
-            "pressure": "754mmHg",
+            "pressure": "753mmHg",
             "temperature": "9°C",
             "weather": 10,
             "wind": "2.6m/s"
@@ -4573,7 +4573,7 @@
           },
           "competition_id": 129,
           "environment": {
-            "humidity": "88%",
+            "humidity": "89%",
             "pressure": "752mmHg",
             "temperature": "0°C",
             "weather": 7,
@@ -5281,7 +5281,7 @@
           },
           "competition_id": 129,
           "environment": {
-            "humidity": "88%",
+            "humidity": "89%",
             "pressure": "752mmHg",
             "temperature": "0°C",
             "weather": 7,
@@ -6419,7 +6419,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "37%",
+            "humidity": "39%",
             "pressure": "760mmHg",
             "temperature": "24°C",
             "weather": 1,
@@ -7093,7 +7093,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "37%",
+            "humidity": "39%",
             "pressure": "760mmHg",
             "temperature": "24°C",
             "weather": 1,
@@ -7731,9 +7731,9 @@
           },
           "competition_id": 1815,
           "environment": {
-            "humidity": "52%",
+            "humidity": "51%",
             "pressure": "760mmHg",
-            "temperature": "32°C",
+            "temperature": "33°C",
             "weather": 5,
             "wind": "2.3m/s"
           },
@@ -7969,9 +7969,9 @@
           },
           "competition_id": 1815,
           "environment": {
-            "humidity": "52%",
+            "humidity": "51%",
             "pressure": "760mmHg",
-            "temperature": "32°C",
+            "temperature": "33°C",
             "weather": 5,
             "wind": "2.3m/s"
           },
@@ -8209,11 +8209,11 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "82%",
+            "humidity": "80%",
             "pressure": "750mmHg",
             "temperature": "9°C",
             "weather": 7,
-            "wind": "5.1m/s"
+            "wind": "4.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8679,11 +8679,11 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "82%",
+            "humidity": "80%",
             "pressure": "750mmHg",
             "temperature": "9°C",
             "weather": 7,
-            "wind": "5.1m/s"
+            "wind": "4.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9389,9 +9389,9 @@
           },
           "competition_id": 6903,
           "environment": {
-            "humidity": "42%",
+            "humidity": "43%",
             "pressure": "760mmHg",
-            "temperature": "29°C",
+            "temperature": "28°C",
             "weather": 1,
             "wind": "2.0m/s"
           },
@@ -10103,9 +10103,9 @@
           },
           "competition_id": 6903,
           "environment": {
-            "humidity": "42%",
+            "humidity": "43%",
             "pressure": "760mmHg",
-            "temperature": "29°C",
+            "temperature": "28°C",
             "weather": 1,
             "wind": "2.0m/s"
           },
@@ -10831,7 +10831,7 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "66%",
+            "humidity": "65%",
             "pressure": "767mmHg",
             "temperature": "21°C",
             "weather": 1,
@@ -11069,11 +11069,11 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "53%",
+            "humidity": "54%",
             "pressure": "765mmHg",
             "temperature": "23°C",
             "weather": 7,
-            "wind": "4.5m/s"
+            "wind": "4.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11238,7 +11238,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "欣欣",
-              "online_status": 1,
+              "online_status": 9,
               "profile": {
                 "age": 22,
                 "birthday": "",
@@ -11795,7 +11795,7 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "66%",
+            "humidity": "65%",
             "pressure": "767mmHg",
             "temperature": "21°C",
             "weather": 1,
@@ -12033,11 +12033,11 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "53%",
+            "humidity": "54%",
             "pressure": "765mmHg",
             "temperature": "23°C",
             "weather": 7,
-            "wind": "4.5m/s"
+            "wind": "4.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12202,7 +12202,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "欣欣",
-              "online_status": 1,
+              "online_status": 9,
               "profile": {
                 "age": 22,
                 "birthday": "",
@@ -13469,7 +13469,7 @@
           "environment": {
             "humidity": "93%",
             "pressure": "749mmHg",
-            "temperature": "3°C",
+            "temperature": "4°C",
             "weather": 10,
             "wind": "2.0m/s"
           },
@@ -14663,7 +14663,7 @@
           "environment": {
             "humidity": "93%",
             "pressure": "749mmHg",
-            "temperature": "3°C",
+            "temperature": "4°C",
             "weather": 10,
             "wind": "2.0m/s"
           },
