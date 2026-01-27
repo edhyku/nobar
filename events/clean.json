@@ -1,26 +1,26 @@
 {
-  "updated": 1769505440,
+  "updated": 1769507479,
   "events": [
     {
       "league": "AUS QPS Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769506200,
       "home": "Brisbane Wolves",
       "away": "St George Willawong FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4480728.m3u8?txSecret=321c135541cfbd83c675425965e47ad2&txTime=6978CAC0"
       }
     },
     {
       "league": "AUS QPS Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769506200,
       "home": "Brisbane Wolves",
       "away": "St George Willawong FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4480728.m3u8?txSecret=321c135541cfbd83c675425965e47ad2&txTime=6978CAC0"
       }
     },
     {
@@ -476,13 +476,13 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769606100,
       "home": "Al-Dhafra",
       "away": "Al-Sharjah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2403885_1769499437.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -520,13 +520,13 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769606100,
       "home": "Al-Dhafra",
       "away": "Al-Sharjah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2403885_1769499437.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
