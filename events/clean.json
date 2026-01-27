@@ -1,5 +1,5 @@
 {
-  "updated": 1769536795,
+  "updated": 1769540093,
   "events": [
     {
       "league": "AUS W-League",
@@ -24,28 +24,6 @@
       }
     },
     {
-      "league": "BHR Premier League",
-      "status": "LIVE",
-      "time": 1769529600,
-      "home": "Al Hidd",
-      "away": "Bahrain SC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/67764782_e00f4a0dcc9c62e7bacf7f30e3e19edc.m3u8"
-      }
-    },
-    {
-      "league": "BHR Premier League",
-      "status": "LIVE",
-      "time": 1769529600,
-      "home": "Al Hidd",
-      "away": "Bahrain SC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/67764782_e00f4a0dcc9c62e7bacf7f30e3e19edc.m3u8"
-      }
-    },
-    {
       "league": "Coppa Italia",
       "status": "UPCOMING",
       "time": 1769544000,
@@ -124,13 +102,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769542200,
       "home": "SV Werder Bremen",
       "away": "TSG Hoffenheim",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769528068.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -146,13 +124,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769542200,
       "home": "SV Werder Bremen",
       "away": "TSG Hoffenheim",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769528068.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -533,6 +511,17 @@
       "league": "UEFA UCL",
       "status": "UPCOMING",
       "time": 1769630400,
+      "home": "AS Monaco",
+      "away": "Juventus",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
       "home": "AFC Ajax",
       "away": "Olympiakos Piraeus",
       "stream": {
@@ -656,6 +645,17 @@
       "time": 1769630400,
       "home": "Manchester City",
       "away": "Galatasaray",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA UCL",
+      "status": "UPCOMING",
+      "time": 1769630400,
+      "home": "AS Monaco",
+      "away": "Juventus",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
