@@ -1975,7 +1975,7 @@
             "pressure": "764mmHg",
             "temperature": "25°C",
             "weather": 5,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2649,7 +2649,7 @@
             "pressure": "764mmHg",
             "temperature": "25°C",
             "weather": 5,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2889,7 +2889,7 @@
             "pressure": "760mmHg",
             "temperature": "33°C",
             "weather": 1,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3127,7 +3127,7 @@
             "pressure": "760mmHg",
             "temperature": "33°C",
             "weather": 1,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3363,7 +3363,7 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "81%",
+            "humidity": "80%",
             "pressure": "755mmHg",
             "temperature": "13°C",
             "weather": 7,
@@ -3601,7 +3601,7 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "81%",
+            "humidity": "80%",
             "pressure": "755mmHg",
             "temperature": "13°C",
             "weather": 7,
@@ -5271,7 +5271,7 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "54%",
+            "humidity": "55%",
             "pressure": "765mmHg",
             "temperature": "23°C",
             "weather": 7,
@@ -5509,7 +5509,7 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "33%",
+            "humidity": "34%",
             "pressure": "765mmHg",
             "temperature": "25°C",
             "weather": 1,
@@ -5747,7 +5747,7 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "54%",
+            "humidity": "55%",
             "pressure": "765mmHg",
             "temperature": "23°C",
             "weather": 7,
@@ -5985,7 +5985,7 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "33%",
+            "humidity": "34%",
             "pressure": "765mmHg",
             "temperature": "25°C",
             "weather": 1,
@@ -7531,8 +7531,8 @@
           "short_name_en": "Marseille",
           "short_name_zh": "马赛",
           "short_name_zht": "馬賽",
-          "total_players": 31,
-          "updated_at": 1769552232,
+          "total_players": 30,
+          "updated_at": 1769554107,
           "venue_id": 1226,
           "website": "http://www.om.net/"
         },
@@ -7572,8 +7572,8 @@
             "short_name_en": "Marseille",
             "short_name_zh": "马赛",
             "short_name_zht": "馬賽",
-            "total_players": 31,
-            "updated_at": 1769552232,
+            "total_players": 30,
+            "updated_at": 1769554107,
             "venue_id": 1226,
             "website": "http://www.om.net/"
           },
@@ -8972,11 +8972,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "83%",
+            "humidity": "82%",
             "pressure": "763mmHg",
-            "temperature": "12°C",
-            "weather": 7,
-            "wind": "3.7m/s"
+            "temperature": "13°C",
+            "weather": 1,
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10914,8 +10914,8 @@
           "short_name_en": "Marseille",
           "short_name_zh": "马赛",
           "short_name_zht": "馬賽",
-          "total_players": 31,
-          "updated_at": 1769552232,
+          "total_players": 30,
+          "updated_at": 1769554107,
           "venue_id": 1226,
           "website": "http://www.om.net/"
         },
@@ -10955,8 +10955,8 @@
             "short_name_en": "Marseille",
             "short_name_zh": "马赛",
             "short_name_zht": "馬賽",
-            "total_players": 31,
-            "updated_at": 1769552232,
+            "total_players": 30,
+            "updated_at": 1769554107,
             "venue_id": 1226,
             "website": "http://www.om.net/"
           },
@@ -12355,11 +12355,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "83%",
+            "humidity": "82%",
             "pressure": "763mmHg",
-            "temperature": "12°C",
-            "weather": 7,
-            "wind": "3.7m/s"
+            "temperature": "13°C",
+            "weather": 1,
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
