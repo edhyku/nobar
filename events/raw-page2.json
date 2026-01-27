@@ -1263,11 +1263,11 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "58%",
+      "humidity": "59%",
       "pressure": "764mmHg",
       "temperature": "25°C",
       "weather": 5,
-      "wind": "5.6m/s"
+      "wind": "5.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1743,11 +1743,11 @@
      },
      "competition_id": 2915,
      "environment": {
-      "humidity": "80%",
+      "humidity": "81%",
       "pressure": "755mmHg",
       "temperature": "13°C",
       "weather": 7,
-      "wind": "6.5m/s"
+      "wind": "6.1m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2850,8 +2850,8 @@
      "short_name_en": "Al Sharjah",
      "short_name_zh": "沙迦",
      "short_name_zht": "沙迦",
-     "total_players": 37,
-     "updated_at": 1769406890,
+     "total_players": 36,
+     "updated_at": 1769552416,
      "venue_id": 9674,
      "website": "http://www.sharjahclub.org.ae/"
     },
@@ -2930,14 +2930,14 @@
       "short_name_en": "Al Sharjah",
       "short_name_zh": "沙迦",
       "short_name_zht": "沙迦",
-      "total_players": 37,
-      "updated_at": 1769406890,
+      "total_players": 36,
+      "updated_at": 1769552416,
       "venue_id": 9674,
       "website": "http://www.sharjahclub.org.ae/"
      },
      "competition_id": 627,
      "environment": {
-      "humidity": "34%",
+      "humidity": "33%",
       "pressure": "765mmHg",
       "temperature": "25°C",
       "weather": 1,
@@ -3138,11 +3138,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "91%",
+      "humidity": "90%",
       "pressure": "750mmHg",
       "temperature": "1°C",
       "weather": 7,
-      "wind": "4.3m/s"
+      "wind": "4.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3735,7 +3735,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "77%",
+      "humidity": "75%",
       "pressure": "756mmHg",
       "temperature": "7°C",
       "weather": 7,
@@ -4135,7 +4135,7 @@
      "environment": {
       "humidity": "92%",
       "pressure": "748mmHg",
-      "temperature": "3°C",
+      "temperature": "4°C",
       "weather": 10,
       "wind": "2.0m/s"
      },
@@ -4484,7 +4484,7 @@
      "short_name_zh": "马赛",
      "short_name_zht": "馬賽",
      "total_players": 31,
-     "updated_at": 1769551162,
+     "updated_at": 1769552232,
      "venue_id": 1226,
      "website": "http://www.om.net/"
     },
@@ -4525,7 +4525,7 @@
       "short_name_zh": "马赛",
       "short_name_zht": "馬賽",
       "total_players": 31,
-      "updated_at": 1769551162,
+      "updated_at": 1769552232,
       "venue_id": 1226,
       "website": "http://www.om.net/"
      },
@@ -5131,7 +5131,7 @@
       "humidity": "89%",
       "pressure": "749mmHg",
       "temperature": "5°C",
-      "weather": 5,
+      "weather": 1,
       "wind": "4.0m/s"
      },
      "explain": "",
@@ -5331,7 +5331,7 @@
       "pressure": "749mmHg",
       "temperature": "4°C",
       "weather": 1,
-      "wind": "1.8m/s"
+      "wind": "1.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5729,7 +5729,7 @@
       "pressure": "749mmHg",
       "temperature": "12°C",
       "weather": 7,
-      "wind": "4.5m/s"
+      "wind": "4.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5924,7 +5924,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "82%",
+      "humidity": "83%",
       "pressure": "763mmHg",
       "temperature": "12°C",
       "weather": 7,
