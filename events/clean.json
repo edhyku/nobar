@@ -1,26 +1,26 @@
 {
-  "updated": 1769479749,
+  "updated": 1769486110,
   "events": [
     {
       "league": "AUS QPS Cup",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769506200,
       "home": "Brisbane Wolves",
       "away": "St George Willawong FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/810230_1769474900.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "AUS QPS Cup",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769506200,
       "home": "Brisbane Wolves",
       "away": "St George Willawong FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/810230_1769474900.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
