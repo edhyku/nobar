@@ -1,5 +1,5 @@
 {
-  "updated": 1769522713,
+  "updated": 1769525413,
   "events": [
     {
       "league": "AUS W-League",
@@ -91,13 +91,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769526000,
       "home": "Al Ahly FC",
       "away": "Wadi Degla SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769525184.flv"
       }
     },
     {
@@ -113,13 +113,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769526000,
       "home": "Al Ahly FC",
       "away": "Wadi Degla SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769525184.flv"
       }
     },
     {
@@ -311,13 +311,13 @@
     },
     {
       "league": "POR U23",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769526000,
       "home": "Famalicao U23",
       "away": "Academico Viseu U23",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769525180.flv"
       }
     },
     {
@@ -333,13 +333,13 @@
     },
     {
       "league": "POR U23",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769526000,
       "home": "Famalicao U23",
       "away": "Academico Viseu U23",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769525180.flv"
       }
     },
     {
