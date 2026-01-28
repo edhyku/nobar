@@ -113,11 +113,11 @@
      },
      "competition_id": 730,
      "environment": {
-      "humidity": "35%",
+      "humidity": "34%",
       "pressure": "763mmHg",
       "temperature": "19°C",
       "weather": 1,
-      "wind": "7.3m/s"
+      "wind": "7.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -391,7 +391,7 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "29%",
+      "humidity": "30%",
       "pressure": "765mmHg",
       "temperature": "20°C",
       "weather": 5,
@@ -1472,7 +1472,7 @@
      "environment": {
       "humidity": "97%",
       "pressure": "759mmHg",
-      "temperature": "15°C",
+      "temperature": "16°C",
       "weather": 10,
       "wind": "7.0m/s"
      },
@@ -1950,11 +1950,11 @@
      },
      "competition_id": 6903,
      "environment": {
-      "humidity": "69%",
+      "humidity": "70%",
       "pressure": "759mmHg",
-      "temperature": "29°C",
+      "temperature": "28°C",
       "weather": 7,
-      "wind": "3.7m/s"
+      "wind": "3.4m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2809,8 +2809,8 @@
      "logo_handle": 1,
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",
      "manager_id": 0,
-     "market_value": 147900000,
-     "market_value_currency": "",
+     "market_value": 146400000,
+     "market_value_currency": "€",
      "name_en": "Sporting Braga",
      "name_zh": "布拉加",
      "name_zht": "布拉加",
@@ -2820,7 +2820,7 @@
      "short_name_zh": "布拉加",
      "short_name_zht": "布拉加",
      "total_players": 30,
-     "updated_at": 1769016350,
+     "updated_at": 1769642573,
      "venue_id": 1300,
      "website": "http://www.scbraga.pt"
     },
@@ -2850,8 +2850,8 @@
       "logo_handle": 1,
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",
       "manager_id": 0,
-      "market_value": 147900000,
-      "market_value_currency": "",
+      "market_value": 146400000,
+      "market_value_currency": "€",
       "name_en": "Sporting Braga",
       "name_zh": "布拉加",
       "name_zht": "布拉加",
@@ -2861,13 +2861,13 @@
       "short_name_zh": "布拉加",
       "short_name_zht": "布拉加",
       "total_players": 30,
-      "updated_at": 1769016350,
+      "updated_at": 1769642573,
       "venue_id": 1300,
       "website": "http://www.scbraga.pt"
      },
      "competition_id": 47,
      "environment": {
-      "humidity": "92%",
+      "humidity": "93%",
       "pressure": "752mmHg",
       "temperature": "0°C",
       "weather": 4,
@@ -4065,7 +4065,7 @@
       "pressure": "760mmHg",
       "temperature": "13°C",
       "weather": 9,
-      "wind": "4.3m/s"
+      "wind": "4.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4858,7 +4858,7 @@
      "competition_id": 47,
      "environment": {
       "humidity": "77%",
-      "pressure": "758mmHg",
+      "pressure": "759mmHg",
       "temperature": "-2°C",
       "weather": 7,
       "wind": "6.5m/s"
