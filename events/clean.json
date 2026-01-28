@@ -1,26 +1,26 @@
 {
-  "updated": 1769623273,
+  "updated": 1769626300,
   "events": [
     {
       "league": "EGY Premier League",
       "status": "LIVE",
       "time": 1769623200,
-      "home": "Pyramids FC",
-      "away": "El Gounah",
+      "home": "Al Masry",
+      "away": "Ceramica Cleopatra FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769622497.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399249.m3u8?txSecret=be347a0466dbcb40dde27e81028e6db9&txTime=697A974C"
       }
     },
     {
       "league": "EGY Premier League",
       "status": "LIVE",
       "time": 1769623200,
-      "home": "Al Masry",
-      "away": "Ceramica Cleopatra FC",
+      "home": "Pyramids FC",
+      "away": "El Gounah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769622616.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399247.m3u8?txSecret=dd8dc1d62799ac30e35eb6536c357ec4&txTime=697A974C"
       }
     },
     {
@@ -38,22 +38,22 @@
       "league": "EGY Premier League",
       "status": "LIVE",
       "time": 1769623200,
-      "home": "Pyramids FC",
-      "away": "El Gounah",
+      "home": "Al Masry",
+      "away": "Ceramica Cleopatra FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769622497.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399249.m3u8?txSecret=be347a0466dbcb40dde27e81028e6db9&txTime=697A974C"
       }
     },
     {
       "league": "EGY Premier League",
       "status": "LIVE",
       "time": 1769623200,
-      "home": "Al Masry",
-      "away": "Ceramica Cleopatra FC",
+      "home": "Pyramids FC",
+      "away": "El Gounah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769622616.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399247.m3u8?txSecret=dd8dc1d62799ac30e35eb6536c357ec4&txTime=697A974C"
       }
     },
     {
@@ -65,6 +65,28 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FIFA WCC",
+      "status": "LIVE",
+      "time": 1769623200,
+      "home": "Arsenal Women",
+      "away": "AS FAR Rabat Women",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769622497.flv"
+      }
+    },
+    {
+      "league": "FIFA WCC",
+      "status": "LIVE",
+      "time": 1769623200,
+      "home": "Arsenal Women",
+      "away": "AS FAR Rabat Women",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769622497.flv"
       }
     },
     {
@@ -75,7 +97,7 @@
       "away": "Al Khaleej Club",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404577.m3u8?txSecret=cc38d30545fc251cc9569f7e807e547b&txTime=697A7B2D"
+        "url": "https://live.vivo200.com/live/sd-1-4404577.m3u8?txSecret=e1286566f1bb2895d1181f4d09ebb146&txTime=697A974C"
       }
     },
     {
@@ -130,7 +152,7 @@
       "away": "Al Khaleej Club",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404577.m3u8?txSecret=cc38d30545fc251cc9569f7e807e547b&txTime=697A7B2D"
+        "url": "https://live.vivo200.com/live/sd-1-4404577.m3u8?txSecret=e1286566f1bb2895d1181f4d09ebb146&txTime=697A974C"
       }
     },
     {
@@ -307,17 +329,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
-      "time": 1769616000,
-      "home": "Al-Wasl SC",
-      "away": "Khor Fakkan SSC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4477051.m3u8?txSecret=9067905fc67b8a6b65a435864e2d43e6&txTime=697A767D"
       }
     },
     {
@@ -329,17 +340,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
-      "time": 1769616000,
-      "home": "Al-Wasl SC",
-      "away": "Khor Fakkan SSC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4477051.m3u8?txSecret=9067905fc67b8a6b65a435864e2d43e6&txTime=697A767D"
       }
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769630400,
       "home": "Atletico Madrid",
       "away": "Bodo Glimt",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769615047.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -531,13 +531,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769630400,
       "home": "Atletico Madrid",
       "away": "Bodo Glimt",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769615047.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
