@@ -1,5 +1,5 @@
 {
-  "updated": 1769616061,
+  "updated": 1769619242,
   "events": [
     {
       "league": "EGY Premier League",
@@ -75,7 +75,7 @@
       "away": "Al Diraiyah",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=86fc64ac859abfc8cfeb1ec72a92867b&txTime=697A37E9&sign=55cb5b0ddd21b65f"
+        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=a20bbd5ec9b422b7399981d8b12b5d0d&txTime=697A4491&sign=1c03f7526ae074b7"
       }
     },
     {
@@ -86,7 +86,7 @@
       "away": "Al Diraiyah",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=86fc64ac859abfc8cfeb1ec72a92867b&txTime=697A37E9&sign=55cb5b0ddd21b65f"
+        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=a20bbd5ec9b422b7399981d8b12b5d0d&txTime=697A4491&sign=1c03f7526ae074b7"
       }
     },
     {
@@ -96,8 +96,8 @@
       "home": "Al Najma(KSA)",
       "away": "Al Riyadh",
       "stream": {
-        "type": "m3u8",
-        "url": "https://play2.clomidx.com/live/112327057592_2519799806_adaptive.m3u8"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769612633.flv"
       }
     },
     {
@@ -129,8 +129,8 @@
       "home": "Al Najma(KSA)",
       "away": "Al Riyadh",
       "stream": {
-        "type": "m3u8",
-        "url": "https://play2.clomidx.com/live/112327057592_2519799806_adaptive.m3u8"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769612633.flv"
       }
     },
     {
@@ -316,8 +316,8 @@
       "home": "Al-Wasl SC",
       "away": "Khor Fakkan SSC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769615047.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4477051.m3u8?txSecret=9067905fc67b8a6b65a435864e2d43e6&txTime=697A767D"
       }
     },
     {
@@ -338,8 +338,8 @@
       "home": "Al-Wasl SC",
       "away": "Khor Fakkan SSC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769615047.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4477051.m3u8?txSecret=9067905fc67b8a6b65a435864e2d43e6&txTime=697A767D"
       }
     },
     {
