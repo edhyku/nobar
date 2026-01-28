@@ -1,5 +1,5 @@
 {
-  "updated": 1769572676,
+  "updated": 1769575933,
   "events": [
     {
       "league": "AUS W-League",
@@ -135,24 +135,24 @@
     },
     {
       "league": "MYA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769590800,
       "home": "Yarmanya United FC",
       "away": "Mahar United",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769564081.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "MYA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769590800,
       "home": "Yarmanya United FC",
       "away": "Mahar United",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769564081.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
