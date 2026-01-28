@@ -113,11 +113,11 @@
      },
      "competition_id": 730,
      "environment": {
-      "humidity": "34%",
+      "humidity": "35%",
       "pressure": "763mmHg",
       "temperature": "19°C",
       "weather": 1,
-      "wind": "7.0m/s"
+      "wind": "7.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -327,7 +327,7 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 737100,
+        "hot": 923300,
         "isvideo": 0,
         "liveid": 1769629290195,
         "livestream_source": 4,
@@ -337,7 +337,7 @@
         "peak_num": 328,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 23,
+        "private_count": 28,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/1990195_1769628300.flv",
         "rec_weight": 1,
@@ -447,17 +447,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 549000,
+        "hot": 754300,
         "isvideo": 0,
         "liveid": 1769629566612,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 223,
+        "peak_num": 238,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 9,
+        "private_count": 11,
         "profit": 88,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2359612_1769629528.flv",
         "rec_weight": 1,
@@ -555,11 +555,11 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "29%",
+      "humidity": "30%",
       "pressure": "765mmHg",
       "temperature": "20°C",
       "weather": 5,
-      "wind": "4.5m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -754,7 +754,7 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "75%",
+      "humidity": "74%",
       "pressure": "766mmHg",
       "temperature": "16°C",
       "weather": 5,
@@ -953,7 +953,7 @@
      },
      "competition_id": 614,
      "environment": {
-      "humidity": "27%",
+      "humidity": "26%",
       "pressure": "766mmHg",
       "temperature": "15°C",
       "weather": 5,
@@ -1398,7 +1398,7 @@
       "pressure": "760mmHg",
       "temperature": "33°C",
       "weather": 7,
-      "wind": "2.0m/s"
+      "wind": "1.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1634,7 +1634,7 @@
      },
      "competition_id": 2915,
      "environment": {
-      "humidity": "97%",
+      "humidity": "98%",
       "pressure": "760mmHg",
       "temperature": "15°C",
       "weather": 9,
@@ -1874,9 +1874,9 @@
      },
      "competition_id": 646,
      "environment": {
-      "humidity": "58%",
+      "humidity": "57%",
       "pressure": "764mmHg",
-      "temperature": "19°C",
+      "temperature": "20°C",
       "weather": 5,
       "wind": "5.1m/s"
      },
@@ -2830,7 +2830,7 @@
      },
      "competition_id": 627,
      "environment": {
-      "humidity": "52%",
+      "humidity": "50%",
       "pressure": "763mmHg",
       "temperature": "24°C",
       "weather": 5,
@@ -3230,7 +3230,7 @@
      },
      "competition_id": 47,
      "environment": {
-      "humidity": "94%",
+      "humidity": "93%",
       "pressure": "750mmHg",
       "temperature": "3°C",
       "weather": 7,
@@ -3429,11 +3429,11 @@
      },
      "competition_id": 47,
      "environment": {
-      "humidity": "88%",
+      "humidity": "87%",
       "pressure": "747mmHg",
       "temperature": "3°C",
       "weather": 7,
-      "wind": "5.3m/s"
+      "wind": "5.6m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3632,7 +3632,7 @@
       "pressure": "751mmHg",
       "temperature": "1°C",
       "weather": 7,
-      "wind": "1.5m/s"
+      "wind": "1.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3842,7 +3842,7 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 763500,
+        "hot": 940300,
         "isvideo": 0,
         "liveid": 1769630079226,
         "livestream_source": 4,
@@ -3852,7 +3852,7 @@
         "peak_num": 189,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 20,
+        "private_count": 26,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2048226_1769630046.flv",
         "rec_weight": 1,
@@ -3881,7 +3881,7 @@
         "title": "欧冠 阿森纳VS凯拉特"
        },
        "nick_name": "格子",
-       "online_status": 1,
+       "online_status": 9,
        "profile": {
         "age": 22,
         "birthday": "",
@@ -3919,7 +3919,7 @@
      "away_rank": "哈萨克超1",
      "away_redcard": 0,
      "away_score": 1,
-     "away_yellowcard": 0,
+     "away_yellowcard": 1,
      "awayteam": {
       "competition_id": 356,
       "country_id": 39,
@@ -3950,14 +3950,14 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "89%",
+      "humidity": "92%",
       "pressure": "749mmHg",
-      "temperature": "5°C",
+      "temperature": "4°C",
       "weather": 1,
-      "wind": "1.1m/s"
+      "wind": "0.1m/s"
      },
      "explain": "",
-     "home_corner": 3,
+     "home_corner": 10,
      "home_halfscore": 3,
      "home_id": 10215,
      "home_otscrore": 0,
@@ -4000,7 +4000,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634255,
      "live": {
       "away": "凯拉特",
       "comp": "欧冠",
@@ -4009,7 +4009,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415296,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415296",
       "pushurl1_status": 1,
@@ -4052,7 +4052,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -4076,8 +4076,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/f29bbd04b8bd495396143281e14a8815",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "79",
+      "status_id": 3,
       "stream_id": "206854066",
       "third_id": "4415296",
       "wale_match_id": "1764322",
@@ -4107,74 +4107,92 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 31,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 25,
         "match_id": "1764322",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "flv",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415296.flv?txSecret=4496ad4f8ea6777d5e18bc42dacba07a\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 26,
+        "match_id": "1764322",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
         "video_url": "rtmp://video7.letaocm.top/live/sd-1-4415296.flv"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 32,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 27,
         "match_id": "1764322",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "m3u8",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415296.m3u8?txSecret=4496ad4f8ea6777d5e18bc42dacba07a\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 28,
+        "match_id": "1764322",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://v.lfsxfj.com/live/100462.m3u8?txSecret=0c0bee7c99e62359f41fab7b39a18352\u0026txTime=697A7462\u0026sign=01d77523de295357"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 33,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 29,
         "match_id": "1764322",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play3.clomidx.com/live/1199096029_3669484407_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 34,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 30,
         "match_id": "1764322",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play3.clomidx.com/live/1199096029_3669484407_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 35,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 31,
         "match_id": "1764322",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfbKLiqo75xQJK.m3u8?txSecret=15003646d412f5f38cca39c179b8bb01\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfbKLiqo75xQJK.m3u8?txSecret=8c3a9ada653acb479b0c57b57674883e\u0026txTime=697BD14B"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 36,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 32,
         "match_id": "1764322",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100462.m3u8?txSecret=0c0bee7c99e62359f41fab7b39a18352\u0026txTime=697A7462\u0026sign=01d77523de295357"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 37,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 33,
         "match_id": "1764322",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play3.clomidx.com/live/1199096029_3669484407_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 38,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 34,
         "match_id": "1764322",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play3.clomidx.com/live/1199096029_3669484407_adaptive.m3u8"
        }
@@ -4210,7 +4228,7 @@
      "website": "http://www.arsenal.com"
     },
     "home_score": 3,
-    "status": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -4242,7 +4260,7 @@
      "venue_id": 1274,
      "website": "http://www.scp.pt/"
     },
-    "away_score": 1,
+    "away_score": 2,
     "data": {
      "anchors": [
       {
@@ -4298,17 +4316,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 364900,
+        "hot": 505500,
         "isvideo": 0,
         "liveid": 1769630390279,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 47,
+        "peak_num": 59,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 3,
+        "private_count": 4,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2360279_1769630332.flv",
         "rec_weight": 1,
@@ -4367,15 +4385,15 @@
       }
      ],
      "animation_url": "",
-     "away_corner": 2,
+     "away_corner": 5,
      "away_halfscore": 1,
      "away_id": 10206,
      "away_otscrore": 0,
      "away_pointscore": 0,
      "away_rank": "葡超2",
      "away_redcard": 0,
-     "away_score": 1,
-     "away_yellowcard": 2,
+     "away_score": 2,
+     "away_yellowcard": 4,
      "awayteam": {
       "competition_id": 151,
       "country_id": 6,
@@ -4406,11 +4424,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "64%",
+      "humidity": "59%",
       "pressure": "751mmHg",
-      "temperature": "11°C",
+      "temperature": "10°C",
       "weather": 1,
-      "wind": "3.1m/s"
+      "wind": "1.1m/s"
      },
      "explain": "",
      "home_corner": 3,
@@ -4421,7 +4439,7 @@
      "home_rank": "西甲13",
      "home_redcard": 0,
      "home_score": 2,
-     "home_yellowcard": 2,
+     "home_yellowcard": 3,
      "hometeam": {
       "competition_id": 120,
       "country_id": 3,
@@ -4456,7 +4474,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634257,
      "live": {
       "away": "葡萄牙体育",
       "comp": "欧冠",
@@ -4465,7 +4483,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415305,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415305",
       "pushurl1_status": 1,
@@ -4508,7 +4526,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -4518,7 +4536,7 @@
       "away_name": "葡萄牙体育|士砵亭|SCP",
       "away_overtime_score": 0,
       "away_penalty_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "game_type": 6,
       "has_live": 1,
       "home_half_score": 2,
@@ -4532,8 +4550,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/221a15452373440eb1391a36ae9f0e0b",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "79",
+      "status_id": 3,
       "stream_id": "206854067",
       "third_id": "4415305",
       "wale_match_id": "1764331",
@@ -4563,74 +4581,92 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 39,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 35,
         "match_id": "1764331",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "flv",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415305.flv?txSecret=ddac3efb1e7fa93c3643187c56f27281\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 36,
+        "match_id": "1764331",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
         "video_url": "rtmp://video7.letaocm.top/live/sd-1-4415305.flv"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 40,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 37,
         "match_id": "1764331",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
-        "video_url": "https://v.lfsxfj.com/live/100333.m3u8?txSecret=5e7824dd72d11351015d691babf6cab3\u0026txTime=697A7D86\u0026sign=04133add328c07f7"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415305.m3u8?txSecret=ddac3efb1e7fa93c3643187c56f27281\u0026txTime=697AC17D"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 41,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 38,
         "match_id": "1764331",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "m3u8",
+        "video_url": "https://v.lfsxfj.com/live/100333.m3u8?txSecret=b84793023cb2a4cfbcf8b3a451ffd648\u0026txTime=697A875E\u0026sign=43206c03e1502ee5"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 39,
+        "match_id": "1764331",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play5.clomidx.com/live/112299951238_2046456050_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 42,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 40,
         "match_id": "1764331",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play5.clomidx.com/live/112299951238_2046456050_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
+        "created_at": "2026-01-29 05:35:01",
+        "id": 41,
+        "match_id": "1764331",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "h5",
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5fSW3QeBnjh.m3u8?txSecret=170a5e68018c353f529f03512321ef68\u0026txTime=697BD14B"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 42,
+        "match_id": "1764331",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "h5",
+        "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100333.m3u8?txSecret=b84793023cb2a4cfbcf8b3a451ffd648\u0026txTime=697A875E\u0026sign=43206c03e1502ee5"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
         "id": 43,
         "match_id": "1764331",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
-        "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5fSW3QeBnjh.m3u8?txSecret=1c92daf5754ab47d6a77a0692b419feb\u0026txTime=697BC6C0"
-       },
-       {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 44,
-        "match_id": "1764331",
-        "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
-        "v_type": "h5",
-        "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100333.m3u8?txSecret=5e7824dd72d11351015d691babf6cab3\u0026txTime=697A7D86\u0026sign=04133add328c07f7"
-       },
-       {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 45,
-        "match_id": "1764331",
-        "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play5.clomidx.com/live/112299951238_2046456050_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 46,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 44,
         "match_id": "1764331",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play5.clomidx.com/live/112299951238_2046456050_adaptive.m3u8"
        }
@@ -4666,7 +4702,7 @@
      "website": "http://www.athletic-club.net"
     },
     "home_score": 2,
-    "status": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -4698,7 +4734,7 @@
      "venue_id": 1345,
      "website": "http://www.glimt.no/"
     },
-    "away_score": 1,
+    "away_score": 2,
     "data": {
      "anchors": [
       {
@@ -4754,17 +4790,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 418700,
+        "hot": 705600,
         "isvideo": 0,
         "liveid": 1769629691260,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 70,
+        "peak_num": 116,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 5,
+        "private_count": 10,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2398260_1769629571.flv",
         "rec_weight": 1,
@@ -4830,8 +4866,8 @@
      "away_pointscore": 0,
      "away_rank": "挪超2",
      "away_redcard": 0,
-     "away_score": 1,
-     "away_yellowcard": 0,
+     "away_score": 2,
+     "away_yellowcard": 1,
      "awayteam": {
       "competition_id": 201,
       "country_id": 12,
@@ -4862,14 +4898,14 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "77%",
+      "humidity": "82%",
       "pressure": "756mmHg",
       "temperature": "7°C",
-      "weather": 7,
-      "wind": "3.1m/s"
+      "weather": 1,
+      "wind": "4.1m/s"
      },
      "explain": "",
-     "home_corner": 8,
+     "home_corner": 10,
      "home_halfscore": 1,
      "home_id": 10251,
      "home_otscrore": 0,
@@ -4877,7 +4913,7 @@
      "home_rank": "西甲3",
      "home_redcard": 0,
      "home_score": 1,
-     "home_yellowcard": 0,
+     "home_yellowcard": 1,
      "hometeam": {
       "competition_id": 120,
       "country_id": 3,
@@ -4912,7 +4948,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634286,
      "live": {
       "away": "博德闪耀",
       "comp": "欧冠",
@@ -4921,7 +4957,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415306,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415306",
       "pushurl1_status": 1,
@@ -4964,7 +5000,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -4974,7 +5010,7 @@
       "away_name": "博德闪耀|波杜基林特|FK Bodo/Glimt",
       "away_overtime_score": 0,
       "away_penalty_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "game_type": 6,
       "has_live": 1,
       "home_half_score": 1,
@@ -4988,8 +5024,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/5b587c58fdb84fd2986e583c05e28e9e",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "79",
+      "status_id": 3,
       "stream_id": "206854076",
       "third_id": "4415306",
       "wale_match_id": "1764336",
@@ -5019,22 +5055,40 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
+        "created_at": "2026-01-29 05:35:01",
+        "id": 45,
+        "match_id": "1764336",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "flv",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415306.flv?txSecret=a3a9e6f95381aa6e77f20efcb321c9fa\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 46,
+        "match_id": "1764336",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "m3u8",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415306.m3u8?txSecret=a3a9e6f95381aa6e77f20efcb321c9fa\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
         "id": 47,
         "match_id": "1764336",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://live.vivo200.com/live/sd-1-4415306.m3u8?txSecret=30890b3d618c238d0ea0a989677c893e\u0026txTime=697AA565"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
+        "created_at": "2026-01-29 05:35:01",
         "id": 48,
         "match_id": "1764336",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5fZ6V25fYCP.m3u8?txSecret=0d1ba4e4af332e4a8bf240538667878e\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5fZ6V25fYCP.m3u8?txSecret=809c6da3a7812b38d1b31cb535c53463\u0026txTime=697BD14B"
        }
       ]
      }
@@ -5068,7 +5122,7 @@
      "website": "http://www.clubatleticodemadrid.com"
     },
     "home_score": 1,
-    "status": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -5156,17 +5210,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 1377000,
+        "hot": 1817800,
         "isvideo": 0,
         "liveid": 1769629531881,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 607,
+        "peak_num": 613,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 43,
+        "private_count": 51,
         "profit": 88,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/1063881_1769629474.flv",
         "rec_weight": 1,
@@ -5264,21 +5318,21 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "61%",
+      "humidity": "64%",
       "pressure": "751mmHg",
       "temperature": "9°C",
       "weather": 1,
-      "wind": "6.1m/s"
+      "wind": "5.1m/s"
      },
      "explain": "",
-     "home_corner": 6,
+     "home_corner": 9,
      "home_halfscore": 0,
      "home_id": 10015,
      "home_otscrore": 0,
      "home_pointscore": 0,
      "home_rank": "西甲1",
      "home_redcard": 0,
-     "home_score": 0,
+     "home_score": 3,
      "home_yellowcard": 1,
      "hometeam": {
       "competition_id": 120,
@@ -5314,7 +5368,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634252,
      "live": {
       "away": "哥本哈根",
       "comp": "欧冠",
@@ -5323,7 +5377,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415311,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415311",
       "pushurl1_status": 1,
@@ -5366,7 +5420,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -5385,13 +5439,13 @@
       "home_name": "巴萨|巴塞隆拿|Barcelona",
       "home_overtime_score": 0,
       "home_penalty_score": 0,
-      "home_score": 0,
+      "home_score": 3,
       "league_id": "716711",
       "league_logo": "https://photo.365live88.com/img/fb/cup/48758309d2e842a2a259ba3f7e394653",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "79",
+      "status_id": 3,
       "stream_id": "206854081",
       "third_id": "4415311",
       "wale_match_id": "1764341",
@@ -5421,65 +5475,83 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
+        "created_at": "2026-01-29 05:35:01",
         "id": 49,
         "match_id": "1764341",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
-        "v_type": "m3u8",
-        "video_url": "https://v.lfsxfj.com/live/100479.m3u8?txSecret=7e11ad24c7beacc3d56fd234b6b99b02\u0026txTime=697A7D85\u0026sign=d1399d243b513187"
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "flv",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415311.flv?txSecret=e328d8112de804c18ba6dd3ac226cd1d\u0026txTime=697AC17D"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
+        "created_at": "2026-01-29 05:35:01",
         "id": 50,
         "match_id": "1764341",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "m3u8",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415311.m3u8?txSecret=e328d8112de804c18ba6dd3ac226cd1d\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 51,
+        "match_id": "1764341",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "m3u8",
+        "video_url": "https://v.lfsxfj.com/live/100479.m3u8?txSecret=465828f621c55723742683dfa411856f\u0026txTime=697A875E\u0026sign=a5c5ce3244eda721"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 52,
+        "match_id": "1764341",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play1.clomidx.com/live/114221177708_1652746799_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 51,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 53,
         "match_id": "1764341",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play1.clomidx.com/live/114221177708_1652746799_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 52,
-        "match_id": "1764341",
-        "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
-        "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5Vb377uPWrb.m3u8?txSecret=a5c6399e5c66075d16c2c5f9ddaf6578\u0026txTime=697BC6C0"
-       },
-       {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 53,
-        "match_id": "1764341",
-        "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
-        "v_type": "h5",
-        "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100479.m3u8?txSecret=7e11ad24c7beacc3d56fd234b6b99b02\u0026txTime=697A7D85\u0026sign=d1399d243b513187"
-       },
-       {
-        "created_at": "2026-01-29 04:55:02",
+        "created_at": "2026-01-29 05:35:01",
         "id": 54,
         "match_id": "1764341",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "h5",
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5Vb377uPWrb.m3u8?txSecret=d93fac599a22093a2b3090dc3302ac62\u0026txTime=697BD14B"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 55,
+        "match_id": "1764341",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "h5",
+        "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100479.m3u8?txSecret=465828f621c55723742683dfa411856f\u0026txTime=697A875E\u0026sign=a5c5ce3244eda721"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 56,
+        "match_id": "1764341",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play1.clomidx.com/live/114221177708_1652746799_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 55,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 57,
         "match_id": "1764341",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play1.clomidx.com/live/114221177708_1652746799_adaptive.m3u8"
        }
@@ -5514,8 +5586,8 @@
      "venue_id": 1123,
      "website": "http://www.fcbarcelona.com"
     },
-    "home_score": 0,
-    "status": 3,
+    "home_score": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -5603,7 +5675,7 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 367500,
+        "hot": 490400,
         "isvideo": 0,
         "liveid": 1769629770729,
         "livestream_source": 4,
@@ -5613,7 +5685,7 @@
         "peak_num": 31,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 7,
+        "private_count": 10,
         "profit": 199998,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2380729_1769628397.flv",
         "rec_weight": 1,
@@ -5680,7 +5752,7 @@
      "away_rank": "西甲4",
      "away_redcard": 0,
      "away_score": 0,
-     "away_yellowcard": 1,
+     "away_yellowcard": 3,
      "awayteam": {
       "competition_id": 120,
       "country_id": 3,
@@ -5712,10 +5784,10 @@
      "competition_id": 46,
      "environment": {
       "humidity": "100%",
-      "pressure": "748mmHg",
+      "pressure": "749mmHg",
       "temperature": "1°C",
       "weather": 7,
-      "wind": "2.1m/s"
+      "wind": "1.1m/s"
      },
      "explain": "",
      "home_corner": 1,
@@ -5725,7 +5797,7 @@
      "home_pointscore": 0,
      "home_rank": "德甲6",
      "home_redcard": 0,
-     "home_score": 2,
+     "home_score": 3,
      "home_yellowcard": 0,
      "hometeam": {
       "competition_id": 129,
@@ -5761,7 +5833,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634330,
      "live": {
       "away": "比利亚雷亚尔",
       "comp": "欧冠",
@@ -5770,7 +5842,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415317,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415317",
       "pushurl1_status": 1,
@@ -5813,7 +5885,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -5832,13 +5904,13 @@
       "home_name": "勒沃库森|利華古遜|Bayer Leverkusen",
       "home_overtime_score": 0,
       "home_penalty_score": 0,
-      "home_score": 2,
+      "home_score": 3,
       "league_id": "716711",
       "league_logo": "https://photo.365live88.com/img/fb/cup/595e4e622d294045a19f38cc77c0ec09",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "78",
+      "status_id": 3,
       "stream_id": "206854061",
       "third_id": "4415317",
       "wale_match_id": "1764347",
@@ -5868,74 +5940,92 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 56,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 58,
         "match_id": "1764347",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "flv",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415317.flv?txSecret=1f633052e0c3e66ba0c907c38c4e4694\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 59,
+        "match_id": "1764347",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
         "video_url": "rtmp://video7.letaocm.top/live/sd-1-4415317.flv"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 57,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 60,
         "match_id": "1764347",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
-        "video_url": "https://v.lfsxfj.com/live/100508.m3u8?txSecret=e2b6ac5355b3f950b90bf26ade92592d\u0026txTime=697A7D85\u0026sign=371bf60b30bfbd92"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415317.m3u8?txSecret=1f633052e0c3e66ba0c907c38c4e4694\u0026txTime=697AC17D"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 58,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 61,
         "match_id": "1764347",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "m3u8",
+        "video_url": "https://v.lfsxfj.com/live/100508.m3u8?txSecret=f567569195278d0121e0674f5b05a951\u0026txTime=697A875E\u0026sign=2d5802baf3f8ce85"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 62,
+        "match_id": "1764347",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play1.clomidx.com/live/111818813880_4051954670_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 59,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 63,
         "match_id": "1764347",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play1.clomidx.com/live/111818813880_4051954670_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 60,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 64,
         "match_id": "1764347",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5VpDzLnM1my.m3u8?txSecret=bf0ddfc451ff17938d9b609d7d29cbdf\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5VpDzLnM1my.m3u8?txSecret=869718ca69863258f6ec9d3462787307\u0026txTime=697BD14B"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 61,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 65,
         "match_id": "1764347",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100508.m3u8?txSecret=e2b6ac5355b3f950b90bf26ade92592d\u0026txTime=697A7D85\u0026sign=371bf60b30bfbd92"
+        "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100508.m3u8?txSecret=f567569195278d0121e0674f5b05a951\u0026txTime=697A875E\u0026sign=2d5802baf3f8ce85"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 62,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 66,
         "match_id": "1764347",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play1.clomidx.com/live/111818813880_4051954670_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 63,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 67,
         "match_id": "1764347",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play1.clomidx.com/live/111818813880_4051954670_adaptive.m3u8"
        }
@@ -5970,8 +6060,8 @@
      "venue_id": 1039,
      "website": "http://www.bayer04.de"
     },
-    "home_score": 2,
-    "status": 3,
+    "home_score": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -6003,14 +6093,14 @@
      "venue_id": 1157,
      "website": "http://www.realmadrid.com"
     },
-    "away_score": 1,
+    "away_score": 2,
     "data": {
      "anchors": [
       {
        "account": "13649797258",
        "anchor_level": 20,
        "avatar": "https://wtsymycyh.99kq.top/xzbonline-1320133718/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-12-12%20122723_1733977896285.png",
-       "diamond": 10489152,
+       "diamond": 10495674,
        "has_mobile": 1,
        "id": 1374614,
        "is_anchor": 1,
@@ -6059,18 +6149,18 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 2321300,
+        "hot": 3095000,
         "isvideo": 0,
         "liveid": 1769629592614,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 1103,
+        "peak_num": 1164,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 62,
-        "profit": 0,
+        "private_count": 91,
+        "profit": 16307,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/1374614_1769629556.flv",
         "rec_weight": 1,
         "recommend": 0,
@@ -6128,15 +6218,15 @@
       }
      ],
      "animation_url": "",
-     "away_corner": 1,
+     "away_corner": 3,
      "away_halfscore": 1,
      "away_id": 10217,
      "away_otscrore": 0,
      "away_pointscore": 0,
      "away_rank": "西甲2",
      "away_redcard": 0,
-     "away_score": 1,
-     "away_yellowcard": 2,
+     "away_score": 2,
+     "away_yellowcard": 4,
      "awayteam": {
       "competition_id": 120,
       "country_id": 3,
@@ -6169,9 +6259,9 @@
      "environment": {
       "humidity": "99%",
       "pressure": "756mmHg",
-      "temperature": "14°C",
+      "temperature": "15°C",
       "weather": 7,
-      "wind": "7.1m/s"
+      "wind": "8.1m/s"
      },
      "explain": "",
      "home_corner": 5,
@@ -6181,7 +6271,7 @@
      "home_pointscore": 0,
      "home_rank": "葡超3",
      "home_redcard": 0,
-     "home_score": 2,
+     "home_score": 3,
      "home_yellowcard": 1,
      "hometeam": {
       "competition_id": 151,
@@ -6217,7 +6307,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 1769630432,
+     "kickoff_time": 1769634542,
      "live": {
       "away": "皇家马德里",
       "comp": "欧冠",
@@ -6226,7 +6316,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415329,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415329",
       "pushurl1_status": 1,
@@ -6269,7 +6359,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -6279,7 +6369,7 @@
       "away_name": "皇马|皇家馬德里|Real Madrid",
       "away_overtime_score": 0,
       "away_penalty_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "game_type": 6,
       "has_live": 1,
       "home_half_score": 2,
@@ -6288,13 +6378,13 @@
       "home_name": "本菲卡|賓菲加|Benfica",
       "home_overtime_score": 0,
       "home_penalty_score": 0,
-      "home_score": 2,
+      "home_score": 3,
       "league_id": "716711",
       "league_logo": "https://photo.365live88.com/img/fb/cup/f6302fbd1cd7411c89646ee9de13dbaf",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "74",
+      "status_id": 3,
       "stream_id": "206854088",
       "third_id": "4415329",
       "wale_match_id": "1764359",
@@ -6324,47 +6414,65 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 64,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 68,
         "match_id": "1764359",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "flv",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415329.flv?txSecret=6d00a7fddbd0aff2e5bec9afacd1fb6b\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 69,
+        "match_id": "1764359",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "m3u8",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415329.m3u8?txSecret=6d00a7fddbd0aff2e5bec9afacd1fb6b\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 70,
+        "match_id": "1764359",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play4.clomidx.com/live/113862990500_3607130571_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 65,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 71,
         "match_id": "1764359",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play4.clomidx.com/live/113862990500_3607130571_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 66,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 72,
         "match_id": "1764359",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5zPUJaXG1Ry.m3u8?txSecret=281db3b7af619efdae92a2eaa45e145f\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5zPUJaXG1Ry.m3u8?txSecret=45f92c2beeaf98a1ea16f62bb8eac11b\u0026txTime=697BD14B"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 67,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 73,
         "match_id": "1764359",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play4.clomidx.com/live/113862990500_3607130571_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 68,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 74,
         "match_id": "1764359",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play4.clomidx.com/live/113862990500_3607130571_adaptive.m3u8"
        }
@@ -6399,8 +6507,8 @@
      "venue_id": 1268,
      "website": "http://www.slbenfica.pt/"
     },
-    "home_score": 2,
-    "status": 3,
+    "home_score": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -6488,17 +6596,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 549000,
+        "hot": 754300,
         "isvideo": 0,
         "liveid": 1769629566612,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 223,
+        "peak_num": 238,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 9,
+        "private_count": 11,
         "profit": 88,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2359612_1769629528.flv",
         "rec_weight": 1,
@@ -6557,7 +6665,7 @@
       }
      ],
      "animation_url": "",
-     "away_corner": 0,
+     "away_corner": 2,
      "away_halfscore": 0,
      "away_id": 10692,
      "away_otscrore": 0,
@@ -6565,7 +6673,7 @@
      "away_rank": "意甲1",
      "away_redcard": 0,
      "away_score": 0,
-     "away_yellowcard": 0,
+     "away_yellowcard": 1,
      "awayteam": {
       "competition_id": 108,
       "country_id": 2,
@@ -6596,14 +6704,14 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "97%",
+      "humidity": "96%",
       "pressure": "749mmHg",
       "temperature": "0°C",
       "weather": 7,
       "wind": "4.1m/s"
      },
      "explain": "",
-     "home_corner": 1,
+     "home_corner": 2,
      "home_halfscore": 0,
      "home_id": 10030,
      "home_otscrore": 0,
@@ -6611,7 +6719,7 @@
      "home_rank": "德甲2",
      "home_redcard": 0,
      "home_score": 0,
-     "home_yellowcard": 0,
+     "home_yellowcard": 1,
      "hometeam": {
       "competition_id": 129,
       "country_id": 4,
@@ -6646,7 +6754,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634202,
      "live": {
       "away": "国际米兰",
       "comp": "欧冠",
@@ -6655,7 +6763,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415344,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415344",
       "pushurl1_status": 1,
@@ -6698,7 +6806,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -6722,8 +6830,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/51d1a4ec1ecf47e3b28e06bb1635cdc5",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "80",
+      "status_id": 3,
       "stream_id": "206854098",
       "third_id": "4415344",
       "wale_match_id": "1764374",
@@ -6753,47 +6861,65 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 79,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 85,
         "match_id": "1764374",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "flv",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415344.flv?txSecret=cc2c0dc86a7f430555d7c5144277d3eb\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 86,
+        "match_id": "1764374",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "m3u8",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415344.m3u8?txSecret=cc2c0dc86a7f430555d7c5144277d3eb\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 87,
+        "match_id": "1764374",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play3.clomidx.com/live/112064161312_796829010_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 80,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 88,
         "match_id": "1764374",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play3.clomidx.com/live/112064161312_796829010_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 81,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 89,
         "match_id": "1764374",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc4zg1U3r3GpX.m3u8?txSecret=a46fba784b93c67de3d8b434d8bca542\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc4zg1U3r3GpX.m3u8?txSecret=560a49382804e2a99c167d3577caed26\u0026txTime=697BD14B"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 82,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 90,
         "match_id": "1764374",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play3.clomidx.com/live/112064161312_796829010_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 83,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 91,
         "match_id": "1764374",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play3.clomidx.com/live/112064161312_796829010_adaptive.m3u8"
        }
@@ -6829,7 +6955,7 @@
      "website": "http://www.borussia-dortmund.de"
     },
     "home_score": 0,
-    "status": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -6861,7 +6987,7 @@
      "venue_id": 10595,
      "website": "http://www.spurs.co.uk/"
     },
-    "away_score": 0,
+    "away_score": 2,
     "data": {
      "anchors": [
       {
@@ -6917,7 +7043,7 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 336300,
+        "hot": 477700,
         "isvideo": 0,
         "liveid": 1769629624856,
         "livestream_source": 4,
@@ -6927,7 +7053,7 @@
         "peak_num": 66,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 4,
+        "private_count": 5,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2380856_1769628779.flv",
         "rec_weight": 1,
@@ -6986,15 +7112,15 @@
       }
      ],
      "animation_url": "",
-     "away_corner": 3,
+     "away_corner": 5,
      "away_halfscore": 0,
      "away_id": 10183,
      "away_otscrore": 0,
      "away_pointscore": 0,
      "away_rank": "英超14",
      "away_redcard": 0,
-     "away_score": 0,
-     "away_yellowcard": 0,
+     "away_score": 2,
+     "away_yellowcard": 1,
      "awayteam": {
       "competition_id": 82,
       "country_id": 1,
@@ -7075,7 +7201,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634155,
      "live": {
       "away": "托特纳姆热刺",
       "comp": "欧冠",
@@ -7084,7 +7210,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415349,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415349",
       "pushurl1_status": 1,
@@ -7127,7 +7253,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -7137,7 +7263,7 @@
       "away_name": "热刺|熱刺|Spurs",
       "away_overtime_score": 0,
       "away_penalty_score": 0,
-      "away_score": 0,
+      "away_score": 2,
       "game_type": 6,
       "has_live": 1,
       "home_half_score": 0,
@@ -7151,8 +7277,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/3837aac15e1e497da527b22c97a9e3c0",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "81",
+      "status_id": 3,
       "stream_id": "206854101",
       "third_id": "4415349",
       "wale_match_id": "1764379",
@@ -7182,74 +7308,74 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 84,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 92,
         "match_id": "1764379",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
-        "video_url": "https://live.vivo200.com/live/sd-1-4415349.flv?txSecret=8a43d8e0f8d5a568deeef4799a775f09\u0026txTime=697AAA0C"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415349.flv?txSecret=6636e3de08d2707ca5a77d56e18f837f\u0026txTime=697AC62C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 85,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 93,
         "match_id": "1764379",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
         "video_url": "rtmp://video7.letaocm.top/live/sd-1-4415349.flv"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 86,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 94,
         "match_id": "1764379",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
-        "video_url": "https://live.vivo200.com/live/sd-1-4415349.m3u8?txSecret=8a43d8e0f8d5a568deeef4799a775f09\u0026txTime=697AAA0C"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415349.m3u8?txSecret=6636e3de08d2707ca5a77d56e18f837f\u0026txTime=697AC62C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 87,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 95,
         "match_id": "1764379",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play.clomidx.com/live/112319393620_419153333_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 88,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 96,
         "match_id": "1764379",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play.clomidx.com/live/112319393620_419153333_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 89,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 97,
         "match_id": "1764379",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc4zBSDjcJMps.m3u8?txSecret=45d66952bbea33ed5d73fbff7473bdf0\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc4zBSDjcJMps.m3u8?txSecret=fe695430f1ac1b011b5ada5d89de4b66\u0026txTime=697BD14B"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 90,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 98,
         "match_id": "1764379",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play.clomidx.com/live/112319393620_419153333_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 91,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 99,
         "match_id": "1764379",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play.clomidx.com/live/112319393620_419153333_adaptive.m3u8"
        }
@@ -7285,7 +7411,7 @@
      "website": "http://www.eintracht-frankfurt.de"
     },
     "home_score": 0,
-    "status": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -7373,7 +7499,7 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 599600,
+        "hot": 835500,
         "isvideo": 0,
         "liveid": 1769629759697,
         "livestream_source": 4,
@@ -7383,7 +7509,7 @@
         "peak_num": 162,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 10,
+        "private_count": 11,
         "profit": 176,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2161697_1769629711.flv",
         "rec_weight": 1,
@@ -7450,7 +7576,7 @@
      "away_rank": "阿塞超2",
      "away_redcard": 0,
      "away_score": 0,
-     "away_yellowcard": 0,
+     "away_yellowcard": 1,
      "awayteam": {
       "competition_id": 388,
       "country_id": 49,
@@ -7481,21 +7607,21 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "82%",
-      "pressure": "748mmHg",
+      "humidity": "84%",
+      "pressure": "749mmHg",
       "temperature": "5°C",
-      "weather": 5,
+      "weather": 1,
       "wind": "4.1m/s"
      },
      "explain": "",
-     "home_corner": 5,
+     "home_corner": 12,
      "home_halfscore": 2,
      "home_id": 10249,
      "home_otscrore": 0,
      "home_pointscore": 0,
      "home_rank": "英超6",
      "home_redcard": 0,
-     "home_score": 2,
+     "home_score": 5,
      "home_yellowcard": 0,
      "hometeam": {
       "competition_id": 82,
@@ -7531,7 +7657,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634211,
      "live": {
       "away": "卡拉巴克",
       "comp": "欧冠",
@@ -7540,7 +7666,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415372,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415372",
       "pushurl1_status": 1,
@@ -7583,7 +7709,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -7602,13 +7728,13 @@
       "home_name": "利物浦|利物浦|Liverpool",
       "home_overtime_score": 0,
       "home_penalty_score": 0,
-      "home_score": 2,
+      "home_score": 5,
       "league_id": "716711",
       "league_logo": "https://photo.365live88.com/img/fb/cup/71346d4791b545558c0d7d621a39cbec",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "80",
+      "status_id": 3,
       "stream_id": "206854115",
       "third_id": "4415372",
       "wale_match_id": "1764402",
@@ -7638,74 +7764,74 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 92,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 100,
         "match_id": "1764402",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
-        "video_url": "https://live.vivo200.com/live/sd-1-4415372.flv?txSecret=0fb45db80aa3c94b464b62f4e60c0481\u0026txTime=697AAA0C"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415372.flv?txSecret=14c3df2af529042ff1e6ef3724eae3c7\u0026txTime=697AC62C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 93,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 101,
         "match_id": "1764402",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
         "video_url": "rtmp://video7.letaocm.top/live/sd-1-4415372.flv"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 94,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 102,
         "match_id": "1764402",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
-        "video_url": "https://live.vivo200.com/live/sd-1-4415372.m3u8?txSecret=0fb45db80aa3c94b464b62f4e60c0481\u0026txTime=697AAA0C"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415372.m3u8?txSecret=14c3df2af529042ff1e6ef3724eae3c7\u0026txTime=697AC62C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 95,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 103,
         "match_id": "1764402",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play3.clomidx.com/live/112399748934_1911247845_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 96,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 104,
         "match_id": "1764402",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play3.clomidx.com/live/112399748934_1911247845_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 97,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 105,
         "match_id": "1764402",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5AJHX7ht3nF.m3u8?txSecret=e680490471b258b2fa8a868513db88f5\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5AJHX7ht3nF.m3u8?txSecret=31831b587b1ec49376af948cbecc9f16\u0026txTime=697BD14C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 98,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 106,
         "match_id": "1764402",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play3.clomidx.com/live/112399748934_1911247845_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 99,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 107,
         "match_id": "1764402",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play3.clomidx.com/live/112399748934_1911247845_adaptive.m3u8"
        }
@@ -7740,8 +7866,8 @@
      "venue_id": 1026,
      "website": "http://www.liverpoolfc.tv/"
     },
-    "home_score": 2,
-    "status": 3,
+    "home_score": 5,
+    "status": 4,
     "streams": true
    },
    {
@@ -7829,7 +7955,7 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 737100,
+        "hot": 923300,
         "isvideo": 0,
         "liveid": 1769629290195,
         "livestream_source": 4,
@@ -7839,7 +7965,7 @@
         "peak_num": 328,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 23,
+        "private_count": 28,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/1990195_1769628300.flv",
         "rec_weight": 1,
@@ -7898,7 +8024,7 @@
       }
      ],
      "animation_url": "",
-     "away_corner": 1,
+     "away_corner": 3,
      "away_halfscore": 0,
      "away_id": 10643,
      "away_otscrore": 0,
@@ -7937,7 +8063,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "78%",
+      "humidity": "79%",
       "pressure": "749mmHg",
       "temperature": "6°C",
       "weather": 1,
@@ -7987,7 +8113,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634141,
      "live": {
       "away": "加拉塔萨雷",
       "comp": "欧冠",
@@ -7996,7 +8122,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415376,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415376",
       "pushurl1_status": 1,
@@ -8039,7 +8165,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -8063,8 +8189,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/cce1e3241baf4a0fa94c8fabc9466c9f",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "81",
+      "status_id": 3,
       "stream_id": "206854119",
       "third_id": "4415376",
       "wale_match_id": "1764406",
@@ -8094,65 +8220,65 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 100,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 108,
         "match_id": "1764406",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
-        "video_url": "https://live.vivo200.com/live/sd-1-4415376.flv?txSecret=322ba5dc8d34699f2342c215d11738e6\u0026txTime=697AAA0C"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415376.flv?txSecret=d3e8efce9d3d595c2118d04006e44d9e\u0026txTime=697AC62C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 101,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 109,
         "match_id": "1764406",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
-        "video_url": "https://live.vivo200.com/live/sd-1-4415376.m3u8?txSecret=322ba5dc8d34699f2342c215d11738e6\u0026txTime=697AAA0C"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415376.m3u8?txSecret=d3e8efce9d3d595c2118d04006e44d9e\u0026txTime=697AC62C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 102,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 110,
         "match_id": "1764406",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play2.clomidx.com/live/113228046809_2945043983_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 103,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 111,
         "match_id": "1764406",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play2.clomidx.com/live/113228046809_2945043983_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 104,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 112,
         "match_id": "1764406",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5AT5SbdBiPq.m3u8?txSecret=5b82987a9256631b604e28023eff4d91\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc5AT5SbdBiPq.m3u8?txSecret=ec186a4182f33956b4a431b074922221\u0026txTime=697BD14C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 105,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 113,
         "match_id": "1764406",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play2.clomidx.com/live/113228046809_2945043983_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 106,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 114,
         "match_id": "1764406",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play2.clomidx.com/live/113228046809_2945043983_adaptive.m3u8"
        }
@@ -8188,7 +8314,7 @@
      "website": "http://www.mcfc.co.uk/"
     },
     "home_score": 2,
-    "status": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -8220,7 +8346,7 @@
      "venue_id": 1195,
      "website": "http://www.chelseafc.co.uk/"
     },
-    "away_score": 1,
+    "away_score": 2,
     "data": {
      "anchors": [
       {
@@ -8276,17 +8402,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 637700,
+        "hot": 865500,
         "isvideo": 0,
         "liveid": 1769629832018,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 231,
+        "peak_num": 254,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 22,
+        "private_count": 27,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2380018_1769629672.flv",
         "rec_weight": 1,
@@ -8352,7 +8478,7 @@
      "away_pointscore": 0,
      "away_rank": "英超5",
      "away_redcard": 0,
-     "away_score": 1,
+     "away_score": 2,
      "away_yellowcard": 0,
      "awayteam": {
       "competition_id": 82,
@@ -8391,7 +8517,7 @@
       "wind": "4.1m/s"
      },
      "explain": "",
-     "home_corner": 3,
+     "home_corner": 4,
      "home_halfscore": 2,
      "home_id": 11343,
      "home_otscrore": 0,
@@ -8399,7 +8525,7 @@
      "home_rank": "意甲4",
      "home_redcard": 0,
      "home_score": 2,
-     "home_yellowcard": 1,
+     "home_yellowcard": 2,
      "hometeam": {
       "competition_id": 108,
       "country_id": 2,
@@ -8434,7 +8560,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634272,
      "live": {
       "away": "切尔西",
       "comp": "欧冠",
@@ -8443,7 +8569,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415386,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415386",
       "pushurl1_status": 1,
@@ -8486,7 +8612,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -8496,7 +8622,7 @@
       "away_name": "切尔西|車路士|Chelsea",
       "away_overtime_score": 0,
       "away_penalty_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "game_type": 6,
       "has_live": 1,
       "home_half_score": 2,
@@ -8510,8 +8636,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/27519e3ee99145018885bf9231676e41",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "79",
+      "status_id": 3,
       "stream_id": "206854125",
       "third_id": "4415386",
       "wale_match_id": "1764417",
@@ -8541,74 +8667,74 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 113,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 121,
         "match_id": "1764417",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
-        "video_url": "https://live.vivo200.com/live/sd-1-4415386.flv?txSecret=20c241f8eafbf77854ddfcf13dc93051\u0026txTime=697AAA0C"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415386.flv?txSecret=e6743c2e8edcebcd44ff125cb86c6064\u0026txTime=697AC62C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 114,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 122,
         "match_id": "1764417",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
         "video_url": "rtmp://video6.letaocm.top/live/sd-1-4415386.flv"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 115,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 123,
         "match_id": "1764417",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
-        "video_url": "https://live.vivo200.com/live/sd-1-4415386.m3u8?txSecret=20c241f8eafbf77854ddfcf13dc93051\u0026txTime=697AAA0C"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415386.m3u8?txSecret=e6743c2e8edcebcd44ff125cb86c6064\u0026txTime=697AC62C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 116,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 124,
         "match_id": "1764417",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play5.clomidx.com/live/111469148140_3499375613_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 117,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 125,
         "match_id": "1764417",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play5.clomidx.com/live/111469148140_3499375613_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 118,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 126,
         "match_id": "1764417",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc4KwiNZXig4F.m3u8?txSecret=237091f3f660dd139c828bdeaeacf120\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc4KwiNZXig4F.m3u8?txSecret=f88a1dd7e9bf89da8eb2e686c2c09341\u0026txTime=697BD14C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 119,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 127,
         "match_id": "1764417",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play5.clomidx.com/live/111469148140_3499375613_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 120,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 128,
         "match_id": "1764417",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play5.clomidx.com/live/111469148140_3499375613_adaptive.m3u8"
        }
@@ -8644,7 +8770,7 @@
      "website": "http://www.calcionapoli.it"
     },
     "home_score": 2,
-    "status": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -8683,7 +8809,7 @@
        "account": "18673133284",
        "anchor_level": 1,
        "avatar": "https://wtsymycyh.99kq.top/pq8cos/image/a140_%E9%A6%99%E5%A5%88%E5%84%BF.png",
-       "diamond": 0,
+       "diamond": 35,
        "has_mobile": 1,
        "id": 2411170,
        "is_anchor": 1,
@@ -8732,18 +8858,18 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 663100,
+        "hot": 921100,
         "isvideo": 0,
         "liveid": 1769630028170,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 160,
+        "peak_num": 205,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 7,
-        "profit": 0,
+        "private_count": 11,
+        "profit": 88,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2411170_1769629659.flv",
         "rec_weight": 1,
         "recommend": 0,
@@ -8801,7 +8927,7 @@
       }
      ],
      "animation_url": "",
-     "away_corner": 0,
+     "away_corner": 1,
      "away_halfscore": 1,
      "away_id": 10136,
      "away_otscrore": 0,
@@ -8840,7 +8966,7 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "79%",
+      "humidity": "74%",
       "pressure": "750mmHg",
       "temperature": "7°C",
       "weather": 7,
@@ -8890,7 +9016,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634185,
      "live": {
       "away": "纽卡斯尔联",
       "comp": "欧冠",
@@ -8899,7 +9025,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415405,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415405",
       "pushurl1_status": 1,
@@ -8942,7 +9068,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -8966,8 +9092,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/0881319569b944a589d135607ba360d9",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "80",
+      "status_id": 3,
       "stream_id": "206854138",
       "third_id": "4415405",
       "wale_match_id": "1764435",
@@ -8997,56 +9123,74 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 131,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 139,
         "match_id": "1764435",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "flv",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415405.flv?txSecret=60328551d5148fbf843eb42610a8b585\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 140,
+        "match_id": "1764435",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
         "video_url": "rtmp://video6.letaocm.top/live/sd-1-4415405.flv"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 132,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 141,
         "match_id": "1764435",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
+        "v_type": "m3u8",
+        "video_url": "https://live.vivo200.com/live/sd-1-4415405.m3u8?txSecret=60328551d5148fbf843eb42610a8b585\u0026txTime=697AC17D"
+       },
+       {
+        "created_at": "2026-01-29 05:35:01",
+        "id": 142,
+        "match_id": "1764435",
+        "playing": 1,
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play.clomidx.com/live/112187105291_2057958376_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 133,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 143,
         "match_id": "1764435",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play.clomidx.com/live/112187105291_2057958376_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 134,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 144,
         "match_id": "1764435",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfcpUxhc4GTTE7.m3u8?txSecret=ef291e5747c3519c410a6f493e034412\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfcpUxhc4GTTE7.m3u8?txSecret=4064d588fe0c1bbcc5879c66072a1dc2\u0026txTime=697BD14C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 135,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 145,
         "match_id": "1764435",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play.clomidx.com/live/112187105291_2057958376_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 136,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 146,
         "match_id": "1764435",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play.clomidx.com/live/112187105291_2057958376_adaptive.m3u8"
        }
@@ -9082,7 +9226,7 @@
      "website": "http://www.psg.fr"
     },
     "home_score": 1,
-    "status": 3,
+    "status": 4,
     "streams": true
    },
    {
@@ -9114,7 +9258,7 @@
      "venue_id": 1021,
      "website": "http://www.fcbayern.t-com.de"
     },
-    "away_score": 0,
+    "away_score": 1,
     "data": {
      "anchors": [
       {
@@ -9170,7 +9314,7 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 622800,
+        "hot": 933900,
         "isvideo": 0,
         "liveid": 1769629349950,
         "livestream_source": 4,
@@ -9180,7 +9324,7 @@
         "peak_num": 211,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 18,
+        "private_count": 21,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2403950_1769629311.flv",
         "rec_weight": 1,
@@ -9239,14 +9383,14 @@
       }
      ],
      "animation_url": "",
-     "away_corner": 1,
+     "away_corner": 5,
      "away_halfscore": 0,
      "away_id": 10016,
      "away_otscrore": 0,
      "away_pointscore": 0,
      "away_rank": "德甲1",
      "away_redcard": 0,
-     "away_score": 0,
+     "away_score": 1,
      "away_yellowcard": 1,
      "awayteam": {
       "competition_id": 129,
@@ -9278,11 +9422,11 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "93%",
+      "humidity": "92%",
       "pressure": "749mmHg",
       "temperature": "1°C",
       "weather": 7,
-      "wind": "4.1m/s"
+      "wind": "3.1m/s"
      },
      "explain": "",
      "home_corner": 4,
@@ -9292,7 +9436,7 @@
      "home_pointscore": 0,
      "home_rank": "荷甲1",
      "home_redcard": 0,
-     "home_score": 0,
+     "home_score": 1,
      "home_yellowcard": 2,
      "hometeam": {
       "competition_id": 168,
@@ -9328,7 +9472,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634133,
      "live": {
       "away": "拜仁慕尼黑",
       "comp": "欧冠",
@@ -9337,7 +9481,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415408,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415408",
       "pushurl1_status": 1,
@@ -9380,7 +9524,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -9390,7 +9534,7 @@
       "away_name": "拜仁|拜仁|Bayern Munich",
       "away_overtime_score": 0,
       "away_penalty_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "game_type": 6,
       "has_live": 1,
       "home_half_score": 0,
@@ -9399,13 +9543,13 @@
       "home_name": "埃因霍温|PSV燕豪芬|PSV Eindhoven",
       "home_overtime_score": 0,
       "home_penalty_score": 0,
-      "home_score": 0,
+      "home_score": 1,
       "league_id": "716711",
       "league_logo": "https://photo.365live88.com/img/fb/cup/c45a741472a14a9abbc70e4b626d3c6e",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "81",
+      "status_id": 3,
       "stream_id": "206854054",
       "third_id": "4415408",
       "wale_match_id": "1764438",
@@ -9435,74 +9579,74 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 137,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 147,
         "match_id": "1764438",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
-        "video_url": "https://live.vivo200.com/live/sd-1-4415408.flv?txSecret=cb47c6c9ff05966732101646cce22e8b\u0026txTime=697AAA0C"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415408.flv?txSecret=82462ced59c2a18b2316385312015b1d\u0026txTime=697AC62C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 138,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 148,
         "match_id": "1764438",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
         "video_url": "rtmp://video6.letaocm.top/live/sd-1-4415408.flv"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 139,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 149,
         "match_id": "1764438",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
-        "video_url": "https://live.vivo200.com/live/sd-1-4415408.m3u8?txSecret=cb47c6c9ff05966732101646cce22e8b\u0026txTime=697AAA0C"
+        "video_url": "https://live.vivo200.com/live/sd-1-4415408.m3u8?txSecret=82462ced59c2a18b2316385312015b1d\u0026txTime=697AC62C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 140,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 150,
         "match_id": "1764438",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://play1.clomidx.com/live/112891427330_1066987718_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 141,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 151,
         "match_id": "1764438",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "https://play1.clomidx.com/live/112891427330_1066987718_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 142,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 152,
         "match_id": "1764438",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfcpUYXKUzNNYF.m3u8?txSecret=e2f157cd32f05df92265a92c435b1f9d\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfcpUYXKUzNNYF.m3u8?txSecret=a6083c504fb22a60d4003bcebdc95bc6\u0026txTime=697BD14C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 143,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 153,
         "match_id": "1764438",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://play1.clomidx.com/live/112891427330_1066987718_adaptive.m3u8"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 144,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 154,
         "match_id": "1764438",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=https://play1.clomidx.com/live/112891427330_1066987718_adaptive.m3u8"
        }
@@ -9537,8 +9681,8 @@
      "venue_id": 1133,
      "website": "http://www.psv.nl/"
     },
-    "home_score": 0,
-    "status": 3,
+    "home_score": 1,
+    "status": 4,
     "streams": true
    },
    {
@@ -9582,7 +9726,7 @@
      "away_rank": "意甲5",
      "away_redcard": 0,
      "away_score": 0,
-     "away_yellowcard": 0,
+     "away_yellowcard": 1,
      "awayteam": {
       "competition_id": 108,
       "country_id": 2,
@@ -9613,14 +9757,14 @@
      },
      "competition_id": 46,
      "environment": {
-      "humidity": "91%",
+      "humidity": "90%",
       "pressure": "744mmHg",
-      "temperature": "7°C",
-      "weather": 1,
-      "wind": "2.1m/s"
+      "temperature": "8°C",
+      "weather": 7,
+      "wind": "3.1m/s"
      },
      "explain": "",
-     "home_corner": 5,
+     "home_corner": 6,
      "home_halfscore": 0,
      "home_id": 10492,
      "home_otscrore": 0,
@@ -9628,7 +9772,7 @@
      "home_rank": "法甲10",
      "home_redcard": 0,
      "home_score": 0,
-     "home_yellowcard": 0,
+     "home_yellowcard": 2,
      "hometeam": {
       "competition_id": 142,
       "country_id": 5,
@@ -9663,7 +9807,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769634269,
      "live": {
       "away": "尤文图斯",
       "comp": "欧冠",
@@ -9672,7 +9816,7 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4415383,
-      "match_status": 3,
+      "match_status": 4,
       "match_time": 1769630400,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4415383",
       "pushurl1_status": 1,
@@ -9715,7 +9859,7 @@
      "stage_group": 0,
      "stage_id": 232017,
      "stage_round": 8,
-     "status": 3,
+     "status": 4,
      "time": 1769630400,
      "video_type": "live",
      "walematch": {
@@ -9739,8 +9883,8 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/91e6a4bacbe241a0ba19d24b64601997",
       "league_name": "欧冠|歐冠|UEFA UCL",
       "match_time": 1769630400,
-      "status": "中场",
-      "status_id": 2,
+      "status": "79",
+      "status_id": 3,
       "stream_id": "206854122",
       "third_id": "4415383",
       "wale_match_id": "1764413",
@@ -9770,56 +9914,56 @@
       ],
       "walematchvideos": [
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 107,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 115,
         "match_id": "1764413",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "flv",
         "video_url": "rtmp://video7.letaocm.top/live/sd-1-4415383.flv"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 108,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 116,
         "match_id": "1764413",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
-        "video_url": "https://v.lfsxfj.com/live/100319.m3u8?txSecret=e4867c6b464c7bb2547952d7ffd72b21\u0026txTime=697A7D85\u0026sign=32e823292fc5836e"
+        "video_url": "https://v.lfsxfj.com/live/100319.m3u8?txSecret=a539d504830b93ac186246c86f52a470\u0026txTime=697A875E\u0026sign=bfc064578c7d7a7c"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 109,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 117,
         "match_id": "1764413",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "m3u8",
         "video_url": "http://v.lfsxfj.com/live/100319.m3u8?txSecret=72fb75f49ad0ae3dce24cc495abc603c\u0026txTime=697A7192\u0026sign=8d2ea2e6d7dd2f20"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 110,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 118,
         "match_id": "1764413",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc4KkiyD8b6Hm.m3u8?txSecret=bb9c8a4e1e5d548fb3c5d2ae9905e81b\u0026txTime=697BC6C0"
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvXMfc4KkiyD8b6Hm.m3u8?txSecret=d7a92122931108e7467f2a5985f6281d\u0026txTime=697BD14C"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 111,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 119,
         "match_id": "1764413",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
-        "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100319.m3u8?txSecret=e4867c6b464c7bb2547952d7ffd72b21\u0026txTime=697A7D85\u0026sign=32e823292fc5836e"
+        "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100319.m3u8?txSecret=a539d504830b93ac186246c86f52a470\u0026txTime=697A875E\u0026sign=bfc064578c7d7a7c"
        },
        {
-        "created_at": "2026-01-29 04:55:02",
-        "id": 112,
+        "created_at": "2026-01-29 05:35:01",
+        "id": 120,
         "match_id": "1764413",
         "playing": 1,
-        "updated_at": "2026-01-29 04:55:02",
+        "updated_at": "2026-01-29 05:35:01",
         "v_type": "h5",
         "video_url": "https://play.365live88.com/?url=http://v.lfsxfj.com/live/100319.m3u8?txSecret=72fb75f49ad0ae3dce24cc495abc603c\u0026txTime=697A7192\u0026sign=8d2ea2e6d7dd2f20"
        }
@@ -9855,7 +9999,7 @@
      "website": "http://www.asmonaco.com"
     },
     "home_score": 0,
-    "status": 3,
+    "status": 4,
     "streams": true
    }
   ]

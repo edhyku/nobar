@@ -1,5 +1,5 @@
 {
-  "updated": 1769633983,
+  "updated": 1769636377,
   "events": [
     {
       "league": "EGY Premier League",
@@ -361,7 +361,7 @@
       "away": "FC Kairat Almaty",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100462.m3u8?txSecret=0c0bee7c99e62359f41fab7b39a18352&txTime=697A7462&sign=01d77523de295357"
+        "url": "https://live.vivo200.com/live/sd-1-4415296.m3u8?txSecret=4496ad4f8ea6777d5e18bc42dacba07a&txTime=697AC17D"
       }
     },
     {
@@ -372,7 +372,7 @@
       "away": "Sporting CP",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100333.m3u8?txSecret=5e7824dd72d11351015d691babf6cab3&txTime=697A7D86&sign=04133add328c07f7"
+        "url": "https://live.vivo200.com/live/sd-1-4415305.m3u8?txSecret=ddac3efb1e7fa93c3643187c56f27281&txTime=697AC17D"
       }
     },
     {
@@ -383,7 +383,7 @@
       "away": "Bodo Glimt",
       "stream": {
         "type": "m3u8",
-        "url": "http://live.vivo200.com/live/sd-1-4415306.m3u8?txSecret=30890b3d618c238d0ea0a989677c893e&txTime=697AA565"
+        "url": "https://live.vivo200.com/live/sd-1-4415306.m3u8?txSecret=a3a9e6f95381aa6e77f20efcb321c9fa&txTime=697AC17D"
       }
     },
     {
@@ -394,7 +394,7 @@
       "away": "FC Copenhagen",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100479.m3u8?txSecret=7e11ad24c7beacc3d56fd234b6b99b02&txTime=697A7D85&sign=d1399d243b513187"
+        "url": "https://live.vivo200.com/live/sd-1-4415311.m3u8?txSecret=e328d8112de804c18ba6dd3ac226cd1d&txTime=697AC17D"
       }
     },
     {
@@ -405,7 +405,7 @@
       "away": "Villarreal CF",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100508.m3u8?txSecret=e2b6ac5355b3f950b90bf26ade92592d&txTime=697A7D85&sign=371bf60b30bfbd92"
+        "url": "https://live.vivo200.com/live/sd-1-4415317.m3u8?txSecret=1f633052e0c3e66ba0c907c38c4e4694&txTime=697AC17D"
       }
     },
     {
@@ -416,7 +416,7 @@
       "away": "Real Madrid",
       "stream": {
         "type": "m3u8",
-        "url": "http://play4.clomidx.com/live/113862990500_3607130571_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4415329.m3u8?txSecret=6d00a7fddbd0aff2e5bec9afacd1fb6b&txTime=697AC17D"
       }
     },
     {
@@ -427,7 +427,7 @@
       "away": "Inter Milan",
       "stream": {
         "type": "m3u8",
-        "url": "http://play3.clomidx.com/live/112064161312_796829010_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4415344.m3u8?txSecret=cc2c0dc86a7f430555d7c5144277d3eb&txTime=697AC17D"
       }
     },
     {
@@ -438,7 +438,7 @@
       "away": "Tottenham Hotspur",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415349.m3u8?txSecret=8a43d8e0f8d5a568deeef4799a775f09&txTime=697AAA0C"
+        "url": "https://live.vivo200.com/live/sd-1-4415349.m3u8?txSecret=6636e3de08d2707ca5a77d56e18f837f&txTime=697AC62C"
       }
     },
     {
@@ -449,7 +449,7 @@
       "away": "Qarabag",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415372.m3u8?txSecret=0fb45db80aa3c94b464b62f4e60c0481&txTime=697AAA0C"
+        "url": "https://live.vivo200.com/live/sd-1-4415372.m3u8?txSecret=14c3df2af529042ff1e6ef3724eae3c7&txTime=697AC62C"
       }
     },
     {
@@ -460,7 +460,7 @@
       "away": "Galatasaray",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415376.m3u8?txSecret=322ba5dc8d34699f2342c215d11738e6&txTime=697AAA0C"
+        "url": "https://live.vivo200.com/live/sd-1-4415376.m3u8?txSecret=d3e8efce9d3d595c2118d04006e44d9e&txTime=697AC62C"
       }
     },
     {
@@ -471,7 +471,7 @@
       "away": "Chelsea",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415386.m3u8?txSecret=20c241f8eafbf77854ddfcf13dc93051&txTime=697AAA0C"
+        "url": "https://live.vivo200.com/live/sd-1-4415386.m3u8?txSecret=e6743c2e8edcebcd44ff125cb86c6064&txTime=697AC62C"
       }
     },
     {
@@ -482,7 +482,7 @@
       "away": "Newcastle United",
       "stream": {
         "type": "m3u8",
-        "url": "http://play.clomidx.com/live/112187105291_2057958376_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4415405.m3u8?txSecret=60328551d5148fbf843eb42610a8b585&txTime=697AC17D"
       }
     },
     {
@@ -493,7 +493,7 @@
       "away": "FC Bayern Munich",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415408.m3u8?txSecret=cb47c6c9ff05966732101646cce22e8b&txTime=697AAA0C"
+        "url": "https://live.vivo200.com/live/sd-1-4415408.m3u8?txSecret=82462ced59c2a18b2316385312015b1d&txTime=697AC62C"
       }
     },
     {
@@ -504,7 +504,7 @@
       "away": "Juventus",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100319.m3u8?txSecret=e4867c6b464c7bb2547952d7ffd72b21&txTime=697A7D85&sign=32e823292fc5836e"
+        "url": "https://v.lfsxfj.com/live/100319.m3u8?txSecret=a539d504830b93ac186246c86f52a470&txTime=697A875E&sign=bfc064578c7d7a7c"
       }
     },
     {
@@ -515,7 +515,7 @@
       "away": "FC Kairat Almaty",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100462.m3u8?txSecret=0c0bee7c99e62359f41fab7b39a18352&txTime=697A7462&sign=01d77523de295357"
+        "url": "https://live.vivo200.com/live/sd-1-4415296.m3u8?txSecret=4496ad4f8ea6777d5e18bc42dacba07a&txTime=697AC17D"
       }
     },
     {
@@ -526,7 +526,7 @@
       "away": "Sporting CP",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100333.m3u8?txSecret=5e7824dd72d11351015d691babf6cab3&txTime=697A7D86&sign=04133add328c07f7"
+        "url": "https://live.vivo200.com/live/sd-1-4415305.m3u8?txSecret=ddac3efb1e7fa93c3643187c56f27281&txTime=697AC17D"
       }
     },
     {
@@ -537,7 +537,7 @@
       "away": "Bodo Glimt",
       "stream": {
         "type": "m3u8",
-        "url": "http://live.vivo200.com/live/sd-1-4415306.m3u8?txSecret=30890b3d618c238d0ea0a989677c893e&txTime=697AA565"
+        "url": "https://live.vivo200.com/live/sd-1-4415306.m3u8?txSecret=a3a9e6f95381aa6e77f20efcb321c9fa&txTime=697AC17D"
       }
     },
     {
@@ -548,7 +548,7 @@
       "away": "FC Copenhagen",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100479.m3u8?txSecret=7e11ad24c7beacc3d56fd234b6b99b02&txTime=697A7D85&sign=d1399d243b513187"
+        "url": "https://live.vivo200.com/live/sd-1-4415311.m3u8?txSecret=e328d8112de804c18ba6dd3ac226cd1d&txTime=697AC17D"
       }
     },
     {
@@ -559,7 +559,7 @@
       "away": "Villarreal CF",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100508.m3u8?txSecret=e2b6ac5355b3f950b90bf26ade92592d&txTime=697A7D85&sign=371bf60b30bfbd92"
+        "url": "https://live.vivo200.com/live/sd-1-4415317.m3u8?txSecret=1f633052e0c3e66ba0c907c38c4e4694&txTime=697AC17D"
       }
     },
     {
@@ -570,7 +570,7 @@
       "away": "Real Madrid",
       "stream": {
         "type": "m3u8",
-        "url": "http://play4.clomidx.com/live/113862990500_3607130571_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4415329.m3u8?txSecret=6d00a7fddbd0aff2e5bec9afacd1fb6b&txTime=697AC17D"
       }
     },
     {
@@ -581,7 +581,7 @@
       "away": "Inter Milan",
       "stream": {
         "type": "m3u8",
-        "url": "http://play3.clomidx.com/live/112064161312_796829010_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4415344.m3u8?txSecret=cc2c0dc86a7f430555d7c5144277d3eb&txTime=697AC17D"
       }
     },
     {
@@ -592,7 +592,7 @@
       "away": "Tottenham Hotspur",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415349.m3u8?txSecret=8a43d8e0f8d5a568deeef4799a775f09&txTime=697AAA0C"
+        "url": "https://live.vivo200.com/live/sd-1-4415349.m3u8?txSecret=6636e3de08d2707ca5a77d56e18f837f&txTime=697AC62C"
       }
     },
     {
@@ -603,7 +603,7 @@
       "away": "Qarabag",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415372.m3u8?txSecret=0fb45db80aa3c94b464b62f4e60c0481&txTime=697AAA0C"
+        "url": "https://live.vivo200.com/live/sd-1-4415372.m3u8?txSecret=14c3df2af529042ff1e6ef3724eae3c7&txTime=697AC62C"
       }
     },
     {
@@ -614,7 +614,7 @@
       "away": "Galatasaray",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415376.m3u8?txSecret=322ba5dc8d34699f2342c215d11738e6&txTime=697AAA0C"
+        "url": "https://live.vivo200.com/live/sd-1-4415376.m3u8?txSecret=d3e8efce9d3d595c2118d04006e44d9e&txTime=697AC62C"
       }
     },
     {
@@ -625,7 +625,7 @@
       "away": "Chelsea",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415386.m3u8?txSecret=20c241f8eafbf77854ddfcf13dc93051&txTime=697AAA0C"
+        "url": "https://live.vivo200.com/live/sd-1-4415386.m3u8?txSecret=e6743c2e8edcebcd44ff125cb86c6064&txTime=697AC62C"
       }
     },
     {
@@ -636,7 +636,7 @@
       "away": "Newcastle United",
       "stream": {
         "type": "m3u8",
-        "url": "http://play.clomidx.com/live/112187105291_2057958376_adaptive.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4415405.m3u8?txSecret=60328551d5148fbf843eb42610a8b585&txTime=697AC17D"
       }
     },
     {
@@ -647,7 +647,7 @@
       "away": "FC Bayern Munich",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415408.m3u8?txSecret=cb47c6c9ff05966732101646cce22e8b&txTime=697AAA0C"
+        "url": "https://live.vivo200.com/live/sd-1-4415408.m3u8?txSecret=82462ced59c2a18b2316385312015b1d&txTime=697AC62C"
       }
     },
     {
@@ -658,7 +658,7 @@
       "away": "Juventus",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100319.m3u8?txSecret=e4867c6b464c7bb2547952d7ffd72b21&txTime=697A7D85&sign=32e823292fc5836e"
+        "url": "https://v.lfsxfj.com/live/100319.m3u8?txSecret=a539d504830b93ac186246c86f52a470&txTime=697A875E&sign=bfc064578c7d7a7c"
       }
     }
   ]
