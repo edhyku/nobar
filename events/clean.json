@@ -1,5 +1,5 @@
 {
-  "updated": 1769599891,
+  "updated": 1769601044,
   "events": [
     {
       "league": "AUS W-League",
@@ -234,13 +234,13 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769601600,
       "home": "BG Pathum United",
       "away": "Dynamic Herb Cebu",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769599931.flv"
       }
     },
     {
@@ -267,13 +267,13 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769601600,
       "home": "BG Pathum United",
       "away": "Dynamic Herb Cebu",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769599931.flv"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Manchester City",
       "away": "Galatasaray",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769599931.flv"
       }
     },
     {
@@ -608,13 +608,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Manchester City",
       "away": "Galatasaray",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769599931.flv"
       }
     },
     {
