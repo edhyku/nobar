@@ -1,5 +1,5 @@
 {
-  "updated": 1769558336,
+  "updated": 1769567345,
   "events": [
     {
       "league": "AUS W-League",
@@ -69,13 +69,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769613600,
       "home": "Al Najma(KSA)",
       "away": "Al Riyadh",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769559548.flv"
       }
     },
     {
@@ -102,13 +102,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769613600,
       "home": "Al Najma(KSA)",
       "away": "Al Riyadh",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769559548.flv"
       }
     },
     {
@@ -135,24 +135,24 @@
     },
     {
       "league": "MYA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769590800,
       "home": "Yarmanya United FC",
       "away": "Mahar United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769564081.flv"
       }
     },
     {
       "league": "MYA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769590800,
       "home": "Yarmanya United FC",
       "away": "Mahar United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769564081.flv"
       }
     },
     {
