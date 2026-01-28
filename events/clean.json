@@ -1,5 +1,5 @@
 {
-  "updated": 1769637616,
+  "updated": 1769640032,
   "events": [
     {
       "league": "EGY Premier League",
@@ -456,6 +456,17 @@
       "league": "UEFA Europa League",
       "status": "UPCOMING",
       "time": 1769716800,
+      "home": "Aston Villa",
+      "away": "Red Bull Salzburg",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
       "home": "Go Ahead Eagles",
       "away": "Sporting Braga",
       "stream": {
@@ -640,25 +651,14 @@
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Benfica",
-      "away": "Real Madrid",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Aston Villa",
+      "away": "Red Bull Salzburg",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415329.m3u8?txSecret=6d00a7fddbd0aff2e5bec9afacd1fb6b&txTime=697AC17D"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Benfica",
-      "away": "Real Madrid",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415329.m3u8?txSecret=6d00a7fddbd0aff2e5bec9afacd1fb6b&txTime=697AC17D"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     }
   ]
