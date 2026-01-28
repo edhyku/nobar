@@ -1,5 +1,5 @@
 {
-  "updated": 1769636377,
+  "updated": 1769637616,
   "events": [
     {
       "league": "EGY Premier League",
@@ -25,13 +25,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769698800,
       "home": "Al Fateh SC",
       "away": "Al Ittihad Club",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769628300.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -58,13 +58,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769698800,
       "home": "Al Fateh SC",
       "away": "Al Ittihad Club",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769628300.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -313,6 +313,149 @@
       "league": "UEFA Europa League",
       "status": "UPCOMING",
       "time": 1769716800,
+      "home": "Lyon",
+      "away": "PAOK Saloniki",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Fotbal Club FCSB",
+      "away": "Fenerbahce",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "FC Porto",
+      "away": "Rangers",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "FC Basel 1893",
+      "away": "FC Viktoria Plzen",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Real Betis",
+      "away": "Feyenoord",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Ludogorets Razgrad",
+      "away": "OGC Nice",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Midtjylland",
+      "away": "Dinamo Zagreb",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Crvena Zvezda",
+      "away": "RC Celta",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Maccabi Tel Aviv",
+      "away": "Bologna",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Celtic FC",
+      "away": "FC Utrecht",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "VfB Stuttgart",
+      "away": "Young Boys",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Sturm Graz",
+      "away": "Brann",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Panathinaikos",
+      "away": "AS Roma",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
       "home": "Go Ahead Eagles",
       "away": "Sporting Braga",
       "stream": {
@@ -354,212 +497,146 @@
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Arsenal",
-      "away": "FC Kairat Almaty",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Lyon",
+      "away": "PAOK Saloniki",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415296.m3u8?txSecret=4496ad4f8ea6777d5e18bc42dacba07a&txTime=697AC17D"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Athletic Club",
-      "away": "Sporting CP",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Fotbal Club FCSB",
+      "away": "Fenerbahce",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415305.m3u8?txSecret=ddac3efb1e7fa93c3643187c56f27281&txTime=697AC17D"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Atletico Madrid",
-      "away": "Bodo Glimt",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "FC Porto",
+      "away": "Rangers",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415306.m3u8?txSecret=a3a9e6f95381aa6e77f20efcb321c9fa&txTime=697AC17D"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "FC Barcelona",
-      "away": "FC Copenhagen",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "FC Basel 1893",
+      "away": "FC Viktoria Plzen",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415311.m3u8?txSecret=e328d8112de804c18ba6dd3ac226cd1d&txTime=697AC17D"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Bayer 04 Leverkusen",
-      "away": "Villarreal CF",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Real Betis",
+      "away": "Feyenoord",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415317.m3u8?txSecret=1f633052e0c3e66ba0c907c38c4e4694&txTime=697AC17D"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Benfica",
-      "away": "Real Madrid",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Ludogorets Razgrad",
+      "away": "OGC Nice",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415329.m3u8?txSecret=6d00a7fddbd0aff2e5bec9afacd1fb6b&txTime=697AC17D"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Borussia Dortmund",
-      "away": "Inter Milan",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Midtjylland",
+      "away": "Dinamo Zagreb",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415344.m3u8?txSecret=cc2c0dc86a7f430555d7c5144277d3eb&txTime=697AC17D"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Eintracht Frankfurt",
-      "away": "Tottenham Hotspur",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Crvena Zvezda",
+      "away": "RC Celta",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415349.m3u8?txSecret=6636e3de08d2707ca5a77d56e18f837f&txTime=697AC62C"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Liverpool",
-      "away": "Qarabag",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Maccabi Tel Aviv",
+      "away": "Bologna",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415372.m3u8?txSecret=14c3df2af529042ff1e6ef3724eae3c7&txTime=697AC62C"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Manchester City",
-      "away": "Galatasaray",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Celtic FC",
+      "away": "FC Utrecht",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415376.m3u8?txSecret=d3e8efce9d3d595c2118d04006e44d9e&txTime=697AC62C"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Napoli",
-      "away": "Chelsea",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "VfB Stuttgart",
+      "away": "Young Boys",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415386.m3u8?txSecret=e6743c2e8edcebcd44ff125cb86c6064&txTime=697AC62C"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Paris Saint Germain",
-      "away": "Newcastle United",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Sturm Graz",
+      "away": "Brann",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415405.m3u8?txSecret=60328551d5148fbf843eb42610a8b585&txTime=697AC17D"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "PSV Eindhoven",
-      "away": "FC Bayern Munich",
+      "league": "UEFA Europa League",
+      "status": "UPCOMING",
+      "time": 1769716800,
+      "home": "Panathinaikos",
+      "away": "AS Roma",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415408.m3u8?txSecret=82462ced59c2a18b2316385312015b1d&txTime=697AC62C"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "AS Monaco",
-      "away": "Juventus",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100319.m3u8?txSecret=a539d504830b93ac186246c86f52a470&txTime=697A875E&sign=bfc064578c7d7a7c"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Arsenal",
-      "away": "FC Kairat Almaty",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415296.m3u8?txSecret=4496ad4f8ea6777d5e18bc42dacba07a&txTime=697AC17D"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Athletic Club",
-      "away": "Sporting CP",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415305.m3u8?txSecret=ddac3efb1e7fa93c3643187c56f27281&txTime=697AC17D"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Atletico Madrid",
-      "away": "Bodo Glimt",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415306.m3u8?txSecret=a3a9e6f95381aa6e77f20efcb321c9fa&txTime=697AC17D"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "FC Barcelona",
-      "away": "FC Copenhagen",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415311.m3u8?txSecret=e328d8112de804c18ba6dd3ac226cd1d&txTime=697AC17D"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Bayer 04 Leverkusen",
-      "away": "Villarreal CF",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415317.m3u8?txSecret=1f633052e0c3e66ba0c907c38c4e4694&txTime=697AC17D"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -577,88 +654,11 @@
       "league": "UEFA UCL",
       "status": "LIVE",
       "time": 1769630400,
-      "home": "Borussia Dortmund",
-      "away": "Inter Milan",
+      "home": "Benfica",
+      "away": "Real Madrid",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415344.m3u8?txSecret=cc2c0dc86a7f430555d7c5144277d3eb&txTime=697AC17D"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Eintracht Frankfurt",
-      "away": "Tottenham Hotspur",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415349.m3u8?txSecret=6636e3de08d2707ca5a77d56e18f837f&txTime=697AC62C"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Liverpool",
-      "away": "Qarabag",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415372.m3u8?txSecret=14c3df2af529042ff1e6ef3724eae3c7&txTime=697AC62C"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Manchester City",
-      "away": "Galatasaray",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415376.m3u8?txSecret=d3e8efce9d3d595c2118d04006e44d9e&txTime=697AC62C"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Napoli",
-      "away": "Chelsea",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415386.m3u8?txSecret=e6743c2e8edcebcd44ff125cb86c6064&txTime=697AC62C"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "Paris Saint Germain",
-      "away": "Newcastle United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415405.m3u8?txSecret=60328551d5148fbf843eb42610a8b585&txTime=697AC17D"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "PSV Eindhoven",
-      "away": "FC Bayern Munich",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4415408.m3u8?txSecret=82462ced59c2a18b2316385312015b1d&txTime=697AC62C"
-      }
-    },
-    {
-      "league": "UEFA UCL",
-      "status": "LIVE",
-      "time": 1769630400,
-      "home": "AS Monaco",
-      "away": "Juventus",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100319.m3u8?txSecret=a539d504830b93ac186246c86f52a470&txTime=697A875E&sign=bfc064578c7d7a7c"
+        "url": "https://live.vivo200.com/live/sd-1-4415329.m3u8?txSecret=6d00a7fddbd0aff2e5bec9afacd1fb6b&txTime=697AC17D"
       }
     }
   ]
