@@ -1431,7 +1431,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 11,
+          "foreign_players": 12,
           "foundation_time": "1953",
           "id": 16871,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/aa2d8e24a68822387257f31d692c4297.png",
@@ -1448,8 +1448,8 @@
           "short_name_en": "Al Riyadh",
           "short_name_zh": "利雅得体育",
           "short_name_zht": "瑞亞達",
-          "total_players": 30,
-          "updated_at": 1769573510,
+          "total_players": 31,
+          "updated_at": 1769582664,
           "venue_id": 9740,
           "website": ""
         },
@@ -1549,7 +1549,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 11,
+            "foreign_players": 12,
             "foundation_time": "1953",
             "id": 16871,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/aa2d8e24a68822387257f31d692c4297.png",
@@ -1566,8 +1566,8 @@
             "short_name_en": "Al Riyadh",
             "short_name_zh": "利雅得体育",
             "short_name_zht": "瑞亞達",
-            "total_players": 30,
-            "updated_at": 1769573510,
+            "total_players": 31,
+            "updated_at": 1769582664,
             "venue_id": 9740,
             "website": ""
           },
@@ -2105,7 +2105,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 11,
+          "foreign_players": 12,
           "foundation_time": "1953",
           "id": 16871,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/aa2d8e24a68822387257f31d692c4297.png",
@@ -2122,8 +2122,8 @@
           "short_name_en": "Al Riyadh",
           "short_name_zh": "利雅得体育",
           "short_name_zht": "瑞亞達",
-          "total_players": 30,
-          "updated_at": 1769573510,
+          "total_players": 31,
+          "updated_at": 1769582664,
           "venue_id": 9740,
           "website": ""
         },
@@ -2223,7 +2223,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 11,
+            "foreign_players": 12,
             "foundation_time": "1953",
             "id": 16871,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/aa2d8e24a68822387257f31d692c4297.png",
@@ -2240,8 +2240,8 @@
             "short_name_en": "Al Riyadh",
             "short_name_zh": "利雅得体育",
             "short_name_zht": "瑞亞達",
-            "total_players": 30,
-            "updated_at": 1769573510,
+            "total_players": 31,
+            "updated_at": 1769582664,
             "venue_id": 9740,
             "website": ""
           },
@@ -2885,11 +2885,11 @@
           },
           "competition_id": 1815,
           "environment": {
-            "humidity": "52%",
+            "humidity": "55%",
             "pressure": "760mmHg",
             "temperature": "33°C",
             "weather": 5,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2990,7 +2990,35 @@
           "status": 1,
           "time": 1769590800,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "410111",
+            "away_logo": "https://photo.365live88.com/img/fb/team/d34ae450d7ea4c599ec89d7e1159e51a",
+            "away_name": "实皆联|實皆聯|Sagaing United",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "446782",
+            "home_logo": "https://photo.365live88.com/img/fb/team/1dfd9727064c47e4a2e3bf358a817e64",
+            "home_name": "亚曼亚联合|亚曼亚联合|Yarmanya United FC",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "2242",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/ee3e99f9b8884869bf2f7b4ee4f807e1",
+            "league_name": "缅甸联|緬甸聯|MYA Professional League",
+            "match_time": 1769590800,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "223948149",
+            "third_id": "4474598",
+            "wale_match_id": "1848209",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 1815,
@@ -3135,11 +3163,11 @@
           },
           "competition_id": 1815,
           "environment": {
-            "humidity": "52%",
+            "humidity": "55%",
             "pressure": "760mmHg",
             "temperature": "33°C",
             "weather": 5,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3240,7 +3268,35 @@
           "status": 1,
           "time": 1769590800,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "410111",
+            "away_logo": "https://photo.365live88.com/img/fb/team/d34ae450d7ea4c599ec89d7e1159e51a",
+            "away_name": "实皆联|實皆聯|Sagaing United",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "446782",
+            "home_logo": "https://photo.365live88.com/img/fb/team/1dfd9727064c47e4a2e3bf358a817e64",
+            "home_name": "亚曼亚联合|亚曼亚联合|Yarmanya United FC",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "2242",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/ee3e99f9b8884869bf2f7b4ee4f807e1",
+            "league_name": "缅甸联|緬甸聯|MYA Professional League",
+            "match_time": 1769590800,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "223948149",
+            "third_id": "4474598",
+            "wale_match_id": "1848209",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 1815,
@@ -3387,7 +3443,7 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "82%",
+            "humidity": "79%",
             "pressure": "755mmHg",
             "temperature": "13°C",
             "weather": 7,
@@ -3625,7 +3681,7 @@
           },
           "competition_id": 2915,
           "environment": {
-            "humidity": "82%",
+            "humidity": "79%",
             "pressure": "755mmHg",
             "temperature": "13°C",
             "weather": 7,
@@ -4103,8 +4159,8 @@
           },
           "competition_id": 6903,
           "environment": {
-            "humidity": "45%",
-            "pressure": "760mmHg",
+            "humidity": "44%",
+            "pressure": "761mmHg",
             "temperature": "28°C",
             "weather": 1,
             "wind": "2.0m/s"
@@ -4341,7 +4397,7 @@
           },
           "competition_id": 6903,
           "environment": {
-            "humidity": "73%",
+            "humidity": "71%",
             "pressure": "760mmHg",
             "temperature": "28°C",
             "weather": 7,
@@ -4817,8 +4873,8 @@
           },
           "competition_id": 6903,
           "environment": {
-            "humidity": "45%",
-            "pressure": "760mmHg",
+            "humidity": "44%",
+            "pressure": "761mmHg",
             "temperature": "28°C",
             "weather": 1,
             "wind": "2.0m/s"
@@ -5055,7 +5111,7 @@
           },
           "competition_id": 6903,
           "environment": {
-            "humidity": "73%",
+            "humidity": "71%",
             "pressure": "760mmHg",
             "temperature": "28°C",
             "weather": 7,
@@ -5533,7 +5589,7 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "32%",
+            "humidity": "33%",
             "pressure": "765mmHg",
             "temperature": "25°C",
             "weather": 1,
@@ -6009,7 +6065,7 @@
           },
           "competition_id": 627,
           "environment": {
-            "humidity": "32%",
+            "humidity": "33%",
             "pressure": "765mmHg",
             "temperature": "25°C",
             "weather": 1,
@@ -6807,9 +6863,9 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "76%",
+            "humidity": "75%",
             "pressure": "755mmHg",
-            "temperature": "8°C",
+            "temperature": "7°C",
             "weather": 7,
             "wind": "4.3m/s"
           },
@@ -8996,11 +9052,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "82%",
+            "humidity": "81%",
             "pressure": "763mmHg",
             "temperature": "13°C",
             "weather": 1,
-            "wind": "4.0m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10190,9 +10246,9 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "76%",
+            "humidity": "75%",
             "pressure": "755mmHg",
-            "temperature": "8°C",
+            "temperature": "7°C",
             "weather": 7,
             "wind": "4.3m/s"
           },
@@ -12379,11 +12435,11 @@
           },
           "competition_id": 46,
           "environment": {
-            "humidity": "82%",
+            "humidity": "81%",
             "pressure": "763mmHg",
             "temperature": "13°C",
             "weather": 1,
-            "wind": "4.0m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
