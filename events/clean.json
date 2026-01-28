@@ -1,5 +1,5 @@
 {
-  "updated": 1769597843,
+  "updated": 1769599891,
   "events": [
     {
       "league": "AUS W-League",
@@ -8,8 +8,8 @@
       "home": "Perth Glory Women",
       "away": "Sydney FC Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/63685051_19fd64f5a28fdaf72aff0d46aaea4688.m3u8"
       }
     },
     {
@@ -19,8 +19,8 @@
       "home": "Perth Glory Women",
       "away": "Sydney FC Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/63685051_19fd64f5a28fdaf72aff0d46aaea4688.m3u8"
       }
     },
     {
@@ -201,35 +201,35 @@
     },
     {
       "league": "POR U23",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769612400,
       "home": "Estrela FC U23",
       "away": "Farense U23",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769599156.flv"
       }
     },
     {
       "league": "POR U23",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769612400,
       "home": "Estrela FC U23",
       "away": "Farense U23",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769599156.flv"
       }
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769599800,
       "home": "Tampines Rovers FC",
       "away": "Buriram United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4407663.m3u8?txSecret=c4a0950aa3c880f182bfeb7df09564e2&txTime=697A2A50"
       }
     },
     {
@@ -256,13 +256,13 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769599800,
       "home": "Tampines Rovers FC",
       "away": "Buriram United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4407663.m3u8?txSecret=c4a0950aa3c880f182bfeb7df09564e2&txTime=697A2A50"
       }
     },
     {
@@ -421,13 +421,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Borussia Dortmund",
       "away": "Inter Milan",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769599184.flv"
       }
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Borussia Dortmund",
       "away": "Inter Milan",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769599184.flv"
       }
     },
     {
