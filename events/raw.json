@@ -629,11 +629,11 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "30%",
+            "humidity": "29%",
             "pressure": "765mmHg",
             "temperature": "20°C",
             "weather": 5,
-            "wind": "4.3m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -1303,11 +1303,11 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "30%",
+            "humidity": "29%",
             "pressure": "765mmHg",
             "temperature": "20°C",
             "weather": 5,
-            "wind": "4.3m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -1906,7 +1906,7 @@
             "pressure": "761mmHg",
             "temperature": "15°C",
             "weather": 7,
-            "wind": "4.0m/s"
+            "wind": "3.7m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2105,7 +2105,7 @@
             "pressure": "761mmHg",
             "temperature": "15°C",
             "weather": 7,
-            "wind": "4.0m/s"
+            "wind": "3.7m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2345,7 +2345,7 @@
             "pressure": "760mmHg",
             "temperature": "33°C",
             "weather": 7,
-            "wind": "1.8m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2583,7 +2583,7 @@
             "pressure": "760mmHg",
             "temperature": "33°C",
             "weather": 7,
-            "wind": "1.8m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2821,9 +2821,9 @@
           "environment": {
             "humidity": "97%",
             "pressure": "759mmHg",
-            "temperature": "16°C",
+            "temperature": "15°C",
             "weather": 10,
-            "wind": "7.0m/s"
+            "wind": "6.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3059,9 +3059,9 @@
           "environment": {
             "humidity": "97%",
             "pressure": "759mmHg",
-            "temperature": "16°C",
+            "temperature": "15°C",
             "weather": 10,
-            "wind": "7.0m/s"
+            "wind": "6.8m/s"
           },
           "explain": "",
           "home_corner": 0,
