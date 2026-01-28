@@ -1,29 +1,7 @@
 {
-  "updated": 1769603821,
+  "updated": 1769607327,
   "events": [
     {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769598000,
-      "home": "Perth Glory Women",
-      "away": "Sydney FC Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/63685051_19fd64f5a28fdaf72aff0d46aaea4688.m3u8"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769598000,
-      "home": "Perth Glory Women",
-      "away": "Sydney FC Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/63685051_19fd64f5a28fdaf72aff0d46aaea4688.m3u8"
-      }
-    },
-    {
       "league": "EGY Premier League",
       "status": "UPCOMING",
       "time": 1769612400,
@@ -90,22 +68,22 @@
       }
     },
     {
-      "league": "INT CF",
+      "league": "Iraq Stars League",
       "status": "UPCOMING",
-      "time": 1769605200,
-      "home": "Ural Yekaterinburg",
-      "away": "Chengdu Rongcheng FC",
+      "time": 1769610600,
+      "home": "Al-Kahrbaa Club",
+      "away": "Al Quwa Al Jawiya",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "INT CF",
+      "league": "Iraq Stars League",
       "status": "UPCOMING",
-      "time": 1769605200,
-      "home": "Ural Yekaterinburg",
-      "away": "Chengdu Rongcheng FC",
+      "time": 1769610600,
+      "home": "Al-Kahrbaa Club",
+      "away": "Al Quwa Al Jawiya",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -185,7 +163,7 @@
       "away": "Dagon Star United",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769605130.flv"
       }
     },
     {
@@ -196,40 +174,29 @@
       "away": "Dagon Star United",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769605130.flv"
       }
     },
     {
       "league": "POR U23",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769612400,
       "home": "Estrela FC U23",
       "away": "Farense U23",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769599156.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "POR U23",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769612400,
       "home": "Estrela FC U23",
       "away": "Farense U23",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769599156.flv"
-      }
-    },
-    {
-      "league": "Shopee Cup",
-      "status": "LIVE",
-      "time": 1769599800,
-      "home": "Tampines Rovers FC",
-      "away": "Buriram United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407663.m3u8?txSecret=0c2d75a3c3f63834003e0083d707b5b4&txTime=697A4670"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -250,19 +217,30 @@
       "home": "Selangor FC",
       "away": "Cong An Ha Noi FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4407665.m3u8?txSecret=4fafa133baec1a833316d77a5e1b7b08&txTime=697A50FB"
+      }
+    },
+    {
+      "league": "Shopee Cup",
+      "status": "UPCOMING",
+      "time": 1769679000,
+      "home": "Johor Darul Ta'zim FC",
+      "away": "Shan United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "Shopee Cup",
       "status": "LIVE",
-      "time": 1769599800,
-      "home": "Tampines Rovers FC",
-      "away": "Buriram United",
+      "time": 1769688000,
+      "home": "Preah Khan Reach Svay Rieng FC",
+      "away": "Bangkok United FC",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407663.m3u8?txSecret=0c2d75a3c3f63834003e0083d707b5b4&txTime=697A4670"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769605130.flv"
       }
     },
     {
@@ -283,30 +261,52 @@
       "home": "Selangor FC",
       "away": "Cong An Ha Noi FC",
       "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4407665.m3u8?txSecret=4fafa133baec1a833316d77a5e1b7b08&txTime=697A50FB"
+      }
+    },
+    {
+      "league": "Shopee Cup",
+      "status": "UPCOMING",
+      "time": 1769679000,
+      "home": "Johor Darul Ta'zim FC",
+      "away": "Shan United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Shopee Cup",
+      "status": "LIVE",
+      "time": 1769688000,
+      "home": "Preah Khan Reach Svay Rieng FC",
+      "away": "Bangkok United FC",
+      "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769605130.flv"
       }
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769606100,
       "home": "Ajman",
       "away": "Shabab Al Ahli",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4477049.m3u8?txSecret=04e637c6cd13d0fe2ac1c66c7d48c701&txTime=697A50FB"
       }
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769606100,
       "home": "Al-Dhafra",
       "away": "Al-Sharjah",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100450.m3u8?txSecret=81a232e0706cc052cb376152f6a70daa&txTime=697A1629&sign=06c6aa5a72351229"
       }
     },
     {
@@ -322,24 +322,24 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769606100,
       "home": "Ajman",
       "away": "Shabab Al Ahli",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4477049.m3u8?txSecret=04e637c6cd13d0fe2ac1c66c7d48c701&txTime=697A50FB"
       }
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769606100,
       "home": "Al-Dhafra",
       "away": "Al-Sharjah",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100450.m3u8?txSecret=81a232e0706cc052cb376152f6a70daa&txTime=697A1629&sign=06c6aa5a72351229"
       }
     },
     {
@@ -421,13 +421,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769630400,
       "home": "Borussia Dortmund",
       "away": "Inter Milan",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769599184.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769630400,
       "home": "Borussia Dortmund",
       "away": "Inter Milan",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769599184.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
