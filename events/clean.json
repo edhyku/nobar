@@ -1,5 +1,5 @@
 {
-  "updated": 1769607327,
+  "updated": 1769609173,
   "events": [
     {
       "league": "EGY Premier League",
@@ -202,12 +202,45 @@
     {
       "league": "Shopee Cup",
       "status": "LIVE",
-      "time": 1769601600,
-      "home": "BG Pathum United",
-      "away": "Dynamic Herb Cebu",
+      "time": 1769605200,
+      "home": "Selangor FC",
+      "away": "Cong An Ha Noi FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407664.m3u8?txSecret=8b3ca825808074770efc0c20b386041e&txTime=697A4670"
+        "url": "https://live.vivo200.com/live/sd-1-4407665.m3u8?txSecret=4fafa133baec1a833316d77a5e1b7b08&txTime=697A50FB"
+      }
+    },
+    {
+      "league": "Shopee Cup",
+      "status": "UPCOMING",
+      "time": 1769679000,
+      "home": "Johor Darul Ta'zim FC",
+      "away": "Shan United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Shopee Cup",
+      "status": "LIVE",
+      "time": 1769688000,
+      "home": "Preah Khan Reach Svay Rieng FC",
+      "away": "Bangkok United FC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769605130.flv"
+      }
+    },
+    {
+      "league": "Shopee Cup",
+      "status": "UPCOMING",
+      "time": 1769689800,
+      "home": "Thep Xanh Nam Dinh FC",
+      "away": "Lion City Sailors",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -245,46 +278,13 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "LIVE",
-      "time": 1769601600,
-      "home": "BG Pathum United",
-      "away": "Dynamic Herb Cebu",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407664.m3u8?txSecret=8b3ca825808074770efc0c20b386041e&txTime=697A4670"
-      }
-    },
-    {
-      "league": "Shopee Cup",
-      "status": "LIVE",
-      "time": 1769605200,
-      "home": "Selangor FC",
-      "away": "Cong An Ha Noi FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407665.m3u8?txSecret=4fafa133baec1a833316d77a5e1b7b08&txTime=697A50FB"
-      }
-    },
-    {
-      "league": "Shopee Cup",
       "status": "UPCOMING",
-      "time": 1769679000,
-      "home": "Johor Darul Ta'zim FC",
-      "away": "Shan United",
+      "time": 1769689800,
+      "home": "Thep Xanh Nam Dinh FC",
+      "away": "Lion City Sailors",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Shopee Cup",
-      "status": "LIVE",
-      "time": 1769688000,
-      "home": "Preah Khan Reach Svay Rieng FC",
-      "away": "Bangkok United FC",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769605130.flv"
       }
     },
     {
@@ -306,7 +306,7 @@
       "away": "Al-Sharjah",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100450.m3u8?txSecret=81a232e0706cc052cb376152f6a70daa&txTime=697A1629&sign=06c6aa5a72351229"
+        "url": "https://live.trendgallary.com/live/67315348_21f01d07a1a0ae8075d8b83613261e0e.m3u8"
       }
     },
     {
@@ -339,7 +339,7 @@
       "away": "Al-Sharjah",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100450.m3u8?txSecret=81a232e0706cc052cb376152f6a70daa&txTime=697A1629&sign=06c6aa5a72351229"
+        "url": "https://live.trendgallary.com/live/67315348_21f01d07a1a0ae8075d8b83613261e0e.m3u8"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769630400,
       "home": "Manchester City",
       "away": "Galatasaray",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769599931.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -608,13 +608,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769630400,
       "home": "Manchester City",
       "away": "Galatasaray",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769599931.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
