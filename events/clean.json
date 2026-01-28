@@ -1,26 +1,26 @@
 {
-  "updated": 1769596081,
+  "updated": 1769597843,
   "events": [
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769598000,
       "home": "Perth Glory Women",
       "away": "Sydney FC Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769598000,
       "home": "Perth Glory Women",
       "away": "Sydney FC Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
       }
     },
     {
@@ -178,25 +178,25 @@
       }
     },
     {
-      "league": "MYA League 1",
+      "league": "MYA Professional League",
       "status": "LIVE",
-      "time": 1769590800,
-      "home": "Silver Stars",
-      "away": "Kachin United FC",
+      "time": 1769677200,
+      "home": "Ayeyawady united",
+      "away": "Dagon Star United",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/67550178_5603c04453e41ad0df77e49fef9fe4fe.m3u8"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
       }
     },
     {
-      "league": "MYA League 1",
+      "league": "MYA Professional League",
       "status": "LIVE",
-      "time": 1769590800,
-      "home": "Silver Stars",
-      "away": "Kachin United FC",
+      "time": 1769677200,
+      "home": "Ayeyawady united",
+      "away": "Dagon Star United",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/67550178_5603c04453e41ad0df77e49fef9fe4fe.m3u8"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
       }
     },
     {
@@ -245,13 +245,13 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769605200,
       "home": "Selangor FC",
       "away": "Cong An Ha Noi FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
       }
     },
     {
@@ -278,13 +278,13 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769605200,
       "home": "Selangor FC",
       "away": "Cong An Ha Noi FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769597093.flv"
       }
     },
     {
@@ -421,13 +421,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769630400,
       "home": "Borussia Dortmund",
       "away": "Inter Milan",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769588134.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769630400,
       "home": "Borussia Dortmund",
       "away": "Inter Milan",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769588134.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
