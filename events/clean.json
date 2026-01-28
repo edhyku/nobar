@@ -1,5 +1,5 @@
 {
-  "updated": 1769614030,
+  "updated": 1769616061,
   "events": [
     {
       "league": "EGY Premier League",
@@ -75,7 +75,7 @@
       "away": "Al Diraiyah",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=56ab00177b6fd4cbdbc06953bf3fe715&txTime=697A30E2&sign=c6ab4ca5077bf1cb"
+        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=86fc64ac859abfc8cfeb1ec72a92867b&txTime=697A37E9&sign=55cb5b0ddd21b65f"
       }
     },
     {
@@ -86,7 +86,7 @@
       "away": "Al Diraiyah",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=56ab00177b6fd4cbdbc06953bf3fe715&txTime=697A30E2&sign=c6ab4ca5077bf1cb"
+        "url": "https://v.lfsxfj.com/live/100357.m3u8?txSecret=86fc64ac859abfc8cfeb1ec72a92867b&txTime=697A37E9&sign=55cb5b0ddd21b65f"
       }
     },
     {
@@ -96,8 +96,8 @@
       "home": "Al Najma(KSA)",
       "away": "Al Riyadh",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769612633.flv"
+        "type": "m3u8",
+        "url": "https://play2.clomidx.com/live/112327057592_2519799806_adaptive.m3u8"
       }
     },
     {
@@ -129,8 +129,8 @@
       "home": "Al Najma(KSA)",
       "away": "Al Riyadh",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769612633.flv"
+        "type": "m3u8",
+        "url": "https://play2.clomidx.com/live/112327057592_2519799806_adaptive.m3u8"
       }
     },
     {
@@ -224,7 +224,7 @@
     {
       "league": "QAT Stars League",
       "status": "LIVE",
-      "time": 1769697000,
+      "time": 1769697900,
       "home": "Umm Salal",
       "away": "Al-Arabi SC",
       "stream": {
@@ -235,7 +235,7 @@
     {
       "league": "QAT Stars League",
       "status": "LIVE",
-      "time": 1769697000,
+      "time": 1769697900,
       "home": "Umm Salal",
       "away": "Al-Arabi SC",
       "stream": {
@@ -311,13 +311,13 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769616000,
       "home": "Al-Wasl SC",
       "away": "Khor Fakkan SSC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769615047.flv"
       }
     },
     {
@@ -333,13 +333,13 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769616000,
       "home": "Al-Wasl SC",
       "away": "Khor Fakkan SSC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769615047.flv"
       }
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Atletico Madrid",
       "away": "Bodo Glimt",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769615047.flv"
       }
     },
     {
@@ -531,13 +531,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Atletico Madrid",
       "away": "Bodo Glimt",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769615047.flv"
       }
     },
     {
