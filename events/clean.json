@@ -1,26 +1,26 @@
 {
-  "updated": 1769621699,
+  "updated": 1769623273,
   "events": [
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769623200,
       "home": "Pyramids FC",
       "away": "El Gounah",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769622497.flv"
       }
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769623200,
       "home": "Al Masry",
       "away": "Ceramica Cleopatra FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769622616.flv"
       }
     },
     {
@@ -36,24 +36,24 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769623200,
       "home": "Pyramids FC",
       "away": "El Gounah",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769622497.flv"
       }
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769623200,
       "home": "Al Masry",
       "away": "Ceramica Cleopatra FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769622616.flv"
       }
     },
     {
@@ -85,8 +85,8 @@
       "home": "Al Ahli SFC",
       "away": "Al Ettifaq FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769620607.flv"
+        "type": "m3u8",
+        "url": "https://play4.clomidx.com/live/11585914303_3467799629_adaptive.m3u8"
       }
     },
     {
@@ -140,8 +140,8 @@
       "home": "Al Ahli SFC",
       "away": "Al Ettifaq FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769620607.flv"
+        "type": "m3u8",
+        "url": "https://play4.clomidx.com/live/11585914303_3467799629_adaptive.m3u8"
       }
     },
     {
@@ -355,24 +355,24 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Arsenal",
       "away": "FC Kairat Almaty",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769622497.flv"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Athletic Club",
       "away": "Sporting CP",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769622616.flv"
       }
     },
     {
@@ -509,24 +509,24 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Arsenal",
       "away": "FC Kairat Almaty",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769622497.flv"
       }
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Athletic Club",
       "away": "Sporting CP",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2360279_1769622616.flv"
       }
     },
     {
