@@ -1,5 +1,5 @@
 {
-  "updated": 1769589626,
+  "updated": 1769591914,
   "events": [
     {
       "league": "AUS W-League",
@@ -134,25 +134,25 @@
       }
     },
     {
-      "league": "MYA Professional League",
-      "status": "UPCOMING",
+      "league": "MYA League 1",
+      "status": "LIVE",
       "time": 1769590800,
-      "home": "Yarmanya United FC",
-      "away": "Mahar United",
+      "home": "Silver Stars",
+      "away": "Kachin United FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/67550178_5603c04453e41ad0df77e49fef9fe4fe.m3u8"
       }
     },
     {
-      "league": "MYA Professional League",
-      "status": "UPCOMING",
+      "league": "MYA League 1",
+      "status": "LIVE",
       "time": 1769590800,
-      "home": "Yarmanya United FC",
-      "away": "Mahar United",
+      "home": "Silver Stars",
+      "away": "Kachin United FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/67550178_5603c04453e41ad0df77e49fef9fe4fe.m3u8"
       }
     },
     {
