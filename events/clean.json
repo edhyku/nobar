@@ -1,5 +1,5 @@
 {
-  "updated": 1769593956,
+  "updated": 1769596081,
   "events": [
     {
       "league": "AUS W-League",
@@ -311,13 +311,13 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769616000,
       "home": "Al-Wasl SC",
       "away": "Khor Fakkan SSC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769595931.flv"
       }
     },
     {
@@ -344,13 +344,13 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769616000,
       "home": "Al-Wasl SC",
       "away": "Khor Fakkan SSC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769595931.flv"
       }
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Atletico Madrid",
       "away": "Bodo Glimt",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769595931.flv"
       }
     },
     {
@@ -531,13 +531,13 @@
     },
     {
       "league": "UEFA UCL",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769630400,
       "home": "Atletico Madrid",
       "away": "Bodo Glimt",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769595931.flv"
       }
     },
     {
