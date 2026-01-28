@@ -1,5 +1,5 @@
 {
-  "updated": 1769626300,
+  "updated": 1769628310,
   "events": [
     {
       "league": "EGY Premier League",
@@ -102,17 +102,6 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769621400,
-      "home": "Al Ahli SFC",
-      "away": "Al Ettifaq FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play4.clomidx.com/live/11585914303_3467799629_adaptive.m3u8"
-      }
-    },
-    {
-      "league": "KSA Professional League",
       "status": "UPCOMING",
       "time": 1769698800,
       "home": "Al Fateh SC",
@@ -157,17 +146,6 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769621400,
-      "home": "Al Ahli SFC",
-      "away": "Al Ettifaq FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play4.clomidx.com/live/11585914303_3467799629_adaptive.m3u8"
-      }
-    },
-    {
-      "league": "KSA Professional League",
       "status": "UPCOMING",
       "time": 1769698800,
       "home": "Al Fateh SC",
@@ -194,6 +172,28 @@
       "time": 1769707800,
       "home": "Al Hazem",
       "away": "Al Shabab FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769709600,
+      "home": "SL Benfica B",
+      "away": "Lusitania FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "UPCOMING",
+      "time": 1769709600,
+      "home": "SL Benfica B",
+      "away": "Lusitania FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
