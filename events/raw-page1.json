@@ -1486,7 +1486,7 @@
       "pressure": "759mmHg",
       "temperature": "15°C",
       "weather": 9,
-      "wind": "7.3m/s"
+      "wind": "7.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1722,7 +1722,7 @@
      },
      "competition_id": 646,
      "environment": {
-      "humidity": "58%",
+      "humidity": "59%",
       "pressure": "764mmHg",
       "temperature": "19°C",
       "weather": 5,
@@ -1962,9 +1962,9 @@
      },
      "competition_id": 6903,
      "environment": {
-      "humidity": "69%",
+      "humidity": "71%",
       "pressure": "759mmHg",
-      "temperature": "29°C",
+      "temperature": "28°C",
       "weather": 1,
       "wind": "3.7m/s"
      },
@@ -2453,7 +2453,7 @@
       "humidity": "87%",
       "pressure": "763mmHg",
       "temperature": "21°C",
-      "weather": 5,
+      "weather": 1,
       "wind": "2.9m/s"
      },
      "explain": "",
@@ -2690,7 +2690,7 @@
      },
      "competition_id": 627,
      "environment": {
-      "humidity": "51%",
+      "humidity": "50%",
       "pressure": "763mmHg",
       "temperature": "24°C",
       "weather": 5,
@@ -2895,7 +2895,7 @@
       "pressure": "752mmHg",
       "temperature": "0°C",
       "weather": 4,
-      "wind": "3.4m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3094,7 +3094,7 @@
       "pressure": "750mmHg",
       "temperature": "3°C",
       "weather": 7,
-      "wind": "3.4m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3293,7 +3293,7 @@
       "pressure": "747mmHg",
       "temperature": "3°C",
       "weather": 7,
-      "wind": "5.3m/s"
+      "wind": "5.6m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3488,7 +3488,7 @@
      },
      "competition_id": 47,
      "environment": {
-      "humidity": "94%",
+      "humidity": "96%",
       "pressure": "751mmHg",
       "temperature": "1°C",
       "weather": 7,
@@ -3691,7 +3691,7 @@
       "pressure": "751mmHg",
       "temperature": "3°C",
       "weather": 7,
-      "wind": "1.5m/s"
+      "wind": "1.8m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3886,7 +3886,7 @@
      },
      "competition_id": 47,
      "environment": {
-      "humidity": "90%",
+      "humidity": "89%",
       "pressure": "749mmHg",
       "temperature": "4°C",
       "weather": 7,
@@ -4087,7 +4087,7 @@
      "environment": {
       "humidity": "85%",
       "pressure": "760mmHg",
-      "temperature": "14°C",
+      "temperature": "13°C",
       "weather": 9,
       "wind": "4.8m/s"
      },
@@ -4483,7 +4483,7 @@
      },
      "competition_id": 47,
      "environment": {
-      "humidity": "95%",
+      "humidity": "96%",
       "pressure": "762mmHg",
       "temperature": "17°C",
       "weather": 9,
@@ -4881,11 +4881,11 @@
      },
      "competition_id": 47,
      "environment": {
-      "humidity": "77%",
+      "humidity": "78%",
       "pressure": "758mmHg",
       "temperature": "-2°C",
       "weather": 7,
-      "wind": "6.8m/s"
+      "wind": "6.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5681,7 +5681,7 @@
       "pressure": "752mmHg",
       "temperature": "2°C",
       "weather": 7,
-      "wind": "1.5m/s"
+      "wind": "1.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5876,11 +5876,11 @@
      },
      "competition_id": 47,
      "environment": {
-      "humidity": "99%",
+      "humidity": "98%",
       "pressure": "752mmHg",
       "temperature": "2°C",
       "weather": 7,
-      "wind": "0.7m/s"
+      "wind": "0.9m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6075,11 +6075,11 @@
      },
      "competition_id": 47,
      "environment": {
-      "humidity": "77%",
+      "humidity": "78%",
       "pressure": "747mmHg",
       "temperature": "13°C",
-      "weather": 1,
-      "wind": "2.9m/s"
+      "weather": 5,
+      "wind": "2.6m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6276,7 +6276,7 @@
      "environment": {
       "humidity": "89%",
       "pressure": "746mmHg",
-      "temperature": "3°C",
+      "temperature": "4°C",
       "weather": 7,
       "wind": "5.8m/s"
      },
