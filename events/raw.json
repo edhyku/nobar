@@ -1,5 +1,5 @@
 {
-  "liveCount": 1,
+  "liveCount": 2,
   "matches": {
     "EGY Premier League": [
       {
@@ -1027,7 +1027,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "26%",
+            "humidity": "25%",
             "pressure": "766mmHg",
             "temperature": "15°C",
             "weather": 5,
@@ -1701,7 +1701,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "26%",
+            "humidity": "25%",
             "pressure": "766mmHg",
             "temperature": "15°C",
             "weather": 5,
@@ -2237,7 +2237,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 21,
+          "foreign_players": 1,
           "foundation_time": "0",
           "id": 49697,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/6fcaab610a987b2cabcbbc43d70a795f.png",
@@ -2255,7 +2255,7 @@
           "short_name_zh": "达根星",
           "short_name_zht": "達根FC",
           "total_players": 39,
-          "updated_at": 1768994631,
+          "updated_at": 1769679259,
           "venue_id": 0,
           "website": ""
         },
@@ -2315,7 +2315,7 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 82300,
+                "hot": 146800,
                 "isvideo": 0,
                 "liveid": 1769676369339,
                 "livestream_source": 4,
@@ -2325,7 +2325,7 @@
                 "peak_num": 24,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 3,
+                "private_count": 5,
                 "profit": 0,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/1052339_1769676311.flv",
                 "rec_weight": 1,
@@ -2384,7 +2384,7 @@
             }
           ],
           "animation_url": "",
-          "away_corner": 1,
+          "away_corner": 2,
           "away_halfscore": 1,
           "away_id": 49697,
           "away_otscrore": 0,
@@ -2399,7 +2399,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 21,
+            "foreign_players": 1,
             "foundation_time": "0",
             "id": 49697,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/6fcaab610a987b2cabcbbc43d70a795f.png",
@@ -2417,20 +2417,20 @@
             "short_name_zh": "达根星",
             "short_name_zht": "達根FC",
             "total_players": 39,
-            "updated_at": 1768994631,
+            "updated_at": 1769679259,
             "venue_id": 0,
             "website": ""
           },
           "competition_id": 1815,
           "environment": {
-            "humidity": "25%",
-            "pressure": "763mmHg",
-            "temperature": "33°C",
+            "humidity": "62%",
+            "pressure": "759mmHg",
+            "temperature": "32°C",
             "weather": 1,
-            "wind": "1.5m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
-          "home_corner": 0,
+          "home_corner": 1,
           "home_halfscore": 0,
           "home_id": 25104,
           "home_otscrore": 0,
@@ -2473,7 +2473,7 @@
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
-          "kickoff_time": 1769677200,
+          "kickoff_time": 1769680846,
           "live": {
             "away": "达根星",
             "comp": "缅甸联",
@@ -2482,7 +2482,7 @@
             "is_extend_expire2": 0,
             "is_extend_expire3": 0,
             "match_id": 4474594,
-            "match_status": 2,
+            "match_status": 4,
             "match_time": 1769677200,
             "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4474594",
             "pushurl1_status": 1,
@@ -2525,7 +2525,7 @@
           "stage_group": 0,
           "stage_id": 231843,
           "stage_round": 15,
-          "status": 2,
+          "status": 4,
           "time": 1769677200,
           "video_type": "live",
           "walematch": {
@@ -2549,8 +2549,8 @@
             "league_logo": "https://photo.365live88.com/img/fb/cup/3910629549864c1481dba36377d2e025",
             "league_name": "缅甸联|緬甸聯|MYA Professional League",
             "match_time": 1769677200,
-            "status": "26",
-            "status_id": 1,
+            "status": "52",
+            "status_id": 3,
             "stream_id": "224115666",
             "third_id": "4474594",
             "wale_match_id": "1848205",
@@ -2569,83 +2569,83 @@
             ],
             "walematchvideos": [
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 35,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 44,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "flv",
                 "video_url": "https://live.vivo200.com/live/sd-1-4474594.flv?txSecret=275d7cb3cd5eab0eccec0d78c5939fc1&txTime=697B66B9"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 36,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 45,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "flv",
                 "video_url": "https://live.trendgallary.com/live/67550138_c98d18dbf55634b975f393d0231c47a0.flv"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 37,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 46,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "flv",
                 "video_url": "rtmp://video7.letaocm.top/live/sd-1-4474594.flv"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 38,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 47,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "m3u8",
                 "video_url": "https://live.vivo200.com/live/sd-1-4474594.m3u8?txSecret=275d7cb3cd5eab0eccec0d78c5939fc1&txTime=697B66B9"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 39,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 48,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "m3u8",
                 "video_url": "https://live.trendgallary.com/live/67550138_c98d18dbf55634b975f393d0231c47a0.m3u8"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 40,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 49,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "m3u8",
                 "video_url": "https://play2.clomidx.com/live/113726043202_2073048609_adaptive.m3u8"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 41,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 50,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "h5",
-                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvYr21p5fpPf76zdm.m3u8?txSecret=185fe8b7e528037e3d11d882849a288c&txTime=697C77A4"
+                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvYr21p5fpPf76zdm.m3u8?txSecret=828ef39c85a6c9b4358deb46b3a36118&txTime=697C8103"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 42,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 51,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "h5",
                 "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/67550138_c98d18dbf55634b975f393d0231c47a0.m3u8"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 43,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 52,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "h5",
                 "video_url": "https://play.365live88.com/?url=https://play2.clomidx.com/live/113726043202_2073048609_adaptive.m3u8"
               }
@@ -2681,7 +2681,7 @@
           "website": ""
         },
         "home_score": 0,
-        "status": 2,
+        "status": 4,
         "streams": true
       },
       {
@@ -2691,7 +2691,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 21,
+          "foreign_players": 1,
           "foundation_time": "0",
           "id": 49697,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/6fcaab610a987b2cabcbbc43d70a795f.png",
@@ -2709,7 +2709,7 @@
           "short_name_zh": "达根星",
           "short_name_zht": "達根FC",
           "total_players": 39,
-          "updated_at": 1768994631,
+          "updated_at": 1769679259,
           "venue_id": 0,
           "website": ""
         },
@@ -2769,7 +2769,7 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 82300,
+                "hot": 146800,
                 "isvideo": 0,
                 "liveid": 1769676369339,
                 "livestream_source": 4,
@@ -2779,7 +2779,7 @@
                 "peak_num": 24,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 3,
+                "private_count": 5,
                 "profit": 0,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/1052339_1769676311.flv",
                 "rec_weight": 1,
@@ -2838,7 +2838,7 @@
             }
           ],
           "animation_url": "",
-          "away_corner": 1,
+          "away_corner": 2,
           "away_halfscore": 1,
           "away_id": 49697,
           "away_otscrore": 0,
@@ -2853,7 +2853,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 21,
+            "foreign_players": 1,
             "foundation_time": "0",
             "id": 49697,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/6fcaab610a987b2cabcbbc43d70a795f.png",
@@ -2871,20 +2871,20 @@
             "short_name_zh": "达根星",
             "short_name_zht": "達根FC",
             "total_players": 39,
-            "updated_at": 1768994631,
+            "updated_at": 1769679259,
             "venue_id": 0,
             "website": ""
           },
           "competition_id": 1815,
           "environment": {
-            "humidity": "25%",
-            "pressure": "763mmHg",
-            "temperature": "33°C",
+            "humidity": "62%",
+            "pressure": "759mmHg",
+            "temperature": "32°C",
             "weather": 1,
-            "wind": "1.5m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
-          "home_corner": 0,
+          "home_corner": 1,
           "home_halfscore": 0,
           "home_id": 25104,
           "home_otscrore": 0,
@@ -2927,7 +2927,7 @@
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
-          "kickoff_time": 1769677200,
+          "kickoff_time": 1769680846,
           "live": {
             "away": "达根星",
             "comp": "缅甸联",
@@ -2936,7 +2936,7 @@
             "is_extend_expire2": 0,
             "is_extend_expire3": 0,
             "match_id": 4474594,
-            "match_status": 2,
+            "match_status": 4,
             "match_time": 1769677200,
             "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4474594",
             "pushurl1_status": 1,
@@ -2979,7 +2979,7 @@
           "stage_group": 0,
           "stage_id": 231843,
           "stage_round": 15,
-          "status": 2,
+          "status": 4,
           "time": 1769677200,
           "video_type": "live",
           "walematch": {
@@ -3003,8 +3003,8 @@
             "league_logo": "https://photo.365live88.com/img/fb/cup/3910629549864c1481dba36377d2e025",
             "league_name": "缅甸联|緬甸聯|MYA Professional League",
             "match_time": 1769677200,
-            "status": "26",
-            "status_id": 1,
+            "status": "52",
+            "status_id": 3,
             "stream_id": "224115666",
             "third_id": "4474594",
             "wale_match_id": "1848205",
@@ -3023,83 +3023,83 @@
             ],
             "walematchvideos": [
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 35,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 44,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "flv",
                 "video_url": "https://live.vivo200.com/live/sd-1-4474594.flv?txSecret=275d7cb3cd5eab0eccec0d78c5939fc1&txTime=697B66B9"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 36,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 45,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "flv",
                 "video_url": "https://live.trendgallary.com/live/67550138_c98d18dbf55634b975f393d0231c47a0.flv"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 37,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 46,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "flv",
                 "video_url": "rtmp://video7.letaocm.top/live/sd-1-4474594.flv"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 38,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 47,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "m3u8",
                 "video_url": "https://live.vivo200.com/live/sd-1-4474594.m3u8?txSecret=275d7cb3cd5eab0eccec0d78c5939fc1&txTime=697B66B9"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 39,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 48,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "m3u8",
                 "video_url": "https://live.trendgallary.com/live/67550138_c98d18dbf55634b975f393d0231c47a0.m3u8"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 40,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 49,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "m3u8",
                 "video_url": "https://play2.clomidx.com/live/113726043202_2073048609_adaptive.m3u8"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 41,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 50,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "h5",
-                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvYr21p5fpPf76zdm.m3u8?txSecret=185fe8b7e528037e3d11d882849a288c&txTime=697C77A4"
+                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvYr21p5fpPf76zdm.m3u8?txSecret=828ef39c85a6c9b4358deb46b3a36118&txTime=697C8103"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 42,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 51,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "h5",
                 "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/67550138_c98d18dbf55634b975f393d0231c47a0.m3u8"
               },
               {
-                "created_at": "2026-01-29 17:25:02",
-                "id": 43,
+                "created_at": "2026-01-29 18:05:01",
+                "id": 52,
                 "match_id": "1848205",
                 "playing": 1,
-                "updated_at": "2026-01-29 17:25:02",
+                "updated_at": "2026-01-29 18:05:01",
                 "v_type": "h5",
                 "video_url": "https://play.365live88.com/?url=https://play2.clomidx.com/live/113726043202_2073048609_adaptive.m3u8"
               }
@@ -3135,7 +3135,7 @@
           "website": ""
         },
         "home_score": 0,
-        "status": 2,
+        "status": 4,
         "streams": true
       }
     ],
@@ -3660,7 +3660,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "山河",
-              "online_status": 9,
+              "online_status": 1,
               "profile": {
                 "age": 22,
                 "birthday": "",
@@ -3898,7 +3898,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "山河",
-              "online_status": 9,
+              "online_status": 1,
               "profile": {
                 "age": 22,
                 "birthday": "",
@@ -4120,8 +4120,8 @@
           "short_name_en": "Shan United",
           "short_name_zh": "掸邦联",
           "short_name_zht": "撣邦聯",
-          "total_players": 25,
-          "updated_at": 1769587493,
+          "total_players": 26,
+          "updated_at": 1769680764,
           "venue_id": 6198,
           "website": ""
         },
@@ -4172,7 +4172,7 @@
                   "vip_level": 1
                 },
                 "anchorid": 2401734,
-                "badge_text": "东盟锦标 分组赛 B组",
+                "badge_text": "东盟锦标",
                 "badgeid": 1,
                 "categoryid": 1,
                 "enable_android": 1,
@@ -4181,14 +4181,14 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 26600,
+                "hot": 136400,
                 "isvideo": 0,
                 "liveid": 1769678064734,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 9,
+                "peak_num": 36,
                 "polling_ad_enable": 1,
                 "price": 0,
                 "private_count": 0,
@@ -4250,7 +4250,7 @@
             }
           ],
           "animation_url": "",
-          "away_corner": 0,
+          "away_corner": 3,
           "away_halfscore": 0,
           "away_id": 34100,
           "away_otscrore": 0,
@@ -4282,21 +4282,21 @@
             "short_name_en": "Shan United",
             "short_name_zh": "掸邦联",
             "short_name_zht": "撣邦聯",
-            "total_players": 25,
-            "updated_at": 1769587493,
+            "total_players": 26,
+            "updated_at": 1769680764,
             "venue_id": 6198,
             "website": ""
           },
           "competition_id": 6903,
           "environment": {
-            "humidity": "69%",
+            "humidity": "68%",
             "pressure": "759mmHg",
             "temperature": "29°C",
             "weather": 1,
-            "wind": "2.9m/s"
+            "wind": "3.1m/s"
           },
           "explain": "",
-          "home_corner": 0,
+          "home_corner": 5,
           "home_halfscore": 0,
           "home_id": 13950,
           "home_otscrore": 0,
@@ -4339,7 +4339,7 @@
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
-          "kickoff_time": 0,
+          "kickoff_time": 1769679002,
           "live": {
             "away": "掸邦联",
             "comp": "东盟锦标",
@@ -4348,7 +4348,7 @@
             "is_extend_expire2": 0,
             "is_extend_expire3": 0,
             "match_id": 4407675,
-            "match_status": 1,
+            "match_status": 2,
             "match_time": 1769679000,
             "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4407675",
             "pushurl1_status": 1,
@@ -4391,7 +4391,7 @@
           "stage_group": 2,
           "stage_id": 231902,
           "stage_round": 0,
-          "status": 1,
+          "status": 2,
           "time": 1769679000,
           "video_type": "live",
           "walematch": {
@@ -4403,7 +4403,7 @@
             "away_penalty_score": 0,
             "away_score": 0,
             "game_type": 6,
-            "has_live": 0,
+            "has_live": 1,
             "home_half_score": 0,
             "home_id": "379780",
             "home_logo": "https://photo.365live88.com/img/fb/team/3a410a4e756444b48dd6010172892ed0",
@@ -4415,8 +4415,8 @@
             "league_logo": "https://photo.365live88.com/img/fb/cup/11704c3beb4341f59579423a60d701cd",
             "league_name": "东盟锦标|東盟錦標|Shopee Cup",
             "match_time": 1769679000,
-            "status": "未",
-            "status_id": 0,
+            "status": "38",
+            "status_id": 1,
             "stream_id": "224118659",
             "third_id": "4407675",
             "wale_match_id": "1754619",
@@ -4425,15 +4425,115 @@
                 "file_id": null,
                 "id": 75199,
                 "is_extend_expire": 0,
-                "language": "",
-                "pushing": 0,
+                "language": "en_US",
+                "pushing": 1,
                 "record_url": null,
                 "stream_name": "202_4432402_1",
                 "stream_type": 0,
                 "wale_match_id": "1754619"
               }
             ],
-            "walematchvideos": []
+            "walematchvideos": [
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 54,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "flv",
+                "video_url": "https://live.vivo200.com/live/sd-1-4407675.flv?txSecret=0a5b9ab71da058c3821c5809baa49d76&txTime=697B7143"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 55,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "flv",
+                "video_url": "https://live.trendgallary.com/live/62979021_bf3226eefc559b0b4b30d87801a90093.flv"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 56,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "flv",
+                "video_url": "rtmp://video7.letaocm.top/live/sd-1-4407675.flv"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 57,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "m3u8",
+                "video_url": "https://live.vivo200.com/live/sd-1-4407675.m3u8?txSecret=0a5b9ab71da058c3821c5809baa49d76&txTime=697B7143"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 58,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "m3u8",
+                "video_url": "https://live.trendgallary.com/live/62979021_bf3226eefc559b0b4b30d87801a90093.m3u8"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 59,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "m3u8",
+                "video_url": "https://v.lfsxfj.com/live/100464.m3u8?txSecret=2900ea7799b9bf22a05f1796cfc46aae&txTime=697B3726&sign=63a68795127479e3"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 60,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "m3u8",
+                "video_url": "https://play5.clomidx.com/live/111525708077_3325022081_adaptive.m3u8"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 61,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/62979021_bf3226eefc559b0b4b30d87801a90093.m3u8"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 62,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "h5",
+                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvXbwKBDWJGqZ47Cs.m3u8?txSecret=8a20e93fa8ebe9237eec2715ca45ef85&txTime=697C8103"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 63,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100464.m3u8?txSecret=2900ea7799b9bf22a05f1796cfc46aae&txTime=697B3726&sign=63a68795127479e3"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 64,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://play5.clomidx.com/live/111525708077_3325022081_adaptive.m3u8"
+              }
+            ]
           }
         },
         "home": {
@@ -4465,8 +4565,8 @@
           "website": ""
         },
         "home_score": 0,
-        "status": 1,
-        "streams": false
+        "status": 2,
+        "streams": true
       },
       {
         "away": {
@@ -4488,12 +4588,12 @@
           "name_zh": "曼谷联",
           "name_zht": "曼谷聯",
           "national": 0,
-          "national_players": 6,
+          "national_players": 5,
           "short_name_en": "True Bangkok United",
           "short_name_zh": "曼谷联",
           "short_name_zht": "曼谷聯",
-          "total_players": 33,
-          "updated_at": 1769429930,
+          "total_players": 32,
+          "updated_at": 1769679980,
           "venue_id": 2851,
           "website": "http://www.bangkokunitedfc.com/"
         },
@@ -4553,7 +4653,7 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 82300,
+                "hot": 146800,
                 "isvideo": 0,
                 "liveid": 1769676369339,
                 "livestream_source": 4,
@@ -4563,7 +4663,7 @@
                 "peak_num": 24,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 3,
+                "private_count": 5,
                 "profit": 0,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/1052339_1769676311.flv",
                 "rec_weight": 1,
@@ -4650,12 +4750,12 @@
             "name_zh": "曼谷联",
             "name_zht": "曼谷聯",
             "national": 0,
-            "national_players": 6,
+            "national_players": 5,
             "short_name_en": "True Bangkok United",
             "short_name_zh": "曼谷联",
             "short_name_zht": "曼谷聯",
-            "total_players": 33,
-            "updated_at": 1769429930,
+            "total_players": 32,
+            "updated_at": 1769679980,
             "venue_id": 2851,
             "website": "http://www.bangkokunitedfc.com/"
           },
@@ -4754,7 +4854,35 @@
           "status": 1,
           "time": 1769688000,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "382431",
+            "away_logo": "https://photo.365live88.com/img/fb/team/f9cf728312644b778fdec84379374e20",
+            "away_name": "曼谷联|曼谷聯|True Bangkok United",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "396097",
+            "home_logo": "https://photo.365live88.com/img/fb/team/3f97885bc07e4a668e3397e03e4ae665",
+            "home_name": "柴桢|柴楨|Svay Rieng FC",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "718352",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/aaaec5b46a5c4fd39b8f5f9816bdbf3b",
+            "league_name": "东盟锦标|東盟錦標|Shopee Cup",
+            "match_time": 1769688000,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "224124919",
+            "third_id": "4407676",
+            "wale_match_id": "1754620",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 1851,
@@ -4830,7 +4958,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "山河",
-              "online_status": 9,
+              "online_status": 1,
               "profile": {
                 "age": 22,
                 "birthday": "",
@@ -5050,8 +5178,8 @@
           "short_name_en": "Shan United",
           "short_name_zh": "掸邦联",
           "short_name_zht": "撣邦聯",
-          "total_players": 25,
-          "updated_at": 1769587493,
+          "total_players": 26,
+          "updated_at": 1769680764,
           "venue_id": 6198,
           "website": ""
         },
@@ -5102,7 +5230,7 @@
                   "vip_level": 1
                 },
                 "anchorid": 2401734,
-                "badge_text": "东盟锦标 分组赛 B组",
+                "badge_text": "东盟锦标",
                 "badgeid": 1,
                 "categoryid": 1,
                 "enable_android": 1,
@@ -5111,14 +5239,14 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 26600,
+                "hot": 136400,
                 "isvideo": 0,
                 "liveid": 1769678064734,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 9,
+                "peak_num": 36,
                 "polling_ad_enable": 1,
                 "price": 0,
                 "private_count": 0,
@@ -5180,7 +5308,7 @@
             }
           ],
           "animation_url": "",
-          "away_corner": 0,
+          "away_corner": 3,
           "away_halfscore": 0,
           "away_id": 34100,
           "away_otscrore": 0,
@@ -5212,21 +5340,21 @@
             "short_name_en": "Shan United",
             "short_name_zh": "掸邦联",
             "short_name_zht": "撣邦聯",
-            "total_players": 25,
-            "updated_at": 1769587493,
+            "total_players": 26,
+            "updated_at": 1769680764,
             "venue_id": 6198,
             "website": ""
           },
           "competition_id": 6903,
           "environment": {
-            "humidity": "69%",
+            "humidity": "68%",
             "pressure": "759mmHg",
             "temperature": "29°C",
             "weather": 1,
-            "wind": "2.9m/s"
+            "wind": "3.1m/s"
           },
           "explain": "",
-          "home_corner": 0,
+          "home_corner": 5,
           "home_halfscore": 0,
           "home_id": 13950,
           "home_otscrore": 0,
@@ -5269,7 +5397,7 @@
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
-          "kickoff_time": 0,
+          "kickoff_time": 1769679002,
           "live": {
             "away": "掸邦联",
             "comp": "东盟锦标",
@@ -5278,7 +5406,7 @@
             "is_extend_expire2": 0,
             "is_extend_expire3": 0,
             "match_id": 4407675,
-            "match_status": 1,
+            "match_status": 2,
             "match_time": 1769679000,
             "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4407675",
             "pushurl1_status": 1,
@@ -5321,7 +5449,7 @@
           "stage_group": 2,
           "stage_id": 231902,
           "stage_round": 0,
-          "status": 1,
+          "status": 2,
           "time": 1769679000,
           "video_type": "live",
           "walematch": {
@@ -5333,7 +5461,7 @@
             "away_penalty_score": 0,
             "away_score": 0,
             "game_type": 6,
-            "has_live": 0,
+            "has_live": 1,
             "home_half_score": 0,
             "home_id": "379780",
             "home_logo": "https://photo.365live88.com/img/fb/team/3a410a4e756444b48dd6010172892ed0",
@@ -5345,8 +5473,8 @@
             "league_logo": "https://photo.365live88.com/img/fb/cup/11704c3beb4341f59579423a60d701cd",
             "league_name": "东盟锦标|東盟錦標|Shopee Cup",
             "match_time": 1769679000,
-            "status": "未",
-            "status_id": 0,
+            "status": "38",
+            "status_id": 1,
             "stream_id": "224118659",
             "third_id": "4407675",
             "wale_match_id": "1754619",
@@ -5355,15 +5483,115 @@
                 "file_id": null,
                 "id": 75199,
                 "is_extend_expire": 0,
-                "language": "",
-                "pushing": 0,
+                "language": "en_US",
+                "pushing": 1,
                 "record_url": null,
                 "stream_name": "202_4432402_1",
                 "stream_type": 0,
                 "wale_match_id": "1754619"
               }
             ],
-            "walematchvideos": []
+            "walematchvideos": [
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 54,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "flv",
+                "video_url": "https://live.vivo200.com/live/sd-1-4407675.flv?txSecret=0a5b9ab71da058c3821c5809baa49d76&txTime=697B7143"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 55,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "flv",
+                "video_url": "https://live.trendgallary.com/live/62979021_bf3226eefc559b0b4b30d87801a90093.flv"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 56,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "flv",
+                "video_url": "rtmp://video7.letaocm.top/live/sd-1-4407675.flv"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 57,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "m3u8",
+                "video_url": "https://live.vivo200.com/live/sd-1-4407675.m3u8?txSecret=0a5b9ab71da058c3821c5809baa49d76&txTime=697B7143"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 58,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "m3u8",
+                "video_url": "https://live.trendgallary.com/live/62979021_bf3226eefc559b0b4b30d87801a90093.m3u8"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 59,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "m3u8",
+                "video_url": "https://v.lfsxfj.com/live/100464.m3u8?txSecret=2900ea7799b9bf22a05f1796cfc46aae&txTime=697B3726&sign=63a68795127479e3"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 60,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "m3u8",
+                "video_url": "https://play5.clomidx.com/live/111525708077_3325022081_adaptive.m3u8"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 61,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/62979021_bf3226eefc559b0b4b30d87801a90093.m3u8"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 62,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "h5",
+                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MvXbwKBDWJGqZ47Cs.m3u8?txSecret=8a20e93fa8ebe9237eec2715ca45ef85&txTime=697C8103"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 63,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://v.lfsxfj.com/live/100464.m3u8?txSecret=2900ea7799b9bf22a05f1796cfc46aae&txTime=697B3726&sign=63a68795127479e3"
+              },
+              {
+                "created_at": "2026-01-29 18:05:01",
+                "id": 64,
+                "match_id": "1754619",
+                "playing": 1,
+                "updated_at": "2026-01-29 18:05:01",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://play5.clomidx.com/live/111525708077_3325022081_adaptive.m3u8"
+              }
+            ]
           }
         },
         "home": {
@@ -5395,8 +5623,8 @@
           "website": ""
         },
         "home_score": 0,
-        "status": 1,
-        "streams": false
+        "status": 2,
+        "streams": true
       },
       {
         "away": {
@@ -5418,12 +5646,12 @@
           "name_zh": "曼谷联",
           "name_zht": "曼谷聯",
           "national": 0,
-          "national_players": 6,
+          "national_players": 5,
           "short_name_en": "True Bangkok United",
           "short_name_zh": "曼谷联",
           "short_name_zht": "曼谷聯",
-          "total_players": 33,
-          "updated_at": 1769429930,
+          "total_players": 32,
+          "updated_at": 1769679980,
           "venue_id": 2851,
           "website": "http://www.bangkokunitedfc.com/"
         },
@@ -5483,7 +5711,7 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 82300,
+                "hot": 146800,
                 "isvideo": 0,
                 "liveid": 1769676369339,
                 "livestream_source": 4,
@@ -5493,7 +5721,7 @@
                 "peak_num": 24,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 3,
+                "private_count": 5,
                 "profit": 0,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/1052339_1769676311.flv",
                 "rec_weight": 1,
@@ -5580,12 +5808,12 @@
             "name_zh": "曼谷联",
             "name_zht": "曼谷聯",
             "national": 0,
-            "national_players": 6,
+            "national_players": 5,
             "short_name_en": "True Bangkok United",
             "short_name_zh": "曼谷联",
             "short_name_zht": "曼谷聯",
-            "total_players": 33,
-            "updated_at": 1769429930,
+            "total_players": 32,
+            "updated_at": 1769679980,
             "venue_id": 2851,
             "website": "http://www.bangkokunitedfc.com/"
           },
@@ -5684,7 +5912,35 @@
           "status": 1,
           "time": 1769688000,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "382431",
+            "away_logo": "https://photo.365live88.com/img/fb/team/f9cf728312644b778fdec84379374e20",
+            "away_name": "曼谷联|曼谷聯|True Bangkok United",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "396097",
+            "home_logo": "https://photo.365live88.com/img/fb/team/3f97885bc07e4a668e3397e03e4ae665",
+            "home_name": "柴桢|柴楨|Svay Rieng FC",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "718352",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/aaaec5b46a5c4fd39b8f5f9816bdbf3b",
+            "league_name": "东盟锦标|東盟錦標|Shopee Cup",
+            "match_time": 1769688000,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "224124919",
+            "third_id": "4407676",
+            "wale_match_id": "1754620",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 1851,
@@ -5760,7 +6016,7 @@
               "is_anchor": 1,
               "live": null,
               "nick_name": "山河",
-              "online_status": 9,
+              "online_status": 1,
               "profile": {
                 "age": 22,
                 "birthday": "",
@@ -7304,11 +7560,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "91%",
+            "humidity": "92%",
             "pressure": "751mmHg",
             "temperature": "4°C",
-            "weather": 1,
-            "wind": "1.5m/s"
+            "weather": 5,
+            "wind": "1.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -7702,9 +7958,9 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "85%",
+            "humidity": "84%",
             "pressure": "760mmHg",
-            "temperature": "13°C",
+            "temperature": "14°C",
             "weather": 9,
             "wind": "5.1m/s"
           },
@@ -7901,10 +8157,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "93%",
+            "humidity": "95%",
             "pressure": "752mmHg",
             "temperature": "2°C",
-            "weather": 5,
+            "weather": 1,
             "wind": "1.8m/s"
           },
           "explain": "",
@@ -9095,11 +9351,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "81%",
+            "humidity": "80%",
             "pressure": "747mmHg",
             "temperature": "3°C",
             "weather": 7,
-            "wind": "6.1m/s"
+            "wind": "5.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9891,11 +10147,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "89%",
+            "humidity": "88%",
             "pressure": "745mmHg",
-            "temperature": "4°C",
+            "temperature": "3°C",
             "weather": 7,
-            "wind": "5.8m/s"
+            "wind": "6.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10886,11 +11142,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "91%",
+            "humidity": "92%",
             "pressure": "751mmHg",
             "temperature": "4°C",
-            "weather": 1,
-            "wind": "1.5m/s"
+            "weather": 5,
+            "wind": "1.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11284,9 +11540,9 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "85%",
+            "humidity": "84%",
             "pressure": "760mmHg",
-            "temperature": "13°C",
+            "temperature": "14°C",
             "weather": 9,
             "wind": "5.1m/s"
           },
@@ -11483,10 +11739,10 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "93%",
+            "humidity": "95%",
             "pressure": "752mmHg",
             "temperature": "2°C",
-            "weather": 5,
+            "weather": 1,
             "wind": "1.8m/s"
           },
           "explain": "",
@@ -12677,11 +12933,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "81%",
+            "humidity": "80%",
             "pressure": "747mmHg",
             "temperature": "3°C",
             "weather": 7,
-            "wind": "6.1m/s"
+            "wind": "5.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -13473,11 +13729,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "89%",
+            "humidity": "88%",
             "pressure": "745mmHg",
-            "temperature": "4°C",
+            "temperature": "3°C",
             "weather": 7,
-            "wind": "5.8m/s"
+            "wind": "6.1m/s"
           },
           "explain": "",
           "home_corner": 0,
