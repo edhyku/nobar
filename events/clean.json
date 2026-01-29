@@ -1,5 +1,5 @@
 {
-  "updated": 1769701779,
+  "updated": 1769704356,
   "events": [
     {
       "league": "AUS A-League",
@@ -229,7 +229,7 @@
       "away": "Al Ittihad Club",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404537.m3u8?txSecret=0c31c3a929dbe435bbf30b692edc958e&txTime=697BB53C"
+        "url": "https://live.vivo200.com/live/sd-1-4404537.m3u8?txSecret=ab9617a5b8549917e42fcdb7a068ffe5&txTime=697BD15C"
       }
     },
     {
@@ -262,7 +262,7 @@
       "away": "Al Ittihad Club",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404537.m3u8?txSecret=0c31c3a929dbe435bbf30b692edc958e&txTime=697BB53C"
+        "url": "https://live.vivo200.com/live/sd-1-4404537.m3u8?txSecret=ab9617a5b8549917e42fcdb7a068ffe5&txTime=697BD15C"
       }
     },
     {
@@ -355,24 +355,24 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769702400,
       "home": "Al-Nasr Dubai",
       "away": "Baniyas Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/67315428_41a8a6df7974cf54c80af56335f7cfc4.m3u8"
       }
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769702400,
       "home": "Al-Nasr Dubai",
       "away": "Baniyas Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/67315428_41a8a6df7974cf54c80af56335f7cfc4.m3u8"
       }
     },
     {
@@ -443,13 +443,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769716800,
       "home": "Ludogorets Razgrad",
       "away": "OGC Nice",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769701627.flv"
       }
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769716800,
       "home": "Ludogorets Razgrad",
       "away": "OGC Nice",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769701627.flv"
       }
     },
     {
