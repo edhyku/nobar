@@ -2639,7 +2639,7 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "63%",
+            "humidity": "62%",
             "pressure": "760mmHg",
             "temperature": "19°C",
             "weather": 5,
@@ -2889,7 +2889,7 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "63%",
+            "humidity": "62%",
             "pressure": "760mmHg",
             "temperature": "19°C",
             "weather": 5,
@@ -3141,7 +3141,7 @@
           },
           "competition_id": 200,
           "environment": {
-            "humidity": "79%",
+            "humidity": "78%",
             "pressure": "772mmHg",
             "temperature": "-11°C",
             "weather": 5,
@@ -3379,7 +3379,7 @@
           },
           "competition_id": 200,
           "environment": {
-            "humidity": "80%",
+            "humidity": "82%",
             "pressure": "772mmHg",
             "temperature": "-13°C",
             "weather": 1,
@@ -3617,7 +3617,7 @@
           },
           "competition_id": 200,
           "environment": {
-            "humidity": "79%",
+            "humidity": "78%",
             "pressure": "772mmHg",
             "temperature": "-11°C",
             "weather": 5,
@@ -3855,7 +3855,7 @@
           },
           "competition_id": 200,
           "environment": {
-            "humidity": "80%",
+            "humidity": "82%",
             "pressure": "772mmHg",
             "temperature": "-13°C",
             "weather": 1,
@@ -4056,11 +4056,11 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "79%",
+            "humidity": "77%",
             "pressure": "752mmHg",
             "temperature": "10°C",
-            "weather": 5,
-            "wind": "4.5m/s"
+            "weather": 1,
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4255,11 +4255,11 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "80%",
+            "humidity": "78%",
             "pressure": "750mmHg",
-            "temperature": "7°C",
-            "weather": 10,
-            "wind": "3.7m/s"
+            "temperature": "8°C",
+            "weather": 7,
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4454,10 +4454,10 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "88%",
+            "humidity": "91%",
             "pressure": "753mmHg",
             "temperature": "4°C",
-            "weather": 7,
+            "weather": 1,
             "wind": "2.3m/s"
           },
           "explain": "",
@@ -4656,7 +4656,7 @@
             "humidity": "90%",
             "pressure": "744mmHg",
             "temperature": "8°C",
-            "weather": 7,
+            "weather": 10,
             "wind": "5.8m/s"
           },
           "explain": "",
@@ -4852,11 +4852,11 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "80%",
+            "humidity": "82%",
             "pressure": "752mmHg",
-            "temperature": "10°C",
+            "temperature": "9°C",
             "weather": 7,
-            "wind": "3.2m/s"
+            "wind": "2.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5051,9 +5051,9 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "90%",
+            "humidity": "89%",
             "pressure": "752mmHg",
-            "temperature": "6°C",
+            "temperature": "7°C",
             "weather": 10,
             "wind": "4.0m/s"
           },
@@ -5250,11 +5250,11 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "79%",
+            "humidity": "77%",
             "pressure": "752mmHg",
             "temperature": "10°C",
-            "weather": 5,
-            "wind": "4.5m/s"
+            "weather": 1,
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5449,11 +5449,11 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "80%",
+            "humidity": "78%",
             "pressure": "750mmHg",
-            "temperature": "7°C",
-            "weather": 10,
-            "wind": "3.7m/s"
+            "temperature": "8°C",
+            "weather": 7,
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5648,10 +5648,10 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "88%",
+            "humidity": "91%",
             "pressure": "753mmHg",
             "temperature": "4°C",
-            "weather": 7,
+            "weather": 1,
             "wind": "2.3m/s"
           },
           "explain": "",
@@ -5850,7 +5850,7 @@
             "humidity": "90%",
             "pressure": "744mmHg",
             "temperature": "8°C",
-            "weather": 7,
+            "weather": 10,
             "wind": "5.8m/s"
           },
           "explain": "",
@@ -6046,11 +6046,11 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "80%",
+            "humidity": "82%",
             "pressure": "752mmHg",
-            "temperature": "10°C",
+            "temperature": "9°C",
             "weather": 7,
-            "wind": "3.2m/s"
+            "wind": "2.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6245,9 +6245,9 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "90%",
+            "humidity": "89%",
             "pressure": "752mmHg",
-            "temperature": "6°C",
+            "temperature": "7°C",
             "weather": 10,
             "wind": "4.0m/s"
           },
@@ -7683,7 +7683,7 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "78%",
+            "humidity": "79%",
             "pressure": "759mmHg",
             "temperature": "28°C",
             "weather": 7,
@@ -8159,7 +8159,7 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "78%",
+            "humidity": "79%",
             "pressure": "759mmHg",
             "temperature": "28°C",
             "weather": 7,
@@ -10154,7 +10154,7 @@
             "pressure": "757mmHg",
             "temperature": "9°C",
             "weather": 9,
-            "wind": "6.5m/s"
+            "wind": "6.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10353,7 +10353,7 @@
             "pressure": "757mmHg",
             "temperature": "9°C",
             "weather": 9,
-            "wind": "6.5m/s"
+            "wind": "6.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11930,11 +11930,11 @@
           },
           "competition_id": 121,
           "environment": {
-            "humidity": "80%",
+            "humidity": "79%",
             "pressure": "750mmHg",
             "temperature": "10°C",
-            "weather": 10,
-            "wind": "2.9m/s"
+            "weather": 9,
+            "wind": "3.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12129,11 +12129,11 @@
           },
           "competition_id": 121,
           "environment": {
-            "humidity": "80%",
+            "humidity": "79%",
             "pressure": "750mmHg",
             "temperature": "10°C",
-            "weather": 10,
-            "wind": "2.9m/s"
+            "weather": 9,
+            "wind": "3.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12330,11 +12330,11 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "75%",
+            "humidity": "76%",
             "pressure": "755mmHg",
             "temperature": "15°C",
             "weather": 7,
-            "wind": "1.8m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12563,7 +12563,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 15,
+            "foreign_players": 16,
             "foundation_time": "0",
             "id": 11009,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/483f6ade158f44eb24849b6076377355.png",
@@ -12576,12 +12576,12 @@
             "name_zh": "卡斯帕萨",
             "name_zht": "卡森柏沙",
             "national": 0,
-            "national_players": 5,
+            "national_players": 6,
             "short_name_en": "Kasimpasa",
             "short_name_zh": "卡斯帕萨",
             "short_name_zht": "卡森柏沙",
-            "total_players": 35,
-            "updated_at": 1769709833,
+            "total_players": 36,
+            "updated_at": 1769725704,
             "venue_id": 1637,
             "website": "http://www.kasimpasaspor.org.tr/"
           },
@@ -12654,7 +12654,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 15,
+          "foreign_players": 16,
           "foundation_time": "0",
           "id": 11009,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/483f6ade158f44eb24849b6076377355.png",
@@ -12667,12 +12667,12 @@
           "name_zh": "卡斯帕萨",
           "name_zht": "卡森柏沙",
           "national": 0,
-          "national_players": 5,
+          "national_players": 6,
           "short_name_en": "Kasimpasa",
           "short_name_zh": "卡斯帕萨",
           "short_name_zht": "卡森柏沙",
-          "total_players": 35,
-          "updated_at": 1769709833,
+          "total_players": 36,
+          "updated_at": 1769725704,
           "venue_id": 1637,
           "website": "http://www.kasimpasaspor.org.tr/"
         },
@@ -12752,11 +12752,11 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "75%",
+            "humidity": "76%",
             "pressure": "755mmHg",
             "temperature": "15°C",
             "weather": 7,
-            "wind": "1.8m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12985,7 +12985,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 15,
+            "foreign_players": 16,
             "foundation_time": "0",
             "id": 11009,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/483f6ade158f44eb24849b6076377355.png",
@@ -12998,12 +12998,12 @@
             "name_zh": "卡斯帕萨",
             "name_zht": "卡森柏沙",
             "national": 0,
-            "national_players": 5,
+            "national_players": 6,
             "short_name_en": "Kasimpasa",
             "short_name_zh": "卡斯帕萨",
             "short_name_zht": "卡森柏沙",
-            "total_players": 35,
-            "updated_at": 1769709833,
+            "total_players": 36,
+            "updated_at": 1769725704,
             "venue_id": 1637,
             "website": "http://www.kasimpasaspor.org.tr/"
           },
@@ -13076,7 +13076,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 15,
+          "foreign_players": 16,
           "foundation_time": "0",
           "id": 11009,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/483f6ade158f44eb24849b6076377355.png",
@@ -13089,12 +13089,12 @@
           "name_zh": "卡斯帕萨",
           "name_zht": "卡森柏沙",
           "national": 0,
-          "national_players": 5,
+          "national_players": 6,
           "short_name_en": "Kasimpasa",
           "short_name_zh": "卡斯帕萨",
           "short_name_zht": "卡森柏沙",
-          "total_players": 35,
-          "updated_at": 1769709833,
+          "total_players": 36,
+          "updated_at": 1769725704,
           "venue_id": 1637,
           "website": "http://www.kasimpasaspor.org.tr/"
         },
@@ -13215,11 +13215,11 @@
           },
           "competition_id": 687,
           "environment": {
-            "humidity": "83%",
+            "humidity": "84%",
             "pressure": "763mmHg",
             "temperature": "23°C",
             "weather": 5,
-            "wind": "2.9m/s"
+            "wind": "3.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -13453,11 +13453,11 @@
           },
           "competition_id": 687,
           "environment": {
-            "humidity": "83%",
+            "humidity": "84%",
             "pressure": "763mmHg",
             "temperature": "23°C",
             "weather": 5,
-            "wind": "2.9m/s"
+            "wind": "3.2m/s"
           },
           "explain": "",
           "home_corner": 0,
