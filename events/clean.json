@@ -1,5 +1,5 @@
 {
-  "updated": 1769709578,
+  "updated": 1769713288,
   "events": [
     {
       "league": "AUS A-League",
@@ -118,8 +118,8 @@
       "home": "Ghazl El Mahallah",
       "away": "Tala'ea El Gaish",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769708877.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399251.m3u8?txSecret=788cb2bb73d1103002455d20eb66385e&txTime=697BD15C"
       }
     },
     {
@@ -129,8 +129,8 @@
       "home": "Modern Sport FC",
       "away": "Ismaily SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769708781.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399252.m3u8?txSecret=497a35b18d8d570be420466a1e50e437&txTime=697BED7B"
       }
     },
     {
@@ -140,8 +140,8 @@
       "home": "Ghazl El Mahallah",
       "away": "Tala'ea El Gaish",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769708877.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399251.m3u8?txSecret=788cb2bb73d1103002455d20eb66385e&txTime=697BD15C"
       }
     },
     {
@@ -151,228 +151,228 @@
       "home": "Modern Sport FC",
       "away": "Ismaily SC",
       "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399252.m3u8?txSecret=497a35b18d8d570be420466a1e50e437&txTime=697BED7B"
+      }
+    },
+    {
+      "league": "FIN Liiga Cup",
+      "status": "UPCOMING",
+      "time": 1769774400,
+      "home": "Inter Turku",
+      "away": "HJK Helsinki",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FIN Liiga Cup",
+      "status": "UPCOMING",
+      "time": 1769776200,
+      "home": "Gnistan Helsinki",
+      "away": "IFK Mariehamn",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FIN Liiga Cup",
+      "status": "UPCOMING",
+      "time": 1769774400,
+      "home": "Inter Turku",
+      "away": "HJK Helsinki",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FIN Liiga Cup",
+      "status": "UPCOMING",
+      "time": 1769776200,
+      "home": "Gnistan Helsinki",
+      "away": "IFK Mariehamn",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "IDN Liga 1",
+      "status": "UPCOMING",
+      "time": 1769761800,
+      "home": "Persita Tangerang",
+      "away": "Persatuan Sepakbola Indonesia Jakarta",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "IDN Liga 1",
+      "status": "UPCOMING",
+      "time": 1769761800,
+      "home": "Persatuan sepak bola Indonesia Kediri",
+      "away": "Bali United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "IDN Liga 1",
+      "status": "UPCOMING",
+      "time": 1769761800,
+      "home": "Persita Tangerang",
+      "away": "Persatuan Sepakbola Indonesia Jakarta",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "IDN Liga 1",
+      "status": "UPCOMING",
+      "time": 1769761800,
+      "home": "Persatuan sepak bola Indonesia Kediri",
+      "away": "Bali United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "LIVE",
+      "time": 1769707800,
+      "home": "Al Qadsiah",
+      "away": "Al Hilal",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404492.m3u8?txSecret=4241a2133c661a88146fe7e27d80743e&txTime=697BED7B"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "LIVE",
+      "time": 1769707800,
+      "home": "Al Hazem",
+      "away": "Al Shabab FC",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/64055621_1b7cd2607cb17260f40006b7468b60d8.m3u8"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1769781000,
+      "home": "Al Taawoun",
+      "away": "Al Okhdood",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "LIVE",
+      "time": 1769707800,
+      "home": "Al Qadsiah",
+      "away": "Al Hilal",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404492.m3u8?txSecret=4241a2133c661a88146fe7e27d80743e&txTime=697BED7B"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "LIVE",
+      "time": 1769707800,
+      "home": "Al Hazem",
+      "away": "Al Shabab FC",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/64055621_1b7cd2607cb17260f40006b7468b60d8.m3u8"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1769781000,
+      "home": "Al Taawoun",
+      "away": "Al Okhdood",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "LIVE",
+      "time": 1769709600,
+      "home": "SL Benfica B",
+      "away": "Lusitania FC",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367825.m3u8?txSecret=5a2274c3e6446b6bad65e2b3296f0d04&txTime=697BED7B"
+      }
+    },
+    {
+      "league": "Liga Portugal 2",
+      "status": "LIVE",
+      "time": 1769709600,
+      "home": "SL Benfica B",
+      "away": "Lusitania FC",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4367825.m3u8?txSecret=5a2274c3e6446b6bad65e2b3296f0d04&txTime=697BED7B"
+      }
+    },
+    {
+      "league": "MAS Super League",
+      "status": "LIVE",
+      "time": 1769778000,
+      "home": "PDRM FC",
+      "away": "Kuala Lumpur City FC",
+      "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769708781.flv"
-      }
-    },
-    {
-      "league": "FIN Liiga Cup",
-      "status": "UPCOMING",
-      "time": 1769774400,
-      "home": "Inter Turku",
-      "away": "HJK Helsinki",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FIN Liiga Cup",
-      "status": "UPCOMING",
-      "time": 1769776200,
-      "home": "Gnistan Helsinki",
-      "away": "IFK Mariehamn",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FIN Liiga Cup",
-      "status": "UPCOMING",
-      "time": 1769774400,
-      "home": "Inter Turku",
-      "away": "HJK Helsinki",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FIN Liiga Cup",
-      "status": "UPCOMING",
-      "time": 1769776200,
-      "home": "Gnistan Helsinki",
-      "away": "IFK Mariehamn",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "IDN Liga 1",
-      "status": "UPCOMING",
-      "time": 1769761800,
-      "home": "Persita Tangerang",
-      "away": "Persatuan Sepakbola Indonesia Jakarta",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "IDN Liga 1",
-      "status": "UPCOMING",
-      "time": 1769761800,
-      "home": "Persatuan sepak bola Indonesia Kediri",
-      "away": "Bali United",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "IDN Liga 1",
-      "status": "UPCOMING",
-      "time": 1769761800,
-      "home": "Persita Tangerang",
-      "away": "Persatuan Sepakbola Indonesia Jakarta",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "IDN Liga 1",
-      "status": "UPCOMING",
-      "time": 1769761800,
-      "home": "Persatuan sepak bola Indonesia Kediri",
-      "away": "Bali United",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769707800,
-      "home": "Al Qadsiah",
-      "away": "Al Hilal",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404492.m3u8?txSecret=cb4be8861f097183d602b4c0a9e55c92&txTime=697BD15C"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769707800,
-      "home": "Al Hazem",
-      "away": "Al Shabab FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/64055621_1b7cd2607cb17260f40006b7468b60d8.m3u8"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
-      "time": 1769781000,
-      "home": "Al Taawoun",
-      "away": "Al Okhdood",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769707800,
-      "home": "Al Qadsiah",
-      "away": "Al Hilal",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404492.m3u8?txSecret=cb4be8861f097183d602b4c0a9e55c92&txTime=697BD15C"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769707800,
-      "home": "Al Hazem",
-      "away": "Al Shabab FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/64055621_1b7cd2607cb17260f40006b7468b60d8.m3u8"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
-      "time": 1769781000,
-      "home": "Al Taawoun",
-      "away": "Al Okhdood",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal 2",
-      "status": "UPCOMING",
-      "time": 1769709600,
-      "home": "SL Benfica B",
-      "away": "Lusitania FC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal 2",
-      "status": "UPCOMING",
-      "time": 1769709600,
-      "home": "SL Benfica B",
-      "away": "Lusitania FC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769709758.flv"
       }
     },
     {
       "league": "MAS Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769778000,
       "home": "PDRM FC",
       "away": "Kuala Lumpur City FC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769709758.flv"
+      }
+    },
+    {
+      "league": "ROM Super Liga",
+      "status": "UPCOMING",
+      "time": 1769785200,
+      "home": "CFR Cluj",
+      "away": "Metaloglobus",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "MAS Super League",
+      "league": "ROM Super Liga",
       "status": "UPCOMING",
-      "time": 1769778000,
-      "home": "PDRM FC",
-      "away": "Kuala Lumpur City FC",
+      "time": 1769785200,
+      "home": "CFR Cluj",
+      "away": "Metaloglobus",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "QAT Stars League",
-      "status": "LIVE",
-      "time": 1769705100,
-      "home": "Al-Wakrah SC",
-      "away": "Al Shahaniya",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/66677206_a0efdb7068de03a7c286b67690ab6ab3.m3u8"
-      }
-    },
-    {
-      "league": "QAT Stars League",
-      "status": "LIVE",
-      "time": 1769705100,
-      "home": "Al-Wakrah SC",
-      "away": "Al Shahaniya",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/66677206_a0efdb7068de03a7c286b67690ab6ab3.m3u8"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Crvena Zvezda",
       "away": "RC Celta",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769704360.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -586,13 +586,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Crvena Zvezda",
       "away": "RC Celta",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769704360.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
