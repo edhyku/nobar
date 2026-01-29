@@ -1,5 +1,5 @@
 {
-  "updated": 1769698799,
+  "updated": 1769701779,
   "events": [
     {
       "league": "AUS A-League",
@@ -68,14 +68,36 @@
       }
     },
     {
+      "league": "Atlantic Ocean Cup",
+      "status": "UPCOMING",
+      "time": 1769770800,
+      "home": "Real Salt Lake",
+      "away": "FC Dallas",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Atlantic Ocean Cup",
+      "status": "UPCOMING",
+      "time": 1769770800,
+      "home": "Real Salt Lake",
+      "away": "FC Dallas",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "EGY Premier League",
       "status": "LIVE",
       "time": 1769698800,
       "home": "Enppi",
       "away": "Smouha SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769698148.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/62493234_962611a91e4cffffed858d388a3b8823.m3u8"
       }
     },
     {
@@ -91,13 +113,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769709600,
       "home": "Modern Sport FC",
       "away": "Ismaily SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769692515.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -107,8 +129,8 @@
       "home": "Enppi",
       "away": "Smouha SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769698148.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/62493234_962611a91e4cffffed858d388a3b8823.m3u8"
       }
     },
     {
@@ -124,13 +146,35 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769709600,
       "home": "Modern Sport FC",
       "away": "Ismaily SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769692515.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FIN Liiga Cup",
+      "status": "UPCOMING",
+      "time": 1769774400,
+      "home": "Inter Turku",
+      "away": "HJK Helsinki",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FIN Liiga Cup",
+      "status": "UPCOMING",
+      "time": 1769774400,
+      "home": "Inter Turku",
+      "away": "HJK Helsinki",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -184,8 +228,8 @@
       "home": "Al Fateh SC",
       "away": "Al Ittihad Club",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769696828.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404537.m3u8?txSecret=0c31c3a929dbe435bbf30b692edc958e&txTime=697BB53C"
       }
     },
     {
@@ -217,8 +261,8 @@
       "home": "Al Fateh SC",
       "away": "Al Ittihad Club",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769696828.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404537.m3u8?txSecret=0c31c3a929dbe435bbf30b692edc958e&txTime=697BB53C"
       }
     },
     {
@@ -266,28 +310,6 @@
       }
     },
     {
-      "league": "POR U23",
-      "status": "LIVE",
-      "time": 1769693400,
-      "home": "Estoril U23",
-      "away": "Vizela U23",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4472437.m3u8?txSecret=2b3384595b2ad7395b8f09f0d901333b&txTime=697BA600"
-      }
-    },
-    {
-      "league": "POR U23",
-      "status": "LIVE",
-      "time": 1769693400,
-      "home": "Estoril U23",
-      "away": "Vizela U23",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4472437.m3u8?txSecret=2b3384595b2ad7395b8f09f0d901333b&txTime=697BA600"
-      }
-    },
-    {
       "league": "QAT Stars League",
       "status": "LIVE",
       "time": 1769697900,
@@ -329,17 +351,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
-      "time": 1769692500,
-      "home": "Al Bataeh",
-      "away": "Al-Jazira(UAE)",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4477052.m3u8?txSecret=abbe2524b6e58b07f1c0e1ccbc08ac9e&txTime=697BA27C"
       }
     },
     {
@@ -351,17 +362,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
-      "time": 1769692500,
-      "home": "Al Bataeh",
-      "away": "Al-Jazira(UAE)",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4477052.m3u8?txSecret=abbe2524b6e58b07f1c0e1ccbc08ac9e&txTime=697BA27C"
       }
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Go Ahead Eagles",
       "away": "Sporting Braga",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769692515.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -509,13 +509,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Go Ahead Eagles",
       "away": "Sporting Braga",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769692515.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
