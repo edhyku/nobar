@@ -1,26 +1,26 @@
 {
-  "updated": 1769660505,
+  "updated": 1769664442,
   "events": [
     {
       "league": "EGY Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769698800,
       "home": "Enppi",
       "away": "Smouha SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769653077.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "EGY Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769698800,
       "home": "Enppi",
       "away": "Smouha SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769653077.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
