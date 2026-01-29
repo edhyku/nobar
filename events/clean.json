@@ -1,26 +1,26 @@
 {
-  "updated": 1769644600,
+  "updated": 1769654712,
   "events": [
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769698800,
       "home": "Enppi",
       "away": "Smouha SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769653077.flv"
       }
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769698800,
       "home": "Enppi",
       "away": "Smouha SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769653077.flv"
       }
     },
     {
@@ -245,24 +245,24 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769692500,
       "home": "Al Bataeh",
       "away": "Al-Jazira(UAE)",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769644701.flv"
       }
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769692500,
       "home": "Al Bataeh",
       "away": "Al-Jazira(UAE)",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769644701.flv"
       }
     },
     {
