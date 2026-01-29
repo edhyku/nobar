@@ -629,7 +629,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "30%",
+            "humidity": "29%",
             "pressure": "765mmHg",
             "temperature": "20°C",
             "weather": 5,
@@ -832,7 +832,7 @@
             "pressure": "766mmHg",
             "temperature": "16°C",
             "weather": 5,
-            "wind": "3.7m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -1303,7 +1303,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "30%",
+            "humidity": "29%",
             "pressure": "765mmHg",
             "temperature": "20°C",
             "weather": 5,
@@ -1506,7 +1506,7 @@
             "pressure": "766mmHg",
             "temperature": "16°C",
             "weather": 5,
-            "wind": "3.7m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -1902,7 +1902,7 @@
           },
           "competition_id": 152,
           "environment": {
-            "humidity": "93%",
+            "humidity": "92%",
             "pressure": "761mmHg",
             "temperature": "15°C",
             "weather": 7,
@@ -2101,7 +2101,7 @@
           },
           "competition_id": 152,
           "environment": {
-            "humidity": "93%",
+            "humidity": "92%",
             "pressure": "761mmHg",
             "temperature": "15°C",
             "weather": 7,
@@ -2341,11 +2341,11 @@
           },
           "competition_id": 1815,
           "environment": {
-            "humidity": "51%",
+            "humidity": "55%",
             "pressure": "760mmHg",
-            "temperature": "32°C",
-            "weather": 7,
-            "wind": "1.8m/s"
+            "temperature": "33°C",
+            "weather": 1,
+            "wind": "2.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2446,7 +2446,35 @@
           "status": 1,
           "time": 1769677200,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "415057",
+            "away_logo": "https://photo.365live88.com/img/fb/team/684144deb0064f339a70d97729efca1b",
+            "away_name": "达根星|達根FC|Dagon Star Utd.",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "390885",
+            "home_logo": "https://photo.365live88.com/img/fb/team/d51074c51e184c5e80d48654e21c7aab",
+            "home_name": "伊洛瓦底联|伊洛瓦底聯|Ayeyawady United",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "2242",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/3910629549864c1481dba36377d2e025",
+            "league_name": "缅甸联|緬甸聯|MYA Professional League",
+            "match_time": 1769677200,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "224115666",
+            "third_id": "4474594",
+            "wale_match_id": "1848205",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 1815,
@@ -2591,11 +2619,11 @@
           },
           "competition_id": 1815,
           "environment": {
-            "humidity": "51%",
+            "humidity": "55%",
             "pressure": "760mmHg",
-            "temperature": "32°C",
-            "weather": 7,
-            "wind": "1.8m/s"
+            "temperature": "33°C",
+            "weather": 1,
+            "wind": "2.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2696,7 +2724,35 @@
           "status": 1,
           "time": 1769677200,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "415057",
+            "away_logo": "https://photo.365live88.com/img/fb/team/684144deb0064f339a70d97729efca1b",
+            "away_name": "达根星|達根FC|Dagon Star Utd.",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "390885",
+            "home_logo": "https://photo.365live88.com/img/fb/team/d51074c51e184c5e80d48654e21c7aab",
+            "home_name": "伊洛瓦底联|伊洛瓦底聯|Ayeyawady United",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "2242",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/3910629549864c1481dba36377d2e025",
+            "league_name": "缅甸联|緬甸聯|MYA Professional League",
+            "match_time": 1769677200,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "224115666",
+            "third_id": "4474594",
+            "wale_match_id": "1848205",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 1815,
@@ -2845,9 +2901,9 @@
           "environment": {
             "humidity": "98%",
             "pressure": "759mmHg",
-            "temperature": "15°C",
+            "temperature": "16°C",
             "weather": 9,
-            "wind": "7.0m/s"
+            "wind": "7.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3083,9 +3139,9 @@
           "environment": {
             "humidity": "98%",
             "pressure": "759mmHg",
-            "temperature": "15°C",
+            "temperature": "16°C",
             "weather": 9,
-            "wind": "7.0m/s"
+            "wind": "7.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3802,7 +3858,7 @@
             "humidity": "71%",
             "pressure": "759mmHg",
             "temperature": "28°C",
-            "weather": 1,
+            "weather": 7,
             "wind": "3.7m/s"
           },
           "explain": "",
@@ -4290,7 +4346,7 @@
             "humidity": "87%",
             "pressure": "763mmHg",
             "temperature": "21°C",
-            "weather": 1,
+            "weather": 5,
             "wind": "2.9m/s"
           },
           "explain": "",
@@ -4528,7 +4584,7 @@
             "humidity": "71%",
             "pressure": "759mmHg",
             "temperature": "28°C",
-            "weather": 1,
+            "weather": 7,
             "wind": "3.7m/s"
           },
           "explain": "",
@@ -5016,7 +5072,7 @@
             "humidity": "87%",
             "pressure": "763mmHg",
             "temperature": "21°C",
-            "weather": 1,
+            "weather": 5,
             "wind": "2.9m/s"
           },
           "explain": "",
@@ -5892,10 +5948,10 @@
           "competition_id": 47,
           "environment": {
             "humidity": "94%",
-            "pressure": "750mmHg",
+            "pressure": "749mmHg",
             "temperature": "3°C",
             "weather": 7,
-            "wind": "3.7m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6094,7 +6150,7 @@
             "pressure": "747mmHg",
             "temperature": "3°C",
             "weather": 7,
-            "wind": "5.6m/s"
+            "wind": "5.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6490,7 +6546,7 @@
           "environment": {
             "humidity": "91%",
             "pressure": "751mmHg",
-            "temperature": "3°C",
+            "temperature": "4°C",
             "weather": 7,
             "wind": "1.8m/s"
           },
@@ -6886,7 +6942,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "85%",
+            "humidity": "84%",
             "pressure": "760mmHg",
             "temperature": "13°C",
             "weather": 9,
@@ -7483,11 +7539,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "100%",
+            "humidity": "101%",
             "pressure": "747mmHg",
             "temperature": "7°C",
             "weather": 10,
-            "wind": "3.4m/s"
+            "wind": "3.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8081,7 +8137,7 @@
           "competition_id": 47,
           "environment": {
             "humidity": "98%",
-            "pressure": "749mmHg",
+            "pressure": "750mmHg",
             "temperature": "5°C",
             "weather": 7,
             "wind": "3.2m/s"
@@ -8279,7 +8335,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "79%",
+            "humidity": "80%",
             "pressure": "747mmHg",
             "temperature": "3°C",
             "weather": 7,
@@ -8681,7 +8737,7 @@
             "pressure": "752mmHg",
             "temperature": "2°C",
             "weather": 7,
-            "wind": "0.9m/s"
+            "wind": "0.7m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9077,9 +9133,9 @@
           "environment": {
             "humidity": "89%",
             "pressure": "746mmHg",
-            "temperature": "4°C",
+            "temperature": "3°C",
             "weather": 7,
-            "wind": "5.8m/s"
+            "wind": "6.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9474,10 +9530,10 @@
           "competition_id": 47,
           "environment": {
             "humidity": "94%",
-            "pressure": "750mmHg",
+            "pressure": "749mmHg",
             "temperature": "3°C",
             "weather": 7,
-            "wind": "3.7m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9676,7 +9732,7 @@
             "pressure": "747mmHg",
             "temperature": "3°C",
             "weather": 7,
-            "wind": "5.6m/s"
+            "wind": "5.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10072,7 +10128,7 @@
           "environment": {
             "humidity": "91%",
             "pressure": "751mmHg",
-            "temperature": "3°C",
+            "temperature": "4°C",
             "weather": 7,
             "wind": "1.8m/s"
           },
@@ -10468,7 +10524,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "85%",
+            "humidity": "84%",
             "pressure": "760mmHg",
             "temperature": "13°C",
             "weather": 9,
@@ -11065,11 +11121,11 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "100%",
+            "humidity": "101%",
             "pressure": "747mmHg",
             "temperature": "7°C",
             "weather": 10,
-            "wind": "3.4m/s"
+            "wind": "3.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11663,7 +11719,7 @@
           "competition_id": 47,
           "environment": {
             "humidity": "98%",
-            "pressure": "749mmHg",
+            "pressure": "750mmHg",
             "temperature": "5°C",
             "weather": 7,
             "wind": "3.2m/s"
@@ -11861,7 +11917,7 @@
           },
           "competition_id": 47,
           "environment": {
-            "humidity": "79%",
+            "humidity": "80%",
             "pressure": "747mmHg",
             "temperature": "3°C",
             "weather": 7,
@@ -12263,7 +12319,7 @@
             "pressure": "752mmHg",
             "temperature": "2°C",
             "weather": 7,
-            "wind": "0.9m/s"
+            "wind": "0.7m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12659,9 +12715,9 @@
           "environment": {
             "humidity": "89%",
             "pressure": "746mmHg",
-            "temperature": "4°C",
+            "temperature": "3°C",
             "weather": 7,
-            "wind": "5.8m/s"
+            "wind": "6.1m/s"
           },
           "explain": "",
           "home_corner": 0,
