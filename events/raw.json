@@ -154,7 +154,7 @@
             "humidity": "35%",
             "pressure": "758mmHg",
             "temperature": "34°C",
-            "weather": 1,
+            "weather": 5,
             "wind": "7.6m/s"
           },
           "explain": "",
@@ -427,11 +427,11 @@
           },
           "competition_id": 590,
           "environment": {
-            "humidity": "41%",
+            "humidity": "40%",
             "pressure": "757mmHg",
             "temperature": "30°C",
             "weather": 5,
-            "wind": "7.0m/s"
+            "wind": "6.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -706,7 +706,7 @@
             "humidity": "35%",
             "pressure": "758mmHg",
             "temperature": "34°C",
-            "weather": 1,
+            "weather": 5,
             "wind": "7.6m/s"
           },
           "explain": "",
@@ -979,11 +979,11 @@
           },
           "competition_id": 590,
           "environment": {
-            "humidity": "41%",
+            "humidity": "40%",
             "pressure": "757mmHg",
             "temperature": "30°C",
             "weather": 5,
-            "wind": "7.0m/s"
+            "wind": "6.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2639,7 +2639,7 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "63%",
+            "humidity": "62%",
             "pressure": "760mmHg",
             "temperature": "19°C",
             "weather": 5,
@@ -2889,7 +2889,7 @@
           },
           "competition_id": 730,
           "environment": {
-            "humidity": "63%",
+            "humidity": "62%",
             "pressure": "760mmHg",
             "temperature": "19°C",
             "weather": 5,
@@ -4056,11 +4056,11 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "78%",
+            "humidity": "77%",
             "pressure": "752mmHg",
-            "temperature": "9°C",
+            "temperature": "10°C",
             "weather": 5,
-            "wind": "3.7m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4255,7 +4255,7 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "79%",
+            "humidity": "78%",
             "pressure": "750mmHg",
             "temperature": "8°C",
             "weather": 7,
@@ -4653,7 +4653,7 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "90%",
+            "humidity": "91%",
             "pressure": "744mmHg",
             "temperature": "8°C",
             "weather": 10,
@@ -4852,11 +4852,11 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "81%",
+            "humidity": "80%",
             "pressure": "752mmHg",
             "temperature": "10°C",
             "weather": 7,
-            "wind": "2.9m/s"
+            "wind": "3.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5250,11 +5250,11 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "78%",
+            "humidity": "77%",
             "pressure": "752mmHg",
-            "temperature": "9°C",
+            "temperature": "10°C",
             "weather": 5,
-            "wind": "3.7m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -5449,7 +5449,7 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "79%",
+            "humidity": "78%",
             "pressure": "750mmHg",
             "temperature": "8°C",
             "weather": 7,
@@ -5847,7 +5847,7 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "90%",
+            "humidity": "91%",
             "pressure": "744mmHg",
             "temperature": "8°C",
             "weather": 10,
@@ -6046,11 +6046,11 @@
           },
           "competition_id": 143,
           "environment": {
-            "humidity": "81%",
+            "humidity": "80%",
             "pressure": "752mmHg",
             "temperature": "10°C",
             "weather": 7,
-            "wind": "2.9m/s"
+            "wind": "3.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -6446,7 +6446,7 @@
           },
           "competition_id": 129,
           "environment": {
-            "humidity": "84%",
+            "humidity": "85%",
             "pressure": "750mmHg",
             "temperature": "4°C",
             "weather": 7,
@@ -6645,7 +6645,7 @@
           },
           "competition_id": 129,
           "environment": {
-            "humidity": "84%",
+            "humidity": "85%",
             "pressure": "750mmHg",
             "temperature": "4°C",
             "weather": 7,
@@ -6846,7 +6846,7 @@
           },
           "competition_id": 130,
           "environment": {
-            "humidity": "93%",
+            "humidity": "94%",
             "pressure": "755mmHg",
             "temperature": "0°C",
             "weather": 7,
@@ -7244,7 +7244,7 @@
           },
           "competition_id": 130,
           "environment": {
-            "humidity": "93%",
+            "humidity": "94%",
             "pressure": "755mmHg",
             "temperature": "0°C",
             "weather": 7,
@@ -7921,8 +7921,8 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "83%",
-            "pressure": "759mmHg",
+            "humidity": "82%",
+            "pressure": "758mmHg",
             "temperature": "29°C",
             "weather": 6,
             "wind": "2.0m/s"
@@ -8397,8 +8397,8 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "83%",
-            "pressure": "759mmHg",
+            "humidity": "82%",
+            "pressure": "758mmHg",
             "temperature": "29°C",
             "weather": 6,
             "wind": "2.0m/s"
@@ -8704,8 +8704,8 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
             "manager_id": 0,
-            "market_value": 29350000,
-            "market_value_currency": "",
+            "market_value": 33850000,
+            "market_value_currency": "€",
             "name_en": "Al Taawoun",
             "name_zh": "布赖代合作",
             "name_zht": "布賴代合作",
@@ -8715,7 +8715,7 @@
             "short_name_zh": "布赖代合作",
             "short_name_zht": "布賴代合作",
             "total_players": 30,
-            "updated_at": 1769566570,
+            "updated_at": 1769728853,
             "venue_id": 16598,
             "website": ""
           },
@@ -8783,8 +8783,8 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
           "manager_id": 0,
-          "market_value": 29350000,
-          "market_value_currency": "",
+          "market_value": 33850000,
+          "market_value_currency": "€",
           "name_en": "Al Taawoun",
           "name_zh": "布赖代合作",
           "name_zht": "布賴代合作",
@@ -8794,7 +8794,7 @@
           "short_name_zh": "布赖代合作",
           "short_name_zht": "布賴代合作",
           "total_players": 30,
-          "updated_at": 1769566570,
+          "updated_at": 1769728853,
           "venue_id": 16598,
           "website": ""
         },
@@ -8955,7 +8955,7 @@
             "pressure": "761mmHg",
             "temperature": "20°C",
             "weather": 5,
-            "wind": "4.3m/s"
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9479,8 +9479,8 @@
             "logo_handle": 1,
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
             "manager_id": 0,
-            "market_value": 29350000,
-            "market_value_currency": "",
+            "market_value": 33850000,
+            "market_value_currency": "€",
             "name_en": "Al Taawoun",
             "name_zh": "布赖代合作",
             "name_zht": "布賴代合作",
@@ -9490,7 +9490,7 @@
             "short_name_zh": "布赖代合作",
             "short_name_zht": "布賴代合作",
             "total_players": 30,
-            "updated_at": 1769566570,
+            "updated_at": 1769728853,
             "venue_id": 16598,
             "website": ""
           },
@@ -9558,8 +9558,8 @@
           "logo_handle": 1,
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
           "manager_id": 0,
-          "market_value": 29350000,
-          "market_value_currency": "",
+          "market_value": 33850000,
+          "market_value_currency": "€",
           "name_en": "Al Taawoun",
           "name_zh": "布赖代合作",
           "name_zht": "布賴代合作",
@@ -9569,7 +9569,7 @@
           "short_name_zh": "布赖代合作",
           "short_name_zht": "布賴代合作",
           "total_players": 30,
-          "updated_at": 1769566570,
+          "updated_at": 1769728853,
           "venue_id": 16598,
           "website": ""
         },
@@ -9730,7 +9730,7 @@
             "pressure": "761mmHg",
             "temperature": "20°C",
             "weather": 5,
-            "wind": "4.3m/s"
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10154,7 +10154,7 @@
             "pressure": "757mmHg",
             "temperature": "9°C",
             "weather": 9,
-            "wind": "6.1m/s"
+            "wind": "6.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10353,7 +10353,7 @@
             "pressure": "757mmHg",
             "temperature": "9°C",
             "weather": 9,
-            "wind": "6.1m/s"
+            "wind": "6.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10593,7 +10593,7 @@
             "pressure": "760mmHg",
             "temperature": "27°C",
             "weather": 10,
-            "wind": "0.9m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10831,7 +10831,7 @@
             "pressure": "760mmHg",
             "temperature": "27°C",
             "weather": 10,
-            "wind": "0.9m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12265,7 +12265,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 17,
+          "foreign_players": 16,
           "foundation_time": "1967",
           "id": 10278,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/9dc9c8f928d5cafdc90a747fe0439c2d.png",
@@ -12282,8 +12282,8 @@
           "short_name_en": "Trabzonspor",
           "short_name_zh": "特拉布宗",
           "short_name_zht": "特拉布宗",
-          "total_players": 29,
-          "updated_at": 1769718773,
+          "total_players": 30,
+          "updated_at": 1769728939,
           "venue_id": 11605,
           "website": "http://www.trabzonspor.org.tr"
         },
@@ -12306,7 +12306,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 17,
+            "foreign_players": 16,
             "foundation_time": "1967",
             "id": 10278,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/9dc9c8f928d5cafdc90a747fe0439c2d.png",
@@ -12323,8 +12323,8 @@
             "short_name_en": "Trabzonspor",
             "short_name_zh": "特拉布宗",
             "short_name_zht": "特拉布宗",
-            "total_players": 29,
-            "updated_at": 1769718773,
+            "total_players": 30,
+            "updated_at": 1769728939,
             "venue_id": 11605,
             "website": "http://www.trabzonspor.org.tr"
           },
@@ -12334,7 +12334,7 @@
             "pressure": "755mmHg",
             "temperature": "15°C",
             "weather": 7,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12541,7 +12541,7 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "84%",
+            "humidity": "83%",
             "pressure": "753mmHg",
             "temperature": "9°C",
             "weather": 9,
@@ -12687,7 +12687,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 17,
+          "foreign_players": 16,
           "foundation_time": "1967",
           "id": 10278,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/9dc9c8f928d5cafdc90a747fe0439c2d.png",
@@ -12704,8 +12704,8 @@
           "short_name_en": "Trabzonspor",
           "short_name_zh": "特拉布宗",
           "short_name_zht": "特拉布宗",
-          "total_players": 29,
-          "updated_at": 1769718773,
+          "total_players": 30,
+          "updated_at": 1769728939,
           "venue_id": 11605,
           "website": "http://www.trabzonspor.org.tr"
         },
@@ -12728,7 +12728,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 17,
+            "foreign_players": 16,
             "foundation_time": "1967",
             "id": 10278,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/9dc9c8f928d5cafdc90a747fe0439c2d.png",
@@ -12745,8 +12745,8 @@
             "short_name_en": "Trabzonspor",
             "short_name_zh": "特拉布宗",
             "short_name_zht": "特拉布宗",
-            "total_players": 29,
-            "updated_at": 1769718773,
+            "total_players": 30,
+            "updated_at": 1769728939,
             "venue_id": 11605,
             "website": "http://www.trabzonspor.org.tr"
           },
@@ -12756,7 +12756,7 @@
             "pressure": "755mmHg",
             "temperature": "15°C",
             "weather": 7,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12963,7 +12963,7 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "84%",
+            "humidity": "83%",
             "pressure": "753mmHg",
             "temperature": "9°C",
             "weather": 9,
