@@ -1,5 +1,5 @@
 {
-  "updated": 1769695774,
+  "updated": 1769698799,
   "events": [
     {
       "league": "AUS A-League",
@@ -9,7 +9,7 @@
       "away": "Melbourne City",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769689191.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769697281.flv"
       }
     },
     {
@@ -31,7 +31,7 @@
       "away": "Melbourne City",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769689191.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769697281.flv"
       }
     },
     {
@@ -69,13 +69,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769698800,
       "home": "Enppi",
       "away": "Smouha SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769698148.flv"
       }
     },
     {
@@ -102,13 +102,13 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769698800,
       "home": "Enppi",
       "away": "Smouha SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769698148.flv"
       }
     },
     {
@@ -179,13 +179,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769698800,
       "home": "Al Fateh SC",
       "away": "Al Ittihad Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769696828.flv"
       }
     },
     {
@@ -212,13 +212,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769698800,
       "home": "Al Fateh SC",
       "away": "Al Ittihad Club",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769696828.flv"
       }
     },
     {
@@ -294,8 +294,8 @@
       "home": "Umm Salal",
       "away": "Al-Arabi SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769689191.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/66677204_2d3be229b8dc11b733a55d9ccc886c78.m3u8"
       }
     },
     {
@@ -316,8 +316,8 @@
       "home": "Umm Salal",
       "away": "Al-Arabi SC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769689191.flv"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/66677204_2d3be229b8dc11b733a55d9ccc886c78.m3u8"
       }
     },
     {
@@ -329,28 +329,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Shopee Cup",
-      "status": "LIVE",
-      "time": 1769689800,
-      "home": "Thep Xanh Nam Dinh FC",
-      "away": "Lion City Sailors",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/62415726_891f03a155b8082944659a994b3884a6.m3u8"
-      }
-    },
-    {
-      "league": "Shopee Cup",
-      "status": "LIVE",
-      "time": 1769689800,
-      "home": "Thep Xanh Nam Dinh FC",
-      "away": "Lion City Sailors",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/62415726_891f03a155b8082944659a994b3884a6.m3u8"
       }
     },
     {
@@ -509,13 +487,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769716800,
       "home": "Panathinaikos",
       "away": "AS Roma",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769698148.flv"
       }
     },
     {
@@ -641,13 +619,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769716800,
       "home": "Panathinaikos",
       "away": "AS Roma",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769698148.flv"
       }
     },
     {
@@ -659,6 +637,28 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "VIE National Champion League",
+      "status": "LIVE",
+      "time": 1769770800,
+      "home": "Hong Linh Ha Tinh",
+      "away": "Becamex Ho Chi Minh City",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769698307.flv"
+      }
+    },
+    {
+      "league": "VIE National Champion League",
+      "status": "LIVE",
+      "time": 1769770800,
+      "home": "Hong Linh Ha Tinh",
+      "away": "Becamex Ho Chi Minh City",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769698307.flv"
       }
     }
   ]
