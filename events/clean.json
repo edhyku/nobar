@@ -1,15 +1,15 @@
 {
-  "updated": 1769704356,
+  "updated": 1769707230,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769752800,
       "home": "Wellington Phoenix",
       "away": "Melbourne City",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769697281.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -25,13 +25,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769752800,
       "home": "Wellington Phoenix",
       "away": "Melbourne City",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769697281.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -91,17 +91,6 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "LIVE",
-      "time": 1769698800,
-      "home": "Enppi",
-      "away": "Smouha SC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/62493234_962611a91e4cffffed858d388a3b8823.m3u8"
-      }
-    },
-    {
-      "league": "EGY Premier League",
       "status": "UPCOMING",
       "time": 1769709600,
       "home": "Ghazl El Mahallah",
@@ -120,17 +109,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "EGY Premier League",
-      "status": "LIVE",
-      "time": 1769698800,
-      "home": "Enppi",
-      "away": "Smouha SC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/62493234_962611a91e4cffffed858d388a3b8823.m3u8"
       }
     },
     {
@@ -169,9 +147,31 @@
     {
       "league": "FIN Liiga Cup",
       "status": "UPCOMING",
+      "time": 1769776200,
+      "home": "Gnistan Helsinki",
+      "away": "IFK Mariehamn",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FIN Liiga Cup",
+      "status": "UPCOMING",
       "time": 1769774400,
       "home": "Inter Turku",
       "away": "HJK Helsinki",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FIN Liiga Cup",
+      "status": "UPCOMING",
+      "time": 1769776200,
+      "home": "Gnistan Helsinki",
+      "away": "IFK Mariehamn",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -224,31 +224,31 @@
     {
       "league": "KSA Professional League",
       "status": "LIVE",
-      "time": 1769698800,
-      "home": "Al Fateh SC",
-      "away": "Al Ittihad Club",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404537.m3u8?txSecret=ab9617a5b8549917e42fcdb7a068ffe5&txTime=697BD15C"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
       "time": 1769707800,
       "home": "Al Qadsiah",
       "away": "Al Hilal",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769706894.flv"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "LIVE",
+      "time": 1769707800,
+      "home": "Al Hazem",
+      "away": "Al Shabab FC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769706915.flv"
       }
     },
     {
       "league": "KSA Professional League",
       "status": "UPCOMING",
-      "time": 1769707800,
-      "home": "Al Hazem",
-      "away": "Al Shabab FC",
+      "time": 1769781000,
+      "home": "Al Taawoun",
+      "away": "Al Okhdood",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -257,31 +257,31 @@
     {
       "league": "KSA Professional League",
       "status": "LIVE",
-      "time": 1769698800,
-      "home": "Al Fateh SC",
-      "away": "Al Ittihad Club",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404537.m3u8?txSecret=ab9617a5b8549917e42fcdb7a068ffe5&txTime=697BD15C"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
       "time": 1769707800,
       "home": "Al Qadsiah",
       "away": "Al Hilal",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769706894.flv"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "LIVE",
+      "time": 1769707800,
+      "home": "Al Hazem",
+      "away": "Al Shabab FC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769706915.flv"
       }
     },
     {
       "league": "KSA Professional League",
       "status": "UPCOMING",
-      "time": 1769707800,
-      "home": "Al Hazem",
-      "away": "Al Shabab FC",
+      "time": 1769781000,
+      "home": "Al Taawoun",
+      "away": "Al Okhdood",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -310,22 +310,22 @@
       }
     },
     {
-      "league": "QAT Stars League",
-      "status": "LIVE",
-      "time": 1769697900,
-      "home": "Umm Salal",
-      "away": "Al-Arabi SC",
+      "league": "MAS Super League",
+      "status": "UPCOMING",
+      "time": 1769778000,
+      "home": "PDRM FC",
+      "away": "Kuala Lumpur City FC",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/66677204_2d3be229b8dc11b733a55d9ccc886c78.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "QAT Stars League",
+      "league": "MAS Super League",
       "status": "UPCOMING",
-      "time": 1769705100,
-      "home": "Al-Wakrah SC",
-      "away": "Al Shahaniya",
+      "time": 1769778000,
+      "home": "PDRM FC",
+      "away": "Kuala Lumpur City FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -334,23 +334,23 @@
     {
       "league": "QAT Stars League",
       "status": "LIVE",
-      "time": 1769697900,
-      "home": "Umm Salal",
-      "away": "Al-Arabi SC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/66677204_2d3be229b8dc11b733a55d9ccc886c78.m3u8"
-      }
-    },
-    {
-      "league": "QAT Stars League",
-      "status": "UPCOMING",
       "time": 1769705100,
       "home": "Al-Wakrah SC",
       "away": "Al Shahaniya",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/66677206_a0efdb7068de03a7c286b67690ab6ab3.m3u8"
+      }
+    },
+    {
+      "league": "QAT Stars League",
+      "status": "LIVE",
+      "time": 1769705100,
+      "home": "Al-Wakrah SC",
+      "away": "Al Shahaniya",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/66677206_a0efdb7068de03a7c286b67690ab6ab3.m3u8"
       }
     },
     {
@@ -399,13 +399,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769716800,
       "home": "Nottingham Forest",
       "away": "Ferencvarosi TC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769706894.flv"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769716800,
       "home": "Crvena Zvezda",
       "away": "RC Celta",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769704360.flv"
       }
     },
     {
@@ -487,24 +487,24 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Panathinaikos",
       "away": "AS Roma",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769698148.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769716800,
       "home": "Aston Villa",
       "away": "Red Bull Salzburg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769706915.flv"
       }
     },
     {
@@ -531,13 +531,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769716800,
       "home": "Nottingham Forest",
       "away": "Ferencvarosi TC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769706894.flv"
       }
     },
     {
@@ -586,13 +586,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769716800,
       "home": "Crvena Zvezda",
       "away": "RC Celta",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769704360.flv"
       }
     },
     {
@@ -619,21 +619,32 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Panathinaikos",
       "away": "AS Roma",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769698148.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UEFA Europa League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769716800,
       "home": "Aston Villa",
       "away": "Red Bull Salzburg",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769706915.flv"
+      }
+    },
+    {
+      "league": "VIE National Champion League",
+      "status": "UPCOMING",
+      "time": 1769770800,
+      "home": "Hong Linh Ha Tinh",
+      "away": "Becamex Ho Chi Minh City",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -641,24 +652,13 @@
     },
     {
       "league": "VIE National Champion League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769770800,
       "home": "Hong Linh Ha Tinh",
       "away": "Becamex Ho Chi Minh City",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769698307.flv"
-      }
-    },
-    {
-      "league": "VIE National Champion League",
-      "status": "LIVE",
-      "time": 1769770800,
-      "home": "Hong Linh Ha Tinh",
-      "away": "Becamex Ho Chi Minh City",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769698307.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     }
   ]
