@@ -1,5 +1,5 @@
 {
-  "updated": 1769684303,
+  "updated": 1769686802,
   "events": [
     {
       "league": "BRA Serie A",
@@ -15,6 +15,17 @@
     {
       "league": "BRA Serie A",
       "status": "UPCOMING",
+      "time": 1769733000,
+      "home": "Botafogo RJ",
+      "away": "Cruzeiro Esporte Clube",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BRA Serie A",
+      "status": "UPCOMING",
       "time": 1769727600,
       "home": "Mirassol",
       "away": "Clube de Regatas Vasco da Gama",
@@ -24,6 +35,17 @@
       }
     },
     {
+      "league": "BRA Serie A",
+      "status": "UPCOMING",
+      "time": 1769733000,
+      "home": "Botafogo RJ",
+      "away": "Cruzeiro Esporte Clube",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "EGY Premier League",
       "status": "UPCOMING",
       "time": 1769698800,
@@ -175,17 +197,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Shopee Cup",
-      "status": "LIVE",
-      "time": 1769679000,
-      "home": "Johor Darul Ta'zim FC",
-      "away": "Shan United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407675.m3u8?txSecret=0a5b9ab71da058c3821c5809baa49d76&txTime=697B7143"
       }
     },
     {
@@ -208,17 +219,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Shopee Cup",
-      "status": "LIVE",
-      "time": 1769679000,
-      "home": "Johor Darul Ta'zim FC",
-      "away": "Shan United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407675.m3u8?txSecret=0a5b9ab71da058c3821c5809baa49d76&txTime=697B7143"
       }
     },
     {
