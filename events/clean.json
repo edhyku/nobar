@@ -1,5 +1,5 @@
 {
-  "updated": 1769686802,
+  "updated": 1769688087,
   "events": [
     {
       "league": "BRA Serie A",
@@ -201,13 +201,13 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769688000,
       "home": "Preah Khan Reach Svay Rieng FC",
       "away": "Bangkok United FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769687082.flv"
       }
     },
     {
@@ -223,13 +223,13 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769688000,
       "home": "Preah Khan Reach Svay Rieng FC",
       "away": "Bangkok United FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769687082.flv"
       }
     },
     {
