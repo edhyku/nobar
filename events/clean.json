@@ -1,5 +1,5 @@
 {
-  "updated": 1769654712,
+  "updated": 1769660505,
   "events": [
     {
       "league": "EGY Premier League",
@@ -245,24 +245,24 @@
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769692500,
       "home": "Al Bataeh",
       "away": "Al-Jazira(UAE)",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769644701.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "UAE Adnoc Pro-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769692500,
       "home": "Al Bataeh",
       "away": "Al-Jazira(UAE)",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2213229_1769644701.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
