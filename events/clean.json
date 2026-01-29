@@ -1,5 +1,5 @@
 {
-  "updated": 1769676310,
+  "updated": 1769678896,
   "events": [
     {
       "league": "EGY Premier League",
@@ -113,24 +113,24 @@
     },
     {
       "league": "MYA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769677200,
       "home": "Ayeyawady united",
       "away": "Dagon Star United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4474594.m3u8?txSecret=275d7cb3cd5eab0eccec0d78c5939fc1&txTime=697B66B9"
       }
     },
     {
       "league": "MYA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769677200,
       "home": "Ayeyawady united",
       "away": "Dagon Star United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4474594.m3u8?txSecret=275d7cb3cd5eab0eccec0d78c5939fc1&txTime=697B66B9"
       }
     },
     {
@@ -179,24 +179,24 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769679000,
       "home": "Johor Darul Ta'zim FC",
       "away": "Shan United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769677978.flv"
       }
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769688000,
       "home": "Preah Khan Reach Svay Rieng FC",
       "away": "Bangkok United FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769676311.flv"
       }
     },
     {
@@ -212,24 +212,24 @@
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769679000,
       "home": "Johor Darul Ta'zim FC",
       "away": "Shan United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769677978.flv"
       }
     },
     {
       "league": "Shopee Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769688000,
       "home": "Preah Khan Reach Svay Rieng FC",
       "away": "Bangkok United FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769676311.flv"
       }
     },
     {
