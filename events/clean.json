@@ -1,5 +1,5 @@
 {
-  "updated": 1769713288,
+  "updated": 1769715552,
   "events": [
     {
       "league": "AUS A-League",
@@ -135,6 +135,17 @@
     },
     {
       "league": "EGY Premier League",
+      "status": "UPCOMING",
+      "time": 1769785200,
+      "home": "Pharco",
+      "away": "ZED FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "EGY Premier League",
       "status": "LIVE",
       "time": 1769709600,
       "home": "Ghazl El Mahallah",
@@ -156,6 +167,17 @@
       }
     },
     {
+      "league": "EGY Premier League",
+      "status": "UPCOMING",
+      "time": 1769785200,
+      "home": "Pharco",
+      "away": "ZED FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "FIN Liiga Cup",
       "status": "UPCOMING",
       "time": 1769774400,
@@ -245,24 +267,24 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769707800,
-      "home": "Al Qadsiah",
-      "away": "Al Hilal",
+      "status": "UPCOMING",
+      "time": 1769781000,
+      "home": "Al Taawoun",
+      "away": "Al Okhdood",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404492.m3u8?txSecret=4241a2133c661a88146fe7e27d80743e&txTime=697BED7B"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "KSA Professional League",
       "status": "LIVE",
-      "time": 1769707800,
-      "home": "Al Hazem",
-      "away": "Al Shabab FC",
+      "time": 1769788200,
+      "home": "NEOM Sports Club",
+      "away": "Damac",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/64055621_1b7cd2607cb17260f40006b7468b60d8.m3u8"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769709758.flv"
       }
     },
     {
@@ -279,34 +301,12 @@
     {
       "league": "KSA Professional League",
       "status": "LIVE",
-      "time": 1769707800,
-      "home": "Al Qadsiah",
-      "away": "Al Hilal",
+      "time": 1769788200,
+      "home": "NEOM Sports Club",
+      "away": "Damac",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404492.m3u8?txSecret=4241a2133c661a88146fe7e27d80743e&txTime=697BED7B"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769707800,
-      "home": "Al Hazem",
-      "away": "Al Shabab FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/64055621_1b7cd2607cb17260f40006b7468b60d8.m3u8"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "UPCOMING",
-      "time": 1769781000,
-      "home": "Al Taawoun",
-      "away": "Al Okhdood",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769709758.flv"
       }
     },
     {
@@ -399,13 +399,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Nottingham Forest",
       "away": "Ferencvarosi TC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769706894.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -432,13 +432,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Real Betis",
       "away": "Feyenoord",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769707076.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -476,13 +476,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "VfB Stuttgart",
       "away": "Young Boys",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769707582.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -498,13 +498,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Aston Villa",
       "away": "Red Bull Salzburg",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769706915.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -531,13 +531,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Nottingham Forest",
       "away": "Ferencvarosi TC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769706894.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -564,13 +564,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Real Betis",
       "away": "Feyenoord",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769707076.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -608,13 +608,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "VfB Stuttgart",
       "away": "Young Boys",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769707582.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -630,13 +630,13 @@
     },
     {
       "league": "UEFA Europa League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769716800,
       "home": "Aston Villa",
       "away": "Red Bull Salzburg",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380856_1769706915.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
