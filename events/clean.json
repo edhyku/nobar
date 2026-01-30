@@ -1,5 +1,5 @@
 {
-  "updated": 1769781950,
+  "updated": 1769784863,
   "events": [
     {
       "league": "AUS A-League",
@@ -25,6 +25,17 @@
     },
     {
       "league": "AUS A-League",
+      "status": "LIVE",
+      "time": 1769856300,
+      "home": "Perth Glory",
+      "away": "Auckland FC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769784630.flv"
+      }
+    },
+    {
+      "league": "AUS A-League",
       "status": "UPCOMING",
       "time": 1769839200,
       "home": "Newcastle Jets",
@@ -46,14 +57,25 @@
       }
     },
     {
-      "league": "AUS W-League",
+      "league": "AUS A-League",
       "status": "LIVE",
+      "time": 1769856300,
+      "home": "Perth Glory",
+      "away": "Auckland FC",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769784630.flv"
+      }
+    },
+    {
+      "league": "AUS W-League",
+      "status": "UPCOMING",
       "time": 1769837400,
       "home": "Adelaide United Women",
       "away": "Melbourne City Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769775869.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -69,13 +91,13 @@
     },
     {
       "league": "AUS W-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769837400,
       "home": "Adelaide United Women",
       "away": "Melbourne City Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769775869.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -97,7 +119,7 @@
       "away": "Mjallby AIF",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4483907.m3u8?txSecret=6b93342ebf22114490935c9da4e60eac&txTime=697CFE88"
+        "url": "https://live.trendgallary.com/live/67731280_a00af1d0b1ea91c6a5494764377a8c33.m3u8"
       }
     },
     {
@@ -108,7 +130,7 @@
       "away": "Mjallby AIF",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4483907.m3u8?txSecret=6b93342ebf22114490935c9da4e60eac&txTime=697CFE88"
+        "url": "https://live.trendgallary.com/live/67731280_a00af1d0b1ea91c6a5494764377a8c33.m3u8"
       }
     },
     {
@@ -135,24 +157,24 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769785200,
       "home": "Pharco",
       "away": "ZED FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769784630.flv"
       }
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769785200,
       "home": "Pharco",
       "away": "ZED FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769784630.flv"
       }
     },
     {
@@ -256,13 +278,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769794200,
       "home": "1. FC Nürnberg",
       "away": "Preuben Munster",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769784630.flv"
       }
     },
     {
@@ -278,13 +300,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769794200,
       "home": "1. FC Nürnberg",
       "away": "Preuben Munster",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769784630.flv"
       }
     },
     {
@@ -307,50 +329,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Division 1",
-      "status": "LIVE",
-      "time": 1769776500,
-      "home": "Al-Batin",
-      "away": "Jubail",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100348.m3u8?txSecret=7cb8781a447d85321356ff17b35989f5&txTime=697CC031&sign=c98ebb27597c19ff"
-      }
-    },
-    {
-      "league": "KSA Division 1",
-      "status": "LIVE",
-      "time": 1769776800,
-      "home": "Al-Faisaly Harmah",
-      "away": "Al Zulfi",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407222.m3u8?txSecret=5c7134a7b3fe1e1553b23ebfc27785bc&txTime=697CFE88"
-      }
-    },
-    {
-      "league": "KSA Division 1",
-      "status": "LIVE",
-      "time": 1769776500,
-      "home": "Al-Batin",
-      "away": "Jubail",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100348.m3u8?txSecret=7cb8781a447d85321356ff17b35989f5&txTime=697CC031&sign=c98ebb27597c19ff"
-      }
-    },
-    {
-      "league": "KSA Division 1",
-      "status": "LIVE",
-      "time": 1769776800,
-      "home": "Al-Faisaly Harmah",
-      "away": "Al Zulfi",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407222.m3u8?txSecret=5c7134a7b3fe1e1553b23ebfc27785bc&txTime=697CFE88"
       }
     },
     {
@@ -361,7 +339,7 @@
       "away": "Al Okhdood",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404487.m3u8?txSecret=1b56ebe2816e828be23a701d31692e2e&txTime=697CFE88"
+        "url": "https://live.trendgallary.com/live/64055629_0f6a9da04347093bf37e8d74a01038b2.m3u8"
       }
     },
     {
@@ -383,7 +361,7 @@
       "away": "Al Okhdood",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4404487.m3u8?txSecret=1b56ebe2816e828be23a701d31692e2e&txTime=697CFE88"
+        "url": "https://live.trendgallary.com/live/64055629_0f6a9da04347093bf37e8d74a01038b2.m3u8"
       }
     },
     {
@@ -642,6 +620,17 @@
     {
       "league": "TUR Super League",
       "status": "UPCOMING",
+      "time": 1769859000,
+      "home": "Alanyaspor",
+      "away": "Eyupspor",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
       "time": 1769792400,
       "home": "Antalyaspor",
       "away": "Trabzonspor",
@@ -656,6 +645,17 @@
       "time": 1769792400,
       "home": "Kasimpasa",
       "away": "Samsunspor",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
+      "time": 1769859000,
+      "home": "Alanyaspor",
+      "away": "Eyupspor",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
