@@ -1,5 +1,5 @@
 {
-  "updated": 1769779066,
+  "updated": 1769781950,
   "events": [
     {
       "league": "AUS A-League",
@@ -14,13 +14,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769848500,
       "home": "Sydney FC",
       "away": "Western Sydney",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769773772.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769848500,
       "home": "Sydney FC",
       "away": "Western Sydney",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769773772.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -58,13 +58,13 @@
     },
     {
       "league": "AUS W-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769839200,
       "home": "Sydney FC Women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/810230_1769771811.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -80,13 +80,13 @@
     },
     {
       "league": "AUS W-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769839200,
       "home": "Sydney FC Women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/810230_1769771811.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -96,8 +96,8 @@
       "home": "Tromso IL",
       "away": "Mjallby AIF",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769771933.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4483907.m3u8?txSecret=6b93342ebf22114490935c9da4e60eac&txTime=697CFE88"
       }
     },
     {
@@ -107,8 +107,8 @@
       "home": "Tromso IL",
       "away": "Mjallby AIF",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769771933.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4483907.m3u8?txSecret=6b93342ebf22114490935c9da4e60eac&txTime=697CFE88"
       }
     },
     {
@@ -317,7 +317,7 @@
       "away": "Jubail",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100348.m3u8?txSecret=e903ea179987cfad1461e3d4f2d4b454&txTime=697CB5A6&sign=c1a848f3549b0f1b"
+        "url": "https://v.lfsxfj.com/live/100348.m3u8?txSecret=7cb8781a447d85321356ff17b35989f5&txTime=697CC031&sign=c98ebb27597c19ff"
       }
     },
     {
@@ -328,7 +328,7 @@
       "away": "Al Zulfi",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407222.m3u8?txSecret=805256b6f2dcc92fd3bf8bf1b4e5ff79&txTime=697CE5EB"
+        "url": "https://live.vivo200.com/live/sd-1-4407222.m3u8?txSecret=5c7134a7b3fe1e1553b23ebfc27785bc&txTime=697CFE88"
       }
     },
     {
@@ -339,7 +339,7 @@
       "away": "Jubail",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100348.m3u8?txSecret=e903ea179987cfad1461e3d4f2d4b454&txTime=697CB5A6&sign=c1a848f3549b0f1b"
+        "url": "https://v.lfsxfj.com/live/100348.m3u8?txSecret=7cb8781a447d85321356ff17b35989f5&txTime=697CC031&sign=c98ebb27597c19ff"
       }
     },
     {
@@ -350,18 +350,18 @@
       "away": "Al Zulfi",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4407222.m3u8?txSecret=805256b6f2dcc92fd3bf8bf1b4e5ff79&txTime=697CE5EB"
+        "url": "https://live.vivo200.com/live/sd-1-4407222.m3u8?txSecret=5c7134a7b3fe1e1553b23ebfc27785bc&txTime=697CFE88"
       }
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769781000,
       "home": "Al Taawoun",
       "away": "Al Okhdood",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404487.m3u8?txSecret=1b56ebe2816e828be23a701d31692e2e&txTime=697CFE88"
       }
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769781000,
       "home": "Al Taawoun",
       "away": "Al Okhdood",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4404487.m3u8?txSecret=1b56ebe2816e828be23a701d31692e2e&txTime=697CFE88"
       }
     },
     {
@@ -427,7 +427,7 @@
       "away": "Kuala Lumpur City FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4374045.m3u8?txSecret=440de8d74c97f67163b314eb87708cb9&txTime=697CE5F3"
+        "url": "https://live.trendgallary.com/live/j374oi0lwxjsgqo_9761a3c6bfec35191cc4e551d9b0a46e.m3u8"
       }
     },
     {
@@ -438,7 +438,7 @@
       "away": "Kuala Lumpur City FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4374045.m3u8?txSecret=440de8d74c97f67163b314eb87708cb9&txTime=697CE5F3"
+        "url": "https://live.trendgallary.com/live/j374oi0lwxjsgqo_9761a3c6bfec35191cc4e551d9b0a46e.m3u8"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
       "home": "Almere City FC",
       "away": "Roda JC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769780182.flv"
       }
     },
     {
@@ -509,13 +509,13 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
       "home": "Almere City FC",
       "away": "Roda JC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769780182.flv"
       }
     },
     {
