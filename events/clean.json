@@ -1,5 +1,5 @@
 {
-  "updated": 1769804689,
+  "updated": 1769806576,
   "events": [
     {
       "league": "AUS A-League",
@@ -311,6 +311,28 @@
     },
     {
       "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769869800,
+      "home": "RB Leipzig",
+      "away": "1. FSV Mainz 05",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769869800,
+      "home": "SV Werder Bremen",
+      "away": "Borussia Monchengladbach",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
       "status": "LIVE",
       "time": 1769801400,
       "home": "FC Köln",
@@ -354,14 +376,36 @@
       }
     },
     {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769869800,
+      "home": "RB Leipzig",
+      "away": "1. FSV Mainz 05",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
+      "time": 1769869800,
+      "home": "SV Werder Bremen",
+      "away": "Borussia Monchengladbach",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "GER Bundesliga 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769860800,
       "home": "VfL Bochum 1848",
       "away": "Schalke 04",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/774300_1769787989.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -388,13 +432,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769860800,
       "home": "VfL Bochum 1848",
       "away": "Schalke 04",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/774300_1769787989.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -465,24 +509,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769805900,
       "home": "Vitoria Guimaraes",
       "away": "Moreirense",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368966.m3u8?txSecret=872cddf4871d00b8c59e64f8ae0bbca2&txTime=697D415F"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769805900,
       "home": "Vitoria Guimaraes",
       "away": "Moreirense",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368966.m3u8?txSecret=872cddf4871d00b8c59e64f8ae0bbca2&txTime=697D415F"
       }
     },
     {
@@ -527,50 +571,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "NED Eerste Divisie",
-      "status": "LIVE",
-      "time": 1769799600,
-      "home": "Den Bosch",
-      "away": "Emmen",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play1.clomidx.com/live/11203851465_1036191782_adaptive.m3u8"
-      }
-    },
-    {
-      "league": "NED Eerste Divisie",
-      "status": "LIVE",
-      "time": 1769799600,
-      "home": "ADO Den Haag",
-      "away": "AZ Alkmaar Youth",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play.clomidx.com/live/111002721657_124424953_adaptive.m3u8"
-      }
-    },
-    {
-      "league": "NED Eerste Divisie",
-      "status": "LIVE",
-      "time": 1769799600,
-      "home": "Den Bosch",
-      "away": "Emmen",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play1.clomidx.com/live/11203851465_1036191782_adaptive.m3u8"
-      }
-    },
-    {
-      "league": "NED Eerste Divisie",
-      "status": "LIVE",
-      "time": 1769799600,
-      "home": "ADO Den Haag",
-      "away": "AZ Alkmaar Youth",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play.clomidx.com/live/111002721657_124424953_adaptive.m3u8"
       }
     },
     {
