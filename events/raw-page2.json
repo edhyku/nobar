@@ -427,11 +427,11 @@
      },
      "competition_id": 590,
      "environment": {
-      "humidity": "40%",
+      "humidity": "39%",
       "pressure": "757mmHg",
       "temperature": "30°C",
       "weather": 5,
-      "wind": "6.8m/s"
+      "wind": "7.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -1631,9 +1631,9 @@
      },
      "competition_id": 200,
      "environment": {
-      "humidity": "79%",
+      "humidity": "80%",
       "pressure": "772mmHg",
-      "temperature": "-11°C",
+      "temperature": "-12°C",
       "weather": 5,
       "wind": "2.3m/s"
      },
@@ -2070,11 +2070,11 @@
      },
      "competition_id": 143,
      "environment": {
-      "humidity": "77%",
+      "humidity": "78%",
       "pressure": "752mmHg",
-      "temperature": "10°C",
+      "temperature": "9°C",
       "weather": 5,
-      "wind": "4.3m/s"
+      "wind": "3.4m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2269,11 +2269,11 @@
      },
      "competition_id": 143,
      "environment": {
-      "humidity": "78%",
+      "humidity": "79%",
       "pressure": "750mmHg",
-      "temperature": "8°C",
+      "temperature": "7°C",
       "weather": 7,
-      "wind": "4.0m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2667,10 +2667,10 @@
      },
      "competition_id": 143,
      "environment": {
-      "humidity": "91%",
+      "humidity": "90%",
       "pressure": "744mmHg",
       "temperature": "8°C",
-      "weather": 10,
+      "weather": 7,
       "wind": "5.8m/s"
      },
      "explain": "",
@@ -2870,7 +2870,7 @@
       "pressure": "752mmHg",
       "temperature": "10°C",
       "weather": 7,
-      "wind": "3.2m/s"
+      "wind": "3.4m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3067,9 +3067,9 @@
      "environment": {
       "humidity": "89%",
       "pressure": "752mmHg",
-      "temperature": "6°C",
+      "temperature": "7°C",
       "weather": 10,
-      "wind": "4.0m/s"
+      "wind": "3.7m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3266,7 +3266,7 @@
      },
      "competition_id": 129,
      "environment": {
-      "humidity": "85%",
+      "humidity": "84%",
       "pressure": "750mmHg",
       "temperature": "4°C",
       "weather": 7,
@@ -3906,7 +3906,7 @@
      },
      "competition_id": 1788,
      "environment": {
-      "humidity": "79%",
+      "humidity": "78%",
       "pressure": "759mmHg",
       "temperature": "28°C",
       "weather": 7,
@@ -4144,8 +4144,8 @@
      },
      "competition_id": 1788,
      "environment": {
-      "humidity": "82%",
-      "pressure": "758mmHg",
+      "humidity": "83%",
+      "pressure": "759mmHg",
       "temperature": "29°C",
       "weather": 6,
       "wind": "2.0m/s"
@@ -4702,7 +4702,7 @@
       "pressure": "761mmHg",
       "temperature": "20°C",
       "weather": 5,
-      "wind": "4.5m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4758,7 +4758,7 @@
       "is_extend_expire3": 0,
       "match_id": 4404552,
       "match_status": 1,
-      "match_time": 1769788200,
+      "match_time": 1769794200,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4404552",
       "pushurl1_status": 0,
       "pushurl2": "",
@@ -4801,7 +4801,7 @@
      "stage_id": 231839,
      "stage_round": 19,
      "status": 1,
-     "time": 1769788200,
+     "time": 1769794200,
      "video_type": "live",
      "walematch": null
     },
@@ -5563,7 +5563,7 @@
      },
      "competition_id": 168,
      "environment": {
-      "humidity": "88%",
+      "humidity": "90%",
       "pressure": "747mmHg",
       "temperature": "5°C",
       "weather": 7,
@@ -5951,7 +5951,7 @@
      "country_logo": "",
      "country_logo_handle": 0,
      "country_logo_rt": "",
-     "foreign_players": 9,
+     "foreign_players": 10,
      "foundation_time": "1949",
      "id": 11260,
      "logo": "https://wtsymycyh.99kq.top/logo/football_team/eff9bb17ae54a84068dfc3b9f1f628cb.png",
@@ -5959,7 +5959,7 @@
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/eff9bb17ae54a84068dfc3b9f1f628cb.png",
      "manager_id": 0,
      "market_value": 44400000,
-     "market_value_currency": "€",
+     "market_value_currency": "",
      "name_en": "UD Las Palmas",
      "name_zh": "拉斯帕尔马斯",
      "name_zht": "拉斯彭馬斯",
@@ -5969,7 +5969,7 @@
      "short_name_zh": "拉斯帕尔马斯",
      "short_name_zht": "拉斯彭馬斯",
      "total_players": 37,
-     "updated_at": 1769719105,
+     "updated_at": 1769730833,
      "venue_id": 1310,
      "website": "http://www.udlaspalmas.es/"
     },
@@ -5992,7 +5992,7 @@
       "country_logo": "",
       "country_logo_handle": 0,
       "country_logo_rt": "",
-      "foreign_players": 9,
+      "foreign_players": 10,
       "foundation_time": "1949",
       "id": 11260,
       "logo": "https://wtsymycyh.99kq.top/logo/football_team/eff9bb17ae54a84068dfc3b9f1f628cb.png",
@@ -6000,7 +6000,7 @@
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/eff9bb17ae54a84068dfc3b9f1f628cb.png",
       "manager_id": 0,
       "market_value": 44400000,
-      "market_value_currency": "€",
+      "market_value_currency": "",
       "name_en": "UD Las Palmas",
       "name_zh": "拉斯帕尔马斯",
       "name_zht": "拉斯彭馬斯",
@@ -6010,7 +6010,7 @@
       "short_name_zh": "拉斯帕尔马斯",
       "short_name_zht": "拉斯彭馬斯",
       "total_players": 37,
-      "updated_at": 1769719105,
+      "updated_at": 1769730833,
       "venue_id": 1310,
       "website": "http://www.udlaspalmas.es/"
      },
@@ -6152,7 +6152,7 @@
      "country_logo": "",
      "country_logo_handle": 0,
      "country_logo_rt": "",
-     "foreign_players": 16,
+     "foreign_players": 17,
      "foundation_time": "1967",
      "id": 10278,
      "logo": "https://wtsymycyh.99kq.top/logo/football_team/9dc9c8f928d5cafdc90a747fe0439c2d.png",
@@ -6160,7 +6160,7 @@
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/9dc9c8f928d5cafdc90a747fe0439c2d.png",
      "manager_id": 0,
      "market_value": 108900000,
-     "market_value_currency": "€",
+     "market_value_currency": "",
      "name_en": "Trabzonspor",
      "name_zh": "特拉布宗体育",
      "name_zht": "特拉布宗",
@@ -6170,7 +6170,7 @@
      "short_name_zh": "特拉布宗",
      "short_name_zht": "特拉布宗",
      "total_players": 30,
-     "updated_at": 1769728939,
+     "updated_at": 1769730533,
      "venue_id": 11605,
      "website": "http://www.trabzonspor.org.tr"
     },
@@ -6193,7 +6193,7 @@
       "country_logo": "",
       "country_logo_handle": 0,
       "country_logo_rt": "",
-      "foreign_players": 16,
+      "foreign_players": 17,
       "foundation_time": "1967",
       "id": 10278,
       "logo": "https://wtsymycyh.99kq.top/logo/football_team/9dc9c8f928d5cafdc90a747fe0439c2d.png",
@@ -6201,7 +6201,7 @@
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/9dc9c8f928d5cafdc90a747fe0439c2d.png",
       "manager_id": 0,
       "market_value": 108900000,
-      "market_value_currency": "€",
+      "market_value_currency": "",
       "name_en": "Trabzonspor",
       "name_zh": "特拉布宗体育",
       "name_zht": "特拉布宗",
@@ -6211,17 +6211,17 @@
       "short_name_zh": "特拉布宗",
       "short_name_zht": "特拉布宗",
       "total_players": 30,
-      "updated_at": 1769728939,
+      "updated_at": 1769730533,
       "venue_id": 11605,
       "website": "http://www.trabzonspor.org.tr"
      },
      "competition_id": 315,
      "environment": {
-      "humidity": "76%",
+      "humidity": "77%",
       "pressure": "755mmHg",
       "temperature": "15°C",
       "weather": 7,
-      "wind": "2.3m/s"
+      "wind": "2.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6428,7 +6428,7 @@
      },
      "competition_id": 315,
      "environment": {
-      "humidity": "83%",
+      "humidity": "84%",
       "pressure": "753mmHg",
       "temperature": "9°C",
       "weather": 9,
@@ -6458,7 +6458,7 @@
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/483f6ade158f44eb24849b6076377355.png",
       "manager_id": 0,
       "market_value": 27150000,
-      "market_value_currency": "€",
+      "market_value_currency": "",
       "name_en": "Kasimpasa",
       "name_zh": "卡斯帕萨",
       "name_zht": "卡森柏沙",
@@ -6468,7 +6468,7 @@
       "short_name_zh": "卡斯帕萨",
       "short_name_zht": "卡森柏沙",
       "total_players": 36,
-      "updated_at": 1769725704,
+      "updated_at": 1769730773,
       "venue_id": 1637,
       "website": "http://www.kasimpasaspor.org.tr/"
      },
@@ -6549,7 +6549,7 @@
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/483f6ade158f44eb24849b6076377355.png",
      "manager_id": 0,
      "market_value": 27150000,
-     "market_value_currency": "€",
+     "market_value_currency": "",
      "name_en": "Kasimpasa",
      "name_zh": "卡斯帕萨",
      "name_zht": "卡森柏沙",
@@ -6559,7 +6559,7 @@
      "short_name_zh": "卡斯帕萨",
      "short_name_zht": "卡森柏沙",
      "total_players": 36,
-     "updated_at": 1769725704,
+     "updated_at": 1769730773,
      "venue_id": 1637,
      "website": "http://www.kasimpasaspor.org.tr/"
     },
