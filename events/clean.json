@@ -1,19 +1,8 @@
 {
-  "updated": 1769757940,
+  "updated": 1769760090,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769752800,
-      "home": "Wellington Phoenix",
-      "away": "Melbourne City",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/63684603_dc3514bb3a04dd61953c9d7f4e75d563.m3u8"
-      }
-    },
-    {
-      "league": "AUS A-League",
       "status": "UPCOMING",
       "time": 1769763900,
       "home": "Adelaide United",
@@ -21,17 +10,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769752800,
-      "home": "Wellington Phoenix",
-      "away": "Melbourne City",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/63684603_dc3514bb3a04dd61953c9d7f4e75d563.m3u8"
       }
     },
     {
@@ -414,6 +392,28 @@
       "time": 1769761800,
       "home": "Persatuan sepak bola Indonesia Kediri",
       "away": "Bali United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769802300,
+      "home": "Lazio",
+      "away": "Genoa",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769802300,
+      "home": "Lazio",
+      "away": "Genoa",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
