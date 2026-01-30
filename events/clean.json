@@ -1,5 +1,5 @@
 {
-  "updated": 1769810038,
+  "updated": 1769812183,
   "events": [
     {
       "league": "AUS A-League",
@@ -464,6 +464,28 @@
       }
     },
     {
+      "league": "IDN Liga 1",
+      "status": "UPCOMING",
+      "time": 1769841000,
+      "home": "Malut United",
+      "away": "Bhayangkara Presisi Indonesia FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "IDN Liga 1",
+      "status": "UPCOMING",
+      "time": 1769841000,
+      "home": "Malut United",
+      "away": "Bhayangkara Presisi Indonesia FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ITA Serie A",
       "status": "UPCOMING",
       "time": 1769868000,
@@ -493,7 +515,7 @@
       "away": "Moreirense",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368966.m3u8?txSecret=872cddf4871d00b8c59e64f8ae0bbca2&txTime=697D415F"
+        "url": "https://live.vivo200.com/live/sd-1-4368966.m3u8?txSecret=477d1ef3142646c67635bce474136019&txTime=697D728B"
       }
     },
     {
@@ -504,7 +526,7 @@
       "away": "Moreirense",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368966.m3u8?txSecret=872cddf4871d00b8c59e64f8ae0bbca2&txTime=697D415F"
+        "url": "https://live.vivo200.com/live/sd-1-4368966.m3u8?txSecret=477d1ef3142646c67635bce474136019&txTime=697D728B"
       }
     },
     {
@@ -571,17 +593,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769803200,
-      "home": "RCD Espanyol de Barcelona",
-      "away": "Deportivo Alavés",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61624366_b138fb3746a7398a35de615825f582d7.m3u8"
       }
     },
     {
@@ -604,17 +615,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769803200,
-      "home": "RCD Espanyol de Barcelona",
-      "away": "Deportivo Alavés",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61624366_b138fb3746a7398a35de615825f582d7.m3u8"
       }
     },
     {
