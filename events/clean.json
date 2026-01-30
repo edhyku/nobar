@@ -1,5 +1,5 @@
 {
-  "updated": 1769773172,
+  "updated": 1769774368,
   "events": [
     {
       "league": "AUS A-League",
@@ -25,24 +25,24 @@
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769837400,
       "home": "Adelaide United Women",
       "away": "Melbourne City Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769773707.flv"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769837400,
       "home": "Adelaide United Women",
       "away": "Melbourne City Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769773707.flv"
       }
     },
     {
@@ -53,7 +53,7 @@
       "away": "FC Dallas",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4483895.m3u8?txSecret=713f33385631a8e8207ad471ec3dc626&txTime=697CC9D1"
+        "url": "https://live.trendgallary.com/live/13426962_2164f9322b454abb03834c69cf7a26f2.m3u8"
       }
     },
     {
@@ -75,7 +75,7 @@
       "away": "FC Dallas",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4483895.m3u8?txSecret=713f33385631a8e8207ad471ec3dc626&txTime=697CC9D1"
+        "url": "https://live.trendgallary.com/live/13426962_2164f9322b454abb03834c69cf7a26f2.m3u8"
       }
     },
     {
@@ -135,13 +135,13 @@
     },
     {
       "league": "FIN Liiga Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769774400,
       "home": "Inter Turku",
       "away": "HJK Helsinki",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769773707.flv"
       }
     },
     {
@@ -157,13 +157,13 @@
     },
     {
       "league": "FIN Liiga Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769774400,
       "home": "Inter Turku",
       "away": "HJK Helsinki",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769773707.flv"
       }
     },
     {
