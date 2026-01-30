@@ -1,5 +1,5 @@
 {
-  "updated": 1769812183,
+  "updated": 1769813843,
   "events": [
     {
       "league": "AUS A-League",
@@ -508,28 +508,6 @@
       }
     },
     {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769805900,
-      "home": "Vitoria Guimaraes",
-      "away": "Moreirense",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368966.m3u8?txSecret=477d1ef3142646c67635bce474136019&txTime=697D728B"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769805900,
-      "home": "Vitoria Guimaraes",
-      "away": "Moreirense",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368966.m3u8?txSecret=477d1ef3142646c67635bce474136019&txTime=697D728B"
-      }
-    },
-    {
       "league": "MEX Liga MX",
       "status": "UPCOMING",
       "time": 1769821200,
@@ -634,6 +612,28 @@
       "time": 1769872500,
       "home": "CA Osasuna",
       "away": "Villarreal CF",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769872500,
+      "home": "Albacete Balompié SAD",
+      "away": "Real Zaragoza",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769872500,
+      "home": "Albacete Balompié SAD",
+      "away": "Real Zaragoza",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
