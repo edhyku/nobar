@@ -1,5 +1,5 @@
 {
-  "updated": 1769747152,
+  "updated": 1769751183,
   "events": [
     {
       "league": "AUS A-League",
@@ -14,13 +14,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769763900,
       "home": "Adelaide United",
       "away": "Macarthur FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769737209.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769763900,
       "home": "Adelaide United",
       "away": "Macarthur FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769737209.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
