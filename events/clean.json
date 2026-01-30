@@ -1,15 +1,15 @@
 {
-  "updated": 1769798055,
+  "updated": 1769800763,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769839200,
       "home": "Newcastle Jets",
       "away": "Brisbane Roar",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769800658.flv"
       }
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769839200,
       "home": "Newcastle Jets",
       "away": "Brisbane Roar",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769800658.flv"
       }
     },
     {
@@ -201,32 +201,21 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
-      "time": 1769799600,
-      "home": "Clermont",
-      "away": "Stade DE Reims",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
       "home": "Montpellier Hérault SC",
       "away": "Guingamp",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4401081.m3u8?txSecret=53d35402dad4dcfdd9962e3656938e97&txTime=697D4159"
       }
     },
     {
       "league": "FRA Ligue 2",
       "status": "UPCOMING",
-      "time": 1769799600,
-      "home": "Clermont",
-      "away": "Stade DE Reims",
+      "time": 1769864400,
+      "home": "USL Dunkerque",
+      "away": "Annecy",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -235,9 +224,42 @@
     {
       "league": "FRA Ligue 2",
       "status": "UPCOMING",
+      "time": 1769864400,
+      "home": "Troyes",
+      "away": "Le Mans",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
+      "status": "LIVE",
       "time": 1769799600,
       "home": "Montpellier Hérault SC",
       "away": "Guingamp",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4401081.m3u8?txSecret=53d35402dad4dcfdd9962e3656938e97&txTime=697D4159"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
+      "status": "UPCOMING",
+      "time": 1769864400,
+      "home": "USL Dunkerque",
+      "away": "Annecy",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 2",
+      "status": "UPCOMING",
+      "time": 1769864400,
+      "home": "Troyes",
+      "away": "Le Mans",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -245,24 +267,24 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769801400,
       "home": "FC Köln",
       "away": "VfL Wolfsburg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769800658.flv"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769801400,
       "home": "FC Köln",
       "away": "VfL Wolfsburg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769800658.flv"
       }
     },
     {
@@ -273,7 +295,7 @@
       "away": "Hannover 96",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355736.m3u8?txSecret=dc84f594c969865038c399faa48ca0dd&txTime=697D37F3"
+        "url": "https://live1.trendgallary.com/live/61514994_a2e02b468c37bbdf146891bc3796708e.m3u8"
       }
     },
     {
@@ -311,13 +333,13 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769860800,
       "home": "Holstein Kiel",
       "away": "SpVgg Greuther Fürth",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769798890.flv"
       }
     },
     {
@@ -328,7 +350,7 @@
       "away": "Hannover 96",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355736.m3u8?txSecret=dc84f594c969865038c399faa48ca0dd&txTime=697D37F3"
+        "url": "https://live1.trendgallary.com/live/61514994_a2e02b468c37bbdf146891bc3796708e.m3u8"
       }
     },
     {
@@ -366,10 +388,32 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769860800,
       "home": "Holstein Kiel",
       "away": "SpVgg Greuther Fürth",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769798890.flv"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "LIVE",
+      "time": 1769802300,
+      "home": "Lazio",
+      "away": "Genoa",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769779951.flv"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769868000,
+      "home": "Pisa",
+      "away": "Sassuolo",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -388,13 +432,13 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769802300,
-      "home": "Lazio",
-      "away": "Genoa",
+      "status": "UPCOMING",
+      "time": 1769868000,
+      "home": "Pisa",
+      "away": "Sassuolo",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769779951.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -421,24 +465,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769805900,
       "home": "Vitoria Guimaraes",
       "away": "Moreirense",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769791758.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769805900,
       "home": "Vitoria Guimaraes",
       "away": "Moreirense",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2368794_1769791758.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -487,79 +531,79 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
-      "home": "Almere City FC",
-      "away": "Roda JC",
+      "home": "Den Bosch",
+      "away": "Emmen",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769799501.flv"
       }
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
-      "home": "FC Eindhoven",
-      "away": "MVV Maastricht",
+      "home": "ADO Den Haag",
+      "away": "AZ Alkmaar Youth",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769798890.flv"
       }
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
-      "home": "Almere City FC",
-      "away": "Roda JC",
+      "home": "Den Bosch",
+      "away": "Emmen",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769799501.flv"
       }
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
-      "home": "FC Eindhoven",
-      "away": "MVV Maastricht",
+      "home": "ADO Den Haag",
+      "away": "AZ Alkmaar Youth",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769798890.flv"
       }
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
       "home": "NAC Breda",
       "away": "FC Twente Enschede",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344675.m3u8?txSecret=f5ef2d4a14855367e141f5c590ba1f5d&txTime=697D485D"
       }
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
       "home": "NAC Breda",
       "away": "FC Twente Enschede",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344675.m3u8?txSecret=f5ef2d4a14855367e141f5c590ba1f5d&txTime=697D485D"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769803200,
       "home": "RCD Espanyol de Barcelona",
       "away": "Deportivo Alavés",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769791715.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -575,13 +619,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769803200,
       "home": "RCD Espanyol de Barcelona",
       "away": "Deportivo Alavés",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769791715.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -593,28 +637,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "LIVE",
-      "time": 1769792400,
-      "home": "Antalyaspor",
-      "away": "Trabzonspor",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4366034.m3u8?txSecret=379a787b25acd3da8839d3c0e3728697&txTime=697D278C"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "LIVE",
-      "time": 1769792400,
-      "home": "Kasimpasa",
-      "away": "Samsunspor",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4366073.m3u8?txSecret=f12db8136d9ffbad01c83c56868bbd42&txTime=697D278C"
       }
     },
     {
@@ -626,28 +648,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "LIVE",
-      "time": 1769792400,
-      "home": "Antalyaspor",
-      "away": "Trabzonspor",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4366034.m3u8?txSecret=379a787b25acd3da8839d3c0e3728697&txTime=697D278C"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "LIVE",
-      "time": 1769792400,
-      "home": "Kasimpasa",
-      "away": "Samsunspor",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4366073.m3u8?txSecret=f12db8136d9ffbad01c83c56868bbd42&txTime=697D278C"
       }
     },
     {
