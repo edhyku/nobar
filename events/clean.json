@@ -1,5 +1,5 @@
 {
-  "updated": 1769763340,
+  "updated": 1769766600,
   "events": [
     {
       "league": "AUS A-League",
@@ -8,8 +8,8 @@
       "home": "Adelaide United",
       "away": "Macarthur FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769762729.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4426653.m3u8?txSecret=5ae54775aa259ca5407787fcb2b877f1&txTime=697CB839"
       }
     },
     {
@@ -19,8 +19,8 @@
       "home": "Adelaide United",
       "away": "Macarthur FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769762729.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4426653.m3u8?txSecret=5ae54775aa259ca5407787fcb2b877f1&txTime=697CB839"
       }
     },
     {
@@ -30,8 +30,8 @@
       "home": "Brisbane Roar Women",
       "away": "Central Coast Mariners women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769763062.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4429289.m3u8?txSecret=b9de41bcb8f5db0537f48f2c23eabaa0&txTime=697CB4B4"
       }
     },
     {
@@ -41,8 +41,8 @@
       "home": "Brisbane Roar Women",
       "away": "Central Coast Mariners women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769763062.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4429289.m3u8?txSecret=b9de41bcb8f5db0537f48f2c23eabaa0&txTime=697CB4B4"
       }
     },
     {
@@ -113,13 +113,13 @@
     },
     {
       "league": "FIN Liiga Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769774400,
       "home": "Inter Turku",
       "away": "HJK Helsinki",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769763218.flv"
       }
     },
     {
@@ -135,13 +135,13 @@
     },
     {
       "league": "FIN Liiga Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769774400,
       "home": "Inter Turku",
       "away": "HJK Helsinki",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769763218.flv"
       }
     },
     {
@@ -282,28 +282,6 @@
       "time": 1769799600,
       "home": "Rodez Aveyron",
       "away": "Red Star FC 93",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga",
-      "status": "UPCOMING",
-      "time": 1769801400,
-      "home": "FC Köln",
-      "away": "VfL Wolfsburg",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga",
-      "status": "UPCOMING",
-      "time": 1769801400,
-      "home": "FC Köln",
-      "away": "VfL Wolfsburg",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -508,6 +486,50 @@
       }
     },
     {
+      "league": "NED Eerste Divisie",
+      "status": "UPCOMING",
+      "time": 1769799600,
+      "home": "Almere City FC",
+      "away": "Roda JC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eerste Divisie",
+      "status": "UPCOMING",
+      "time": 1769799600,
+      "home": "FC Eindhoven",
+      "away": "MVV Maastricht",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eerste Divisie",
+      "status": "UPCOMING",
+      "time": 1769799600,
+      "home": "Almere City FC",
+      "away": "Roda JC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eerste Divisie",
+      "status": "UPCOMING",
+      "time": 1769799600,
+      "home": "FC Eindhoven",
+      "away": "MVV Maastricht",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "NED Eredivisie",
       "status": "UPCOMING",
       "time": 1769799600,
@@ -568,28 +590,6 @@
       "time": 1769785200,
       "home": "Radomlje",
       "away": "NK Aluminij",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA Segunda Division",
-      "status": "UPCOMING",
-      "time": 1769801400,
-      "home": "Real Sociedad B",
-      "away": "UD Las Palmas",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA Segunda Division",
-      "status": "UPCOMING",
-      "time": 1769801400,
-      "home": "Real Sociedad B",
-      "away": "UD Las Palmas",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
