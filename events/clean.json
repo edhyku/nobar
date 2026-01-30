@@ -1,15 +1,15 @@
 {
-  "updated": 1769751183,
+  "updated": 1769754438,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769752800,
       "home": "Wellington Phoenix",
       "away": "Melbourne City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/63684603_dc3514bb3a04dd61953c9d7f4e75d563.m3u8"
       }
     },
     {
@@ -25,13 +25,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769752800,
       "home": "Wellington Phoenix",
       "away": "Melbourne City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/63684603_dc3514bb3a04dd61953c9d7f4e75d563.m3u8"
       }
     },
     {
@@ -113,24 +113,24 @@
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769785200,
       "home": "Pharco",
       "away": "ZED FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769752148.flv"
       }
     },
     {
       "league": "EGY Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769785200,
       "home": "Pharco",
       "away": "ZED FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769752148.flv"
       }
     },
     {
@@ -421,13 +421,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769781000,
       "home": "Al Taawoun",
       "away": "Al Okhdood",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769751804.flv"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769781000,
       "home": "Al Taawoun",
       "away": "Al Okhdood",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769751804.flv"
       }
     },
     {
