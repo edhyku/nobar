@@ -155,7 +155,7 @@
       "pressure": "754mmHg",
       "temperature": "29°C",
       "weather": 5,
-      "wind": "7.8m/s"
+      "wind": "8.2m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -427,7 +427,7 @@
      },
      "competition_id": 590,
      "environment": {
-      "humidity": "78%",
+      "humidity": "79%",
       "pressure": "755mmHg",
       "temperature": "25°C",
       "weather": 1,
@@ -943,7 +943,7 @@
      },
      "competition_id": 602,
      "environment": {
-      "humidity": "49%",
+      "humidity": "48%",
       "pressure": "758mmHg",
       "temperature": "26°C",
       "weather": 1,
@@ -1421,7 +1421,7 @@
      },
      "competition_id": 83,
      "environment": {
-      "humidity": "82%",
+      "humidity": "83%",
       "pressure": "749mmHg",
       "temperature": "9°C",
       "weather": 1,
@@ -2617,7 +2617,7 @@
       "pressure": "749mmHg",
       "temperature": "8°C",
       "weather": 9,
-      "wind": "4.8m/s"
+      "wind": "4.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2857,7 +2857,7 @@
       "pressure": "752mmHg",
       "temperature": "9°C",
       "weather": 7,
-      "wind": "3.7m/s"
+      "wind": "4.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3473,7 +3473,7 @@
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png",
      "manager_id": 0,
      "market_value": 430750000,
-     "market_value_currency": "€",
+     "market_value_currency": "",
      "name_en": "Bayer 04 Leverkusen",
      "name_zh": "勒沃库森",
      "name_zht": "利華古遜",
@@ -3483,7 +3483,7 @@
      "short_name_zh": "勒沃库森",
      "short_name_zht": "利華古遜",
      "total_players": 28,
-     "updated_at": 1769812693,
+     "updated_at": 1769815747,
      "venue_id": 1039,
      "website": "http://www.bayer04.de"
     },
@@ -3553,7 +3553,7 @@
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png",
       "manager_id": 0,
       "market_value": 430750000,
-      "market_value_currency": "€",
+      "market_value_currency": "",
       "name_en": "Bayer 04 Leverkusen",
       "name_zh": "勒沃库森",
       "name_zht": "利華古遜",
@@ -3563,7 +3563,7 @@
       "short_name_zh": "勒沃库森",
       "short_name_zht": "利華古遜",
       "total_players": 28,
-      "updated_at": 1769812693,
+      "updated_at": 1769815747,
       "venue_id": 1039,
       "website": "http://www.bayer04.de"
      },
@@ -4664,8 +4664,8 @@
      "logo_handle": 1,
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/1d2fde8b4cbd9adc503dc5351e24513d.png",
      "manager_id": 0,
-     "market_value": 29780000,
-     "market_value_currency": "",
+     "market_value": 29680000,
+     "market_value_currency": "€",
      "name_en": "Karlsruher SC",
      "name_zh": "卡尔斯鲁厄",
      "name_zht": "卡斯魯厄",
@@ -4675,7 +4675,7 @@
      "short_name_zh": "卡尔斯鲁厄",
      "short_name_zht": "卡斯魯厄",
      "total_players": 30,
-     "updated_at": 1768606070,
+     "updated_at": 1769815447,
      "venue_id": 1217,
      "website": "http://www.ksc.de"
     },
@@ -4744,8 +4744,8 @@
       "logo_handle": 1,
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/1d2fde8b4cbd9adc503dc5351e24513d.png",
       "manager_id": 0,
-      "market_value": 29780000,
-      "market_value_currency": "",
+      "market_value": 29680000,
+      "market_value_currency": "€",
       "name_en": "Karlsruher SC",
       "name_zh": "卡尔斯鲁厄",
       "name_zht": "卡斯魯厄",
@@ -4755,7 +4755,7 @@
       "short_name_zh": "卡尔斯鲁厄",
       "short_name_zht": "卡斯魯厄",
       "total_players": 30,
-      "updated_at": 1768606070,
+      "updated_at": 1769815447,
       "venue_id": 1217,
       "website": "http://www.ksc.de"
      },
@@ -4765,7 +4765,7 @@
       "pressure": "757mmHg",
       "temperature": "0°C",
       "weather": 7,
-      "wind": "5.8m/s"
+      "wind": "5.6m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5722,8 +5722,8 @@
       "humidity": "39%",
       "pressure": "761mmHg",
       "temperature": "19°C",
-      "weather": 1,
-      "wind": "5.6m/s"
+      "weather": 5,
+      "wind": "6.1m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5824,7 +5824,35 @@
      "status": 1,
      "time": 1769821200,
      "video_type": "live",
-     "walematch": null
+     "walematch": {
+      "away_half_score": 0,
+      "away_id": "378952",
+      "away_logo": "https://photo.365live88.com/img/fb/team/075b2a8b4afa416cbf58c0c1e4aaf631",
+      "away_name": "托卢卡|托盧卡|Toluca",
+      "away_overtime_score": 0,
+      "away_penalty_score": 0,
+      "away_score": 0,
+      "game_type": 6,
+      "has_live": 1,
+      "home_half_score": 0,
+      "home_id": "377246",
+      "home_logo": "https://photo.365live88.com/img/fb/team/0c9f7a104b84442ca3d1db35060c05de",
+      "home_name": "普埃布拉|普埃布拉|Puebla",
+      "home_overtime_score": 0,
+      "home_penalty_score": 0,
+      "home_score": 0,
+      "league_id": "1307",
+      "league_logo": "https://photo.365live88.com/img/fb/cup/9ede55e0d38a427cb19c793c42366b19",
+      "league_name": "墨西超|墨西超|MEX Liga MX",
+      "match_time": 1769821200,
+      "status": "未",
+      "status_id": 0,
+      "stream_id": "224252058",
+      "third_id": "4465489",
+      "wale_match_id": "1837088",
+      "walematchstreams": [],
+      "walematchvideos": []
+     }
     },
     "home": {
      "competition_id": 465,
@@ -7132,7 +7160,7 @@
       "pressure": "757mmHg",
       "temperature": "16°C",
       "weather": 6,
-      "wind": "4.8m/s"
+      "wind": "5.1m/s"
      },
      "explain": "",
      "home_corner": 0,
