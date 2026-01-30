@@ -1,5 +1,5 @@
 {
-  "updated": 1769784863,
+  "updated": 1769787608,
   "events": [
     {
       "league": "AUS A-League",
@@ -162,8 +162,8 @@
       "home": "Pharco",
       "away": "ZED FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769784630.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399253.m3u8?txSecret=79c0c87cf025d835d2dfa240b230a365&txTime=697D0B6B"
       }
     },
     {
@@ -173,8 +173,8 @@
       "home": "Pharco",
       "away": "ZED FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769784630.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4399253.m3u8?txSecret=79c0c87cf025d835d2dfa240b230a365&txTime=697D0B6B"
       }
     },
     {
@@ -290,6 +290,17 @@
     {
       "league": "GER Bundesliga 2",
       "status": "UPCOMING",
+      "time": 1769860800,
+      "home": "VfL Bochum 1848",
+      "away": "Schalke 04",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
       "time": 1769794200,
       "home": "1. FC Magdeburg",
       "away": "Hannover 96",
@@ -310,6 +321,17 @@
       }
     },
     {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769860800,
+      "home": "VfL Bochum 1848",
+      "away": "Schalke 04",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ITA Serie A",
       "status": "UPCOMING",
       "time": 1769802300,
@@ -398,28 +420,6 @@
       }
     },
     {
-      "league": "MAS Super League",
-      "status": "LIVE",
-      "time": 1769778000,
-      "home": "PDRM FC",
-      "away": "Kuala Lumpur City FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/j374oi0lwxjsgqo_9761a3c6bfec35191cc4e551d9b0a46e.m3u8"
-      }
-    },
-    {
-      "league": "MAS Super League",
-      "status": "LIVE",
-      "time": 1769778000,
-      "home": "PDRM FC",
-      "away": "Kuala Lumpur City FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/j374oi0lwxjsgqo_9761a3c6bfec35191cc4e551d9b0a46e.m3u8"
-      }
-    },
-    {
       "league": "MEX Liga MX",
       "status": "UPCOMING",
       "time": 1769821200,
@@ -476,13 +476,13 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
       "home": "FC Eindhoven",
       "away": "MVV Maastricht",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769785674.flv"
       }
     },
     {
@@ -498,13 +498,13 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
       "home": "FC Eindhoven",
       "away": "MVV Maastricht",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769785674.flv"
       }
     },
     {
@@ -515,7 +515,7 @@
       "away": "FC Twente Enschede",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769776527.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769784958.flv"
       }
     },
     {
@@ -526,29 +526,29 @@
       "away": "FC Twente Enschede",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769776527.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769784958.flv"
       }
     },
     {
       "league": "ROM Super Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769785200,
       "home": "CFR Cluj",
       "away": "Metaloglobus",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/61510870_762512de055204cf551380e5ab3996c0.m3u8"
       }
     },
     {
       "league": "ROM Super Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769785200,
       "home": "CFR Cluj",
       "away": "Metaloglobus",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/61510870_762512de055204cf551380e5ab3996c0.m3u8"
       }
     },
     {
@@ -558,8 +558,8 @@
       "home": "Radomlje",
       "away": "NK Aluminij",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769776527.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4356547.m3u8?txSecret=dc9362ecdcf0c900deae2252ad9591b4&txTime=697D0B6B"
       }
     },
     {
@@ -569,8 +569,8 @@
       "home": "Radomlje",
       "away": "NK Aluminij",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769776527.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4356547.m3u8?txSecret=dc9362ecdcf0c900deae2252ad9591b4&txTime=697D0B6B"
       }
     },
     {
