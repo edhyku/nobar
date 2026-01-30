@@ -1,5 +1,5 @@
 {
-  "updated": 1769787608,
+  "updated": 1769789934,
   "events": [
     {
       "league": "AUS A-League",
@@ -112,28 +112,6 @@
       }
     },
     {
-      "league": "Atlantic Ocean Cup",
-      "status": "LIVE",
-      "time": 1769781600,
-      "home": "Tromso IL",
-      "away": "Mjallby AIF",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/67731280_a00af1d0b1ea91c6a5494764377a8c33.m3u8"
-      }
-    },
-    {
-      "league": "Atlantic Ocean Cup",
-      "status": "LIVE",
-      "time": 1769781600,
-      "home": "Tromso IL",
-      "away": "Mjallby AIF",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/67731280_a00af1d0b1ea91c6a5494764377a8c33.m3u8"
-      }
-    },
-    {
       "league": "BEL Pro League",
       "status": "UPCOMING",
       "time": 1769802300,
@@ -301,6 +279,28 @@
     {
       "league": "GER Bundesliga 2",
       "status": "UPCOMING",
+      "time": 1769860800,
+      "home": "Eintracht Braunschweig",
+      "away": "Karlsruher SC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769860800,
+      "home": "Holstein Kiel",
+      "away": "SpVgg Greuther Fürth",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
       "time": 1769794200,
       "home": "1. FC Magdeburg",
       "away": "Hannover 96",
@@ -332,11 +332,22 @@
       }
     },
     {
-      "league": "ITA Serie A",
+      "league": "GER Bundesliga 2",
       "status": "UPCOMING",
-      "time": 1769802300,
-      "home": "Lazio",
-      "away": "Genoa",
+      "time": 1769860800,
+      "home": "Eintracht Braunschweig",
+      "away": "Karlsruher SC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769860800,
+      "home": "Holstein Kiel",
+      "away": "SpVgg Greuther Fürth",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -354,14 +365,14 @@
       }
     },
     {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769781000,
-      "home": "Al Taawoun",
-      "away": "Al Okhdood",
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769802300,
+      "home": "Lazio",
+      "away": "Genoa",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/64055629_0f6a9da04347093bf37e8d74a01038b2.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -373,17 +384,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769781000,
-      "home": "Al Taawoun",
-      "away": "Al Okhdood",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/64055629_0f6a9da04347093bf37e8d74a01038b2.m3u8"
       }
     },
     {
@@ -465,13 +465,13 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769799600,
       "home": "Almere City FC",
       "away": "Roda JC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769780182.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769799600,
       "home": "Almere City FC",
       "away": "Roda JC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769780182.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
