@@ -1,5 +1,5 @@
 {
-  "updated": 1769731257,
+  "updated": 1769741353,
   "events": [
     {
       "league": "AUS A-League",
@@ -14,13 +14,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769763900,
       "home": "Adelaide United",
       "away": "Macarthur FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769737209.flv"
       }
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769763900,
       "home": "Adelaide United",
       "away": "Macarthur FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769737209.flv"
       }
     },
     {
@@ -69,13 +69,13 @@
     },
     {
       "league": "Atlantic Ocean Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769770800,
       "home": "Real Salt Lake",
       "away": "FC Dallas",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769733998.flv"
       }
     },
     {
@@ -91,13 +91,13 @@
     },
     {
       "league": "Atlantic Ocean Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769770800,
       "home": "Real Salt Lake",
       "away": "FC Dallas",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769733998.flv"
       }
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769761800,
       "home": "Persita Tangerang",
       "away": "Persatuan Sepakbola Indonesia Jakarta",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769735992.flv"
       }
     },
     {
@@ -399,13 +399,13 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769761800,
       "home": "Persita Tangerang",
       "away": "Persatuan Sepakbola Indonesia Jakarta",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769735992.flv"
       }
     },
     {
