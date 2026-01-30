@@ -1,5 +1,5 @@
 {
-  "updated": 1769802682,
+  "updated": 1769804689,
   "events": [
     {
       "league": "AUS A-League",
@@ -602,8 +602,8 @@
       "home": "RCD Espanyol de Barcelona",
       "away": "Deportivo Alavés",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769802504.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358881.m3u8?txSecret=82812de72fb08654968039d852cd9af8&txTime=697D35A9"
       }
     },
     {
@@ -624,8 +624,8 @@
       "home": "RCD Espanyol de Barcelona",
       "away": "Deportivo Alavés",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769802504.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358881.m3u8?txSecret=82812de72fb08654968039d852cd9af8&txTime=697D35A9"
       }
     },
     {
