@@ -1,5 +1,5 @@
 {
-  "updated": 1769795443,
+  "updated": 1769798055,
   "events": [
     {
       "league": "AUS A-League",
@@ -273,7 +273,7 @@
       "away": "Hannover 96",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355736.m3u8?txSecret=e1ef966bebabad7c071d25fbd97c9005&txTime=697D2089"
+        "url": "https://live.vivo200.com/live/sd-1-4355736.m3u8?txSecret=dc84f594c969865038c399faa48ca0dd&txTime=697D37F3"
       }
     },
     {
@@ -284,18 +284,18 @@
       "away": "Preuben Munster",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355737.m3u8?txSecret=d3291316e3a9fdeec4a7b715b3acaa6a&txTime=697D2089"
+        "url": "https://live.vivo200.com/live/sd-1-4355737.m3u8?txSecret=786b295c276cc318abb4b7d423be0663&txTime=697D37F3"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769860800,
       "home": "VfL Bochum 1848",
       "away": "Schalke 04",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/774300_1769787989.flv"
       }
     },
     {
@@ -328,7 +328,7 @@
       "away": "Hannover 96",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355736.m3u8?txSecret=e1ef966bebabad7c071d25fbd97c9005&txTime=697D2089"
+        "url": "https://live.vivo200.com/live/sd-1-4355736.m3u8?txSecret=dc84f594c969865038c399faa48ca0dd&txTime=697D37F3"
       }
     },
     {
@@ -339,18 +339,18 @@
       "away": "Preuben Munster",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355737.m3u8?txSecret=d3291316e3a9fdeec4a7b715b3acaa6a&txTime=697D2089"
+        "url": "https://live.vivo200.com/live/sd-1-4355737.m3u8?txSecret=786b295c276cc318abb4b7d423be0663&txTime=697D37F3"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769860800,
       "home": "VfL Bochum 1848",
       "away": "Schalke 04",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/774300_1769787989.flv"
       }
     },
     {
