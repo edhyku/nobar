@@ -1,67 +1,45 @@
 {
-  "updated": 1769768732,
+  "updated": 1769773172,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769763900,
-      "home": "Adelaide United",
-      "away": "Macarthur FC",
+      "status": "UPCOMING",
+      "time": 1769839200,
+      "home": "Newcastle Jets",
+      "away": "Brisbane Roar",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426653.m3u8?txSecret=5ae54775aa259ca5407787fcb2b877f1&txTime=697CB839"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769763900,
-      "home": "Adelaide United",
-      "away": "Macarthur FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426653.m3u8?txSecret=5ae54775aa259ca5407787fcb2b877f1&txTime=697CB839"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769763600,
-      "home": "Brisbane Roar Women",
-      "away": "Central Coast Mariners women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429289.m3u8?txSecret=2957300e7efdf17e245268ee6738a5dd&txTime=697CCD4F"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769763600,
-      "home": "Brisbane Roar Women",
-      "away": "Central Coast Mariners women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429289.m3u8?txSecret=2957300e7efdf17e245268ee6738a5dd&txTime=697CCD4F"
-      }
-    },
-    {
-      "league": "Atlantic Ocean Cup",
-      "status": "LIVE",
-      "time": 1769770800,
-      "home": "Real Salt Lake",
-      "away": "FC Dallas",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769761064.flv"
-      }
-    },
-    {
-      "league": "Atlantic Ocean Cup",
       "status": "UPCOMING",
-      "time": 1769781600,
-      "home": "Tromso IL",
-      "away": "Mjallby AIF",
+      "time": 1769839200,
+      "home": "Newcastle Jets",
+      "away": "Brisbane Roar",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "AUS W-League",
+      "status": "UPCOMING",
+      "time": 1769837400,
+      "home": "Adelaide United Women",
+      "away": "Melbourne City Women",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "AUS W-League",
+      "status": "UPCOMING",
+      "time": 1769837400,
+      "home": "Adelaide United Women",
+      "away": "Melbourne City Women",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -74,19 +52,41 @@
       "home": "Real Salt Lake",
       "away": "FC Dallas",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769761064.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4483895.m3u8?txSecret=713f33385631a8e8207ad471ec3dc626&txTime=697CC9D1"
       }
     },
     {
       "league": "Atlantic Ocean Cup",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769781600,
       "home": "Tromso IL",
       "away": "Mjallby AIF",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769771933.flv"
+      }
+    },
+    {
+      "league": "Atlantic Ocean Cup",
+      "status": "LIVE",
+      "time": 1769770800,
+      "home": "Real Salt Lake",
+      "away": "FC Dallas",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4483895.m3u8?txSecret=713f33385631a8e8207ad471ec3dc626&txTime=697CC9D1"
+      }
+    },
+    {
+      "league": "Atlantic Ocean Cup",
+      "status": "LIVE",
+      "time": 1769781600,
+      "home": "Tromso IL",
+      "away": "Mjallby AIF",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769771933.flv"
       }
     },
     {
@@ -135,13 +135,13 @@
     },
     {
       "league": "FIN Liiga Cup",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769774400,
       "home": "Inter Turku",
       "away": "HJK Helsinki",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769763218.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -157,13 +157,13 @@
     },
     {
       "league": "FIN Liiga Cup",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769774400,
       "home": "Inter Turku",
       "away": "HJK Helsinki",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769763218.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -310,50 +310,6 @@
       }
     },
     {
-      "league": "IDN Liga 1",
-      "status": "LIVE",
-      "time": 1769761800,
-      "home": "Persita Tangerang",
-      "away": "Persatuan Sepakbola Indonesia Jakarta",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4379363.m3u8?txSecret=d07e888f4879de3fcbdbc0df698f06a0&txTime=697CB12E"
-      }
-    },
-    {
-      "league": "IDN Liga 1",
-      "status": "LIVE",
-      "time": 1769761800,
-      "home": "Persatuan sepak bola Indonesia Kediri",
-      "away": "Bali United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4379391.m3u8?txSecret=22650425d27761916aa28b2931cfb922&txTime=697CB12E"
-      }
-    },
-    {
-      "league": "IDN Liga 1",
-      "status": "LIVE",
-      "time": 1769761800,
-      "home": "Persita Tangerang",
-      "away": "Persatuan Sepakbola Indonesia Jakarta",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4379363.m3u8?txSecret=d07e888f4879de3fcbdbc0df698f06a0&txTime=697CB12E"
-      }
-    },
-    {
-      "league": "IDN Liga 1",
-      "status": "LIVE",
-      "time": 1769761800,
-      "home": "Persatuan sepak bola Indonesia Kediri",
-      "away": "Bali United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4379391.m3u8?txSecret=22650425d27761916aa28b2931cfb922&txTime=697CB12E"
-      }
-    },
-    {
       "league": "ITA Serie A",
       "status": "UPCOMING",
       "time": 1769802300,
@@ -464,6 +420,50 @@
       }
     },
     {
+      "league": "MEX Liga MX",
+      "status": "UPCOMING",
+      "time": 1769821200,
+      "home": "Puebla",
+      "away": "Toluca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MEX Liga MX",
+      "status": "UPCOMING",
+      "time": 1769828760,
+      "home": "FC Juarez",
+      "away": "Cruz Azul",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MEX Liga MX",
+      "status": "UPCOMING",
+      "time": 1769821200,
+      "home": "Puebla",
+      "away": "Toluca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MEX Liga MX",
+      "status": "UPCOMING",
+      "time": 1769828760,
+      "home": "FC Juarez",
+      "away": "Cruz Azul",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "NED Eerste Divisie",
       "status": "UPCOMING",
       "time": 1769799600,
@@ -476,13 +476,13 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
       "home": "FC Eindhoven",
       "away": "MVV Maastricht",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769770094.flv"
       }
     },
     {
@@ -498,13 +498,13 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769799600,
       "home": "FC Eindhoven",
       "away": "MVV Maastricht",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769770094.flv"
       }
     },
     {
@@ -531,24 +531,24 @@
     },
     {
       "league": "ROM Super Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769785200,
       "home": "CFR Cluj",
       "away": "Metaloglobus",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769770094.flv"
       }
     },
     {
       "league": "ROM Super Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769785200,
       "home": "CFR Cluj",
       "away": "Metaloglobus",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769770094.flv"
       }
     },
     {
@@ -641,24 +641,24 @@
     },
     {
       "league": "VIE National Champion League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769770800,
       "home": "Hong Linh Ha Tinh",
       "away": "Becamex Ho Chi Minh City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769770094.flv"
       }
     },
     {
       "league": "VIE National Champion League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769770800,
       "home": "Hong Linh Ha Tinh",
       "away": "Becamex Ho Chi Minh City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769770094.flv"
       }
     }
   ]
