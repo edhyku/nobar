@@ -1,5 +1,5 @@
 {
-  "updated": 1769872842,
+  "updated": 1769874285,
   "events": [
     {
       "league": "ENG EFL Championship",
@@ -531,13 +531,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769873400,
       "home": "AZ Alkmaar",
       "away": "NEC Nijmegen",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344629.m3u8?txSecret=a037017be6d80194b2a2be71f36516e0&txTime=697E58BD"
       }
     },
     {
@@ -564,13 +564,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769873400,
       "home": "AZ Alkmaar",
       "away": "NEC Nijmegen",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4344629.m3u8?txSecret=a037017be6d80194b2a2be71f36516e0&txTime=697E58BD"
       }
     },
     {
@@ -603,7 +603,7 @@
       "away": "Villarreal CF",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100294.m3u8?txSecret=5fa07154de9fe04219d7d93e1e17c5b0&txTime=697E212A&sign=8a91265654740dc9"
+        "url": "https://live.vivo200.com/live/sd-1-4358880.m3u8?txSecret=d5db389cbc0874f75ad84046eff98cd5&txTime=697E58BD"
       }
     },
     {
@@ -636,7 +636,7 @@
       "away": "Villarreal CF",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100294.m3u8?txSecret=5fa07154de9fe04219d7d93e1e17c5b0&txTime=697E212A&sign=8a91265654740dc9"
+        "url": "https://live.vivo200.com/live/sd-1-4358880.m3u8?txSecret=d5db389cbc0874f75ad84046eff98cd5&txTime=697E58BD"
       }
     },
     {
