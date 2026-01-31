@@ -1,5 +1,5 @@
 {
-  "updated": 1769902411,
+  "updated": 1769903572,
   "events": [
     {
       "league": "AUS A-League",
@@ -25,13 +25,13 @@
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769914800,
       "home": "Canberra United Women",
       "away": "Melbourne Victory Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769902312.flv"
       }
     },
     {
@@ -47,13 +47,13 @@
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769914800,
       "home": "Canberra United Women",
       "away": "Melbourne Victory Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769902312.flv"
       }
     },
     {
