@@ -1,5 +1,5 @@
 {
-  "updated": 1769860091,
+  "updated": 1769861964,
   "events": [
     {
       "league": "AUS A-League",
@@ -113,13 +113,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769871600,
       "home": "Wolverhampton Wanderers",
       "away": "Bournemouth AFC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769860155.flv"
       }
     },
     {
@@ -157,13 +157,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769871600,
       "home": "Wolverhampton Wanderers",
       "away": "Bournemouth AFC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769860155.flv"
       }
     },
     {
@@ -311,13 +311,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769869800,
       "home": "SV Werder Bremen",
       "away": "Borussia Monchengladbach",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/774300_1769858030.flv"
       }
     },
     {
@@ -328,7 +328,7 @@
       "away": "FC Bayern Munich",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769855353.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769860155.flv"
       }
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769869800,
       "home": "SV Werder Bremen",
       "away": "Borussia Monchengladbach",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/774300_1769858030.flv"
       }
     },
     {
@@ -394,84 +394,84 @@
       "away": "FC Bayern Munich",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769855353.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769860155.flv"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769860800,
       "home": "VfL Bochum 1848",
       "away": "Schalke 04",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355730.m3u8?txSecret=1c2b5ef9e996b3040edb8c58255126fe&txTime=697E2E11"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769860800,
       "home": "Eintracht Braunschweig",
       "away": "Karlsruher SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355731.m3u8?txSecret=5c6aee5fb40ca0de457b28afec16c5fd&txTime=697E2E11"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769860800,
       "home": "Holstein Kiel",
       "away": "SpVgg Greuther Fürth",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355734.m3u8?txSecret=6548ed6de60045051a20a60cbf901743&txTime=697E2E11"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769860800,
       "home": "VfL Bochum 1848",
       "away": "Schalke 04",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355730.m3u8?txSecret=1c2b5ef9e996b3040edb8c58255126fe&txTime=697E2E11"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769860800,
       "home": "Eintracht Braunschweig",
       "away": "Karlsruher SC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355731.m3u8?txSecret=5c6aee5fb40ca0de457b28afec16c5fd&txTime=697E2E11"
       }
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769860800,
       "home": "Holstein Kiel",
       "away": "SpVgg Greuther Fürth",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4355734.m3u8?txSecret=6548ed6de60045051a20a60cbf901743&txTime=697E2E11"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769868000,
       "home": "Pisa",
       "away": "Sassuolo",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1769860173.flv"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769868000,
       "home": "Pisa",
       "away": "Sassuolo",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1769860173.flv"
       }
     },
     {
@@ -647,7 +647,7 @@
       "away": "Eyupspor",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100353.m3u8?txSecret=a0afe10c1e874b71c4bc248757255676&txTime=697DF20E&sign=5a7d19786dcde4d2"
+        "url": "https://v.lfsxfj.com/live/100353.m3u8?txSecret=a6f623679217dc2e171222c33b8439d0&txTime=697DF916&sign=b277d4a73b991388"
       }
     },
     {
@@ -658,7 +658,7 @@
       "away": "Eyupspor",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100353.m3u8?txSecret=a0afe10c1e874b71c4bc248757255676&txTime=697DF20E&sign=5a7d19786dcde4d2"
+        "url": "https://v.lfsxfj.com/live/100353.m3u8?txSecret=a6f623679217dc2e171222c33b8439d0&txTime=697DF916&sign=b277d4a73b991388"
       }
     }
   ]
