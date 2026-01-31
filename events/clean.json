@@ -1,5 +1,5 @@
 {
-  "updated": 1769885126,
+  "updated": 1769886639,
   "events": [
     {
       "league": "AUS A-League",
@@ -75,7 +75,7 @@
       "away": "West Ham United",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343154.m3u8?txSecret=8c662c6ea2d05c6cc70641a0c855b6ac&txTime=697E7DC1"
+        "url": "https://live.vivo200.com/live/sd-1-4343154.m3u8?txSecret=236c9ddede128a385aa6dc67e0cdad9d&txTime=697E9784"
       }
     },
     {
@@ -97,7 +97,7 @@
       "away": "West Ham United",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343154.m3u8?txSecret=8c662c6ea2d05c6cc70641a0c855b6ac&txTime=697E7DC1"
+        "url": "https://live.vivo200.com/live/sd-1-4343154.m3u8?txSecret=236c9ddede128a385aa6dc67e0cdad9d&txTime=697E9784"
       }
     },
     {
@@ -119,7 +119,7 @@
       "away": "FC Nantes",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347850.m3u8?txSecret=fc968bf06bc109a13013a4d7889b4f48&txTime=697E7DCA"
+        "url": "https://live.vivo200.com/live/sd-1-4347850.m3u8?txSecret=3383005c654e449117b5f0101caa0c05&txTime=697E978B"
       }
     },
     {
@@ -141,7 +141,7 @@
       "away": "FC Nantes",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347850.m3u8?txSecret=fc968bf06bc109a13013a4d7889b4f48&txTime=697E7DCA"
+        "url": "https://live.vivo200.com/live/sd-1-4347850.m3u8?txSecret=3383005c654e449117b5f0101caa0c05&txTime=697E978B"
       }
     },
     {
@@ -163,7 +163,7 @@
       "away": "FC Bayern Munich",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347531.m3u8?txSecret=f1cf0a174300ebd95faf478b00ec1878&txTime=697E7DC1"
+        "url": "https://live.vivo200.com/live/sd-1-4347531.m3u8?txSecret=700cfec1abac8e9d4ac37696ee00eb62&txTime=697E9784"
       }
     },
     {
@@ -174,7 +174,7 @@
       "away": "FC Bayern Munich",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347531.m3u8?txSecret=f1cf0a174300ebd95faf478b00ec1878&txTime=697E7DC1"
+        "url": "https://live.vivo200.com/live/sd-1-4347531.m3u8?txSecret=700cfec1abac8e9d4ac37696ee00eb62&txTime=697E9784"
       }
     },
     {
@@ -290,12 +290,34 @@
     {
       "league": "ITA Serie A",
       "status": "LIVE",
-      "time": 1769878800,
-      "home": "Napoli",
-      "away": "Fiorentina",
+      "time": 1769888700,
+      "home": "Cagliari",
+      "away": "Hellas Verona",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339766.m3u8?txSecret=7d2fbef1b1972063f08cfb0c79cb0d39&txTime=697E7DC1"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769875187.flv"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769945400,
+      "home": "Torino",
+      "away": "Lecce",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769954400,
+      "home": "Como",
+      "away": "Atalanta",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -322,32 +344,10 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769878800,
-      "home": "Napoli",
-      "away": "Fiorentina",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339766.m3u8?txSecret=7d2fbef1b1972063f08cfb0c79cb0d39&txTime=697E7DC1"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769888700,
-      "home": "Cagliari",
-      "away": "Hellas Verona",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2380729_1769875187.flv"
-      }
-    },
-    {
-      "league": "ITA Serie A",
       "status": "UPCOMING",
-      "time": 1769945400,
-      "home": "Torino",
-      "away": "Lecce",
+      "time": 1769954400,
+      "home": "Como",
+      "away": "Atalanta",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -361,7 +361,7 @@
       "away": "FC Arouca",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368962.m3u8?txSecret=6c9bfc27833fdc153fe639828d9a7a08&txTime=697E7DCA"
+        "url": "https://live.vivo200.com/live/sd-1-4368962.m3u8?txSecret=1d6c437623cc516cdbb6e027b7938917&txTime=697E978B"
       }
     },
     {
@@ -383,7 +383,7 @@
       "away": "FC Arouca",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368962.m3u8?txSecret=6c9bfc27833fdc153fe639828d9a7a08&txTime=697E7DCA"
+        "url": "https://live.vivo200.com/live/sd-1-4368962.m3u8?txSecret=1d6c437623cc516cdbb6e027b7938917&txTime=697E978B"
       }
     },
     {
@@ -603,7 +603,7 @@
       "away": "Atletico Madrid",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358882.m3u8?txSecret=3e07447dcfcd66979083b9db82a9a4b2&txTime=697E7DC1"
+        "url": "https://live.vivo200.com/live/sd-1-4358882.m3u8?txSecret=3ef8bafa99609d68f10567099baa6c5b&txTime=697E9784"
       }
     },
     {
@@ -636,7 +636,7 @@
       "away": "Atletico Madrid",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358882.m3u8?txSecret=3e07447dcfcd66979083b9db82a9a4b2&txTime=697E7DC1"
+        "url": "https://live.vivo200.com/live/sd-1-4358882.m3u8?txSecret=3ef8bafa99609d68f10567099baa6c5b&txTime=697E9784"
       }
     },
     {
