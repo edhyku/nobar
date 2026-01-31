@@ -1,5 +1,5 @@
 {
-  "updated": 1769900424,
+  "updated": 1769902411,
   "events": [
     {
       "league": "AUS A-League",
@@ -421,24 +421,24 @@
     },
     {
       "league": "MEX Liga MX",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769900400,
-      "home": "Atletico San Luis",
-      "away": "Club Deportivo Guadalajara",
+      "home": "Atlas",
+      "away": "Mazatlan FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4465527.m3u8?txSecret=f61182de1d80e24859122c2e6bd27b1e&txTime=697ECD6C"
       }
     },
     {
       "league": "MEX Liga MX",
       "status": "LIVE",
       "time": 1769900400,
-      "home": "Atlas",
-      "away": "Mazatlan FC",
+      "home": "Atletico San Luis",
+      "away": "Club Deportivo Guadalajara",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769899670.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4465519.m3u8?txSecret=c43aee992adb4d8b3803a67dd53494c3&txTime=697ECD6C"
       }
     },
     {
@@ -465,24 +465,24 @@
     },
     {
       "league": "MEX Liga MX",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769900400,
-      "home": "Atletico San Luis",
-      "away": "Club Deportivo Guadalajara",
+      "home": "Atlas",
+      "away": "Mazatlan FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4465527.m3u8?txSecret=f61182de1d80e24859122c2e6bd27b1e&txTime=697ECD6C"
       }
     },
     {
       "league": "MEX Liga MX",
       "status": "LIVE",
       "time": 1769900400,
-      "home": "Atlas",
-      "away": "Mazatlan FC",
+      "home": "Atletico San Luis",
+      "away": "Club Deportivo Guadalajara",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769899670.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4465519.m3u8?txSecret=c43aee992adb4d8b3803a67dd53494c3&txTime=697ECD6C"
       }
     },
     {
