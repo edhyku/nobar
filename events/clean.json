@@ -1,5 +1,5 @@
 {
-  "updated": 1769881037,
+  "updated": 1769882173,
   "events": [
     {
       "league": "AUS A-League",
@@ -124,24 +124,24 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769882400,
       "home": "Lorient",
       "away": "FC Nantes",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2411170_1769881854.flv"
       }
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769889900,
       "home": "AS Monaco",
       "away": "Stade Rennais FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769881466.flv"
       }
     },
     {
@@ -157,24 +157,24 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769882400,
       "home": "Lorient",
       "away": "FC Nantes",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2411170_1769881854.flv"
       }
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769889900,
       "home": "AS Monaco",
       "away": "Stade Rennais FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769881466.flv"
       }
     },
     {
@@ -377,46 +377,46 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769882400,
       "home": "Rio Ave",
       "away": "FC Arouca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769881466.flv"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769891400,
       "home": "Alverca",
       "away": "CF Estrela Amadora SAD",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2411170_1769881854.flv"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769882400,
       "home": "Rio Ave",
       "away": "FC Arouca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769881466.flv"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769891400,
       "home": "Alverca",
       "away": "CF Estrela Amadora SAD",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2411170_1769881854.flv"
       }
     },
     {
@@ -514,8 +514,8 @@
       "home": "PEC Zwolle",
       "away": "SC Telstar",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769880578.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=2d3aecc6ea27bb3d54c178ea2730cce5&txTime=697E4722&sign=8966167704bacc99"
       }
     },
     {
@@ -558,8 +558,8 @@
       "home": "PEC Zwolle",
       "away": "SC Telstar",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769880578.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=2d3aecc6ea27bb3d54c178ea2730cce5&txTime=697E4722&sign=8966167704bacc99"
       }
     },
     {
