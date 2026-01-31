@@ -1,5 +1,5 @@
 {
-  "updated": 1769871774,
+  "updated": 1769872842,
   "events": [
     {
       "league": "ENG EFL Championship",
@@ -602,8 +602,8 @@
       "home": "CA Osasuna",
       "away": "Villarreal CF",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769871256.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100294.m3u8?txSecret=5fa07154de9fe04219d7d93e1e17c5b0&txTime=697E212A&sign=8a91265654740dc9"
       }
     },
     {
@@ -635,8 +635,8 @@
       "home": "CA Osasuna",
       "away": "Villarreal CF",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769871256.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100294.m3u8?txSecret=5fa07154de9fe04219d7d93e1e17c5b0&txTime=697E212A&sign=8a91265654740dc9"
       }
     },
     {
