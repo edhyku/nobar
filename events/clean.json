@@ -1,5 +1,5 @@
 {
-  "updated": 1769874285,
+  "updated": 1769875195,
   "events": [
     {
       "league": "ENG EFL Championship",
@@ -135,13 +135,13 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769875200,
       "home": "Paris FC",
       "away": "Marseille",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769874532.flv"
       }
     },
     {
@@ -168,13 +168,13 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769875200,
       "home": "Paris FC",
       "away": "Marseille",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769874532.flv"
       }
     },
     {
@@ -356,17 +356,6 @@
     {
       "league": "ITA Serie A",
       "status": "LIVE",
-      "time": 1769868000,
-      "home": "Pisa",
-      "away": "Sassuolo",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339769.m3u8?txSecret=98f403aac61ea7d878ea5acae0f70dfc&txTime=697E5397"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
       "time": 1769878800,
       "home": "Napoli",
       "away": "Fiorentina",
@@ -384,17 +373,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769868000,
-      "home": "Pisa",
-      "away": "Sassuolo",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339769.m3u8?txSecret=98f403aac61ea7d878ea5acae0f70dfc&txTime=697E5397"
       }
     },
     {
@@ -499,6 +477,17 @@
     {
       "league": "MEX Liga MX",
       "status": "UPCOMING",
+      "time": 1769908200,
+      "home": "Club Leon",
+      "away": "Tigres UANL",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MEX Liga MX",
+      "status": "UPCOMING",
       "time": 1769900400,
       "home": "Atletico San Luis",
       "away": "Club Deportivo Guadalajara",
@@ -524,6 +513,17 @@
       "time": 1769907600,
       "home": "Monterrey",
       "away": "Club Tijuana",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "MEX Liga MX",
+      "status": "UPCOMING",
+      "time": 1769908200,
+      "home": "Club Leon",
+      "away": "Tigres UANL",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
