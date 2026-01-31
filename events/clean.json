@@ -1,5 +1,5 @@
 {
-  "updated": 1769848028,
+  "updated": 1769849828,
   "events": [
     {
       "league": "AUS A-League",
@@ -8,8 +8,8 @@
       "home": "Sydney FC",
       "away": "Western Sydney",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769847525.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4426655.m3u8?txSecret=a78dbfbd29d0356939dbf1dd1959f91b&txTime=697DFF2C"
       }
     },
     {
@@ -30,8 +30,8 @@
       "home": "Sydney FC",
       "away": "Western Sydney",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769847525.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4426655.m3u8?txSecret=a78dbfbd29d0356939dbf1dd1959f91b&txTime=697DFF2C"
       }
     },
     {
@@ -345,6 +345,17 @@
     {
       "league": "GER Bundesliga",
       "status": "UPCOMING",
+      "time": 1769880600,
+      "home": "Hamburger SV",
+      "away": "FC Bayern Munich",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga",
+      "status": "UPCOMING",
       "time": 1769869800,
       "home": "FC Augsburg",
       "away": "FC St. Pauli",
@@ -398,33 +409,11 @@
       }
     },
     {
-      "league": "GER Bundesliga 2",
+      "league": "GER Bundesliga",
       "status": "UPCOMING",
-      "time": 1769860800,
-      "home": "VfL Bochum 1848",
-      "away": "Schalke 04",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
-      "time": 1769860800,
-      "home": "Eintracht Braunschweig",
-      "away": "Karlsruher SC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "UPCOMING",
-      "time": 1769860800,
-      "home": "Holstein Kiel",
-      "away": "SpVgg Greuther Fürth",
+      "time": 1769880600,
+      "home": "Hamburger SV",
+      "away": "FC Bayern Munich",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -464,25 +453,36 @@
       }
     },
     {
-      "league": "IDN Liga 1",
-      "status": "LIVE",
-      "time": 1769841000,
-      "home": "Malut United",
-      "away": "Bhayangkara Presisi Indonesia FC",
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769860800,
+      "home": "VfL Bochum 1848",
+      "away": "Schalke 04",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4379337.m3u8?txSecret=2a93ab1166f1e510ccc2e5d253ea7f80&txTime=697DE7BC"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "IDN Liga 1",
-      "status": "LIVE",
-      "time": 1769841000,
-      "home": "Malut United",
-      "away": "Bhayangkara Presisi Indonesia FC",
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769860800,
+      "home": "Eintracht Braunschweig",
+      "away": "Karlsruher SC",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4379337.m3u8?txSecret=2a93ab1166f1e510ccc2e5d253ea7f80&txTime=697DE7BC"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769860800,
+      "home": "Holstein Kiel",
+      "away": "SpVgg Greuther Fürth",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
