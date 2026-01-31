@@ -1,5 +1,5 @@
 {
-  "updated": 1769853382,
+  "updated": 1769855683,
   "events": [
     {
       "league": "AUS A-League",
@@ -14,13 +14,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769856300,
       "home": "Perth Glory",
       "away": "Auckland FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769855382.flv"
       }
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769856300,
       "home": "Perth Glory",
       "away": "Auckland FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769855382.flv"
       }
     },
     {
@@ -146,13 +146,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769871600,
       "home": "Leeds United",
       "away": "Arsenal",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769855382.flv"
       }
     },
     {
@@ -190,13 +190,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769871600,
       "home": "Leeds United",
       "away": "Arsenal",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769855382.flv"
       }
     },
     {
@@ -344,13 +344,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769880600,
       "home": "Hamburger SV",
       "away": "FC Bayern Munich",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769855353.flv"
       }
     },
     {
@@ -410,13 +410,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769880600,
       "home": "Hamburger SV",
       "away": "FC Bayern Munich",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769855353.flv"
       }
     },
     {
@@ -564,13 +564,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769872500,
       "home": "CA Osasuna",
       "away": "Villarreal CF",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769855353.flv"
       }
     },
     {
@@ -586,13 +586,13 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769872500,
       "home": "CA Osasuna",
       "away": "Villarreal CF",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769855353.flv"
       }
     },
     {
