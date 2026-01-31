@@ -1,5 +1,5 @@
 {
-  "updated": 1769899607,
+  "updated": 1769900424,
   "events": [
     {
       "league": "AUS A-League",
@@ -432,13 +432,13 @@
     },
     {
       "league": "MEX Liga MX",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769900400,
       "home": "Atlas",
       "away": "Mazatlan FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769899670.flv"
       }
     },
     {
@@ -476,13 +476,13 @@
     },
     {
       "league": "MEX Liga MX",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769900400,
       "home": "Atlas",
       "away": "Mazatlan FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769899670.flv"
       }
     },
     {
@@ -520,13 +520,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769952600,
       "home": "Heracles Almelo",
       "away": "Fortuna Sittard",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769899670.flv"
       }
     },
     {
@@ -564,13 +564,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769952600,
       "home": "Heracles Almelo",
       "away": "Fortuna Sittard",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769899670.flv"
       }
     },
     {
