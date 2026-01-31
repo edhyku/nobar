@@ -1,15 +1,15 @@
 {
-  "updated": 1769836362,
+  "updated": 1769838962,
   "events": [
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769839200,
       "home": "Newcastle Jets",
       "away": "Brisbane Roar",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769838254.flv"
       }
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769839200,
       "home": "Newcastle Jets",
       "away": "Brisbane Roar",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769838254.flv"
       }
     },
     {
@@ -69,46 +69,46 @@
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769837400,
       "home": "Adelaide United Women",
       "away": "Melbourne City Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4429340.m3u8?txSecret=47c703d0aa04166d12ef1b6ef8303827&txTime=697DD04D"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769839200,
       "home": "Sydney FC Women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/810230_1769838537.flv"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769837400,
       "home": "Adelaide United Women",
       "away": "Melbourne City Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4429340.m3u8?txSecret=47c703d0aa04166d12ef1b6ef8303827&txTime=697DD04D"
       }
     },
     {
       "league": "AUS W-League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769839200,
       "home": "Sydney FC Women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/810230_1769838537.flv"
       }
     },
     {
@@ -124,13 +124,13 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769862600,
       "home": "Stoke City",
       "away": "Southampton",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769836772.flv"
       }
     },
     {
@@ -157,13 +157,13 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769862600,
       "home": "Stoke City",
       "away": "Southampton",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769836772.flv"
       }
     },
     {
@@ -300,13 +300,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769869800,
       "home": "Eintracht Frankfurt",
       "away": "Bayer 04 Leverkusen",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769838254.flv"
       }
     },
     {
@@ -355,13 +355,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769869800,
       "home": "Eintracht Frankfurt",
       "away": "Bayer 04 Leverkusen",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769838254.flv"
       }
     },
     {
@@ -465,24 +465,24 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769841000,
       "home": "Malut United",
       "away": "Bhayangkara Presisi Indonesia FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769831136.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "IDN Liga 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769841000,
       "home": "Malut United",
       "away": "Bhayangkara Presisi Indonesia FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401734_1769831136.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -508,25 +508,25 @@
       }
     },
     {
-      "league": "MEX Liga MX",
-      "status": "LIVE",
-      "time": 1769828760,
-      "home": "FC Juarez",
-      "away": "Cruz Azul",
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769873400,
+      "home": "Santa Clara",
+      "away": "Estoril",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769828137.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "MEX Liga MX",
-      "status": "LIVE",
-      "time": 1769828760,
-      "home": "FC Juarez",
-      "away": "Cruz Azul",
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769873400,
+      "home": "Santa Clara",
+      "away": "Estoril",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769828137.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
