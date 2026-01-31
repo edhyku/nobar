@@ -1,5 +1,5 @@
 {
-  "updated": 1769838962,
+  "updated": 1769842373,
   "events": [
     {
       "league": "AUS A-League",
@@ -8,8 +8,8 @@
       "home": "Newcastle Jets",
       "away": "Brisbane Roar",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769838254.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4426654.m3u8?txSecret=916902cc2ecc198c46f6119c3c8a7be8&txTime=697DD04D"
       }
     },
     {
@@ -41,8 +41,8 @@
       "home": "Newcastle Jets",
       "away": "Brisbane Roar",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769838254.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4426654.m3u8?txSecret=916902cc2ecc198c46f6119c3c8a7be8&txTime=697DD04D"
       }
     },
     {
@@ -75,7 +75,7 @@
       "away": "Melbourne City Women",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429340.m3u8?txSecret=47c703d0aa04166d12ef1b6ef8303827&txTime=697DD04D"
+        "url": "https://live.vivo200.com/live/sd-1-4429340.m3u8?txSecret=370d8547e29dc2e33e86f70300684a79&txTime=697DE7BC"
       }
     },
     {
@@ -85,8 +85,8 @@
       "home": "Sydney FC Women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/810230_1769838537.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4429271.m3u8?txSecret=214e74e7a5fbdacba53fc1da8fb6b541&txTime=697DE7BC"
       }
     },
     {
@@ -97,7 +97,7 @@
       "away": "Melbourne City Women",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429340.m3u8?txSecret=47c703d0aa04166d12ef1b6ef8303827&txTime=697DD04D"
+        "url": "https://live.vivo200.com/live/sd-1-4429340.m3u8?txSecret=370d8547e29dc2e33e86f70300684a79&txTime=697DE7BC"
       }
     },
     {
@@ -107,19 +107,19 @@
       "home": "Sydney FC Women",
       "away": "WS Wanderers Women",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/810230_1769838537.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4429271.m3u8?txSecret=214e74e7a5fbdacba53fc1da8fb6b541&txTime=697DE7BC"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769862600,
       "home": "Leicester City",
       "away": "Charlton Athletic",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769827961.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -146,13 +146,13 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769862600,
       "home": "Leicester City",
       "away": "Charlton Athletic",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/808764_1769827961.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -322,13 +322,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769869800,
       "home": "RB Leipzig",
       "away": "1. FSV Mainz 05",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769827234.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769869800,
       "home": "RB Leipzig",
       "away": "1. FSV Mainz 05",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2069958_1769827234.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -465,24 +465,24 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769841000,
       "home": "Malut United",
       "away": "Bhayangkara Presisi Indonesia FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4379337.m3u8?txSecret=2a93ab1166f1e510ccc2e5d253ea7f80&txTime=697DE7BC"
       }
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769841000,
       "home": "Malut United",
       "away": "Bhayangkara Presisi Indonesia FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4379337.m3u8?txSecret=2a93ab1166f1e510ccc2e5d253ea7f80&txTime=697DE7BC"
       }
     },
     {
