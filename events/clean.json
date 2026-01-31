@@ -1,5 +1,5 @@
 {
-  "updated": 1769857017,
+  "updated": 1769858922,
   "events": [
     {
       "league": "AUS A-League",
@@ -124,13 +124,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769880600,
       "home": "Chelsea",
       "away": "West Ham United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769858151.flv"
       }
     },
     {
@@ -168,13 +168,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769880600,
       "home": "Chelsea",
       "away": "West Ham United",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769858151.flv"
       }
     },
     {
@@ -267,13 +267,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769869800,
       "home": "FC Augsburg",
       "away": "FC St. Pauli",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769858151.flv"
       }
     },
     {
@@ -333,13 +333,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769869800,
       "home": "FC Augsburg",
       "away": "FC St. Pauli",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769858151.flv"
       }
     },
     {
@@ -641,24 +641,24 @@
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769859000,
       "home": "Alanyaspor",
       "away": "Eyupspor",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769858449.flv"
       }
     },
     {
       "league": "TUR Super League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769859000,
       "home": "Alanyaspor",
       "away": "Eyupspor",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769858449.flv"
       }
     }
   ]
