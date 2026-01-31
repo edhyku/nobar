@@ -1,5 +1,5 @@
 {
-  "updated": 1769865275,
+  "updated": 1769867601,
   "events": [
     {
       "league": "ENG EFL Championship",
@@ -102,13 +102,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769880600,
       "home": "Chelsea",
       "away": "West Ham United",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769858151.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -146,13 +146,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769880600,
       "home": "Chelsea",
       "away": "West Ham United",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769858151.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -218,7 +218,7 @@
       "away": "Le Mans",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100368.m3u8?txSecret=f9c6cefdb698b61738cc57f4efd95a33&txTime=697E05BE&sign=37c5ef1c66282d48"
+        "url": "https://v.lfsxfj.com/live/100368.m3u8?txSecret=e1455e7f7d9c443aeb3d58bb2d04f7e5&txTime=697E0EE2&sign=f932f60272e4e81e"
       }
     },
     {
@@ -240,18 +240,18 @@
       "away": "Le Mans",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100368.m3u8?txSecret=f9c6cefdb698b61738cc57f4efd95a33&txTime=697E05BE&sign=37c5ef1c66282d48"
+        "url": "https://v.lfsxfj.com/live/100368.m3u8?txSecret=e1455e7f7d9c443aeb3d58bb2d04f7e5&txTime=697E0EE2&sign=f932f60272e4e81e"
       }
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769869800,
       "home": "FC Augsburg",
       "away": "FC St. Pauli",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769858151.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -311,13 +311,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769869800,
       "home": "FC Augsburg",
       "away": "FC St. Pauli",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2398260_1769858151.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -394,7 +394,7 @@
       "away": "Karlsruher SC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355731.m3u8?txSecret=5c6aee5fb40ca0de457b28afec16c5fd&txTime=697E2E11"
+        "url": "https://live1.trendgallary.com/live/61515004_b20f8357c847f0fb4330570cd1ab6dff.m3u8"
       }
     },
     {
@@ -438,7 +438,7 @@
       "away": "Karlsruher SC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355731.m3u8?txSecret=5c6aee5fb40ca0de457b28afec16c5fd&txTime=697E2E11"
+        "url": "https://live1.trendgallary.com/live/61515004_b20f8357c847f0fb4330570cd1ab6dff.m3u8"
       }
     },
     {
@@ -487,6 +487,17 @@
     },
     {
       "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769888700,
+      "home": "Cagliari",
+      "away": "Hellas Verona",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ITA Serie A",
       "status": "LIVE",
       "time": 1769868000,
       "home": "Pisa",
@@ -502,6 +513,17 @@
       "time": 1769878800,
       "home": "Napoli",
       "away": "Fiorentina",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769888700,
+      "home": "Cagliari",
+      "away": "Hellas Verona",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -637,28 +659,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "LIVE",
-      "time": 1769859000,
-      "home": "Alanyaspor",
-      "away": "Eyupspor",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100353.m3u8?txSecret=c8fbd3c47a41adea6fa95fa4eb108971&txTime=697E05BD&sign=a0faa3ed62adfcde"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "LIVE",
-      "time": 1769859000,
-      "home": "Alanyaspor",
-      "away": "Eyupspor",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100353.m3u8?txSecret=c8fbd3c47a41adea6fa95fa4eb108971&txTime=697E05BD&sign=a0faa3ed62adfcde"
       }
     }
   ]
