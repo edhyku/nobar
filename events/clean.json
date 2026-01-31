@@ -1,5 +1,5 @@
 {
-  "updated": 1769892271,
+  "updated": 1769896317,
   "events": [
     {
       "league": "AUS A-League",
@@ -75,7 +75,7 @@
       "away": "Newcastle United",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343157.m3u8?txSecret=234ea859b49d42f65280fbb7bc50f4d4&txTime=697EA0E9"
+        "url": "https://live.vivo200.com/live/sd-1-4343157.m3u8?txSecret=d7c07d5d81bd3dd34a2d8bf21b8fc5f1&txTime=697EBAAD"
       }
     },
     {
@@ -119,7 +119,7 @@
       "away": "Newcastle United",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343157.m3u8?txSecret=234ea859b49d42f65280fbb7bc50f4d4&txTime=697EA0E9"
+        "url": "https://live.vivo200.com/live/sd-1-4343157.m3u8?txSecret=d7c07d5d81bd3dd34a2d8bf21b8fc5f1&txTime=697EBAAD"
       }
     },
     {
@@ -163,7 +163,7 @@
       "away": "Stade Rennais FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100308.m3u8?txSecret=2cc84792c89612ec03b0e5cf70b219fe&txTime=697E6F36&sign=ff069af42ef2320e"
+        "url": "https://live.trendgallary.com/live/61526338_043567d89313e069717cfbf047a12767.m3u8"
       }
     },
     {
@@ -185,7 +185,7 @@
       "away": "Stade Rennais FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100308.m3u8?txSecret=2cc84792c89612ec03b0e5cf70b219fe&txTime=697E6F36&sign=ff069af42ef2320e"
+        "url": "https://live.trendgallary.com/live/61526338_043567d89313e069717cfbf047a12767.m3u8"
       }
     },
     {
@@ -223,17 +223,6 @@
     },
     {
       "league": "GER Bundesliga 2",
-      "status": "LIVE",
-      "time": 1769887800,
-      "home": "1. FC Kaiserslautern",
-      "away": "SV Elversberg",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355735.m3u8?txSecret=8306ca995312ea50df12f1c00c54b5bf&txTime=697E99E4"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
       "status": "UPCOMING",
       "time": 1769949000,
       "home": "Fortuna Dusseldorf",
@@ -263,17 +252,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "GER Bundesliga 2",
-      "status": "LIVE",
-      "time": 1769887800,
-      "home": "1. FC Kaiserslautern",
-      "away": "SV Elversberg",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355735.m3u8?txSecret=8306ca995312ea50df12f1c00c54b5bf&txTime=697E99E4"
       }
     },
     {
@@ -333,13 +311,24 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769888700,
-      "home": "Cagliari",
-      "away": "Hellas Verona",
+      "status": "UPCOMING",
+      "time": 1769945400,
+      "home": "Torino",
+      "away": "Lecce",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339758.m3u8?txSecret=bb845809b07b02e15f62037349e01e1f&txTime=697EA0E9"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
+      "time": 1769954400,
+      "home": "Como",
+      "away": "Atalanta",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -365,33 +354,22 @@
       }
     },
     {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769888700,
-      "home": "Cagliari",
-      "away": "Hellas Verona",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339758.m3u8?txSecret=bb845809b07b02e15f62037349e01e1f&txTime=697EA0E9"
-      }
-    },
-    {
-      "league": "ITA Serie A",
+      "league": "KSA Professional League",
       "status": "UPCOMING",
-      "time": 1769945400,
-      "home": "Torino",
-      "away": "Lecce",
+      "time": 1769958900,
+      "home": "Al Shabab FC",
+      "away": "Al Fayha",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "ITA Serie A",
+      "league": "KSA Professional League",
       "status": "UPCOMING",
-      "time": 1769954400,
-      "home": "Como",
-      "away": "Atalanta",
+      "time": 1769958900,
+      "home": "Al Shabab FC",
+      "away": "Al Fayha",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -405,7 +383,18 @@
       "away": "CF Estrela Amadora SAD",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100437.m3u8?txSecret=8f4c179c4f25288740f1cb9ade58c05b&txTime=697E6F36&sign=5c41a17c9656a376"
+        "url": "https://live.vivo200.com/live/sd-1-4368959.m3u8?txSecret=89516ffe4f4e96b7110f615963267e8e&txTime=697EB153"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769959800,
+      "home": "Gil Vicente",
+      "away": "FC Famalicao",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -416,7 +405,18 @@
       "away": "CF Estrela Amadora SAD",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100437.m3u8?txSecret=8f4c179c4f25288740f1cb9ade58c05b&txTime=697E6F36&sign=5c41a17c9656a376"
+        "url": "https://live.vivo200.com/live/sd-1-4368959.m3u8?txSecret=89516ffe4f4e96b7110f615963267e8e&txTime=697EB153"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769959800,
+      "home": "Gil Vicente",
+      "away": "FC Famalicao",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -515,7 +515,7 @@
       "away": "Groningen",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344666.m3u8?txSecret=573d1ad7700433502412df9d40aea9a9&txTime=697EA0E9"
+        "url": "https://live1.trendgallary.com/live/61320039_9f0651f51894ab214046bcf6eeff67ff.m3u8"
       }
     },
     {
@@ -559,7 +559,7 @@
       "away": "Groningen",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4344666.m3u8?txSecret=573d1ad7700433502412df9d40aea9a9&txTime=697EA0E9"
+        "url": "https://live1.trendgallary.com/live/61320039_9f0651f51894ab214046bcf6eeff67ff.m3u8"
       }
     },
     {
@@ -603,7 +603,7 @@
       "away": "FC Barcelona",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358884.m3u8?txSecret=bc9f1fc9b34ff838f1fff3266b83ae6d&txTime=697EA0E9"
+        "url": "https://live.vivo200.com/live/sd-1-4358884.m3u8?txSecret=a430724eb97768cdd17224c784c08903&txTime=697EBAAD"
       }
     },
     {
@@ -636,7 +636,7 @@
       "away": "FC Barcelona",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358884.m3u8?txSecret=bc9f1fc9b34ff838f1fff3266b83ae6d&txTime=697EA0E9"
+        "url": "https://live.vivo200.com/live/sd-1-4358884.m3u8?txSecret=a430724eb97768cdd17224c784c08903&txTime=697EBAAD"
       }
     },
     {
