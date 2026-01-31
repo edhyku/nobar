@@ -1,92 +1,70 @@
 {
-  "updated": 1769861964,
+  "updated": 1769865275,
   "events": [
     {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769856300,
-      "home": "Perth Glory",
-      "away": "Auckland FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426656.m3u8?txSecret=417efc10d716a974f14a262d0c6dac6d&txTime=697E1DAA"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769856300,
-      "home": "Perth Glory",
-      "away": "Auckland FC",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426656.m3u8?txSecret=417efc10d716a974f14a262d0c6dac6d&txTime=697E1DAA"
-      }
-    },
-    {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769862600,
       "home": "Leicester City",
       "away": "Charlton Athletic",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351414.m3u8?txSecret=5153dce046a7014d7412c75978009df1&txTime=697E3520"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769862600,
       "home": "Stoke City",
       "away": "Southampton",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351420.m3u8?txSecret=f27f7140f261808673294f7588e4ad3a&txTime=697E3520"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769871600,
       "home": "Watford",
       "away": "Swansea City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769863539.flv"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769862600,
       "home": "Leicester City",
       "away": "Charlton Athletic",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351414.m3u8?txSecret=5153dce046a7014d7412c75978009df1&txTime=697E3520"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769862600,
       "home": "Stoke City",
       "away": "Southampton",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4351420.m3u8?txSecret=f27f7140f261808673294f7588e4ad3a&txTime=697E3520"
       }
     },
     {
       "league": "ENG EFL Championship",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769871600,
       "home": "Watford",
       "away": "Swansea City",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769863539.flv"
       }
     },
     {
@@ -102,13 +80,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769871600,
       "home": "Leeds United",
       "away": "Arsenal",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769855382.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -146,13 +124,13 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769871600,
       "home": "Leeds United",
       "away": "Arsenal",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769855382.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -223,46 +201,46 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769864400,
       "home": "USL Dunkerque",
       "away": "Annecy",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4401078.m3u8?txSecret=d7da7165c3567f522d7d6c7bcf6f080c&txTime=697E3C2A"
       }
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769864400,
       "home": "Troyes",
       "away": "Le Mans",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100368.m3u8?txSecret=f9c6cefdb698b61738cc57f4efd95a33&txTime=697E05BE&sign=37c5ef1c66282d48"
       }
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769864400,
       "home": "USL Dunkerque",
       "away": "Annecy",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4401078.m3u8?txSecret=d7da7165c3567f522d7d6c7bcf6f080c&txTime=697E3C2A"
       }
     },
     {
       "league": "FRA Ligue 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769864400,
       "home": "Troyes",
       "away": "Le Mans",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100368.m3u8?txSecret=f9c6cefdb698b61738cc57f4efd95a33&txTime=697E05BE&sign=37c5ef1c66282d48"
       }
     },
     {
@@ -432,6 +410,17 @@
     },
     {
       "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769887800,
+      "home": "1. FC Kaiserslautern",
+      "away": "SV Elversberg",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "GER Bundesliga 2",
       "status": "LIVE",
       "time": 1769860800,
       "home": "VfL Bochum 1848",
@@ -464,6 +453,17 @@
       }
     },
     {
+      "league": "GER Bundesliga 2",
+      "status": "UPCOMING",
+      "time": 1769887800,
+      "home": "1. FC Kaiserslautern",
+      "away": "SV Elversberg",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ITA Serie A",
       "status": "LIVE",
       "time": 1769868000,
@@ -542,13 +542,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769881500,
       "home": "PEC Zwolle",
       "away": "SC Telstar",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769863539.flv"
       }
     },
     {
@@ -564,35 +564,35 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769881500,
       "home": "PEC Zwolle",
       "away": "SC Telstar",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "UPCOMING",
-      "time": 1769864400,
-      "home": "Real Oviedo",
-      "away": "Girona FC",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769863539.flv"
       }
     },
     {
       "league": "SPA La Liga",
       "status": "LIVE",
+      "time": 1769864400,
+      "home": "Real Oviedo",
+      "away": "Girona FC",
+      "stream": {
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358886.m3u8?txSecret=0605850f5ac97b6ec286c42d397bac63&txTime=697E3C2A"
+      }
+    },
+    {
+      "league": "SPA La Liga",
+      "status": "UPCOMING",
       "time": 1769872500,
       "home": "CA Osasuna",
       "away": "Villarreal CF",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769855353.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -608,24 +608,24 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769864400,
       "home": "Real Oviedo",
       "away": "Girona FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4358886.m3u8?txSecret=0605850f5ac97b6ec286c42d397bac63&txTime=697E3C2A"
       }
     },
     {
       "league": "SPA La Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769872500,
       "home": "CA Osasuna",
       "away": "Villarreal CF",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769855353.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -647,7 +647,7 @@
       "away": "Eyupspor",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100353.m3u8?txSecret=a6f623679217dc2e171222c33b8439d0&txTime=697DF916&sign=b277d4a73b991388"
+        "url": "https://v.lfsxfj.com/live/100353.m3u8?txSecret=c8fbd3c47a41adea6fa95fa4eb108971&txTime=697E05BD&sign=a0faa3ed62adfcde"
       }
     },
     {
@@ -658,7 +658,7 @@
       "away": "Eyupspor",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100353.m3u8?txSecret=a6f623679217dc2e171222c33b8439d0&txTime=697DF916&sign=b277d4a73b991388"
+        "url": "https://v.lfsxfj.com/live/100353.m3u8?txSecret=c8fbd3c47a41adea6fa95fa4eb108971&txTime=697E05BD&sign=a0faa3ed62adfcde"
       }
     }
   ]
