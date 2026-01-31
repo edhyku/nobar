@@ -1,26 +1,15 @@
 {
-  "updated": 1769845909,
+  "updated": 1769848028,
   "events": [
     {
       "league": "AUS A-League",
       "status": "LIVE",
-      "time": 1769839200,
-      "home": "Newcastle Jets",
-      "away": "Brisbane Roar",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426654.m3u8?txSecret=916902cc2ecc198c46f6119c3c8a7be8&txTime=697DD04D"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "UPCOMING",
       "time": 1769848500,
       "home": "Sydney FC",
       "away": "Western Sydney",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769847525.flv"
       }
     },
     {
@@ -37,23 +26,12 @@
     {
       "league": "AUS A-League",
       "status": "LIVE",
-      "time": 1769839200,
-      "home": "Newcastle Jets",
-      "away": "Brisbane Roar",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426654.m3u8?txSecret=916902cc2ecc198c46f6119c3c8a7be8&txTime=697DD04D"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "UPCOMING",
       "time": 1769848500,
       "home": "Sydney FC",
       "away": "Western Sydney",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769847525.flv"
       }
     },
     {
@@ -68,25 +46,25 @@
       }
     },
     {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769839200,
-      "home": "Sydney FC Women",
-      "away": "WS Wanderers Women",
+      "league": "BEL Pro League",
+      "status": "UPCOMING",
+      "time": 1769879700,
+      "home": "Zulte-Waregem",
+      "away": "KVC Westerlo",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429271.m3u8?txSecret=214e74e7a5fbdacba53fc1da8fb6b541&txTime=697DE7BC"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769839200,
-      "home": "Sydney FC Women",
-      "away": "WS Wanderers Women",
+      "league": "BEL Pro League",
+      "status": "UPCOMING",
+      "time": 1769879700,
+      "home": "Zulte-Waregem",
+      "away": "KVC Westerlo",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429271.m3u8?txSecret=214e74e7a5fbdacba53fc1da8fb6b541&txTime=697DE7BC"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -191,6 +169,17 @@
     {
       "league": "ENG Premier League",
       "status": "UPCOMING",
+      "time": 1769880600,
+      "home": "Chelsea",
+      "away": "West Ham United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
       "time": 1769871600,
       "home": "Brighton Hove Albion",
       "away": "Everton",
@@ -216,6 +205,17 @@
       "time": 1769871600,
       "home": "Wolverhampton Wanderers",
       "away": "Bournemouth AFC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1769880600,
+      "home": "Chelsea",
+      "away": "West Ham United",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -300,13 +300,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769869800,
       "home": "Eintracht Frankfurt",
       "away": "Bayer 04 Leverkusen",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769838254.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -355,13 +355,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769869800,
       "home": "Eintracht Frankfurt",
       "away": "Bayer 04 Leverkusen",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769838254.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
