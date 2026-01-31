@@ -1,5 +1,5 @@
 {
-  "updated": 1769882173,
+  "updated": 1769885126,
   "events": [
     {
       "league": "AUS A-League",
@@ -114,23 +114,12 @@
     {
       "league": "FRA Ligue 1",
       "status": "LIVE",
-      "time": 1769875200,
-      "home": "Paris FC",
-      "away": "Marseille",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347857.m3u8?txSecret=dd93b76e5998c23e799719eb519b6135&txTime=697E720B"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
       "time": 1769882400,
       "home": "Lorient",
       "away": "FC Nantes",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2411170_1769881854.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347850.m3u8?txSecret=fc968bf06bc109a13013a4d7889b4f48&txTime=697E7DCA"
       }
     },
     {
@@ -147,23 +136,12 @@
     {
       "league": "FRA Ligue 1",
       "status": "LIVE",
-      "time": 1769875200,
-      "home": "Paris FC",
-      "away": "Marseille",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347857.m3u8?txSecret=dd93b76e5998c23e799719eb519b6135&txTime=697E720B"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
       "time": 1769882400,
       "home": "Lorient",
       "away": "FC Nantes",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2411170_1769881854.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347850.m3u8?txSecret=fc968bf06bc109a13013a4d7889b4f48&txTime=697E7DCA"
       }
     },
     {
@@ -382,8 +360,8 @@
       "home": "Rio Ave",
       "away": "FC Arouca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769881466.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368962.m3u8?txSecret=6c9bfc27833fdc153fe639828d9a7a08&txTime=697E7DCA"
       }
     },
     {
@@ -404,8 +382,8 @@
       "home": "Rio Ave",
       "away": "FC Arouca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769881466.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368962.m3u8?txSecret=6c9bfc27833fdc153fe639828d9a7a08&txTime=697E7DCA"
       }
     },
     {
@@ -515,7 +493,7 @@
       "away": "SC Telstar",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=2d3aecc6ea27bb3d54c178ea2730cce5&txTime=697E4722&sign=8966167704bacc99"
+        "url": "https://live.vivo200.com/live/sd-1-4344665.m3u8?txSecret=b6b94c443866956b0e8b0be6b00a6248&txTime=697E897C"
       }
     },
     {
@@ -546,6 +524,17 @@
       "time": 1769952600,
       "home": "Heracles Almelo",
       "away": "Fortuna Sittard",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769952600,
+      "home": "PSV Eindhoven",
+      "away": "Feyenoord",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -559,7 +548,7 @@
       "away": "SC Telstar",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=2d3aecc6ea27bb3d54c178ea2730cce5&txTime=697E4722&sign=8966167704bacc99"
+        "url": "https://live.vivo200.com/live/sd-1-4344665.m3u8?txSecret=b6b94c443866956b0e8b0be6b00a6248&txTime=697E897C"
       }
     },
     {
@@ -590,6 +579,17 @@
       "time": 1769952600,
       "home": "Heracles Almelo",
       "away": "Fortuna Sittard",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769952600,
+      "home": "PSV Eindhoven",
+      "away": "Feyenoord",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
