@@ -1,5 +1,5 @@
 {
-  "updated": 1769896317,
+  "updated": 1769899607,
   "events": [
     {
       "league": "AUS A-League",
@@ -68,14 +68,25 @@
       }
     },
     {
-      "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769889600,
-      "home": "Liverpool",
-      "away": "Newcastle United",
+      "league": "BEL Pro League",
+      "status": "UPCOMING",
+      "time": 1769958000,
+      "home": "FCV Dender EH",
+      "away": "Racing Genk",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343157.m3u8?txSecret=d7c07d5d81bd3dd34a2d8bf21b8fc5f1&txTime=697EBAAD"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BEL Pro League",
+      "status": "UPCOMING",
+      "time": 1769958000,
+      "home": "FCV Dender EH",
+      "away": "Racing Genk",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -113,17 +124,6 @@
     },
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769889600,
-      "home": "Liverpool",
-      "away": "Newcastle United",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4343157.m3u8?txSecret=d7c07d5d81bd3dd34a2d8bf21b8fc5f1&txTime=697EBAAD"
-      }
-    },
-    {
-      "league": "ENG Premier League",
       "status": "UPCOMING",
       "time": 1769954400,
       "home": "Aston Villa",
@@ -157,13 +157,35 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769889900,
-      "home": "AS Monaco",
-      "away": "Stade Rennais FC",
+      "status": "UPCOMING",
+      "time": 1769954400,
+      "home": "Lyon",
+      "away": "LOSC Lille",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61526338_043567d89313e069717cfbf047a12767.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
+      "time": 1769962500,
+      "home": "Angers SCO",
+      "away": "Metz",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
+      "time": 1769962500,
+      "home": "OGC Nice",
+      "away": "Stade Brestois 29",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -179,21 +201,21 @@
     },
     {
       "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769889900,
-      "home": "AS Monaco",
-      "away": "Stade Rennais FC",
+      "status": "UPCOMING",
+      "time": 1769962500,
+      "home": "Angers SCO",
+      "away": "Metz",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/61526338_043567d89313e069717cfbf047a12767.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "FRA Ligue 1",
       "status": "UPCOMING",
-      "time": 1769954400,
-      "home": "Lyon",
-      "away": "LOSC Lille",
+      "time": 1769962500,
+      "home": "OGC Nice",
+      "away": "Stade Brestois 29",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -377,17 +399,6 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769891400,
-      "home": "Alverca",
-      "away": "CF Estrela Amadora SAD",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368959.m3u8?txSecret=89516ffe4f4e96b7110f615963267e8e&txTime=697EB153"
-      }
-    },
-    {
-      "league": "Liga Portugal",
       "status": "UPCOMING",
       "time": 1769959800,
       "home": "Gil Vicente",
@@ -395,17 +406,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769891400,
-      "home": "Alverca",
-      "away": "CF Estrela Amadora SAD",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368959.m3u8?txSecret=89516ffe4f4e96b7110f615963267e8e&txTime=697EB153"
       }
     },
     {
@@ -509,13 +509,46 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769889600,
-      "home": "Sparta Rotterdam",
-      "away": "Groningen",
+      "status": "UPCOMING",
+      "time": 1769944500,
+      "home": "Excelsior SBV",
+      "away": "AFC Ajax",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/61320039_9f0651f51894ab214046bcf6eeff67ff.m3u8"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769952600,
+      "home": "Heracles Almelo",
+      "away": "Fortuna Sittard",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769952600,
+      "home": "PSV Eindhoven",
+      "away": "Feyenoord",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769960700,
+      "home": "SC Heerenveen",
+      "away": "FC Utrecht",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -553,57 +586,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769889600,
-      "home": "Sparta Rotterdam",
-      "away": "Groningen",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/61320039_9f0651f51894ab214046bcf6eeff67ff.m3u8"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
       "status": "UPCOMING",
-      "time": 1769944500,
-      "home": "Excelsior SBV",
-      "away": "AFC Ajax",
+      "time": 1769960700,
+      "home": "SC Heerenveen",
+      "away": "FC Utrecht",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "UPCOMING",
-      "time": 1769952600,
-      "home": "Heracles Almelo",
-      "away": "Fortuna Sittard",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "UPCOMING",
-      "time": 1769952600,
-      "home": "PSV Eindhoven",
-      "away": "Feyenoord",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769889600,
-      "home": "Elche",
-      "away": "FC Barcelona",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358884.m3u8?txSecret=a430724eb97768cdd17224c784c08903&txTime=697EBAAD"
       }
     },
     {
@@ -630,17 +619,6 @@
     },
     {
       "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769889600,
-      "home": "Elche",
-      "away": "FC Barcelona",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358884.m3u8?txSecret=a430724eb97768cdd17224c784c08903&txTime=697EBAAD"
-      }
-    },
-    {
-      "league": "SPA La Liga",
       "status": "UPCOMING",
       "time": 1769950800,
       "home": "Real Madrid",
@@ -656,6 +634,28 @@
       "time": 1769958900,
       "home": "Real Betis",
       "away": "Valencia CF",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769958900,
+      "home": "Eibar",
+      "away": "Sporting Gijon",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769958900,
+      "home": "Eibar",
+      "away": "Sporting Gijon",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
