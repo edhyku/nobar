@@ -1,15 +1,15 @@
 {
-  "updated": 1769855683,
+  "updated": 1769857017,
   "events": [
     {
       "league": "AUS A-League",
       "status": "LIVE",
-      "time": 1769848500,
-      "home": "Sydney FC",
-      "away": "Western Sydney",
+      "time": 1769856300,
+      "home": "Perth Glory",
+      "away": "Auckland FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/63684609_9373c4d6c5b33ebbfe370fd8707e3c2e.m3u8"
+        "url": "https://live.vivo200.com/live/sd-1-4426656.m3u8?txSecret=417efc10d716a974f14a262d0c6dac6d&txTime=697E1DAA"
       }
     },
     {
@@ -19,52 +19,8 @@
       "home": "Perth Glory",
       "away": "Auckland FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769855382.flv"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769848500,
-      "home": "Sydney FC",
-      "away": "Western Sydney",
-      "stream": {
         "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/63684609_9373c4d6c5b33ebbfe370fd8707e3c2e.m3u8"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769856300,
-      "home": "Perth Glory",
-      "away": "Auckland FC",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769855382.flv"
-      }
-    },
-    {
-      "league": "BEL Pro League",
-      "status": "UPCOMING",
-      "time": 1769879700,
-      "home": "Zulte-Waregem",
-      "away": "KVC Westerlo",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "BEL Pro League",
-      "status": "UPCOMING",
-      "time": 1769879700,
-      "home": "Zulte-Waregem",
-      "away": "KVC Westerlo",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "url": "https://live.vivo200.com/live/sd-1-4426656.m3u8?txSecret=417efc10d716a974f14a262d0c6dac6d&txTime=697E1DAA"
       }
     },
     {
@@ -235,9 +191,31 @@
     {
       "league": "FRA Ligue 1",
       "status": "UPCOMING",
+      "time": 1769882400,
+      "home": "Lorient",
+      "away": "FC Nantes",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
       "time": 1769875200,
       "home": "Paris FC",
       "away": "Marseille",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
+      "time": 1769882400,
+      "home": "Lorient",
+      "away": "FC Nantes",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -530,6 +508,28 @@
       }
     },
     {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769882400,
+      "home": "Rio Ave",
+      "away": "FC Arouca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1769882400,
+      "home": "Rio Ave",
+      "away": "FC Arouca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "NED Eredivisie",
       "status": "UPCOMING",
       "time": 1769873400,
@@ -543,9 +543,31 @@
     {
       "league": "NED Eredivisie",
       "status": "UPCOMING",
+      "time": 1769881500,
+      "home": "PEC Zwolle",
+      "away": "SC Telstar",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
       "time": 1769873400,
       "home": "AZ Alkmaar",
       "away": "NEC Nijmegen",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "NED Eredivisie",
+      "status": "UPCOMING",
+      "time": 1769881500,
+      "home": "PEC Zwolle",
+      "away": "SC Telstar",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -576,6 +598,17 @@
     {
       "league": "SPA La Liga",
       "status": "UPCOMING",
+      "time": 1769880600,
+      "home": "Levante",
+      "away": "Atletico Madrid",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA La Liga",
+      "status": "UPCOMING",
       "time": 1769864400,
       "home": "Real Oviedo",
       "away": "Girona FC",
@@ -596,33 +629,11 @@
       }
     },
     {
-      "league": "TUR Super League",
+      "league": "SPA La Liga",
       "status": "UPCOMING",
-      "time": 1769859000,
-      "home": "Alanyaspor",
-      "away": "Eyupspor",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "UPCOMING",
-      "time": 1769878800,
-      "home": "Besiktas JK",
-      "away": "Konyaspor",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "UPCOMING",
-      "time": 1769878800,
-      "home": "Goztepe",
-      "away": "Karagumruk",
+      "time": 1769880600,
+      "home": "Levante",
+      "away": "Atletico Madrid",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -642,20 +653,9 @@
     {
       "league": "TUR Super League",
       "status": "UPCOMING",
-      "time": 1769878800,
-      "home": "Besiktas JK",
-      "away": "Konyaspor",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "TUR Super League",
-      "status": "UPCOMING",
-      "time": 1769878800,
-      "home": "Goztepe",
-      "away": "Karagumruk",
+      "time": 1769859000,
+      "home": "Alanyaspor",
+      "away": "Eyupspor",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
