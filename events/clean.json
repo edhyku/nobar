@@ -1,5 +1,5 @@
 {
-  "updated": 1769842373,
+  "updated": 1769844516,
   "events": [
     {
       "league": "AUS A-League",
@@ -487,24 +487,24 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769868000,
       "home": "Pisa",
       "away": "Sassuolo",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1769835017.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769868000,
       "home": "Pisa",
       "away": "Sassuolo",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1769835017.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
