@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-logo="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8" group-title="Youtube Live",AlJazeeraEnglish [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=gCNeDWCI0vo
+#EXTINF:-1 tvg-id="DWNews" tvg-logo="https://i.ytimg.com/vi/LuKwFajn37U/maxresdefault.jpg?v=67ead53f" group-title="Youtube Live",DW News [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=LuKwFajn37U
+#EXTINF:-1 tvg-id="France24English" tvg-logo="https://ui-avatars.com/api/?name=France24English&background=random&color=fff&size=128" group-title="Youtube Offline",France24English [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4" group-title="Youtube Live",Euronews [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=pykpO5kQJ98
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.ytimg.com/vi/BOy2xDU1LC8/maxresdefault.jpg?v=695bac57" group-title="Youtube Live",CGTN [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=BOy2xDU1LC8
+#EXTINF:-1 tvg-id="BloombergTV" tvg-logo="https://ui-avatars.com/api/?name=BloombergTV&background=random&color=fff&size=128" group-title="Youtube Offline",Bloomberg TV [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="CNBC" tvg-logo="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd" group-title="Youtube Live",CNBC [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=9NyxcX3rhQs
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://ui-avatars.com/api/?name=RT&background=random&color=fff&size=128" group-title="Youtube Offline",RT [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="SkyNews" tvg-logo="https://i.ytimg.com/vi/YDvsBbKfLPA/maxresdefault.jpg?v=67eb9257" group-title="Youtube Live",Sky News [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=YDvsBbKfLPA
+#EXTINF:-1 tvg-id="TRTWorld" tvg-logo="https://i.ytimg.com/vi/ABfFhWzWs0s/maxresdefault.jpg?v=6972ff37" group-title="Youtube Live",TRTWorld [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=ABfFhWzWs0s
+#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-logo="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e" group-title="Youtube Live",NHKWorldJapan [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=f0lYkdA-Gtw
+#EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://i.ytimg.com/vi/DOOrIxw5xOw/maxresdefault.jpg?v=67844598" group-title="Youtube Live",Kompas TV [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=DOOrIxw5xOw
+#EXTINF:-1 tvg-id="MetroTVIndonesia" tvg-logo="https://ui-avatars.com/api/?name=MetroTVIndonesia&background=random&color=fff&size=128" group-title="Youtube Offline",Metro TV ID [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="tvOneNews" tvg-logo="https://i.ytimg.com/vi/yNKvkPJl-tg/maxresdefault.jpg?v=69774ad4" group-title="Youtube Live",TvOne News [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=yNKvkPJl-tg
+#EXTINF:-1 tvg-id="CNNIndonesiaOfficial" tvg-logo="https://ui-avatars.com/api/?name=CNNIndonesiaOfficial&background=random&color=fff&size=128" group-title="Youtube Offline",CNN ID [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="BeritaSatu" tvg-logo="https://ui-avatars.com/api/?name=BeritaSatu&background=random&color=fff&size=128" group-title="Youtube Offline",BeritaSatu [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="CNBCIndonesia" tvg-logo="https://ui-avatars.com/api/?name=CNBCIndonesia&background=random&color=fff&size=128" group-title="Youtube Offline",CNBC ID [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="OfficialiNews" tvg-logo="https://i.ytimg.com/vi/y4fnfqo1cbI/maxresdefault.jpg?v=697b4073" group-title="Youtube Live",I News [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=y4fnfqo1cbI
+#EXTINF:-1 tvg-id="NASA" tvg-logo="https://i.ytimg.com/vi/xCrPD7tfcr0/maxresdefault.jpg?v=6977da3d" group-title="Youtube Live",NASA [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=xCrPD7tfcr0
+#EXTINF:-1 tvg-id="ESA" tvg-logo="https://ui-avatars.com/api/?name=ESA&background=random&color=fff&size=128" group-title="Youtube Offline",ESA [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="SpaceX" tvg-logo="https://ui-avatars.com/api/?name=SpaceX&background=random&color=fff&size=128" group-title="Youtube Offline",SpaceX [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://i.ytimg.com/vi/Ko_a_lPEt7M/maxresdefault.jpg?v=6952e0f7" group-title="Youtube Live",NatGeo [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=Ko_a_lPEt7M
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.ytimg.com/vi/0JJ01huI8_E/maxresdefault.jpg?v=6965814e" group-title="Youtube Live",Discovery [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=0JJ01huI8_E
+#EXTINF:-1 tvg-id="ONEChampionship" tvg-logo="https://ui-avatars.com/api/?name=ONEChampionship&background=random&color=fff&size=128" group-title="Youtube Offline",ONEChampionship [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="RedBull" tvg-logo="https://ui-avatars.com/api/?name=RedBull&background=random&color=fff&size=128" group-title="Youtube Offline",RedBull [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="volleyballworld" tvg-logo="https://i.ytimg.com/vi/wqUY9rKqVIM/maxresdefault.jpg?v=697cba3c" group-title="Youtube Live",Volleyballworld [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=wqUY9rKqVIM
+#EXTINF:-1 tvg-id="FIFA" tvg-logo="https://ui-avatars.com/api/?name=FIFA&background=random&color=fff&size=128" group-title="Youtube Offline",FIFA [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="Olympics" tvg-logo="https://ui-avatars.com/api/?name=Olympics&background=random&color=fff&size=128" group-title="Youtube Offline",Olympics [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="UFC" tvg-logo="https://i.ytimg.com/vi/PqTBCISwu7k/maxresdefault.jpg?v=697c9534" group-title="Youtube Live",UFC [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=PqTBCISwu7k
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://ui-avatars.com/api/?name=NBA&background=random&color=fff&size=128" group-title="Youtube Offline",NBA [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="MLB" tvg-logo="https://ui-avatars.com/api/?name=MLB&background=random&color=fff&size=128" group-title="Youtube Offline",MLB [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="Cocomelon" tvg-logo="https://ui-avatars.com/api/?name=Cocomelon&background=random&color=fff&size=128" group-title="Youtube Offline",Cocomelon [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="Pinkfong" tvg-logo="https://i.ytimg.com/vi/H1oRTF8bPsQ/maxresdefault.jpg?v=6979a223" group-title="Youtube Live",Pinkfong [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=H1oRTF8bPsQ
+#EXTINF:-1 tvg-id="BabyBus" tvg-logo="https://i.ytimg.com/vi/VONqSCo4Zj8/maxresdefault.jpg?v=697aad34" group-title="Youtube Live",BabyBus [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=VONqSCo4Zj8
+#EXTINF:-1 tvg-id="LittleBabyBum" tvg-logo="https://ui-avatars.com/api/?name=LittleBabyBum&background=random&color=fff&size=128" group-title="Youtube Offline",LittleBabyBum [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="DaveAndAva" tvg-logo="https://i.ytimg.com/vi/iPw6W_ki-oo/maxresdefault.jpg?v=697cc6b3" group-title="Youtube Live",DaveAndAva [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=iPw6W_ki-oo
+#EXTINF:-1 tvg-id="MashaBearEN" tvg-logo="https://i.ytimg.com/vi/zb7dXcyD7eY/maxresdefault.jpg?v=696f99a5" group-title="Youtube Live",MashaBearEN [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=zb7dXcyD7eY
+#EXTINF:-1 tvg-id="PeppaPigOfficial" tvg-logo="https://i.ytimg.com/vi/JUharqxAeYI/maxresdefault.jpg?v=697dd75a" group-title="Youtube Live",PeppaPig [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=JUharqxAeYI
+#EXTINF:-1 tvg-id="Blippi" tvg-logo="https://ui-avatars.com/api/?name=Blippi&background=random&color=fff&size=128" group-title="Youtube Offline",Blippi [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="KidsTV123" tvg-logo="https://ui-avatars.com/api/?name=KidsTV123&background=random&color=fff&size=128" group-title="Youtube Offline",Kids TV123 [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="ChuChuTV" tvg-logo="https://i.ytimg.com/vi/YY8yc2ctN0g/maxresdefault.jpg?v=6915ab93" group-title="Youtube Live",ChuChu TV [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=YY8yc2ctN0g
+#EXTINF:-1 tvg-id="IGN" tvg-logo="https://ui-avatars.com/api/?name=IGN&background=random&color=fff&size=128" group-title="Youtube Offline",IGN [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="GameSpot" tvg-logo="https://ui-avatars.com/api/?name=GameSpot&background=random&color=fff&size=128" group-title="Youtube Offline",GameSpot [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="PlayStation" tvg-logo="https://i.ytimg.com/vi/0pUw95A1NWQ/maxresdefault.jpg?v=697a4e1e" group-title="Youtube Live",PlayStation [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=0pUw95A1NWQ
+#EXTINF:-1 tvg-id="Xbox" tvg-logo="https://ui-avatars.com/api/?name=Xbox&background=random&color=fff&size=128" group-title="Youtube Offline",Xbox [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="Minecraft" tvg-logo="https://ui-avatars.com/api/?name=Minecraft&background=random&color=fff&size=128" group-title="Youtube Offline",Minecraft [OFFLINE]
+http://localhost/offline.mp4
+#EXTINF:-1 tvg-id="Roblox" tvg-logo="https://ui-avatars.com/api/?name=Roblox&background=random&color=fff&size=128" group-title="Youtube Offline",Roblox [OFFLINE]
+http://localhost/offline.mp4
