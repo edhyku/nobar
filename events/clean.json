@@ -1,5 +1,5 @@
 {
-  "updated": 1769844516,
+  "updated": 1769845909,
   "events": [
     {
       "league": "AUS A-League",
@@ -70,34 +70,12 @@
     {
       "league": "AUS W-League",
       "status": "LIVE",
-      "time": 1769837400,
-      "home": "Adelaide United Women",
-      "away": "Melbourne City Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429340.m3u8?txSecret=370d8547e29dc2e33e86f70300684a79&txTime=697DE7BC"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
       "time": 1769839200,
       "home": "Sydney FC Women",
       "away": "WS Wanderers Women",
       "stream": {
         "type": "m3u8",
         "url": "https://live.vivo200.com/live/sd-1-4429271.m3u8?txSecret=214e74e7a5fbdacba53fc1da8fb6b541&txTime=697DE7BC"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769837400,
-      "home": "Adelaide United Women",
-      "away": "Melbourne City Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429340.m3u8?txSecret=370d8547e29dc2e33e86f70300684a79&txTime=697DE7BC"
       }
     },
     {
@@ -124,13 +102,13 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769862600,
       "home": "Stoke City",
       "away": "Southampton",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769836772.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -157,13 +135,13 @@
     },
     {
       "league": "ENG EFL Championship",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769862600,
       "home": "Stoke City",
       "away": "Southampton",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1769836772.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -238,6 +216,28 @@
       "time": 1769871600,
       "home": "Wolverhampton Wanderers",
       "away": "Bournemouth AFC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
+      "time": 1769875200,
+      "home": "Paris FC",
+      "away": "Marseille",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "FRA Ligue 1",
+      "status": "UPCOMING",
+      "time": 1769875200,
+      "home": "Paris FC",
+      "away": "Marseille",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -499,6 +499,17 @@
     {
       "league": "ITA Serie A",
       "status": "UPCOMING",
+      "time": 1769878800,
+      "home": "Napoli",
+      "away": "Fiorentina",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ITA Serie A",
+      "status": "UPCOMING",
       "time": 1769868000,
       "home": "Pisa",
       "away": "Sassuolo",
@@ -508,22 +519,11 @@
       }
     },
     {
-      "league": "Liga Portugal",
+      "league": "ITA Serie A",
       "status": "UPCOMING",
-      "time": 1769873400,
-      "home": "Santa Clara",
-      "away": "Estoril",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "UPCOMING",
-      "time": 1769873400,
-      "home": "Santa Clara",
-      "away": "Estoril",
+      "time": 1769878800,
+      "home": "Napoli",
+      "away": "Fiorentina",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -596,44 +596,33 @@
       }
     },
     {
-      "league": "SPA Segunda Division",
+      "league": "TUR Super League",
       "status": "UPCOMING",
-      "time": 1769872500,
-      "home": "Albacete Balompié SAD",
-      "away": "Real Zaragoza",
+      "time": 1769859000,
+      "home": "Alanyaspor",
+      "away": "Eyupspor",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "SPA Segunda Division",
+      "league": "TUR Super League",
       "status": "UPCOMING",
-      "time": 1769872500,
-      "home": "Burgos CF",
-      "away": "CD Leganes",
+      "time": 1769878800,
+      "home": "Besiktas JK",
+      "away": "Konyaspor",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
       }
     },
     {
-      "league": "SPA Segunda Division",
+      "league": "TUR Super League",
       "status": "UPCOMING",
-      "time": 1769872500,
-      "home": "Albacete Balompié SAD",
-      "away": "Real Zaragoza",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA Segunda Division",
-      "status": "UPCOMING",
-      "time": 1769872500,
-      "home": "Burgos CF",
-      "away": "CD Leganes",
+      "time": 1769878800,
+      "home": "Goztepe",
+      "away": "Karagumruk",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -653,9 +642,20 @@
     {
       "league": "TUR Super League",
       "status": "UPCOMING",
-      "time": 1769859000,
-      "home": "Alanyaspor",
-      "away": "Eyupspor",
+      "time": 1769878800,
+      "home": "Besiktas JK",
+      "away": "Konyaspor",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "TUR Super League",
+      "status": "UPCOMING",
+      "time": 1769878800,
+      "home": "Goztepe",
+      "away": "Karagumruk",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
