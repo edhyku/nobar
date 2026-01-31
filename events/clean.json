@@ -1,5 +1,5 @@
 {
-  "updated": 1769849828,
+  "updated": 1769852234,
   "events": [
     {
       "league": "AUS A-League",
@@ -9,7 +9,7 @@
       "away": "Western Sydney",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426655.m3u8?txSecret=a78dbfbd29d0356939dbf1dd1959f91b&txTime=697DFF2C"
+        "url": "https://live.trendgallary.com/live/63684609_9373c4d6c5b33ebbfe370fd8707e3c2e.m3u8"
       }
     },
     {
@@ -31,7 +31,7 @@
       "away": "Western Sydney",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426655.m3u8?txSecret=a78dbfbd29d0356939dbf1dd1959f91b&txTime=697DFF2C"
+        "url": "https://live.trendgallary.com/live/63684609_9373c4d6c5b33ebbfe370fd8707e3c2e.m3u8"
       }
     },
     {
