@@ -1,5 +1,5 @@
 {
-  "updated": 1769833145,
+  "updated": 1769836362,
   "events": [
     {
       "league": "AUS A-League",
@@ -14,13 +14,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769848500,
       "home": "Sydney FC",
       "away": "Western Sydney",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1769823422.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -47,13 +47,13 @@
     },
     {
       "league": "AUS A-League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769848500,
       "home": "Sydney FC",
       "away": "Western Sydney",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1769823422.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -256,13 +256,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769864400,
       "home": "Troyes",
       "away": "Le Mans",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769824111.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -278,13 +278,13 @@
     },
     {
       "league": "FRA Ligue 2",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769864400,
       "home": "Troyes",
       "away": "Le Mans",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1171436_1769824111.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -487,24 +487,24 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769868000,
       "home": "Pisa",
       "away": "Sassuolo",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1769835017.flv"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769868000,
       "home": "Pisa",
       "away": "Sassuolo",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1769835017.flv"
       }
     },
     {
@@ -514,8 +514,8 @@
       "home": "FC Juarez",
       "away": "Cruz Azul",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/66855940_6ab82a9cd03cd5b8338ea218f59e3429.m3u8"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769828137.flv"
       }
     },
     {
@@ -525,8 +525,8 @@
       "home": "FC Juarez",
       "away": "Cruz Azul",
       "stream": {
-        "type": "m3u8",
-        "url": "https://live.trendgallary.com/live/66855940_6ab82a9cd03cd5b8338ea218f59e3429.m3u8"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2165019_1769828137.flv"
       }
     },
     {
