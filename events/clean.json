@@ -1,5 +1,5 @@
 {
-  "updated": 1769890629,
+  "updated": 1769892271,
   "events": [
     {
       "league": "AUS A-League",
@@ -163,7 +163,7 @@
       "away": "Stade Rennais FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100308.m3u8?txSecret=347e61d2631716081846aa5a70bb637b&txTime=697E6996&sign=2a15a28b2b7c46cc"
+        "url": "https://v.lfsxfj.com/live/100308.m3u8?txSecret=2cc84792c89612ec03b0e5cf70b219fe&txTime=697E6F36&sign=ff069af42ef2320e"
       }
     },
     {
@@ -185,7 +185,7 @@
       "away": "Stade Rennais FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100308.m3u8?txSecret=347e61d2631716081846aa5a70bb637b&txTime=697E6996&sign=2a15a28b2b7c46cc"
+        "url": "https://v.lfsxfj.com/live/100308.m3u8?txSecret=2cc84792c89612ec03b0e5cf70b219fe&txTime=697E6F36&sign=ff069af42ef2320e"
       }
     },
     {
@@ -399,24 +399,24 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769891400,
       "home": "Alverca",
       "away": "CF Estrela Amadora SAD",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100437.m3u8?txSecret=8f4c179c4f25288740f1cb9ade58c05b&txTime=697E6F36&sign=5c41a17c9656a376"
       }
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769891400,
       "home": "Alverca",
       "away": "CF Estrela Amadora SAD",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100437.m3u8?txSecret=8f4c179c4f25288740f1cb9ade58c05b&txTime=697E6F36&sign=5c41a17c9656a376"
       }
     },
     {
