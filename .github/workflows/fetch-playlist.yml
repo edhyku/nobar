@@ -1,8 +1,11 @@
 name: Auto Fetch Playlist
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "*/30 * * * *"   # tiap 30 menit
+    - cron: "0 */2 * * *"   # tiap 30 menit
   workflow_dispatch:
 
 jobs:
@@ -13,11 +16,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch playlist
+      - name: Fetch playlist (only LIVE)
         run: |
           curl -L --max-time 60 \
+            -H "User-Agent: Mozilla/5.0" \
+            -H "Referer: https://google.com" \
             "http://ogibonetv.diskon.cloud/scriptYouTube.php" \
-            -o playlist.m3u
+          | grep -v "\[OFFLINE\]" \
+          | grep -v "localhost/offline.mp4" \
+          > playlist.m3u
 
       - name: Commit & Push
         run: |
@@ -25,5 +32,5 @@ jobs:
           git config --global user.email "actions@github.com"
 
           git add playlist.m3u
-          git commit -m "Auto update playlist" || echo "No changes"
+          git commit -m "Auto update playlist (LIVE only)" || echo "No changes"
           git push
