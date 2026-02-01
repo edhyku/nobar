@@ -1,5 +1,5 @@
 {
-  "updated": 1769932647,
+  "updated": 1769935494,
   "events": [
     {
       "league": "BEL Pro League",
@@ -311,24 +311,24 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769934600,
       "home": "Borneo FC",
       "away": "PSIM Yogyakarta",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.m3u8"
       }
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769934600,
       "home": "Borneo FC",
       "away": "PSIM Yogyakarta",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.m3u8"
       }
     },
     {
@@ -443,13 +443,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769944500,
       "home": "Excelsior SBV",
       "away": "AFC Ajax",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769924914.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -465,13 +465,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769952600,
       "home": "PSV Eindhoven",
       "away": "Feyenoord",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769933967.flv"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769944500,
       "home": "Excelsior SBV",
       "away": "AFC Ajax",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769924914.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -509,13 +509,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769952600,
       "home": "PSV Eindhoven",
       "away": "Feyenoord",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769933967.flv"
       }
     },
     {
