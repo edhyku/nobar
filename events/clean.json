@@ -1,5 +1,5 @@
 {
-  "updated": 1769964616,
+  "updated": 1769966337,
   "events": [
     {
       "league": "ENG Premier League",
@@ -8,8 +8,8 @@
       "home": "Tottenham Hotspur",
       "away": "Manchester City",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769962414.flv"
+        "type": "m3u8",
+        "url": "https://play.clomidx.com/live/11181996871_635719618_adaptive.m3u8"
       }
     },
     {
@@ -19,8 +19,8 @@
       "home": "Tottenham Hotspur",
       "away": "Manchester City",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1374614_1769962414.flv"
+        "type": "m3u8",
+        "url": "https://play.clomidx.com/live/11181996871_635719618_adaptive.m3u8"
       }
     },
     {
@@ -31,7 +31,7 @@
       "away": "Metz",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100502.m3u8?txSecret=2c8c62fb770ad9c97d9822abef30995b&txTime=697F89DE&sign=5ca7d5202a780f5c"
+        "url": "https://v.lfsxfj.com/live/100502.m3u8?txSecret=c399e2597dba05110f206cc842a275aa&txTime=697F90E6&sign=54e02dbf44a4c74b"
       }
     },
     {
@@ -42,7 +42,7 @@
       "away": "Stade Brestois 29",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100453.m3u8?txSecret=457fdee69daa75b9ab658b9b77d9569a&txTime=697F89DE&sign=e58c70783c7bdb51"
+        "url": "https://v.lfsxfj.com/live/100453.m3u8?txSecret=0726d3eb1fd4ce51c545ac8a966ec2af&txTime=697F90E6&sign=06fb103b8f9456e3"
       }
     },
     {
@@ -53,7 +53,7 @@
       "away": "AJ Auxerre",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=7a908e1c4ce99297e22881d6d0725fd8&txTime=697F89DE&sign=23186e0ed9ff1a8d"
+        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=ad7e292dfa9867332880c7efae0bd945&txTime=697F90E6&sign=c3f8fe0cb24bcdfc"
       }
     },
     {
@@ -75,7 +75,7 @@
       "away": "Metz",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100502.m3u8?txSecret=2c8c62fb770ad9c97d9822abef30995b&txTime=697F89DE&sign=5ca7d5202a780f5c"
+        "url": "https://v.lfsxfj.com/live/100502.m3u8?txSecret=c399e2597dba05110f206cc842a275aa&txTime=697F90E6&sign=54e02dbf44a4c74b"
       }
     },
     {
@@ -86,7 +86,7 @@
       "away": "Stade Brestois 29",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100453.m3u8?txSecret=457fdee69daa75b9ab658b9b77d9569a&txTime=697F89DE&sign=e58c70783c7bdb51"
+        "url": "https://v.lfsxfj.com/live/100453.m3u8?txSecret=0726d3eb1fd4ce51c545ac8a966ec2af&txTime=697F90E6&sign=06fb103b8f9456e3"
       }
     },
     {
@@ -97,7 +97,7 @@
       "away": "AJ Auxerre",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=7a908e1c4ce99297e22881d6d0725fd8&txTime=697F89DE&sign=23186e0ed9ff1a8d"
+        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=ad7e292dfa9867332880c7efae0bd945&txTime=697F90E6&sign=c3f8fe0cb24bcdfc"
       }
     },
     {
@@ -118,8 +118,8 @@
       "home": "Borussia Dortmund",
       "away": "1. FC Heidenheim 1846",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769962737.flv"
+        "type": "m3u8",
+        "url": "https://play2.clomidx.com/live/113550952603_1762300434_adaptive.m3u8"
       }
     },
     {
@@ -129,8 +129,8 @@
       "home": "Borussia Dortmund",
       "away": "1. FC Heidenheim 1846",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769962737.flv"
+        "type": "m3u8",
+        "url": "https://play2.clomidx.com/live/113550952603_1762300434_adaptive.m3u8"
       }
     },
     {
@@ -201,46 +201,46 @@
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769965200,
       "home": "Cremonese",
       "away": "Inter Milan",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2411170_1769964526.flv"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769975100,
       "home": "Parma",
       "away": "Juventus",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769966240.flv"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769965200,
       "home": "Cremonese",
       "away": "Inter Milan",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2411170_1769964526.flv"
       }
     },
     {
       "league": "ITA Serie A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769975100,
       "home": "Parma",
       "away": "Juventus",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769966240.flv"
       }
     },
     {
@@ -289,17 +289,6 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769958900,
-      "home": "Al Shabab FC",
-      "away": "Al Fayha",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100341.m3u8?txSecret=14512fde62a32bff5df3040f1a4e1346&txTime=697F89DD&sign=337180eb2109eb25"
-      }
-    },
-    {
-      "league": "KSA Professional League",
       "status": "UPCOMING",
       "time": 1769967000,
       "home": "Al Fateh SC",
@@ -311,13 +300,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769967000,
       "home": "Al Ittihad Club",
       "away": "Al Najma(KSA)",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769966240.flv"
       }
     },
     {
@@ -344,13 +333,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
-      "time": 1769958900,
-      "home": "Al Shabab FC",
-      "away": "Al Fayha",
+      "status": "UPCOMING",
+      "time": 1770053400,
+      "home": "Al Okhdood",
+      "away": "NEOM Sports Club",
       "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100341.m3u8?txSecret=14512fde62a32bff5df3040f1a4e1346&txTime=697F89DD&sign=337180eb2109eb25"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -366,13 +355,13 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769967000,
       "home": "Al Ittihad Club",
       "away": "Al Najma(KSA)",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2048226_1769966240.flv"
       }
     },
     {
@@ -398,6 +387,17 @@
       }
     },
     {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1770053400,
+      "home": "Al Okhdood",
+      "away": "NEOM Sports Club",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "Liga Portugal",
       "status": "LIVE",
       "time": 1769959800,
@@ -405,7 +405,7 @@
       "away": "FC Famalicao",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100436.m3u8?txSecret=c4e0d00095014bc8f6139770cc1863e0&txTime=697F89DE&sign=e99621a6bba96f6d"
+        "url": "https://v.lfsxfj.com/live/100436.m3u8?txSecret=b9afb9307272d6b4e12d75c659eb9c87&txTime=697F90E5&sign=254d47366ab95bfd"
       }
     },
     {
@@ -432,13 +432,24 @@
     },
     {
       "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1770057900,
+      "home": "AVS Futebol SAD",
+      "away": "Sporting Braga",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
       "status": "LIVE",
       "time": 1769959800,
       "home": "Gil Vicente",
       "away": "FC Famalicao",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100436.m3u8?txSecret=c4e0d00095014bc8f6139770cc1863e0&txTime=697F89DE&sign=e99621a6bba96f6d"
+        "url": "https://v.lfsxfj.com/live/100436.m3u8?txSecret=b9afb9307272d6b4e12d75c659eb9c87&txTime=697F90E5&sign=254d47366ab95bfd"
       }
     },
     {
@@ -458,6 +469,17 @@
       "time": 1769977800,
       "home": "CD Tondela",
       "away": "Benfica",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1770057900,
+      "home": "AVS Futebol SAD",
+      "away": "Sporting Braga",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -549,17 +571,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769958900,
-      "home": "Real Betis",
-      "away": "Valencia CF",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769958154.flv"
       }
     },
     {
@@ -579,17 +590,6 @@
       "time": 1769976000,
       "home": "Athletic Club",
       "away": "Real Sociedad",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769958154.flv"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769958900,
-      "home": "Real Betis",
-      "away": "Valencia CF",
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769958154.flv"
