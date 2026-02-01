@@ -1,5 +1,5 @@
 {
- "liveCount": 0,
+ "liveCount": 1,
  "matches": {
   "BRA Serie A": [
    {
@@ -1055,7 +1055,7 @@
      },
      "competition_id": 114,
      "environment": {
-      "humidity": "96%",
+      "humidity": "95%",
       "pressure": "747mmHg",
       "temperature": "5°C",
       "weather": 7,
@@ -1286,7 +1286,7 @@
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/d8ae192476c8c5883682978c994ebe5b.png",
       "manager_id": 0,
       "market_value": 45550000,
-      "market_value_currency": "€",
+      "market_value_currency": "",
       "name_en": "Blackburn Rovers",
       "name_zh": "布莱克本",
       "name_zht": "布力般流浪",
@@ -1296,7 +1296,7 @@
       "short_name_zh": "布莱克本",
       "short_name_zht": "布力般流浪",
       "total_players": 31,
-      "updated_at": 1769981951,
+      "updated_at": 1769988067,
       "venue_id": 1069,
       "website": "http://www.rovers.co.uk/"
      },
@@ -1417,7 +1417,7 @@
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/d8ae192476c8c5883682978c994ebe5b.png",
      "manager_id": 0,
      "market_value": 45550000,
-     "market_value_currency": "€",
+     "market_value_currency": "",
      "name_en": "Blackburn Rovers",
      "name_zh": "布莱克本",
      "name_zht": "布力般流浪",
@@ -1427,7 +1427,7 @@
      "short_name_zh": "布莱克本",
      "short_name_zht": "布力般流浪",
      "total_players": 31,
-     "updated_at": 1769981951,
+     "updated_at": 1769988067,
      "venue_id": 1069,
      "website": "http://www.rovers.co.uk/"
     },
@@ -1768,7 +1768,7 @@
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
       "manager_id": 0,
       "market_value": 344030000,
-      "market_value_currency": "€",
+      "market_value_currency": "",
       "name_en": "Sunderland",
       "name_zh": "桑德兰",
       "name_zht": "新特兰",
@@ -1778,7 +1778,7 @@
       "short_name_zh": "桑德兰",
       "short_name_zht": "新特兰",
       "total_players": 31,
-      "updated_at": 1769980757,
+      "updated_at": 1769988067,
       "venue_id": 1236,
       "website": "http://www.safc.com/"
      },
@@ -1847,7 +1847,7 @@
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
      "manager_id": 0,
      "market_value": 344030000,
-     "market_value_currency": "€",
+     "market_value_currency": "",
      "name_en": "Sunderland",
      "name_zh": "桑德兰",
      "name_zht": "新特兰",
@@ -1857,7 +1857,7 @@
      "short_name_zh": "桑德兰",
      "short_name_zht": "新特兰",
      "total_players": 31,
-     "updated_at": 1769980757,
+     "updated_at": 1769988067,
      "venue_id": 1236,
      "website": "http://www.safc.com/"
     },
@@ -1981,8 +1981,8 @@
       "humidity": "90%",
       "pressure": "759mmHg",
       "temperature": "26°C",
-      "weather": 6,
-      "wind": "2.6m/s"
+      "weather": 9,
+      "wind": "2.3m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -2383,7 +2383,7 @@
      "away_id": 10906,
      "away_otscrore": 0,
      "away_pointscore": 0,
-     "away_rank": "4",
+     "away_rank": "5",
      "away_redcard": 0,
      "away_score": 0,
      "away_yellowcard": 0,
@@ -2860,7 +2860,7 @@
       "pressure": "761mmHg",
       "temperature": "30°C",
       "weather": 5,
-      "wind": "4.8m/s"
+      "wind": "4.5m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -3068,17 +3068,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 21000,
+        "hot": 284500,
         "isvideo": 0,
         "liveid": 176998627563,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 10,
+        "peak_num": 77,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 0,
+        "private_count": 2,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/956863_1769986214.flv",
         "rec_weight": 1,
@@ -3682,8 +3682,8 @@
       "logo_handle": 1,
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/07a555616afab7be32e00150eacf4197.png",
       "manager_id": 0,
-      "market_value": 180300000,
-      "market_value_currency": "",
+      "market_value": 190300000,
+      "market_value_currency": "€",
       "name_en": "Al Hilal",
       "name_zh": "利雅得新月",
       "name_zht": "希拉爾",
@@ -3693,7 +3693,7 @@
       "short_name_zh": "利雅得新月",
       "short_name_zht": "希拉爾",
       "total_players": 29,
-      "updated_at": 1769731193,
+      "updated_at": 1769988150,
       "venue_id": 15910,
       "website": "http://www.alzaeem.com"
      },
@@ -3761,8 +3761,8 @@
      "logo_handle": 1,
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/07a555616afab7be32e00150eacf4197.png",
      "manager_id": 0,
-     "market_value": 180300000,
-     "market_value_currency": "",
+     "market_value": 190300000,
+     "market_value_currency": "€",
      "name_en": "Al Hilal",
      "name_zh": "利雅得新月",
      "name_zht": "希拉爾",
@@ -3772,7 +3772,7 @@
      "short_name_zh": "利雅得新月",
      "short_name_zht": "希拉爾",
      "total_players": 29,
-     "updated_at": 1769731193,
+     "updated_at": 1769988150,
      "venue_id": 15910,
      "website": "http://www.alzaeem.com"
     },
@@ -4254,7 +4254,7 @@
       "pressure": "761mmHg",
       "temperature": "21°C",
       "weather": 5,
-      "wind": "5.3m/s"
+      "wind": "5.1m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -4453,7 +4453,7 @@
       "pressure": "761mmHg",
       "temperature": "21°C",
       "weather": 5,
-      "wind": "5.3m/s"
+      "wind": "5.1m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -5063,17 +5063,17 @@
         "enable_web": 1,
         "end_stamp": null,
         "end_time": null,
-        "hot": 18400,
+        "hot": 91300,
         "isvideo": 0,
         "liveid": 1769986187114,
         "livestream_source": 4,
         "livestream_source_subtype": 0,
         "orientation": 1,
         "password": "",
-        "peak_num": 7,
+        "peak_num": 15,
         "polling_ad_enable": 1,
         "price": 0,
-        "private_count": 0,
+        "private_count": 2,
         "profit": 0,
         "pull_url": "https://hwcn111pull-b.bszb.me/live/2375114_1769985472.flv",
         "rec_weight": 1,
@@ -5172,13 +5172,13 @@
      "competition_id": 465,
      "environment": {
       "humidity": "34%",
-      "pressure": "763mmHg",
-      "temperature": "20°C",
+      "pressure": "772mmHg",
+      "temperature": "21°C",
       "weather": 7,
-      "wind": "4.5m/s"
+      "wind": "3.1m/s"
      },
      "explain": "",
-     "home_corner": 0,
+     "home_corner": 4,
      "home_halfscore": 0,
      "home_id": 11386,
      "home_otscrore": 0,
@@ -5221,7 +5221,7 @@
      "is_race_quiz": 1,
      "is_video": 0,
      "isneutrality": 0,
-     "kickoff_time": 0,
+     "kickoff_time": 1769986828,
      "live": {
       "away": "帕丘卡",
       "comp": "墨西超",
@@ -5230,13 +5230,13 @@
       "is_extend_expire2": 0,
       "is_extend_expire3": 0,
       "match_id": 4465529,
-      "match_status": 1,
+      "match_status": 2,
       "match_time": 1769986800,
       "pushurl1": "rtmp://newtc-namipush.52kq.top/live/sd-1-4465529",
-      "pushurl1_status": 0,
+      "pushurl1_status": 1,
       "pushurl2": "",
       "pushurl2_status": 0,
-      "pushurl3": "",
+      "pushurl3": "rtmp://newtc-namipush.52kq.top/live/hd-en-1-4465529",
       "pushurl3_status": 0,
       "recordurl1": null,
       "recordurl1_file_id": null,
@@ -5264,7 +5264,7 @@
       "short_name_zh": "墨西超",
       "short_name_zht": "墨西超",
       "type": 1,
-      "updated_at": 1768785410
+      "updated_at": 1769986890
      },
      "recommend": 1,
      "round": 4,
@@ -5273,7 +5273,7 @@
      "stage_group": 0,
      "stage_id": 230981,
      "stage_round": 4,
-     "status": 1,
+     "status": 2,
      "time": 1769986800,
      "video_type": "live",
      "walematch": {
@@ -5297,13 +5297,134 @@
       "league_logo": "https://photo.365live88.com/img/fb/cup/925f5de0555341a9bce39becefe9fd6b",
       "league_name": "墨西超|墨西超|MEX Liga MX",
       "match_time": 1769986800,
-      "status": "未",
-      "status_id": 0,
+      "status": "31",
+      "status_id": 1,
       "stream_id": "224468237",
       "third_id": "4465529",
       "wale_match_id": "1837128",
-      "walematchstreams": [],
-      "walematchvideos": []
+      "walematchstreams": [
+       {
+        "file_id": null,
+        "id": 76163,
+        "is_extend_expire": 0,
+        "language": "es_ES",
+        "pushing": 1,
+        "record_url": null,
+        "stream_name": "202_4784089_1",
+        "stream_type": 0,
+        "wale_match_id": "1837128"
+       }
+      ],
+      "walematchvideos": [
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 36,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "flv",
+        "video_url": "https://live4.trendgallary.com/live/66855952_68a300edc49a06f21ab007ec33359163.flv"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 37,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "flv",
+        "video_url": "https://live.vivo200.com/live/sd-1-4465529.flv?txSecret=c3b3b4394857fe415be501386a815331\u0026txTime=69801A3C"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 38,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "flv",
+        "video_url": "rtmp://video7.letaocm.top/live/sd-1-4465529.flv"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 39,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "m3u8",
+        "video_url": "https://live4.trendgallary.com/live/66855952_68a300edc49a06f21ab007ec33359163.m3u8"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 40,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "m3u8",
+        "video_url": "https://live.vivo200.com/live/sd-1-4465529.m3u8?txSecret=c3b3b4394857fe415be501386a815331\u0026txTime=69801A3C"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 41,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "m3u8",
+        "video_url": "https://play2.clomidx.com/live/111826553430_3545820234_adaptive.m3u8"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 42,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "m3u8",
+        "video_url": "http://live4.trendgallary.com/live/66855952_68a300edc49a06f21ab007ec33359163.m3u8"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 43,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "h5",
+        "video_url": "https://play.365live88.com/?url=https://live4.trendgallary.com/live/66855952_68a300edc49a06f21ab007ec33359163.m3u8"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 44,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "h5",
+        "video_url": "https://hsif.btyff.com/video4.html?h5=1\u0026autoplay=0\u0026url=https://hls.suanzsd6.com/hd-en-6MvZ6LwjFntzCTTooD.m3u8?txSecret=9d470f312a9314fd166cf4977b7b87c0\u0026txTime=69812FE5"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 45,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "h5",
+        "video_url": "https://play.365live88.com/?url=https://live4.trendgallary.com/live/66855952_68a300edc49a06f21ab007ec33359163.flv"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 46,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "h5",
+        "video_url": "https://play.365live88.com/?url=https://play2.clomidx.com/live/111826553430_3545820234_adaptive.m3u8"
+       },
+       {
+        "created_at": "2026-02-02 07:30:03",
+        "id": 47,
+        "match_id": "1837128",
+        "playing": 1,
+        "updated_at": "2026-02-02 07:30:03",
+        "v_type": "h5",
+        "video_url": "https://play.365live88.com/?url=http://live4.trendgallary.com/live/66855952_68a300edc49a06f21ab007ec33359163.m3u8"
+       }
+      ]
      }
     },
     "home": {
@@ -5335,8 +5456,8 @@
      "website": "http://www.gallos-blancos.com/"
     },
     "home_score": 0,
-    "status": 1,
-    "streams": false
+    "status": 2,
+    "streams": true
    }
   ],
   "POR Cup": [
@@ -5813,7 +5934,7 @@
      "away_id": 10425,
      "away_otscrore": 0,
      "away_pointscore": 0,
-     "away_rank": "13",
+     "away_rank": "14",
      "away_redcard": 0,
      "away_score": 0,
      "away_yellowcard": 0,
@@ -5847,11 +5968,11 @@
      },
      "competition_id": 120,
      "environment": {
-      "humidity": "72%",
+      "humidity": "73%",
       "pressure": "752mmHg",
-      "temperature": "14°C",
+      "temperature": "15°C",
       "weather": 7,
-      "wind": "6.8m/s"
+      "wind": "7.0m/s"
      },
      "explain": "",
      "home_corner": 0,
@@ -6191,7 +6312,7 @@
      "logo_handle": 1,
      "logo_rt": "https://cdn.sportnanoapi.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",
      "manager_id": 0,
-     "market_value": 279500000,
+     "market_value": 286500000,
      "market_value_currency": "€",
      "name_en": "Fenerbahce",
      "name_zh": "费内巴切",
@@ -6202,7 +6323,7 @@
      "short_name_zh": "费内巴切",
      "short_name_zht": "費倫巴治",
      "total_players": 28,
-     "updated_at": 1769982014,
+     "updated_at": 1769988150,
      "venue_id": 1275,
      "website": "http://www.fenerbahce.org/eng/"
     },
@@ -6232,7 +6353,7 @@
       "logo_handle": 1,
       "logo_rt": "https://cdn.sportnanoapi.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",
       "manager_id": 0,
-      "market_value": 279500000,
+      "market_value": 286500000,
       "market_value_currency": "€",
       "name_en": "Fenerbahce",
       "name_zh": "费内巴切",
@@ -6243,7 +6364,7 @@
       "short_name_zh": "费内巴切",
       "short_name_zht": "費倫巴治",
       "total_players": 28,
-      "updated_at": 1769982014,
+      "updated_at": 1769988150,
       "venue_id": 1275,
       "website": "http://www.fenerbahce.org/eng/"
      },
@@ -6251,9 +6372,9 @@
      "environment": {
       "humidity": "91%",
       "pressure": "760mmHg",
-      "temperature": "5°C",
+      "temperature": "4°C",
       "weather": 10,
-      "wind": "4.0m/s"
+      "wind": "4.3m/s"
      },
      "explain": "",
      "home_corner": 0,

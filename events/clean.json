@@ -1,5 +1,5 @@
 {
-  "updated": 1769986690,
+  "updated": 1769988894,
   "events": [
     {
       "league": "BRA Serie A",
@@ -514,8 +514,8 @@
       "home": "Queretaro FC",
       "away": "Pachuca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1769985472.flv"
+        "type": "m3u8",
+        "url": "https://live4.trendgallary.com/live/66855952_68a300edc49a06f21ab007ec33359163.m3u8"
       }
     },
     {
@@ -525,8 +525,8 @@
       "home": "Queretaro FC",
       "away": "Pachuca",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1769985472.flv"
+        "type": "m3u8",
+        "url": "https://live4.trendgallary.com/live/66855952_68a300edc49a06f21ab007ec33359163.m3u8"
       }
     },
     {
