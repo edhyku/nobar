@@ -30,6 +30,7 @@ jobs:
           ' gvision.m3u \
           | sed 's/group-title="[^"]*"/group-title="LIVE EVENT RECOMMENDED"/gi' \
           | sed 's/Gvision TV//gi' \
+          | sed 's|https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg|https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png|g' \
           >> recommended.m3u
 
       - name: Commit
