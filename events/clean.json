@@ -1,7 +1,51 @@
 {
-  "updated": 1769983024,
+  "updated": 1769985356,
   "events": [
     {
+      "league": "BRA Serie A",
+      "status": "UPCOMING",
+      "time": 1770242400,
+      "home": "CR Flamengo",
+      "away": "Internacional RS",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BRA Serie A",
+      "status": "UPCOMING",
+      "time": 1770242400,
+      "home": "Red Bull Bragantino",
+      "away": "Atletico Mineiro",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BRA Serie A",
+      "status": "UPCOMING",
+      "time": 1770242400,
+      "home": "CR Flamengo",
+      "away": "Internacional RS",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "BRA Serie A",
+      "status": "UPCOMING",
+      "time": 1770242400,
+      "home": "Red Bull Bragantino",
+      "away": "Atletico Mineiro",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "CONCACAF U17 Championship",
       "status": "UPCOMING",
       "time": 1770148800,
@@ -421,17 +465,6 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769977800,
-      "home": "CD Tondela",
-      "away": "Benfica",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368965.m3u8?txSecret=16a530558438e586967181bcb3eab5e4&txTime=697FF973"
-      }
-    },
-    {
-      "league": "Liga Portugal",
       "status": "UPCOMING",
       "time": 1770057900,
       "home": "AVS Futebol SAD",
@@ -450,17 +483,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "Liga Portugal",
-      "status": "LIVE",
-      "time": 1769977800,
-      "home": "CD Tondela",
-      "away": "Benfica",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4368965.m3u8?txSecret=16a530558438e586967181bcb3eab5e4&txTime=697FF973"
       }
     },
     {
@@ -549,17 +571,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769976000,
-      "home": "Athletic Club",
-      "away": "Real Sociedad",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358875.m3u8?txSecret=6e25aaaca2108e7244fd8bb75155e6d4&txTime=697FF96B"
       }
     },
     {
@@ -571,17 +582,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "SPA La Liga",
-      "status": "LIVE",
-      "time": 1769976000,
-      "home": "Athletic Club",
-      "away": "Real Sociedad",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4358875.m3u8?txSecret=6e25aaaca2108e7244fd8bb75155e6d4&txTime=697FF96B"
       }
     },
     {
