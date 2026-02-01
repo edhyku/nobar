@@ -537,8 +537,8 @@
           },
           "competition_id": 82,
           "environment": {
-            "humidity": "93%",
-            "pressure": "750mmHg",
+            "humidity": "94%",
+            "pressure": "751mmHg",
             "temperature": "7°C",
             "weather": 7,
             "wind": "1.8m/s"
@@ -1536,8 +1536,8 @@
           },
           "competition_id": 82,
           "environment": {
-            "humidity": "93%",
-            "pressure": "750mmHg",
+            "humidity": "94%",
+            "pressure": "751mmHg",
             "temperature": "7°C",
             "weather": 7,
             "wind": "1.8m/s"
@@ -2537,11 +2537,11 @@
           },
           "competition_id": 142,
           "environment": {
-            "humidity": "78%",
+            "humidity": "76%",
             "pressure": "757mmHg",
             "temperature": "9°C",
             "weather": 10,
-            "wind": "2.6m/s"
+            "wind": "2.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3170,11 +3170,11 @@
           },
           "competition_id": 142,
           "environment": {
-            "humidity": "76%",
-            "pressure": "758mmHg",
+            "humidity": "75%",
+            "pressure": "757mmHg",
             "temperature": "11°C",
             "weather": 7,
-            "wind": "1.8m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3420,11 +3420,11 @@
           },
           "competition_id": 142,
           "environment": {
-            "humidity": "78%",
+            "humidity": "76%",
             "pressure": "757mmHg",
             "temperature": "9°C",
             "weather": 10,
-            "wind": "2.6m/s"
+            "wind": "2.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4053,11 +4053,11 @@
           },
           "competition_id": 142,
           "environment": {
-            "humidity": "76%",
-            "pressure": "758mmHg",
+            "humidity": "75%",
+            "pressure": "757mmHg",
             "temperature": "11°C",
             "weather": 7,
-            "wind": "1.8m/s"
+            "wind": "1.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -4308,7 +4308,7 @@
             "humidity": "76%",
             "pressure": "758mmHg",
             "temperature": "7°C",
-            "weather": 1,
+            "weather": 5,
             "wind": "2.0m/s"
           },
           "explain": "",
@@ -4769,7 +4769,7 @@
             "humidity": "76%",
             "pressure": "758mmHg",
             "temperature": "7°C",
-            "weather": 1,
+            "weather": 5,
             "wind": "2.0m/s"
           },
           "explain": "",
@@ -5251,7 +5251,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 15,
+            "foreign_players": 14,
             "foundation_time": "1895",
             "id": 10727,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/15820ab793d530ee9d101bde619a013f.png",
@@ -5269,7 +5269,7 @@
             "short_name_zh": "杜塞尔多夫",
             "short_name_zht": "杜斯多夫",
             "total_players": 33,
-            "updated_at": 1769791733,
+            "updated_at": 1769938913,
             "venue_id": 1104,
             "website": "http://www.fortuna95.de/"
           },
@@ -5342,7 +5342,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 15,
+          "foreign_players": 14,
           "foundation_time": "1895",
           "id": 10727,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/15820ab793d530ee9d101bde619a013f.png",
@@ -5360,7 +5360,7 @@
           "short_name_zh": "杜塞尔多夫",
           "short_name_zht": "杜斯多夫",
           "total_players": 33,
-          "updated_at": 1769791733,
+          "updated_at": 1769938913,
           "venue_id": 1104,
           "website": "http://www.fortuna95.de/"
         },
@@ -5751,7 +5751,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 8,
+            "foreign_players": 5,
             "foundation_time": "1990",
             "id": 10650,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/5b8a3bb282d72348c18e6338dd8d284c.png",
@@ -5769,7 +5769,7 @@
             "short_name_zh": "德累斯顿",
             "short_name_zht": "特雷斯登戴拿模",
             "total_players": 31,
-            "updated_at": 1769681526,
+            "updated_at": 1769938913,
             "venue_id": 1151,
             "website": "http://www.dynamo-dresden.de"
           },
@@ -5842,7 +5842,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 8,
+          "foreign_players": 5,
           "foundation_time": "1990",
           "id": 10650,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/5b8a3bb282d72348c18e6338dd8d284c.png",
@@ -5860,7 +5860,7 @@
           "short_name_zh": "德累斯顿",
           "short_name_zht": "特雷斯登戴拿模",
           "total_players": 31,
-          "updated_at": 1769681526,
+          "updated_at": 1769938913,
           "venue_id": 1151,
           "website": "http://www.dynamo-dresden.de"
         },
@@ -6001,7 +6001,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 15,
+            "foreign_players": 14,
             "foundation_time": "1895",
             "id": 10727,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/15820ab793d530ee9d101bde619a013f.png",
@@ -6019,7 +6019,7 @@
             "short_name_zh": "杜塞尔多夫",
             "short_name_zht": "杜斯多夫",
             "total_players": 33,
-            "updated_at": 1769791733,
+            "updated_at": 1769938913,
             "venue_id": 1104,
             "website": "http://www.fortuna95.de/"
           },
@@ -6092,7 +6092,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 15,
+          "foreign_players": 14,
           "foundation_time": "1895",
           "id": 10727,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/15820ab793d530ee9d101bde619a013f.png",
@@ -6110,7 +6110,7 @@
           "short_name_zh": "杜塞尔多夫",
           "short_name_zht": "杜斯多夫",
           "total_players": 33,
-          "updated_at": 1769791733,
+          "updated_at": 1769938913,
           "venue_id": 1104,
           "website": "http://www.fortuna95.de/"
         },
@@ -6501,7 +6501,7 @@
             "country_logo": "",
             "country_logo_handle": 0,
             "country_logo_rt": "",
-            "foreign_players": 8,
+            "foreign_players": 5,
             "foundation_time": "1990",
             "id": 10650,
             "logo": "https://wtsymycyh.99kq.top/logo/football_team/5b8a3bb282d72348c18e6338dd8d284c.png",
@@ -6519,7 +6519,7 @@
             "short_name_zh": "德累斯顿",
             "short_name_zht": "特雷斯登戴拿模",
             "total_players": 31,
-            "updated_at": 1769681526,
+            "updated_at": 1769938913,
             "venue_id": 1151,
             "website": "http://www.dynamo-dresden.de"
           },
@@ -6592,7 +6592,7 @@
           "country_logo": "",
           "country_logo_handle": 0,
           "country_logo_rt": "",
-          "foreign_players": 8,
+          "foreign_players": 5,
           "foundation_time": "1990",
           "id": 10650,
           "logo": "https://wtsymycyh.99kq.top/logo/football_team/5b8a3bb282d72348c18e6338dd8d284c.png",
@@ -6610,7 +6610,7 @@
           "short_name_zh": "德累斯顿",
           "short_name_zht": "特雷斯登戴拿模",
           "total_players": 31,
-          "updated_at": 1769681526,
+          "updated_at": 1769938913,
           "venue_id": 1151,
           "website": "http://www.dynamo-dresden.de"
         },
@@ -6649,7 +6649,7 @@
           "venue_id": 16344,
           "website": ""
         },
-        "away_score": 0,
+        "away_score": 1,
         "data": {
           "anchors": [
             {
@@ -6705,17 +6705,17 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 286600,
+                "hot": 391000,
                 "isvideo": 0,
                 "liveid": 1769933989837,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 68,
+                "peak_num": 75,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 7,
+                "private_count": 15,
                 "profit": 976,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/1752837_1769933967.flv",
                 "rec_weight": 1,
@@ -6781,7 +6781,7 @@
           "away_pointscore": 0,
           "away_rank": "7",
           "away_redcard": 0,
-          "away_score": 0,
+          "away_score": 1,
           "away_yellowcard": 0,
           "awayteam": {
             "competition_id": 1788,
@@ -6813,14 +6813,14 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "68%",
+            "humidity": "69%",
             "pressure": "761mmHg",
             "temperature": "31°C",
             "weather": 6,
             "wind": "2.6m/s"
           },
           "explain": "",
-          "home_corner": 5,
+          "home_corner": 7,
           "home_halfscore": 1,
           "home_id": 31764,
           "home_otscrore": 0,
@@ -6863,7 +6863,7 @@
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
-          "kickoff_time": 1769938339,
+          "kickoff_time": 1769938340,
           "live": {
             "away": "永亚卡达",
             "comp": "印尼超",
@@ -6925,7 +6925,7 @@
             "away_name": "永亚卡达|永亞卡達|PSIM Yogyakarta",
             "away_overtime_score": 0,
             "away_penalty_score": 0,
-            "away_score": 0,
+            "away_score": 1,
             "game_type": 6,
             "has_live": 1,
             "home_half_score": 1,
@@ -6939,7 +6939,7 @@
             "league_logo": "https://photo.365live88.com/img/fb/cup/967edb215a0b425392c3429d9a377a5e",
             "league_name": "印尼超|印尼超|IDN Liga 1",
             "match_time": 1769934600,
-            "status": "60",
+            "status": "85",
             "status_id": 3,
             "stream_id": "224390624",
             "third_id": "4379346",
@@ -6959,76 +6959,94 @@
             ],
             "walematchvideos": [
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 12,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 2,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "flv",
-                "video_url": "https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.flv"
+                "video_url": "https://live.trendgallary.com/live/g6763i52jn8to7r_97535be0c752d8c0cfb543191db15d37.flv"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 13,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 3,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "flv",
                 "video_url": "https://live.vivo200.com/live/sd-1-4379346.flv?txSecret=52d5fb00fc400658385073a8af483398&txTime=697F65C3"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 14,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 4,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
+                "v_type": "flv",
+                "video_url": "https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.flv"
+              },
+              {
+                "created_at": "2026-02-01 18:10:03",
+                "id": 5,
+                "match_id": "1718238",
+                "playing": 1,
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "flv",
                 "video_url": "rtmp://video7.letaocm.top/live/sd-1-4379346.flv"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 15,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 6,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "m3u8",
-                "video_url": "https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.m3u8"
+                "video_url": "https://live.trendgallary.com/live/g6763i52jn8to7r_97535be0c752d8c0cfb543191db15d37.m3u8"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 16,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 7,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "m3u8",
                 "video_url": "https://live.vivo200.com/live/sd-1-4379346.m3u8?txSecret=52d5fb00fc400658385073a8af483398&txTime=697F65C3"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 17,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 8,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
-                "v_type": "h5",
-                "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.m3u8"
+                "updated_at": "2026-02-01 18:10:03",
+                "v_type": "m3u8",
+                "video_url": "https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.m3u8"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 18,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 9,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/g6763i52jn8to7r_97535be0c752d8c0cfb543191db15d37.m3u8"
+              },
+              {
+                "created_at": "2026-02-01 18:10:03",
+                "id": 10,
+                "match_id": "1718238",
+                "playing": 1,
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "h5",
                 "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.flv"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 19,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 11,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "h5",
-                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MuTNFjqbGANZsyW7q.m3u8?txSecret=793a689fa3595091d47e240599b6bcdd&txTime=69807032"
+                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MuTNFjqbGANZsyW7q.m3u8?txSecret=fd4f0e18aa321076ffab1e66b3183486&txTime=6980750D"
               }
             ]
           }
@@ -7094,7 +7112,7 @@
           "venue_id": 16344,
           "website": ""
         },
-        "away_score": 0,
+        "away_score": 1,
         "data": {
           "anchors": [
             {
@@ -7150,17 +7168,17 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 286600,
+                "hot": 391000,
                 "isvideo": 0,
                 "liveid": 1769933989837,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 68,
+                "peak_num": 75,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 7,
+                "private_count": 15,
                 "profit": 976,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/1752837_1769933967.flv",
                 "rec_weight": 1,
@@ -7226,7 +7244,7 @@
           "away_pointscore": 0,
           "away_rank": "7",
           "away_redcard": 0,
-          "away_score": 0,
+          "away_score": 1,
           "away_yellowcard": 0,
           "awayteam": {
             "competition_id": 1788,
@@ -7258,14 +7276,14 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "68%",
+            "humidity": "69%",
             "pressure": "761mmHg",
             "temperature": "31°C",
             "weather": 6,
             "wind": "2.6m/s"
           },
           "explain": "",
-          "home_corner": 5,
+          "home_corner": 7,
           "home_halfscore": 1,
           "home_id": 31764,
           "home_otscrore": 0,
@@ -7308,7 +7326,7 @@
           "is_race_quiz": 1,
           "is_video": 0,
           "isneutrality": 0,
-          "kickoff_time": 1769938339,
+          "kickoff_time": 1769938340,
           "live": {
             "away": "永亚卡达",
             "comp": "印尼超",
@@ -7370,7 +7388,7 @@
             "away_name": "永亚卡达|永亞卡達|PSIM Yogyakarta",
             "away_overtime_score": 0,
             "away_penalty_score": 0,
-            "away_score": 0,
+            "away_score": 1,
             "game_type": 6,
             "has_live": 1,
             "home_half_score": 1,
@@ -7384,7 +7402,7 @@
             "league_logo": "https://photo.365live88.com/img/fb/cup/967edb215a0b425392c3429d9a377a5e",
             "league_name": "印尼超|印尼超|IDN Liga 1",
             "match_time": 1769934600,
-            "status": "60",
+            "status": "85",
             "status_id": 3,
             "stream_id": "224390624",
             "third_id": "4379346",
@@ -7404,76 +7422,94 @@
             ],
             "walematchvideos": [
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 12,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 2,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "flv",
-                "video_url": "https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.flv"
+                "video_url": "https://live.trendgallary.com/live/g6763i52jn8to7r_97535be0c752d8c0cfb543191db15d37.flv"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 13,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 3,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "flv",
                 "video_url": "https://live.vivo200.com/live/sd-1-4379346.flv?txSecret=52d5fb00fc400658385073a8af483398&txTime=697F65C3"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 14,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 4,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
+                "v_type": "flv",
+                "video_url": "https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.flv"
+              },
+              {
+                "created_at": "2026-02-01 18:10:03",
+                "id": 5,
+                "match_id": "1718238",
+                "playing": 1,
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "flv",
                 "video_url": "rtmp://video7.letaocm.top/live/sd-1-4379346.flv"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 15,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 6,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "m3u8",
-                "video_url": "https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.m3u8"
+                "video_url": "https://live.trendgallary.com/live/g6763i52jn8to7r_97535be0c752d8c0cfb543191db15d37.m3u8"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 16,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 7,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "m3u8",
                 "video_url": "https://live.vivo200.com/live/sd-1-4379346.m3u8?txSecret=52d5fb00fc400658385073a8af483398&txTime=697F65C3"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 17,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 8,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
-                "v_type": "h5",
-                "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.m3u8"
+                "updated_at": "2026-02-01 18:10:03",
+                "v_type": "m3u8",
+                "video_url": "https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.m3u8"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 18,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 9,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
+                "v_type": "h5",
+                "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/g6763i52jn8to7r_97535be0c752d8c0cfb543191db15d37.m3u8"
+              },
+              {
+                "created_at": "2026-02-01 18:10:03",
+                "id": 10,
+                "match_id": "1718238",
+                "playing": 1,
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "h5",
                 "video_url": "https://play.365live88.com/?url=https://live.trendgallary.com/live/62082930_0a047cba616d6033cead8a67509b69d4.flv"
               },
               {
-                "created_at": "2026-02-01 17:45:02",
-                "id": 19,
+                "created_at": "2026-02-01 18:10:03",
+                "id": 11,
                 "match_id": "1718238",
                 "playing": 1,
-                "updated_at": "2026-02-01 17:45:02",
+                "updated_at": "2026-02-01 18:10:03",
                 "v_type": "h5",
-                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MuTNFjqbGANZsyW7q.m3u8?txSecret=793a689fa3595091d47e240599b6bcdd&txTime=69807032"
+                "video_url": "https://hsif.btyff.com/video4.html?h5=1&autoplay=0&url=https://hls.suanzsd6.com/sd-6MuTNFjqbGANZsyW7q.m3u8?txSecret=fd4f0e18aa321076ffab1e66b3183486&txTime=6980750D"
               }
             ]
           }
@@ -7623,11 +7659,11 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "77%",
+            "humidity": "79%",
             "pressure": "758mmHg",
             "temperature": "7°C",
             "weather": 1,
-            "wind": "1.5m/s"
+            "wind": "0.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -7902,7 +7938,7 @@
           "competition_id": 108,
           "environment": {
             "humidity": "65%",
-            "pressure": "758mmHg",
+            "pressure": "757mmHg",
             "temperature": "8°C",
             "weather": 7,
             "wind": "2.3m/s"
@@ -8112,7 +8148,7 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "90%",
+            "humidity": "91%",
             "pressure": "758mmHg",
             "temperature": "6°C",
             "weather": 5,
@@ -8362,11 +8398,11 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "77%",
+            "humidity": "79%",
             "pressure": "758mmHg",
             "temperature": "7°C",
             "weather": 1,
-            "wind": "1.5m/s"
+            "wind": "0.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8641,7 +8677,7 @@
           "competition_id": 108,
           "environment": {
             "humidity": "65%",
-            "pressure": "758mmHg",
+            "pressure": "757mmHg",
             "temperature": "8°C",
             "weather": 7,
             "wind": "2.3m/s"
@@ -8851,7 +8887,7 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "90%",
+            "humidity": "91%",
             "pressure": "758mmHg",
             "temperature": "6°C",
             "weather": 5,
@@ -10361,7 +10397,7 @@
           },
           "competition_id": 168,
           "environment": {
-            "humidity": "84%",
+            "humidity": "83%",
             "pressure": "756mmHg",
             "temperature": "7°C",
             "weather": 7,
@@ -10573,17 +10609,17 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 286600,
+                "hot": 391000,
                 "isvideo": 0,
                 "liveid": 1769933989837,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 68,
+                "peak_num": 75,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 7,
+                "private_count": 15,
                 "profit": 976,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/1752837_1769933967.flv",
                 "rec_weight": 1,
@@ -10681,11 +10717,11 @@
           },
           "competition_id": 168,
           "environment": {
-            "humidity": "82%",
+            "humidity": "84%",
             "pressure": "755mmHg",
             "temperature": "8°C",
             "weather": 7,
-            "wind": "3.2m/s"
+            "wind": "2.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11447,7 +11483,7 @@
           },
           "competition_id": 168,
           "environment": {
-            "humidity": "84%",
+            "humidity": "83%",
             "pressure": "756mmHg",
             "temperature": "7°C",
             "weather": 7,
@@ -11659,17 +11695,17 @@
                 "enable_web": 1,
                 "end_stamp": null,
                 "end_time": null,
-                "hot": 286600,
+                "hot": 391000,
                 "isvideo": 0,
                 "liveid": 1769933989837,
                 "livestream_source": 4,
                 "livestream_source_subtype": 0,
                 "orientation": 1,
                 "password": "",
-                "peak_num": 68,
+                "peak_num": 75,
                 "polling_ad_enable": 1,
                 "price": 0,
-                "private_count": 7,
+                "private_count": 15,
                 "profit": 976,
                 "pull_url": "https://hwcn111pull-b.bszb.me/live/1752837_1769933967.flv",
                 "rec_weight": 1,
@@ -11767,11 +11803,11 @@
           },
           "competition_id": 168,
           "environment": {
-            "humidity": "82%",
+            "humidity": "84%",
             "pressure": "755mmHg",
             "temperature": "8°C",
             "weather": 7,
-            "wind": "3.2m/s"
+            "wind": "2.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12756,10 +12792,10 @@
           },
           "competition_id": 120,
           "environment": {
-            "humidity": "92%",
+            "humidity": "91%",
             "pressure": "759mmHg",
             "temperature": "9°C",
-            "weather": 10,
+            "weather": 7,
             "wind": "1.5m/s"
           },
           "explain": "",
@@ -13505,10 +13541,10 @@
           },
           "competition_id": 120,
           "environment": {
-            "humidity": "92%",
+            "humidity": "91%",
             "pressure": "759mmHg",
             "temperature": "9°C",
-            "weather": 10,
+            "weather": 7,
             "wind": "1.5m/s"
           },
           "explain": "",
@@ -13720,7 +13756,7 @@
           "environment": {
             "humidity": "62%",
             "pressure": "758mmHg",
-            "temperature": "13°C",
+            "temperature": "12°C",
             "weather": 1,
             "wind": "1.2m/s"
           },
@@ -14142,7 +14178,7 @@
           "environment": {
             "humidity": "62%",
             "pressure": "758mmHg",
-            "temperature": "13°C",
+            "temperature": "12°C",
             "weather": 1,
             "wind": "1.2m/s"
           },
