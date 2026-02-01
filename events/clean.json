@@ -1,5 +1,5 @@
 {
-  "updated": 1769953881,
+  "updated": 1769955719,
   "events": [
     {
       "league": "ENG Premier League",
@@ -8,8 +8,8 @@
       "home": "Aston Villa",
       "away": "Brentford",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769953734.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4343150.m3u8?txSecret=358c2679fced3f78e2a322f731923fd5&txTime=697F846D"
       }
     },
     {
@@ -19,8 +19,8 @@
       "home": "Manchester United",
       "away": "Fulham",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769953578.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4343158.m3u8?txSecret=34d670008ece4bd370a4564a5ff375c3&txTime=697F846D"
       }
     },
     {
@@ -30,8 +30,8 @@
       "home": "Nottingham Forest",
       "away": "Crystal Palace",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769953545.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4343160.m3u8?txSecret=4b3e1d867bb24b908f2ca6c28d3ab1e0&txTime=697F846D"
       }
     },
     {
@@ -52,8 +52,8 @@
       "home": "Aston Villa",
       "away": "Brentford",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359612_1769953734.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4343150.m3u8?txSecret=358c2679fced3f78e2a322f731923fd5&txTime=697F846D"
       }
     },
     {
@@ -63,8 +63,8 @@
       "home": "Manchester United",
       "away": "Fulham",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2366319_1769953578.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4343158.m3u8?txSecret=34d670008ece4bd370a4564a5ff375c3&txTime=697F846D"
       }
     },
     {
@@ -74,8 +74,8 @@
       "home": "Nottingham Forest",
       "away": "Crystal Palace",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769953545.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4343160.m3u8?txSecret=4b3e1d867bb24b908f2ca6c28d3ab1e0&txTime=697F846D"
       }
     },
     {
@@ -96,8 +96,8 @@
       "home": "Lyon",
       "away": "LOSC Lille",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769953739.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347851.m3u8?txSecret=ca3f229a1031c6bc91e69a7a90a35258&txTime=697F846D"
       }
     },
     {
@@ -151,8 +151,8 @@
       "home": "Lyon",
       "away": "LOSC Lille",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1161772_1769953739.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4347851.m3u8?txSecret=ca3f229a1031c6bc91e69a7a90a35258&txTime=697F846D"
       }
     },
     {
@@ -201,13 +201,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769956200,
       "home": "VfB Stuttgart",
       "away": "SC Freiburg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769955133.flv"
       }
     },
     {
@@ -223,13 +223,13 @@
     },
     {
       "league": "GER Bundesliga",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769956200,
       "home": "VfB Stuttgart",
       "away": "SC Freiburg",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769955133.flv"
       }
     },
     {
@@ -251,7 +251,7 @@
       "away": "SC Paderborn 07",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355732.m3u8?txSecret=5c0d19428e1841f1a6ca0f6112e0b718&txTime=697F86A8"
+        "url": "https://live1.trendgallary.com/live/61514996_2f18a6a033ded9faf1526352d3237daa.m3u8"
       }
     },
     {
@@ -262,7 +262,7 @@
       "away": "SV Darmstadt 98",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355733.m3u8?txSecret=d950a58ed2c5a3fd397482454025c7e9&txTime=697F86A8"
+        "url": "https://live2.trendgallary.com/live/61515002_d7ee8279b3ddb747d671495ed12f4f2a.m3u8"
       }
     },
     {
@@ -273,7 +273,7 @@
       "away": "Arminia Bielefeld",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355738.m3u8?txSecret=cfa9c26863d3a18f72960a62f0e32523&txTime=697F86A8"
+        "url": "https://live3.trendgallary.com/live/61515006_2c418009375026f7a1092c5da6df07a5.m3u8"
       }
     },
     {
@@ -284,7 +284,7 @@
       "away": "SC Paderborn 07",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355732.m3u8?txSecret=5c0d19428e1841f1a6ca0f6112e0b718&txTime=697F86A8"
+        "url": "https://live1.trendgallary.com/live/61514996_2f18a6a033ded9faf1526352d3237daa.m3u8"
       }
     },
     {
@@ -295,7 +295,7 @@
       "away": "SV Darmstadt 98",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355733.m3u8?txSecret=d950a58ed2c5a3fd397482454025c7e9&txTime=697F86A8"
+        "url": "https://live2.trendgallary.com/live/61515002_d7ee8279b3ddb747d671495ed12f4f2a.m3u8"
       }
     },
     {
@@ -306,7 +306,7 @@
       "away": "Arminia Bielefeld",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4355738.m3u8?txSecret=cfa9c26863d3a18f72960a62f0e32523&txTime=697F86A8"
+        "url": "https://live3.trendgallary.com/live/61515006_2c418009375026f7a1092c5da6df07a5.m3u8"
       }
     },
     {
@@ -338,8 +338,8 @@
       "home": "Como",
       "away": "Atalanta",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/810230_1769953500.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4339760.m3u8?txSecret=64765a44a7552ceeddf56ea69b9b1fb8&txTime=697F846D"
       }
     },
     {
@@ -371,8 +371,8 @@
       "home": "Como",
       "away": "Atalanta",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/810230_1769953500.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4339760.m3u8?txSecret=64765a44a7552ceeddf56ea69b9b1fb8&txTime=697F846D"
       }
     },
     {
@@ -515,7 +515,7 @@
       "away": "Fortuna Sittard",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100328.m3u8?txSecret=2a2e15014d27e056f2d83e812c2a1f9a&txTime=697F6064&sign=ded616e3e6fffaf8"
+        "url": "https://v.lfsxfj.com/live/100328.m3u8?txSecret=b9c761c4fa0bf9ff465f20814031e217&txTime=697F676B&sign=97c3555991a7ee24"
       }
     },
     {
@@ -525,8 +525,8 @@
       "home": "PSV Eindhoven",
       "away": "Feyenoord",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769951750.flv"
+        "type": "m3u8",
+        "url": "https://play5.clomidx.com/live/11236623875_141704606_adaptive.m3u8"
       }
     },
     {
@@ -559,7 +559,7 @@
       "away": "Fortuna Sittard",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100328.m3u8?txSecret=2a2e15014d27e056f2d83e812c2a1f9a&txTime=697F6064&sign=ded616e3e6fffaf8"
+        "url": "https://v.lfsxfj.com/live/100328.m3u8?txSecret=b9c761c4fa0bf9ff465f20814031e217&txTime=697F676B&sign=97c3555991a7ee24"
       }
     },
     {
@@ -569,8 +569,8 @@
       "home": "PSV Eindhoven",
       "away": "Feyenoord",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1752837_1769951750.flv"
+        "type": "m3u8",
+        "url": "https://play5.clomidx.com/live/11236623875_141704606_adaptive.m3u8"
       }
     },
     {
