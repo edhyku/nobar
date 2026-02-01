@@ -2,7 +2,7 @@ name: Auto Update M3U gvision
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # tiap 30 menit
+    - cron: "*/15 * * * *"   # tiap 30 menit
   workflow_dispatch:
 
 jobs:
