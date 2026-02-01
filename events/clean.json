@@ -1,5 +1,5 @@
 {
-  "updated": 1769977228,
+  "updated": 1769978915,
   "events": [
     {
       "league": "CONCACAF U17 Championship",
@@ -421,13 +421,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769977800,
       "home": "CD Tondela",
       "away": "Benfica",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368965.m3u8?txSecret=16a530558438e586967181bcb3eab5e4&txTime=697FF973"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "Liga Portugal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769977800,
       "home": "CD Tondela",
       "away": "Benfica",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368965.m3u8?txSecret=16a530558438e586967181bcb3eab5e4&txTime=697FF973"
       }
     },
     {
