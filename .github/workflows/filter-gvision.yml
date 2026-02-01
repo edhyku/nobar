@@ -28,6 +28,7 @@ jobs:
 
             /^$/ { keep=0 }
           ' gvision.m3u \
+          | sed 's/ #EXTVLCOPT:.*//g' \
           | sed 's/group-title="[^"]*"/group-title="LIVE EVENT RECOMMENDED"/gi' \
           | sed 's/Gvision TV//gi' \
           | sed 's|https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg|https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png|g' \
@@ -35,6 +36,11 @@ jobs:
 
       - name: Commit
         run: |
+          git config user.name "m3u-bot"
+          git config user.email "bot@github.com"
+          git add recommended.m3u
+          git commit -m "auto filter live event recommended" || echo "no changes"
+          git push        run: |
           git config user.name "m3u-bot"
           git config user.email "bot@github.com"
           git add recommended.m3u
