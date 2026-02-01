@@ -1,19 +1,8 @@
 {
-  "updated": 1769969773,
+  "updated": 1769972182,
   "events": [
     {
       "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769963400,
-      "home": "Tottenham Hotspur",
-      "away": "Manchester City",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play.clomidx.com/live/11181996871_635719618_adaptive.m3u8"
-      }
-    },
-    {
-      "league": "ENG Premier League",
       "status": "UPCOMING",
       "time": 1770062400,
       "home": "Sunderland",
@@ -21,17 +10,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ENG Premier League",
-      "status": "LIVE",
-      "time": 1769963400,
-      "home": "Tottenham Hotspur",
-      "away": "Manchester City",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play.clomidx.com/live/11181996871_635719618_adaptive.m3u8"
       }
     },
     {
@@ -68,25 +46,14 @@
       }
     },
     {
-      "league": "GER Bundesliga",
+      "league": "GRE Super League",
       "status": "LIVE",
-      "time": 1769963400,
-      "home": "Borussia Dortmund",
-      "away": "1. FC Heidenheim 1846",
+      "time": 1769972400,
+      "home": "AEK Athens",
+      "away": "Olympiakos Piraeus",
       "stream": {
-        "type": "m3u8",
-        "url": "https://play2.clomidx.com/live/113550952603_1762300434_adaptive.m3u8"
-      }
-    },
-    {
-      "league": "GER Bundesliga",
-      "status": "LIVE",
-      "time": 1769963400,
-      "home": "Borussia Dortmund",
-      "away": "1. FC Heidenheim 1846",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play2.clomidx.com/live/113550952603_1762300434_adaptive.m3u8"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769971870.flv"
       }
     },
     {
@@ -97,18 +64,7 @@
       "away": "Olympiakos Piraeus",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769963537.flv"
-      }
-    },
-    {
-      "league": "GRE Super League",
-      "status": "LIVE",
-      "time": 1769972400,
-      "home": "AEK Athens",
-      "away": "Olympiakos Piraeus",
-      "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769963537.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/1063881_1769971870.flv"
       }
     },
     {
@@ -284,7 +240,7 @@
       "away": "Al Najma(KSA)",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=3c0275737e1d315af04a98256bbac37c&txTime=697F9EF6&sign=acf5407519fa45e5"
+        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=50e9c24b6b5c9901032df542a71cf46b&txTime=697FA81C&sign=5ae51b786807602c"
       }
     },
     {
@@ -315,6 +271,28 @@
       "time": 1770053400,
       "home": "Al Okhdood",
       "away": "NEOM Sports Club",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1770133200,
+      "home": "Damac",
+      "away": "Al Kholood",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1770139800,
+      "home": "Al Ettifaq FC",
+      "away": "Al Taawoun",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -339,7 +317,7 @@
       "away": "Al Najma(KSA)",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=3c0275737e1d315af04a98256bbac37c&txTime=697F9EF6&sign=acf5407519fa45e5"
+        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=50e9c24b6b5c9901032df542a71cf46b&txTime=697FA81C&sign=5ae51b786807602c"
       }
     },
     {
@@ -376,6 +354,28 @@
       }
     },
     {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1770133200,
+      "home": "Damac",
+      "away": "Al Kholood",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "KSA Professional League",
+      "status": "UPCOMING",
+      "time": 1770139800,
+      "home": "Al Ettifaq FC",
+      "away": "Al Taawoun",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "Liga Portugal",
       "status": "LIVE",
       "time": 1769968800,
@@ -493,7 +493,7 @@
       "away": "Go Ahead Eagles",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769962737.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769971142.flv"
       }
     },
     {
@@ -504,7 +504,7 @@
       "away": "Go Ahead Eagles",
       "stream": {
         "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769962737.flv"
+        "url": "https://hwcn111pull-b.bszb.me/live/2401667_1769971142.flv"
       }
     },
     {
