@@ -1,29 +1,7 @@
 {
-  "updated": 1769930772,
+  "updated": 1769932647,
   "events": [
     {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769925600,
-      "home": "Newcastle Jets Women",
-      "away": "Wellington Phoenix Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/63685101_c0452e59283d1891d4aad0d3b2494d30.m3u8"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769925600,
-      "home": "Newcastle Jets Women",
-      "away": "Wellington Phoenix Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/63685101_c0452e59283d1891d4aad0d3b2494d30.m3u8"
-      }
-    },
-    {
       "league": "BEL Pro League",
       "status": "UPCOMING",
       "time": 1769967000,
@@ -632,8 +610,30 @@
       "league": "SPA Segunda Division",
       "status": "UPCOMING",
       "time": 1769967000,
+      "home": "SD Huesca",
+      "away": "Cadiz",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769967000,
       "home": "Castellon",
       "away": "Andorra CF",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769967000,
+      "home": "SD Huesca",
+      "away": "Cadiz",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
