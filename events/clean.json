@@ -1,5 +1,5 @@
 {
-  "updated": 1769968052,
+  "updated": 1769969773,
   "events": [
     {
       "league": "ENG Premier League",
@@ -14,6 +14,17 @@
     },
     {
       "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1770062400,
+      "home": "Sunderland",
+      "away": "Burnley",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG Premier League",
       "status": "LIVE",
       "time": 1769963400,
       "home": "Tottenham Hotspur",
@@ -24,36 +35,14 @@
       }
     },
     {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769962500,
-      "home": "Angers SCO",
-      "away": "Metz",
+      "league": "ENG Premier League",
+      "status": "UPCOMING",
+      "time": 1770062400,
+      "home": "Sunderland",
+      "away": "Burnley",
       "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100502.m3u8?txSecret=963d04f0bf9a8ef71a66afc6c3af44bb&txTime=697F97ED&sign=eb14cdef23c12907"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769962500,
-      "home": "OGC Nice",
-      "away": "Stade Brestois 29",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100453.m3u8?txSecret=e04e16197db45fe5abf57d34d69df9ba&txTime=697F97ED&sign=0cde94e0a0beaf0b"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769962500,
-      "home": "Toulouse FC",
-      "away": "AJ Auxerre",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=21744566ec6eff5622fea185a0d96768&txTime=697F97ED&sign=3363a7b6624686a7"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -65,39 +54,6 @@
       "stream": {
         "type": "flv",
         "url": "https://hwcn111pull-b.bszb.me/live/2414133_1769966442.flv"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769962500,
-      "home": "Angers SCO",
-      "away": "Metz",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100502.m3u8?txSecret=963d04f0bf9a8ef71a66afc6c3af44bb&txTime=697F97ED&sign=eb14cdef23c12907"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769962500,
-      "home": "OGC Nice",
-      "away": "Stade Brestois 29",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100453.m3u8?txSecret=e04e16197db45fe5abf57d34d69df9ba&txTime=697F97ED&sign=0cde94e0a0beaf0b"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769962500,
-      "home": "Toulouse FC",
-      "away": "AJ Auxerre",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100372.m3u8?txSecret=21744566ec6eff5622fea185a0d96768&txTime=697F97ED&sign=3363a7b6624686a7"
       }
     },
     {
@@ -206,8 +162,8 @@
       "home": "Cremonese",
       "away": "Inter Milan",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2411170_1769964526.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4339762.m3u8?txSecret=5e6a6e813f02815fce19182402b75ba7&txTime=697FDD4D"
       }
     },
     {
@@ -239,8 +195,8 @@
       "home": "Cremonese",
       "away": "Inter Milan",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2411170_1769964526.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4339762.m3u8?txSecret=5e6a6e813f02815fce19182402b75ba7&txTime=697FDD4D"
       }
     },
     {
@@ -278,13 +234,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770042000,
       "home": "Jeddah Sports Club",
       "away": "Al-Jabalain",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769960137.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -300,13 +256,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770042000,
       "home": "Jeddah Sports Club",
       "away": "Al-Jabalain",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769960137.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -317,7 +273,7 @@
       "away": "Al Hazem",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100439.m3u8?txSecret=873a2098d5a1926dbad4ccd767d5bc12&txTime=697F97EE&sign=11671beceb447464"
+        "url": "https://live.vivo200.com/live/sd-1-4404540.m3u8?txSecret=38bb87715b75f733c598ae6952fc0b84&txTime=697FDD4D"
       }
     },
     {
@@ -328,7 +284,7 @@
       "away": "Al Najma(KSA)",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=a4976fa9c85b1da5260e38d292a86c1b&txTime=697F97EE&sign=7886a27a77c9d156"
+        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=3c0275737e1d315af04a98256bbac37c&txTime=697F9EF6&sign=acf5407519fa45e5"
       }
     },
     {
@@ -372,7 +328,7 @@
       "away": "Al Hazem",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100439.m3u8?txSecret=873a2098d5a1926dbad4ccd767d5bc12&txTime=697F97EE&sign=11671beceb447464"
+        "url": "https://live.vivo200.com/live/sd-1-4404540.m3u8?txSecret=38bb87715b75f733c598ae6952fc0b84&txTime=697FDD4D"
       }
     },
     {
@@ -383,7 +339,7 @@
       "away": "Al Najma(KSA)",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=a4976fa9c85b1da5260e38d292a86c1b&txTime=697F97EE&sign=7886a27a77c9d156"
+        "url": "https://v.lfsxfj.com/live/100311.m3u8?txSecret=3c0275737e1d315af04a98256bbac37c&txTime=697F9EF6&sign=acf5407519fa45e5"
       }
     },
     {
@@ -426,8 +382,8 @@
       "home": "Sporting CP",
       "away": "Nacional da Madeira",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769967931.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368964.m3u8?txSecret=61f519ef1da4f4c3c588e8da6f3f0270&txTime=697FDD54"
       }
     },
     {
@@ -454,13 +410,24 @@
     },
     {
       "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1770065100,
+      "home": "Casa Pia AC",
+      "away": "FC Porto",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
       "status": "LIVE",
       "time": 1769968800,
       "home": "Sporting CP",
       "away": "Nacional da Madeira",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1052339_1769967931.flv"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4368964.m3u8?txSecret=61f519ef1da4f4c3c588e8da6f3f0270&txTime=697FDD54"
       }
     },
     {
@@ -480,6 +447,17 @@
       "time": 1770057900,
       "home": "AVS Futebol SAD",
       "away": "Sporting Braga",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Liga Portugal",
+      "status": "UPCOMING",
+      "time": 1770065100,
+      "home": "Casa Pia AC",
+      "away": "FC Porto",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -559,7 +537,7 @@
       "away": "RC Celta",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100470.m3u8?txSecret=8b29eafcf5c586dbaa1575643e56a0a6&txTime=697F97EE&sign=4a0adddb3dd23d84"
+        "url": "https://live.vivo200.com/live/sd-1-4358885.m3u8?txSecret=2500d7e0527fecbd6d064e96ccad0d64&txTime=697FDD4D"
       }
     },
     {
@@ -575,13 +553,24 @@
     },
     {
       "league": "SPA La Liga",
+      "status": "UPCOMING",
+      "time": 1770062400,
+      "home": "RCD Mallorca",
+      "away": "Sevilla FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA La Liga",
       "status": "LIVE",
       "time": 1769967000,
       "home": "Getafe",
       "away": "RC Celta",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100470.m3u8?txSecret=8b29eafcf5c586dbaa1575643e56a0a6&txTime=697F97EE&sign=4a0adddb3dd23d84"
+        "url": "https://live.vivo200.com/live/sd-1-4358885.m3u8?txSecret=2500d7e0527fecbd6d064e96ccad0d64&txTime=697FDD4D"
       }
     },
     {
@@ -590,6 +579,17 @@
       "time": 1769976000,
       "home": "Athletic Club",
       "away": "Real Sociedad",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA La Liga",
+      "status": "UPCOMING",
+      "time": 1770062400,
+      "home": "RCD Mallorca",
+      "away": "Sevilla FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
