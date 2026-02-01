@@ -172,22 +172,7 @@ https://cyber.chuoichien.tv/chuoihot.flv
 https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:0 group-title="Live Event: Chuối chiên" tvg-logo="https://wsrv.nl/?url=https://media.chuoichientv.com/media/uploads/20250623_134616_ffeccce1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",19:00 02/02 PSM Makassar vs Semen Padang SD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv #EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/558fd159895a1cb0e8b434e49d125128.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Hapoel Petah Tikva vs Ashdod MS #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/70327c55fff2c2b870bbebfd2073dca7/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/869bd6a31c23cb096a946d7afd2dc390/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/0b14a6dd8fab7b40bdcb96330a64cc5e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Deportivo Garcilaso vs Sporting Cristal #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/4778ae3465fd1647ceaf7fbd98a656c1/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/3d0191f6fe1e152222e4b19b3cc9316a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:15 02/02 Oud-Heverlee Leuven vs KV Mechelen #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/cbf370f45e36f22349e0b7bb03178c96/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/3144cffbb5aac9554821f1d4292d6470.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:30 02/02 Rot-Weiss Essen vs SV Wehen Wiesbaden #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/20e7941ebe6391928c52900554a32fa6/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/54df405201941cb81a93e9d890b0385d.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:45 02/02 Zalaegerszegi TE vs Nyiregyhaza #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://stream.chuoichien.tv/chuoihot.flv #EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/54df405201941cb81a93e9d890b0385d.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:45 02/02 Zalaegerszegi TE vs Nyiregyhaza #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/52bd30d1b5167c6f08b54acceedbea14/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/6eaa9b83973c9befbf920823a42ba94c.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Volendam vs Go Ahead Eagles #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
@@ -223,69 +208,73 @@ https://live.alilicloud.com/live/6f35d153c5246a590f8fbee04c31b249/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/998db478bf7c06d5817bf846987a0d0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 RC Strasbourg Alsace vs Paris Saint Germain #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/b08c2c003a3fdf1fbc2da9d06b8c68b8/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/abbb31d42c55612737713aac6567a226.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Club vs Real Sociedad #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/077f5014f8ee19914fc2f7622918924d/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/f8ac17559f204d139563929dc7eeedeb.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Granada CF vs Racing Santander #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/ea3aebc59d788ff53be64fcfe9a3df9a/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Barracas Central vs Deportivo Riestra #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/41eb8f82e1e5ebccabe5612c8e74cb51/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Komentator Ori" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:15 02/02 Alianza Atletico Sullana vs Cusco FC #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/f605d9f0e3f6be4b7f08e1b30567ce5b/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/379_1h5bja71ejk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Volendam vs Go Ahead Eagles MAYBACH m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/379_1h5bja71ejk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Volendam vs Go Ahead Eagles MAYBACH flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain TRIỆU TỬ LONG m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain TRIỆU TỬ LONG flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/176_1j5f7yeztc1g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus LÝ ỨNG m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/176_1j5f7yeztc1g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus LÝ ỨNG flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/176_1j5f7yeztc1g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus VĂN VỸ m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
 #EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/176_1j5f7yeztc1g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus VĂN VỸ flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/84_164871258463.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad NGŨ CA m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/84_164871258463.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad NGŨ CA flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/84_164871258463.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad DƯƠNG QUÁ m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/84_164871258463.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad DƯƠNG QUÁ flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/84_164871258463.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad LEO m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/84_164871258463.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad LEO flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/110_164871277443.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Granada CF vs Racing Santander TÂY MÔN KHÁNH m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/110_164871277443.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Granada CF vs Racing Santander TÂY MÔN KHÁNH flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/110_164871277443.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Granada CF vs Racing Santander MÃ SIÊU m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/110_164871277443.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Granada CF vs Racing Santander MÃ SIÊU flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/176_1j5f7yeztc1g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus DƯƠNG CHÍ m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/176_1j5f7yeztc1g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus DƯƠNG CHÍ flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/176_1j5f7yeztc1g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus LÝ ỨNG m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/176_1j5f7yeztc1g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus LÝ ỨNG flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain THỜI THIÊN m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain THỜI THIÊN flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain QUAN VŨ m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain QUAN VŨ flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain A TỦA m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain A TỦA flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/2186_1gq15c96p07.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:15 02/02 Oud-Heverlee Leuven vs Mechelen ĐOÀN DỰ m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/2186_1gq15c96p07.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:15 02/02 Oud-Heverlee Leuven vs Mechelen ĐOÀN DỰ flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/2288_1gtqpyp08x2e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Arsenal vs SC Corinthians Paulista TRƯƠNG THANH m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/2288_1gtqpyp08x2e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Arsenal vs SC Corinthians Paulista TRƯƠNG THANH flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/425_165095607959.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira TẦN CA m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/425_165095607959.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira TẦN CA flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/425_165095607959.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira LÝ QUỲ m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/425_165095607959.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira LÝ QUỲ flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira SD 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira HD 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira SD 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira HD 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira SD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
-#EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain TRIỆU TỬ LONG m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain TRIỆU TỬ LONG flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/13140_1gs46x3erp23.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Barracas Central vs Deportivo Riestra VÕ TÒNG m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/13140_1gs46x3erp23.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Barracas Central vs Deportivo Riestra VÕ TÒNG flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/13140_1gs46x3erp23.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Barracas Central vs Deportivo Riestra KHỔNG MINH m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/13140_1gs46x3erp23.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Barracas Central vs Deportivo Riestra KHỔNG MINH flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain QUAN VŨ m3u #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Live Event: Lương sơn" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/236_164871181440.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain QUAN VŨ flv #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6eaa9b83973c9befbf920823a42ba94c.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Volendam vs Go Ahead Eagles SD 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/aheosd2RK/playlist.m3u8
@@ -322,15 +311,6 @@ https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
 #EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:10 02/02 AEK Athens vs Olympiakos Piraeus HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
-#EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/558fd159895a1cb0e8b434e49d125128.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Hapoel Petah Tikva vs Ashdod MS Nhà đài #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m102qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/a413daa882f96b18ddb1f0e8c9dbfda7.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 FCSB vs FK Csikszereda Miercurea Ciuc Nhà đài #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m103qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/0b14a6dd8fab7b40bdcb96330a64cc5e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Deportivo Garcilaso vs Sporting Cristal Nhà đài #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m104qt/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Ra khơi" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/4217fbd9136652e934cb9e88cc462eef.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",04:00 02/02 Deportes La Serena vs Univ Catolica Nhà đài #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m206qt/playlist.m3u8
@@ -430,45 +410,21 @@ https://live.alilicloud.com/live/d658807b5affd5c856ef2897f75c0c7e/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/ed8f3d0d4f35ef25c6ef5706795f48ae/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 AEK Athens vs Olympiakos Piraeus #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8c421f5dc469266d6d2a37c784b73cf3/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/656cc498d42ac99de025905654dfd177/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Maribor vs NK Publikum Celje #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9a4cea4d977cdfb76fe845d265b135dd/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2e4f8f0f88a248e709195eb080be29a7/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 MC Alger vs Saint Eloi Lupopo #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d892a784f717b5bab1f1489cbb893639/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/155793db4ef994a9bb6afddc3298bcdf/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 A.C. Reggiana 1919 vs Juve Stabia #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/262da8942062f573ac4f98df5f7ce70f/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2642a3d579385efab8259afc4f38c638/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:30 01/02 FC Basel 1893 vs Thun #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f379911667fd8e3072a9aafe3d26c7fa/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2dd162cceb1aec9d861558d973348346/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:30 01/02 Slovan Liberec vs FC Zlín #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/56474e26d90b725b85ad1926eb15daa0/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5fb5af7ec2bd9418b113fac18bc4ddcc/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Como vs Atalanta #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/64d632bddf47720ab0073fa5aa4b4cef/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/f8d3acf7aadb1964df06e759692e0e3c/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Hibernian vs Rangers #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5b07d19f7eb951e349910993d99681ba/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/9b59eb3c8bde539493ae1acd60bb3f5c/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:00 01/02 Amedspor vs Adana Demirspor #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/64b27bebaa5360fc7cb31d7d184692b2/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/caa7a1eeb1fb9bb21aad3f795f791ebc/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:30 01/02 Qarabag vs Turan Tovuz #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ce8fe980dbafb8d534be3c1bb79581ea/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/0e3f082b4d8567d60df51c94dd62eff6/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Parma Women vs AS Roma Women #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6238ab501f9d09e4ba56cd30cc380ce9/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/b3c64d7b8fb24b1c3e5fad34fd20a7e0/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",00:30 02/02 Pardubice vs Slavia Praha #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/cfe9e9a0917edeb5d3e9297aca3eb2d1/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/66a39e0cecd6faf408e749010a4ea480/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:30 01/02 Egnatia vs KF Tirana #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/e5a04ee68cb1c72512c15ecaac285753/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/39b7881082dcf9f909ff4bf027bf7d58/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Feirense vs Maritimo #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/18afe0d989b978890cde979394bfb864/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/c8130080c813ef1acc5189c0da0552f9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",00:30 02/02 Al Ittihad Club vs Al Najma #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/7ad0bc319e7066b8638d34e533069a7c/playlist.m3u8
@@ -478,9 +434,6 @@ https://live.alilicloud.com/live/d684b6fe5aa189e7755ab556a1a59bfd/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/7ee598144ea61d6dba3d908c0658f1fb/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:15 01/02 Padova vs Monza #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d6aaabc201b04e260ecfeee5323910e7/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/a1b747c3cd862a91cf2330dea7372095/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Birmingham Women vs Nottingham Forest Women #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1c7ebe1aa4efa181592c59f4501f197f/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/d19434f3730fd04c41e2a1fc8fe0058d/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",00:00 02/02 Cremonese vs Inter Milan #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2901307270b3b164024f984905d578c9/playlist.m3u8
@@ -493,12 +446,12 @@ https://stm02bc67274262.stream.hdplaylink.com/live4/5ef4d0f49d064afdb167b06d68df
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/d19434f3730fd04c41e2a1fc8fe0058d/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",00:00 02/02 Cremonese vs Inter Milan hd_3 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/5ef4d0f49d064afdb167b06d68dff62e_720/index.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/560f38d906db9a9b74efd3766dbc8f9b/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:15 02/02 Alianza Atletico Sullana vs Cusco FC #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f605d9f0e3f6be4b7f08e1b30567ce5b/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/94dd06390ac4498f1ef562f1d75211fa/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:30 01/02 SC Verl vs VfB Stuttgart II #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a5b82c38795b20e4ee720972fce9ad65/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/1c25645899867d8812c82c7fddbb20d2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:30 01/02 MFK Karvina vs FC Viktoria Plzen #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/57dadb589f0c443cf4f162689bda13ae/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8cdd60d3ac4b21e4fc92bf42f73962a4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:30 01/02 Young Boys vs FC Zurich #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f01d03bb8e134685f4a99720c23ac91a/playlist.m3u8
@@ -520,9 +473,6 @@ https://live.alilicloud.com/live/c5111cb7a2ae3e1a034f0c73e34087ce/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/971e453f03abbecf714bc798148cc805/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",00:30 02/02 SD Huesca vs Cadiz #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b6f016611da4f265621093d5f6712e84/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/9ed098592c86880d845fc952ffec0e71/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:30 01/02 Manchester City Women vs Chelsea FC Women #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/134cd0363b9d385c70e6d9487340d47b/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/6d3d0b7c2bcb167f5cfae590193a62a4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:45 02/02 Zalaegerszegi TE vs Nyiregyhaza #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/52bd30d1b5167c6f08b54acceedbea14/playlist.m3u8
@@ -532,18 +482,12 @@ https://live.alilicloud.com/live/fb9269406692a345160fe10703917937/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/aa443ad65a8601723c58ce2b068a01de/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:30 01/02 Panathinaikos vs AE Kifisias #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4204c16fd7ce635dbc2fda8903583af9/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/3420fa81b4baf66a0babc67111c6cd3e/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Ternana W vs Inter Milan Women #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/377da8cd52d15a2e5b1550b9591e0a6b/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/1d06397f85b53f5f37ff1af4728593a3/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:30 01/02 Barcelona Women vs Sevilla FC Women #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/614510ce1f39bcdcb8ae7851d4f3f162/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/d1d5fc4ca97ed98a0a6c6b1806938870/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",00:30 02/02 Castellon vs Andorra CF #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/02c69cfb43957b1b1a78881561367ec3/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/37ca722d3c6a059dc4bc788c296d58e7/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Genclerbirligi vs Gazisehir Gaziantep #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/892b3b9d8eecbbecb02ed384586f7c37/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/d3b975ee560a1b9b244b8247ebb2f1cf/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Club America Women vs Unam Pumas Women #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/440cea7338fcf4a0087a9b6605e72658/playlist.m3u8
@@ -559,24 +503,45 @@ https://stm02bc67274262.stream.hdplaylink.com/live4/f1d8c9195a0f47dcbace7b54406f
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5c858003d3fc3fcb6ca569ca3aefabaa/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 RC Strasbourg Alsace vs Paris Saint Germain hd_3 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/f1d8c9195a0f47dcbace7b54406faa92_720/index.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/b6b039ab0319122bc6c0da16f987d013/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 NK Osijek vs Rijeka #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/073fd91d4f1873d0355ded2592e2dc62/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:45 01/02 SC Heerenveen vs FC Utrecht #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d59191d39a73188da8ce457276be8397/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/03a92bd6cebf31ae0ef141b97a49d2b0/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Backa Topola vs Vojvodina Novi Sad #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://live.alilicloud.com/live/9cfe642c9b0c7d9813aca72419ac30a0/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/f43547c7bd0a18f5c03d28c068e3dbed/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Al Masry vs Zamalek SC #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ad92c82d5d54d9d90c7acd755ab04798/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5be7d853110e8f1f9a0af1b1042b1e71/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:30 01/02 VfB Stuttgart vs SC Freiburg #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://live.alilicloud.com/live/d756de0ec36e021ec74ccfcd771975cf/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/47b3102d280afcf9fa7eb53945b274b8/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Atletico Bucaramanga vs Alianza Fútbol Club #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/bc5245b1097e07934fed1006e590cf56/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/52c467f3900a8856cbf4878c77a03a8f/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:15 01/02 Paksi FC vs Ferencvarosi TC #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://live.alilicloud.com/live/06868067d9c18c60354bddda1fb2a8e8/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/e9a3e2a4e826b8f0e8def0f4273f5fd9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:30 02/02 RotvsWeiss Essen vs SV Wehen Wiesbaden #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/71391551f87d604e7e2ad0ed12c39b3c/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/e9a3092733e1bec87f0af76324a7bcc2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Southampton Women vs Crystal Palace Women #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://live.alilicloud.com/live/20e7941ebe6391928c52900554a32fa6/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8d4ada9faa88718b1e3628138cacf432/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",00:30 02/02 PAOK Saloniki vs Panserraikos #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/85bde7fd90c39328832105148b2fd5fd/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/f5a973b4dab2d487ef78a1c37214a245/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",21:00 01/02 Tre Fiori vs San Marino Academy U22 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://live.alilicloud.com/live/136dd6622d70dcdf250994ff698ccc0f/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/65bccb7738e2021ce16c78882a53b615/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Granada CF vs Racing Santander #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/068eee192f02a34f3ff6fa4239756581/playlist.m3u8
+https://live.alilicloud.com/live/ea3aebc59d788ff53be64fcfe9a3df9a/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/7490fe7d3f131396ac67c94344329b42/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",00:00 02/02 Galatasaray vs Kayserispor #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/25d6838aa4283c28bfeb576d2deae9ac/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/ac66ea804acd5a248214429afef67ddd/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:00 01/02 Celtic FC vs Falkirk #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4fcff2200b305c058faf4fd4e37502ac/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5b4a6e7276aa6905ab1514c5bb362454/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Hapoel Petah Tikva vs Ashdod MS #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/70327c55fff2c2b870bbebfd2073dca7/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/4ca9ab88368559942da11cfaac3c8b69/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:30 01/02 Cosenza Calcio 1914 vs US Casertana 1908 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e9a3b578f30bc07c13a6fe481017aef1/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/94c57ecffeb69086fa13f9ef5d8dfa95/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:15 01/02 Angers SCO vs Metz #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2df5718937bd17ffa716d5da5c589df9/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8cee464a34a92854a730cdd54b3ac95d/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:00 01/02 FCV Dender EH vs Racing Genk #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/76e0d46c0ecbd6058fdb4881ee3a38e0/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2de758aa769b9b1370a28b3e2ba82976/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Barracas Central vs Deportivo Riestra #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/41eb8f82e1e5ebccabe5612c8e74cb51/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/771bc97806bcba0677da5fc1fcba32b9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:15 01/02 Eibar vs Sporting Gijon #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9f5305ce9771a79054d106decf06af55/playlist.m3u8
@@ -598,6 +563,21 @@ https://live.alilicloud.com/live/a07d35237d07eed492f2ef2b92be2672/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/7646d75ba14441b0a6bfb5c88dd5064a/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Volendam vs Go Ahead Eagles #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/adf213c3fba6b91c664111f6fb528abb/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/1ba71d72ec79ce350fb10ca91df5cd99/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 CR Flamengo vs Sport Club Corinthians Paulista #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b09a95506a1e6879181d863fd4ffb00b/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/0e6dc4184eb2d2e83e51a468999f18f2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:30 01/02 AZ Picerno ASD vs Potenza #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3ee53923d6c2521ea50e8a5d5d748201/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/d71bef83bc36480a20cd286cc8415983/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Deportivo Garcilaso vs Sporting Cristal #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4778ae3465fd1647ceaf7fbd98a656c1/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/d77b9192ca21c39bdd788944e573ea78/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:30 02/02 Foggia vs Audace Cerignola #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/bde8df9ff5dc69db2e89d853fcadf99f/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Khán đài a" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/fd63fd067ca4167c1c25ba7509aec15e/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:30 01/02 Teuta Durres vs Vllaznia Shkoder #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/25219768d60506b17f884eb3d70eac42/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Chuối chiên" tvg-logo="https://wsrv.nl/?url=https://media.chuoichientv.com/media/uploads/20250623_125606_8a506f33.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cyber.chuoichien.tv/chuoitay/index.m3u8
@@ -808,15 +788,15 @@ https://stream.chuoichien.tv/duyhung.flv
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2e4f8f0f88a248e709195eb080be29a7/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 MC Alger vs Saint Eloi Lupopo #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d892a784f717b5bab1f1489cbb893639/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/9b59eb3c8bde539493ae1acd60bb3f5c/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:00 01/02 Amedspor vs Adana Demirspor #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/64b27bebaa5360fc7cb31d7d184692b2/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/c8130080c813ef1acc5189c0da0552f9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",00:30 02/02 Al Ittihad Club vs Al Najma #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/7ad0bc319e7066b8638d34e533069a7c/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/c13f097e99757ec7165edfcb8e43afa4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Barcelona BA vs Vitoria BA #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d684b6fe5aa189e7755ab556a1a59bfd/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/560f38d906db9a9b74efd3766dbc8f9b/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:15 02/02 Alianza Atletico Sullana vs Cusco FC #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f605d9f0e3f6be4b7f08e1b30567ce5b/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/6d3d0b7c2bcb167f5cfae590193a62a4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:45 02/02 Zalaegerszegi TE vs Nyiregyhaza #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/52bd30d1b5167c6f08b54acceedbea14/playlist.m3u8
@@ -826,24 +806,24 @@ https://live.alilicloud.com/live/d756de0ec36e021ec74ccfcd771975cf/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8d4ada9faa88718b1e3628138cacf432/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",00:30 02/02 PAOK Saloniki vs Panserraikos #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/136dd6622d70dcdf250994ff698ccc0f/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/65bccb7738e2021ce16c78882a53b615/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Granada CF vs Racing Santander #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ea3aebc59d788ff53be64fcfe9a3df9a/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/4ca9ab88368559942da11cfaac3c8b69/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:30 01/02 Cosenza Calcio 1914 vs US Casertana 1908 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/e9a3b578f30bc07c13a6fe481017aef1/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2de758aa769b9b1370a28b3e2ba82976/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Barracas Central vs Deportivo Riestra #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/41eb8f82e1e5ebccabe5612c8e74cb51/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/1ba71d72ec79ce350fb10ca91df5cd99/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 CR Flamengo vs Sport Club Corinthians Paulista #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b09a95506a1e6879181d863fd4ffb00b/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/0ee4033b5b23740ba19e8783016f237d/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:00 01/02 Olympique de Safi vs San Pedro FC #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/0ee4033b5b23740ba19e8783016f237d/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Olympique de Safi vs San Pedro FC #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c9bfa25262e88b0f5405ce4f17d6f4e7/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/7ee598144ea61d6dba3d908c0658f1fb/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:15 01/02 Padova vs Monza #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d6aaabc201b04e260ecfeee5323910e7/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/cfe81cee4396ea62eab0ccfdadc34b41/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:15 02/02 OudvsHeverlee Leuven vs KV Mechelen #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/cbf370f45e36f22349e0b7bb03178c96/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/82362be26385e396b7f8e34c94c5478f/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:15 01/02 Toulouse FC vs AJ Auxerre #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4e24cb92f3cc9934c411dd674d703b84/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5c858003d3fc3fcb6ca569ca3aefabaa/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 RC Strasbourg Alsace vs Paris Saint Germain #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b08c2c003a3fdf1fbc2da9d06b8c68b8/playlist.m3u8
@@ -931,9 +911,6 @@ https://live.alilicloud.com/live/25d6838aa4283c28bfeb576d2deae9ac/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5b4a6e7276aa6905ab1514c5bb362454/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Hapoel Petah Tikva vs Ashdod MS #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/70327c55fff2c2b870bbebfd2073dca7/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/94c57ecffeb69086fa13f9ef5d8dfa95/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:15 01/02 Angers SCO vs Metz #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/2df5718937bd17ffa716d5da5c589df9/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/0e6dc4184eb2d2e83e51a468999f18f2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:30 01/02 AZ Picerno ASD vs Potenza #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/3ee53923d6c2521ea50e8a5d5d748201/playlist.m3u8
@@ -976,9 +953,6 @@ https://live.alilicloud.com/live/0ca96af3a278e1a3e00f698f515b173f/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/49ceb9511b43558c5d49b427275eb20c/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:30 01/02 Wolfsberger AC vs Red Bull Salzburg #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/662ba2fc194c3a7c21c625a4573ccfc6/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/25132e47181fff8f70f0400c8acd9ef7/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:00 01/02 AlvsWahda FC vs Dubai United #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6ae8286c7ada0ea8cdb085bf6ae71dc2/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Gà vàng" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/32e6867f591ac0ce2dd0d717335ed35a/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",23:40 01/02 AlvsShabbab vs Malkiya #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/e138103ade32d3ed0f9e214804ca3601/playlist.m3u8
@@ -990,178 +964,178 @@ https://live.alilicloud.com/live/538b7956da446938dd924fdf04157f81/playlist.m3u8
 https://live.alilicloud.com/live/869bd6a31c23cb096a946d7afd2dc390/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/volleyball/team/2692d3e467f2b036a1e2b1914b829803.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Olsztyn vs Norwid Czestochowa [Người Băng] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1769992925&sign=c901afff1e5cd89525e229d51365eadb
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1769995086&sign=beb6de127f86687fb7ed6eda2d8a23d8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/volleyball/team/2692d3e467f2b036a1e2b1914b829803.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Olsztyn vs Norwid Czestochowa [Người Băng] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769992925/1fe373ecb43b456f6956be0a03b32201/597228585/live/bangHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769995086/86ab8d28d307ebd962a0f94f568680f7/760685792/live/bangHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/volleyball/team/2692d3e467f2b036a1e2b1914b829803.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Olsztyn vs Norwid Czestochowa [Người Băng] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/o2gBjZh_KRTnwBkMTXjplg/Fv2lucGIbhPi2caWYvF5Lg/1769992925140/live/bangHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/RpWPYjuvxe4rdlw2UPMdNA/Fv2lucGIbhPi2caWYvF5Lg/1769995086340/live/bangHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/volleyball/team/2692d3e467f2b036a1e2b1914b829803.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Olsztyn vs Norwid Czestochowa [Người Băng] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/wC3w2Pq3xmw0l6iuzgpYBg/Fv2lucGIbhPi2caWYvF5Lg/1769992925140/live/bangSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/EBUdCJtSBhSD5-n2tu29rQ/Fv2lucGIbhPi2caWYvF5Lg/1769995086340/live/bangSD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/volleyball/team/2692d3e467f2b036a1e2b1914b829803.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:00 02/02 Olsztyn vs Norwid Czestochowa [Người Băng] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769992925/a784a7c4b970402c4a4b4f9855ec8295/479928161/live/bangFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769995086/0e8fc336817703b2aed1105f33add5aa/456869623/live/bangFHD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:30 02/02 Celtics vs Bucks [Người Cây] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1769995087&sign=c3a9164e450dd9f3d2f0ccde12c5eb96
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:30 02/02 Celtics vs Bucks [Người Cây] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769995087/88c6e88ba26aba187aef41cf57057f4e/191756940/live/Z2HD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:30 02/02 Celtics vs Bucks [Người Cây] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/PQau13QTCpazJVWjJWzkwA/Fv2lucGIbhPi2caWYvF5Lg/1769995087468/live/Z2HD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:30 02/02 Celtics vs Bucks [Người Cây] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/JWd0M_kg_o9w2W1yJ-xoJQ/Fv2lucGIbhPi2caWYvF5Lg/1769995087468/live/Z2SD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:30 02/02 Celtics vs Bucks [Người Cây] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769995087/c9594de9df8c100d4e11b515b031ec34/824595521/live/Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:10 02/02 AEK Athens vs Olympiakos Piraeus [Mèo Ú] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1769992926&sign=a1a0ef36aec8c99bd9a1bd64d5ea2c2f
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1769995088&sign=70a3bfffa0f9719b0dc1714618f02908
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:10 02/02 AEK Athens vs Olympiakos Piraeus [Mèo Ú] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769992926/17aab06062b5e15156628f4ce8cf0d4d/328014622/live/meoHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769995088/5b7331999b976f1a191ea16229ddf683/333923672/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:10 02/02 AEK Athens vs Olympiakos Piraeus [Mèo Ú] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Y0dIu9uoQXwjUntuhXNrag/Fv2lucGIbhPi2caWYvF5Lg/1769992926307/live/meoHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/ufTlLlokX3JWyEDrXKiMFQ/Fv2lucGIbhPi2caWYvF5Lg/1769995088653/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:10 02/02 AEK Athens vs Olympiakos Piraeus [Mèo Ú] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/9AT8ofZJkiu1dY_NWb9pbg/Fv2lucGIbhPi2caWYvF5Lg/1769992926307/live/meoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/fwKq2dokE9y4fB3P7cHHAg/Fv2lucGIbhPi2caWYvF5Lg/1769995088653/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:10 02/02 AEK Athens vs Olympiakos Piraeus [Mèo Ú] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769992926/0f61a89634cb8d27027eb4087be7ee21/927409757/live/meoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769995088/0ff0ace5f86aa618e3bd0a5a73cd0c1c/100910906/live/meoFHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:10 02/02 AEK Athens vs Olympiakos Piraeus [Mèo Ú] Backup 1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/aq7_O1d9SmQrzXuOzvQKfA/Fv2lucGIbhPi2caWYvF5Lg/1769992926306/live/sd-6MuTN61onwLSY4BFsZ/playlist.m3u8
+https://apisportzz179528093.nsnd.live/PUGQC454yq09myq9l16Zaw/Fv2lucGIbhPi2caWYvF5Lg/1769995088651/live/sd-6MuTN61onwLSY4BFsZ/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/4640a8c2881298c36b5c67927ce820f8.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:30 02/02 CD Tondela vs Benfica [Người Già] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1769995089&sign=e2e5d7e3ea412d588ca48219cc820981
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/4640a8c2881298c36b5c67927ce820f8.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:30 02/02 CD Tondela vs Benfica [Người Già] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769995089/4b248f4a33158ee855c34021f081da0e/857324602/live/oldHD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/4640a8c2881298c36b5c67927ce820f8.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:30 02/02 CD Tondela vs Benfica [Người Già] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/myhd-Sr8E6GOjFYyHXDr2A/Fv2lucGIbhPi2caWYvF5Lg/1769995089813/live/oldHD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/4640a8c2881298c36b5c67927ce820f8.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:30 02/02 CD Tondela vs Benfica [Người Già] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/za2Y4xxxKqfmNTvmmPFIkA/Fv2lucGIbhPi2caWYvF5Lg/1769995089814/live/oldSD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/4640a8c2881298c36b5c67927ce820f8.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:30 02/02 CD Tondela vs Benfica [Người Già] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769995089/e79a3cc86faa9f23e78034643e32cdb2/612395083/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSn549oHH9yfOBZfCsTEKlEFy6WAC5Jfe3w&s&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:45 01/02 LEC 2026 Versus [Tai Lung] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1770018485&sign=a4b142cfab56e63705f643ff2b0164fe
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1770020645&sign=d99c4be65e51f8b63ee261acd1ef67b5
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSn549oHH9yfOBZfCsTEKlEFy6WAC5Jfe3w&s&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:45 01/02 LEC 2026 Versus [Tai Lung] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1770018485/d49aee8706aaaa36352d46a341d2e8b6/428693911/live/lungHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1770020645/a40f2d83bd5dc179cb607056c9771340/415235640/live/lungHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSn549oHH9yfOBZfCsTEKlEFy6WAC5Jfe3w&s&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:45 01/02 LEC 2026 Versus [Tai Lung] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/bkPwUCNH1QkBZz2XQ74HFA/Fv2lucGIbhPi2caWYvF5Lg/1770018485616/live/lungHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/BEIl0c9qB2OHnrw9XOeJxQ/Fv2lucGIbhPi2caWYvF5Lg/1770020645492/live/lungHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSn549oHH9yfOBZfCsTEKlEFy6WAC5Jfe3w&s&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:45 01/02 LEC 2026 Versus [Tai Lung] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/5K1ga0zZxU7oCt4EmfjsDg/Fv2lucGIbhPi2caWYvF5Lg/1770018485616/live/lungSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/yy_NFOjx04P9Qn5alQxqCw/Fv2lucGIbhPi2caWYvF5Lg/1770020645492/live/lungSD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSn549oHH9yfOBZfCsTEKlEFy6WAC5Jfe3w&s&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",22:45 01/02 LEC 2026 Versus [Tai Lung] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1770018485/429ad98d2a2560b03586c3591e3d2d87/270489497/live/lungFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1770020645/c5674628f9a8680b7e5f4fbd1c7b67a6/896174648/live/lungFHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Navi vs Team Spirit [Người Phép] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1770018486&sign=7519ca5f4cf4983f0d8d7992b1558631
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1770020646&sign=869a22d33ae8947c27a3ca06a5fd6adf
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Navi vs Team Spirit [Người Phép] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1770018486/c2badb07e365519f6afd6df101b0460a/204066585/live/phepHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1770020646/82c412ae37df0690e635753e7eaa44ca/190535160/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Navi vs Team Spirit [Người Phép] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Mm8UiVXU7A64AnSRdez5_Q/Fv2lucGIbhPi2caWYvF5Lg/1770018486864/live/phepHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/PiijzJN-Hgk-132Ae2agog/Fv2lucGIbhPi2caWYvF5Lg/1770020646662/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Navi vs Team Spirit [Người Phép] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/yPKV9ZWTLQ0WMepQDEh9Ew/Fv2lucGIbhPi2caWYvF5Lg/1770018486865/live/phepSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/s_bar1f2RULSFbGmHqbBDA/Fv2lucGIbhPi2caWYvF5Lg/1770020646663/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Navi vs Team Spirit [Người Phép] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1770018486/94327a3b9d38553b7279a5cd71efa93f/808382873/live/phepFHD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://static.flashscore.com/res/image/data/tQ75rUQp-K6HkDdMk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",20:30 01/02 WTA250 Romania Open [Nhà Đài] HD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/C6mooe2hVoL5mQaVr2Vwzg/Fv2lucGIbhPi2caWYvF5Lg/1770018488349/live/may21/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1769993289&sign=8855cd89826dec49fffec7e224a49775
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993289/2b94a8af382df9856fb1431de9efbfd7/664680084/live/kienHD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/CRAOBrnSEcofMoXEIbZLRQ/Fv2lucGIbhPi2caWYvF5Lg/1769993289455/live/kienHD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/NEc83xhurBXpT3TWxX-4MQ/Fv2lucGIbhPi2caWYvF5Lg/1769993289455/live/kienSD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993289/75565f53d1e7e13dba41b1afeea367cf/616506260/live/kienFHD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/basketball/team/e3a3ec04a37490b55dfea4d2c2157e0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 UCAM Murcia CB vs Barça Basket [Người Cây] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1769993645&sign=8a6a60b54d1af525ceb52a8256944f0c
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/basketball/team/e3a3ec04a37490b55dfea4d2c2157e0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 UCAM Murcia CB vs Barça Basket [Người Cây] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993645/b05738abcd7bb95f6e70245a64ccf551/189186783/live/Z2HD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/basketball/team/e3a3ec04a37490b55dfea4d2c2157e0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 UCAM Murcia CB vs Barça Basket [Người Cây] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/JBwptkTTA76LeVwwmE8HWA/Fv2lucGIbhPi2caWYvF5Lg/1769993645405/live/Z2HD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/basketball/team/e3a3ec04a37490b55dfea4d2c2157e0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 UCAM Murcia CB vs Barça Basket [Người Cây] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/PlLf8Himb8AEMUiJVQFDyw/Fv2lucGIbhPi2caWYvF5Lg/1769993645405/live/Z2SD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/basketball/team/e3a3ec04a37490b55dfea4d2c2157e0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 UCAM Murcia CB vs Barça Basket [Người Cây] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993645/9eb23dfda7c63b5fbacc31e5f9368929/602876623/live/Z2FHD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira [Người Sói] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/soiHD.flv?expire=1769993646&sign=5b396ec715723e95cdebffa6dab20995
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira [Người Sói] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993646/0184890802b2f8d85d31591de8eca2c3/823992356/live/soiHD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira [Người Sói] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/ttr0x1k5Pu_LzHEvTjh6dg/Fv2lucGIbhPi2caWYvF5Lg/1769993646647/live/soiHD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira [Người Sói] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/5YBpJOiw66HM2_G5gPDikg/Fv2lucGIbhPi2caWYvF5Lg/1769993646647/live/soiSD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira [Người Sói] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993646/39019edf5badc4827cc5e2c1bef089ac/388700659/live/soiFHD/playlist.m3u8
-#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Sporting CP vs Nacional da Madeira [Người Sói] Backup 1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/klprD0dDi4QpEc13WCNgtQ/Fv2lucGIbhPi2caWYvF5Lg/1769993646645/live/sd-6MuTchG9gCdiT4sL1Z/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1770020646/150fcd11b70ecd99cc9658dcbee6b3e3/570290113/live/phepFHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b61190e348449a746ef3f802e7ebc701.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Arsenal vs Corinthians [Người Cồn] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1769993647&sign=14fd633b19a3e1af8eb270f9f89871d9
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1769995447&sign=19a48f9f56a49e58122900b8c9608be9
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b61190e348449a746ef3f802e7ebc701.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Arsenal vs Corinthians [Người Cồn] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993647/b2cc7d0328b6c525e0d96e88b7f2c66e/343404470/live/conHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769995447/9899143e54a8a42e83375bffde4fbd6c/842939639/live/conHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b61190e348449a746ef3f802e7ebc701.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Arsenal vs Corinthians [Người Cồn] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/PBly3OHHbqBcdIzRV-N1Xg/Fv2lucGIbhPi2caWYvF5Lg/1769993647821/live/conHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/_LZUEMEhcjYfRETlDW0oPg/Fv2lucGIbhPi2caWYvF5Lg/1769995447867/live/conHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b61190e348449a746ef3f802e7ebc701.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Arsenal vs Corinthians [Người Cồn] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/rDene8DDkY8Yo4mX_fCKIA/Fv2lucGIbhPi2caWYvF5Lg/1769993647822/live/conSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/o01qjmwd1txVdKyCoEoQpw/Fv2lucGIbhPi2caWYvF5Lg/1769995447867/live/conSD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b61190e348449a746ef3f802e7ebc701.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",01:00 02/02 Arsenal vs Corinthians [Người Cồn] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993647/9b5d550b07985b6bc22e7e2eabaa2242/638968089/live/conFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769995447/569cef5cfee633b5304319cdf77cd545/408082892/live/conFHD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1769995449&sign=20c290fd9ec44ec4a79e4cdebedcb28a
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769995449/ed280ca3a07e283a27e7a7e6f33977eb/350294873/live/kienHD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/6DAdi9rosrr_JkQ_GxQIQQ/Fv2lucGIbhPi2caWYvF5Lg/1769995449109/live/kienHD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/H8TYpjQccTKk-alrcUIttg/Fv2lucGIbhPi2caWYvF5Lg/1769995449110/live/kienSD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769995449/0447c69fa478fec9d98c6f9acc40562a/340515034/live/kienFHD/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 02/02 Athletic Bilbao vs Real Sociedad [Người Kiến] Backup 1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/WDF5tNsLdpl1HCjrx73dHQ/Fv2lucGIbhPi2caWYvF5Lg/1769995449106/live/sd-6MuSsYgmRMhGz8rNDh/playlist.m3u8
+#EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://static.flashscore.com/res/image/data/tQ75rUQp-K6HkDdMk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",20:30 01/02 WTA250 Romania Open [Nhà Đài] HD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/BCcLMAsPUeG7Wz0W0eVztQ/Fv2lucGIbhPi2caWYvF5Lg/1770020650353/live/may21/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus [Phở Bò] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phoHD.flv?expire=1769993648&sign=cc39e3d8ebef610c64b2f008c7854929
+https://hotlivezz179536519.akainu.xyz/live/phoHD.flv?expire=1769995806&sign=5f541f02c6a034eedaf115160ad09d5c
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus [Phở Bò] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993648/411286b139fdd7abbacdf4cb051b7399/755815639/live/phoHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769995806/d6203790990c6cdb35188c094e8a0f1b/255809311/live/phoHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus [Phở Bò] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/81MgbA_Kdm1zvyh5UsKCXg/Fv2lucGIbhPi2caWYvF5Lg/1769993648921/live/phoHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/W6YnK9rDjdao2kvXyMuq5g/Fv2lucGIbhPi2caWYvF5Lg/1769995806444/live/phoHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus [Phở Bò] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Wago1vOhHXpj4IuY1BskJA/Fv2lucGIbhPi2caWYvF5Lg/1769993648921/live/phoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/pji84pOJdFQf2JA3WVrJ0g/Fv2lucGIbhPi2caWYvF5Lg/1769995806444/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus [Phở Bò] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993648/5347ce122407ae96e48cbf82d05c4b49/733453444/live/phoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769995806/3f325e10febef61cacf1a3dae843ebc0/624911559/live/phoFHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus [Phở Bò] Backup 1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/DodsBc0IaVcPz8iK00rLBg/Fv2lucGIbhPi2caWYvF5Lg/1769993648921/live/sd-6MuSNj3GqvwziryQdy/playlist.m3u8
+https://apisportzz179528093.nsnd.live/z3xeA3TMYDQHoGfJQcStwQ/Fv2lucGIbhPi2caWYvF5Lg/1769995806440/live/sd-6MuSNj3GqvwziryQdy/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Parma vs Juventus [Phở Bò] Backup 2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/zD4cp8XH3hz2lEtusptmOw/Fv2lucGIbhPi2caWYvF5Lg/1769993648921/live/hd-en-6MuSNj3GqvwziryQdy/playlist.m3u8
+https://apisportzz179528093.nsnd.live/llMWTZXZdFYN_O7tpanidQ/Fv2lucGIbhPi2caWYvF5Lg/1769995806442/live/hd-en-6MuSNj3GqvwziryQdy/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain [Mỳ Tôm] HD Nhanh #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769993650&sign=fc2e53c0e12f31a2ff61930719e4d896
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769995807&sign=018d089514b691555779cc3ffd6a8293
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain [Mỳ Tôm] HD1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993650/c26068dbeb535a1fe695011b0fb2bfc1/736274149/live/myHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769995807/41f743c3d7c0df10b9d7100aaf0a63b5/278918062/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain [Mỳ Tôm] HD2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/-kPGNpvTLZS2Yml6GJvMMg/Fv2lucGIbhPi2caWYvF5Lg/1769993650085/live/myHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/Gzke0ipnemB9QRhVy8FcuA/Fv2lucGIbhPi2caWYvF5Lg/1769995807922/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain [Mỳ Tôm] SD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ys0yHmxD0-UaD71mvQzvuQ/Fv2lucGIbhPi2caWYvF5Lg/1769993650085/live/mySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Cr4b0_XAnZSSKq0_yCQ2vg/Fv2lucGIbhPi2caWYvF5Lg/1769995807922/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain [Mỳ Tôm] FullHD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769993650/5480014e8f8810414efc5bb6ed8ce580/348375304/live/myFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769995807/6063e2200678b7ec8038ad243f79d3d4/793443003/live/myFHD/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain [Mỳ Tôm] Backup 1 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/VOuQqIVG6NPzHKFfAxH84g/Fv2lucGIbhPi2caWYvF5Lg/1769993650083/live/sd-6MuT7Y4fwgD2MGdnjd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/l6bti2an-bhtdRjwgiO3Uw/Fv2lucGIbhPi2caWYvF5Lg/1769995807920/live/sd-6MuT7Y4fwgD2MGdnjd/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",02:45 02/02 Strasbourg vs Paris Saint Germain [Mỳ Tôm] Backup 2 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/nG2pKA8QtQAhap84KvB6RA/Fv2lucGIbhPi2caWYvF5Lg/1769993650084/live/hd-en-6MuT7Y4fwgD2MGdnjd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/si8ihnyVn4ct0hOmi8Fs-w/Fv2lucGIbhPi2caWYvF5Lg/1769995807921/live/hd-en-6MuT7Y4fwgD2MGdnjd/playlist.m3u8
 #EXTINF:0 group-title="Live Event: 10Cam" tvg-logo="https://wsrv.nl/?url=https://static.flashscore.com/res/image/data/8KsD4LXI-vBYa7dz8.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",16:00 01/02 WTA500 Abu Dhabi Open [Nhà Đài] HD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/XBbkZAlWGV4TE-O2e2TlCg/Fv2lucGIbhPi2caWYvF5Lg/1770018851294/live/may211/playlist.m3u8 # ===== SOURCE 3 =====
+https://hotlivezz179026907.akainu.xyz/_3LD7Lo8ENT0W_FcFd_-bQ/Fv2lucGIbhPi2caWYvF5Lg/1770021010257/live/may211/playlist.m3u8 # ===== SOURCE 3 =====
 #EXTINF:0 group-title="Live Event: Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/1200px-Racing_Club_de_Strasbourg_logo.svg.png",02:45 02/02 Strasbourg vs Paris Saint Germain FULL HD #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
@@ -1193,36 +1167,8 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
 https://live5.msrktz.app/live/24561735.m3u8
 #EXTINF:0 group-title="Live Event: Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/9fadd87d190982c8082dddf1567e0b9b.png!w80",02:45 02/02 CLB Parma vs Juventus F.C. #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/97312754.m3u8
-#EXTINF:0 group-title="Live Event: Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80",01:00 02/02 Sporting vs CLB Nacional #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/87547578.m3u8 # ===== SOURCE 4 =====
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: Hạng Nhì Tây Ban Nha",02/02 00:30 SD Huesca VS Cadiz Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m304qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: Bundesliga Women",02/02 00:30 RB Leipzig (w) VS Eintracht Frankfurt (w) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m306qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Hy Lạp",02/02 00:30 PAOK Saloniki VS Panserraikos Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m305qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Ả Rập Xê Út",02/02 00:30 Al-Fateh SC VS Al-Hazm Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Séc",02/02 00:30 Pardubice VS Slavia Praha Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m302qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Romania",02/02 01:00 FCSB VS FK Csikszereda Miercurea Ciuc Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m103qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Peru",02/02 01:00 Deportivo Garcilaso VS Sporting Cristal Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m104qt/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/abbb31d42c55612737713aac6567a226.png!w80",03:00 02/02 Athletic Bilbao vs Real Sociedad #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/97885009.m3u8 # ===== SOURCE 4 =====
 #EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Bồ Đào Nha",02/02 01:00 Sporting CP VS Nacional da Madeira SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1247,10 +1193,14 @@ https://p51i1025.edgemaxcdn.org/live/chuoisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://p51i1025.edgemaxcdn.org/live/chuoihd1.flv
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: Ngoại hạng Israel",02/02 01:00 Hapoel Petah Tikva VS Ashdod MS Nhà đài
+#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Romania",02/02 01:00 FCSB VS FK Csikszereda Miercurea Ciuc Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m102qt/playlist.m3u8
+https://mrkw1025.edgemaxcdn.org/live/m103qt/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Peru",02/02 01:00 Deportivo Garcilaso VS Sporting Cristal Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m104qt/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Bỉ",02/02 01:15 Oud-Heverlee Leuven VS KV Mechelen Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1259,22 +1209,22 @@ https://mrkw1025.edgemaxcdn.org/live/m105qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m106qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Colombia",02/02 02:00 Atletico Bucaramanga VS Alianza Petrolera Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: CAF Champions League",02/02 02:00 MC Alger VS Saint Eloi Lupopo Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m107qt/playlist.m3u8
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: CAF Confederation Cup",02/02 02:00 Al Masry VS Zamalek Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m108qt/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: Siêu cúp Brasil",02/02 02:00 CR Flamengo VS Corinthians Paulista Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m201qt/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: CAF Champions League",02/02 02:00 MC Alger VS Saint Eloi Lupopo Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m107qt/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Colombia",02/02 02:00 Atletico Bucaramanga VS Alianza Petrolera Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m202qt/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: CAF Confederation Cup",02/02 02:00 Al Masry VS Zamalek Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m108qt/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Hà Lan",02/02 02:00 Volendam VS Go Ahead Eagles SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1431,41 +1381,41 @@ https://p51i1025.edgemaxcdn.org/live/musd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://p51i1025.edgemaxcdn.org/live/muhd1.flv
-#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Chile",02/02 04:00 Deportes La Serena VS Univ Catolica Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m206qt/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: Vô Địch Venezuela",02/02 04:00 Estudiantes Merida FC VS Caracas FC Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m207qt/playlist.m3u8
+#EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Chile",02/02 04:00 Deportes La Serena VS Univ Catolica Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m206qt/playlist.m3u8
 #EXTINF:0 group-title="Live Event: Ca heo" tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" Giải Cỏ: VĐQG Colombia",02/02 04:10 Deportivo Cali VS Deportivo Pasto Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m202qt/playlist.m3u8 # ===== SOURCE 5 =====
 #DATE:- 02-02- 00:20
 #No live matches. # ===== SOURCE 6 =====
-#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Argentina Liga Profesional] Barracas Central vs Dep Riestra " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Argentina Liga Profesional] Barracas Central vs Dep Riestra #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Argentina Liga Profesional] Barracas Central vs Dep Riestra " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Argentina Liga Profesional] Barracas Central vs Dep Riestra #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/fnnnqqq.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Argentina Liga Profesional] Boca Juniors vs Newells Old Boys " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Argentina Liga Profesional] Boca Juniors vs Newells Old Boys #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Argentina Liga Profesional] Boca Juniors vs Newells Old Boys " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Argentina Liga Profesional] Boca Juniors vs Newells Old Boys #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/SASASAQQ.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.Dummy.us" tvg-name="[Belgium Pro League] Leuven vs KV Mechelen " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/6.png" group-title="live event: fawa",[Belgium Pro League] Leuven vs KV Mechelen #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.Dummy.us" tvg-name="[Belgium Pro League] Leuven vs KV Mechelen " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/6.png" group-title="live event: fawa",[Belgium Pro League] Leuven vs KV Mechelen #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.utfdvdvd.shop/hls/cacacaqqqqq.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.Dummy.us" tvg-name="[Belgium Pro League] Leuven vs KV Mechelen 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/6.png" group-title="live event: fawa",[Belgium Pro League] Leuven vs KV Mechelen 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.Dummy.us" tvg-name="[Belgium Pro League] Leuven vs KV Mechelen 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/6.png" group-title="live event: fawa",[Belgium Pro League] Leuven vs KV Mechelen 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.197/hls/cacacaqqqqq.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="Live.Event.us" tvg-name="[Brazil Super Copa] Flamengo RJ vs Corinthians 1 " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Brazil Super Copa] Flamengo RJ vs Corinthians 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="24" tvg-id="Live.Event.us" tvg-name="[Brazil Super Copa] Flamengo RJ vs Corinthians 1 " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Brazil Super Copa] Flamengo RJ vs Corinthians 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/aiiiqqqqq.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="Live.Event.us" tvg-name="[Brazil Super Copa] Flamengo RJ vs Corinthians 2 " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Brazil Super Copa] Flamengo RJ vs Corinthians 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="25" tvg-id="Live.Event.us" tvg-name="[Brazil Super Copa] Flamengo RJ vs Corinthians 2 " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Brazil Super Copa] Flamengo RJ vs Corinthians 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/aiiiqqqqq.m3u8
@@ -1493,31 +1443,31 @@ https://f.ulkjerg.shop/hls/aiiiqqqq.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/aiiiqqqq.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="Live.Event.us" tvg-name="[Darts] Darts PDC World Masters " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Darts] Darts PDC World Masters #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="47" tvg-id="Live.Event.us" tvg-name="[Darts] Darts PDC World Masters " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Darts] Darts PDC World Masters #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/FBBBQQQQ.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="Soccer.Dummy.us" tvg-name="[Dutch Eredivisie] FC Volendam vs GA Eagles 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="live event: fawa",[Dutch Eredivisie] FC Volendam vs GA Eagles 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.Dummy.us" tvg-name="[Dutch Eredivisie] FC Volendam vs GA Eagles 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="live event: fawa",[Dutch Eredivisie] FC Volendam vs GA Eagles 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/aiiiqqq.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.Dummy.us" tvg-name="[Dutch Eredivisie] FC Volendam vs GA Eagles 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="live event: fawa",[Dutch Eredivisie] FC Volendam vs GA Eagles 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="[Dutch Eredivisie] FC Volendam vs GA Eagles 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="live event: fawa",[Dutch Eredivisie] FC Volendam vs GA Eagles 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/aiiiqqq.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Tottenham vs Manchester City HD " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="live event: fawa",[English Premier League] Tottenham vs Manchester City HD #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Tottenham vs Manchester City HD " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="live event: fawa",[English Premier League] Tottenham vs Manchester City HD #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="Live.Event.us" tvg-name="[FIFA Women's Champions Cup] Arsenal W vs Corinthians W " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[FIFA Women's Champions Cup] Arsenal W vs Corinthians W #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="57" tvg-id="Live.Event.us" tvg-name="[FIFA Women's Champions Cup] Arsenal W vs Corinthians W " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[FIFA Women's Champions Cup] Arsenal W vs Corinthians W #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.utfdvdvd.shop/hls/cacacaqqq.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="Live.Event.us" tvg-name="[FIFA Women's Champions Cup] Arsenal W vs Corinthians W 2 " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[FIFA Women's Champions Cup] Arsenal W vs Corinthians W 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="58" tvg-id="Live.Event.us" tvg-name="[FIFA Women's Champions Cup] Arsenal W vs Corinthians W 2 " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[FIFA Women's Champions Cup] Arsenal W vs Corinthians W 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.197/hls/cacacaqqq.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-id="Soccer.Dummy.us" tvg-name="[German 3 liga] RW Essen vs Wehen " tvg-logo="https://i.gyazo.com/9f4f2e8370377b6214b4103003196de7.png" group-title="live event: fawa",[German 3 liga] RW Essen vs Wehen #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="81" tvg-id="Soccer.Dummy.us" tvg-name="[German 3 liga] RW Essen vs Wehen " tvg-logo="https://i.gyazo.com/9f4f2e8370377b6214b4103003196de7.png" group-title="live event: fawa",[German 3 liga] RW Essen vs Wehen #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.utfdvdvd.shop/hls/cacacaqqqqqq.m3u8
@@ -1525,79 +1475,87 @@ https://c.utfdvdvd.shop/hls/cacacaqqqqqq.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://a.swinapi.sbs/hls/kokokoQ.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="Soccer.Dummy.us" tvg-name="[Greece Super League] AEK Athens vs Olympiacos 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/98.png" group-title="live event: fawa",[Greece Super League] AEK Athens vs Olympiacos 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="86" tvg-id="Soccer.Dummy.us" tvg-name="[Greece Super League] AEK Athens vs Olympiacos 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/98.png" group-title="live event: fawa",[Greece Super League] AEK Athens vs Olympiacos 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.107.90/hls/FFUUU.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="Soccer.Dummy.us" tvg-name="[Greece Super League] AEK Athens vs Olympiacos 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/98.png" group-title="live event: fawa",[Greece Super League] AEK Athens vs Olympiacos 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="87" tvg-id="Soccer.Dummy.us" tvg-name="[Greece Super League] AEK Athens vs Olympiacos 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/98.png" group-title="live event: fawa",[Greece Super League] AEK Athens vs Olympiacos 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://b.vbayisap.shop/hls/FFUUU.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="Live.Event.us" tvg-name="[Hungary NB 1 Liga] Zalaegerszegi vs Nyiregyhaza " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Hungary NB 1 Liga] Zalaegerszegi vs Nyiregyhaza #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="95" tvg-id="Live.Event.us" tvg-name="[Hungary NB 1 Liga] Zalaegerszegi vs Nyiregyhaza " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Hungary NB 1 Liga] Zalaegerszegi vs Nyiregyhaza #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.utfdvdvd.shop/hls/cacacaqqqqqqq.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="Live.Event.us" tvg-name="[Israel Ligat ha'Al] Hapoel Petah Tikva vs SC Ashdod " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Israel Ligat ha'Al] Hapoel Petah Tikva vs SC Ashdod #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="101" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Parma vs Juventus " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="live event: fawa",[Italy Serie A] Parma vs Juventus #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.utfdvdvd.shop/hls/cacaca.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Parma vs Juventus 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="live event: fawa",[Italy Serie A] Parma vs Juventus 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://f.ulkjerg.shop/hls/fnnnX.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Parma vs Juventus 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="live event: fawa",[Italy Serie A] Parma vs Juventus 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/fnnn.m3u8
-#EXTINF:-1 tvg-chno="124" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1 France] Strasbourg vs PSG 1 " tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="live event: fawa",[Ligue 1 France] Strasbourg vs PSG 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="104" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Parma vs Juventus 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="live event: fawa",[Italy Serie A] Parma vs Juventus 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://205.237.105.46/hls/fnnn.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1 France] Strasbourg vs PSG " tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="live event: fawa",[Ligue 1 France] Strasbourg vs PSG #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://f.ulkjerg.shop/hls/fnnnXVV.m3u8
+#EXTINF:-1 tvg-chno="119" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1 France] Strasbourg vs PSG 1 " tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="live event: fawa",[Ligue 1 France] Strasbourg vs PSG 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/fnnnXV.m3u8
-#EXTINF:-1 tvg-chno="125" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1 France] Strasbourg vs PSG 2 " tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="live event: fawa",[Ligue 1 France] Strasbourg vs PSG 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="120" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1 France] Strasbourg vs PSG 2 " tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="live event: fawa",[Ligue 1 France] Strasbourg vs PSG 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://f.ulkjerg.shop/hls/fnnnXV.m3u8
-#EXTINF:-1 tvg-chno="209" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Carolina Hurricanes vs Los Angeles Kings 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: fawa",[NHL Hockey] Carolina Hurricanes vs Los Angeles Kings 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://205.237.105.46/hls/fnnnXV.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Boston Celtics vs Milwaukee Bucks 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="live event: fawa",[NBA Basketball] Boston Celtics vs Milwaukee Bucks 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://205.237.105.46/hls/FCCCCQQ.m3u8
+#EXTINF:-1 tvg-chno="126" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Boston Celtics vs Milwaukee Bucks 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="live event: fawa",[NBA Basketball] Boston Celtics vs Milwaukee Bucks 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://f.ulkjerg.shop/hls/FCCCCQQ.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Carolina Hurricanes vs Los Angeles Kings 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: fawa",[NHL Hockey] Carolina Hurricanes vs Los Angeles Kings 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/fnnnqqqq.m3u8
-#EXTINF:-1 tvg-chno="210" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Carolina Hurricanes vs Los Angeles Kings 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: fawa",[NHL Hockey] Carolina Hurricanes vs Los Angeles Kings 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="215" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Carolina Hurricanes vs Los Angeles Kings 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: fawa",[NHL Hockey] Carolina Hurricanes vs Los Angeles Kings 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/fnnnqqqq.m3u8
-#EXTINF:-1 tvg-chno="230" tvg-id="Live.Event.us" tvg-name="[Peru Liga 1 Apertura] Alianza Atl vs Cusco " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Peru Liga 1 Apertura] Alianza Atl vs Cusco #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="238" tvg-id="Live.Event.us" tvg-name="[Peru Liga 1 Apertura] Alianza Atl vs Cusco " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Peru Liga 1 Apertura] Alianza Atl vs Cusco #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.utfdvdvd.shop/hls/cacacaqq.m3u8
-#EXTINF:-1 tvg-chno="231" tvg-id="Live.Event.us" tvg-name="[Peru Liga 1 Apertura] Deportivo Garcilaso vs Sporting Cristal " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Peru Liga 1 Apertura] Deportivo Garcilaso vs Sporting Cristal #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="239" tvg-id="Live.Event.us" tvg-name="[Peru Liga 1 Apertura] Deportivo Garcilaso vs Sporting Cristal " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Peru Liga 1 Apertura] Deportivo Garcilaso vs Sporting Cristal #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.utfdvdvd.shop/hls/cacacaqq.m3u8
-#EXTINF:-1 tvg-chno="235" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Sporting Lisbon vs Nacional " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="live event: fawa",[Portugal Primeira Liga] Sporting Lisbon vs Nacional #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.utfdvdvd.shop/hls/cacacaqqqq.m3u8
-#EXTINF:-1 tvg-chno="236" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Tondela vs Benfica " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="live event: fawa",[Portugal Primeira Liga] Tondela vs Benfica #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="245" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Tondela vs Benfica " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="live event: fawa",[Portugal Primeira Liga] Tondela vs Benfica #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/FCCCCQ.m3u8
-#EXTINF:-1 tvg-chno="246" tvg-id="Soccer.Dummy.us" tvg-name="[Romania Superliga] FCSB vs Csikszereda M Ciuc " tvg-logo="https://i.gyazo.com/3fd4b38d5263ca391e45850eb58d11e6.png" group-title="live event: fawa",[Romania Superliga] FCSB vs Csikszereda M Ciuc #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.utfdvdvd.shop/hls/cacacaq.m3u8
-#EXTINF:-1 tvg-chno="254" tvg-id="Live.Event.us" tvg-name="[Rugby Top 14] Section Paloise vs RC Toulonnais " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Rugby Top 14] Section Paloise vs RC Toulonnais #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="267" tvg-id="Live.Event.us" tvg-name="[Rugby Top 14] Section Paloise vs RC Toulonnais " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Rugby Top 14] Section Paloise vs RC Toulonnais #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/FCCCC.m3u8
-#EXTINF:-1 tvg-chno="282" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker German Masters " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Snooker] Snooker German Masters #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="287" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker German Masters " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Snooker] Snooker German Masters #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/FBBBQQQQq.m3u8
-#EXTINF:-1 tvg-chno="294" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Athletic Bilbao vs Real Sociedad 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="live event: fawa",[Spanish La Liga] Athletic Bilbao vs Real Sociedad 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="300" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Athletic Bilbao vs Real Sociedad 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="live event: fawa",[Spanish La Liga] Athletic Bilbao vs Real Sociedad 1 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/fnnnqq.m3u8
-#EXTINF:-1 tvg-chno="295" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Athletic Bilbao vs Real Sociedad 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="live event: fawa",[Spanish La Liga] Athletic Bilbao vs Real Sociedad 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="301" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Athletic Bilbao vs Real Sociedad 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="live event: fawa",[Spanish La Liga] Athletic Bilbao vs Real Sociedad 2 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/fnnnqq.m3u8
-#EXTINF:-1 tvg-chno="302" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Segunda Liga] Granada CF vs Racing Santander " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="live event: fawa",[Spanish Segunda Liga] Granada CF vs Racing Santander #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="308" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Segunda Liga] Granada CF vs Racing Santander " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="live event: fawa",[Spanish Segunda Liga] Granada CF vs Racing Santander #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.ulkjerg.shop/hls/fnnnq.m3u8 # ===== SOURCE 7 =====
@@ -1653,51 +1611,75 @@ https://daffodil.xn--1000-ugoxe8a5a7g4h.com/beines.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/main.m3u8 # ===== SOURCE 9 =====
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Africa CAF Champions League] MC Alger vs Saint Eloi Lupopo " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2391.png" group-title="live event: sport9",[Africa CAF Champions League] MC Alger vs Saint Eloi Lupopo #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Africa CAF Champions League] MC Alger vs Saint Eloi Lupopo " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2391.png" group-title="live event: sport9",[Africa CAF Champions League] MC Alger vs Saint Eloi Lupopo #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://d12.epicquesthero.com:999/hls/do36.m3u8?md5=a2QDuu-VnixVg-xccTl_BA&expires=1769981474
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Africa CAF Confederation Cup] Al Masry vs Zamalek " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: sport9",[Africa CAF Confederation Cup] Al Masry vs Zamalek #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Africa CAF Confederation Cup] Al Masry vs Zamalek " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: sport9",[Africa CAF Confederation Cup] Al Masry vs Zamalek #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://d14.epicquesthero.com:999/hls/do34.m3u8?md5=Wvy421Hs0sDfuz3HUU7emA&expires=1769981466
-#EXTINF:-1 tvg-chno="25" tvg-id="Live.Event.us" tvg-name="[Brazil Supercopa do Brasil] Flamengo vs Corinthians " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: sport9",[Brazil Supercopa do Brasil] Flamengo vs Corinthians #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Argentina Primera Division] Barracas Central vs Deportivo Riestra " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: sport9",[Argentina Primera Division] Barracas Central vs Deportivo Riestra #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d13.epicquesthero.com:999/hls/do27.m3u8?md5=Mhvb48gfKUO7Sf8UEjVY5Q&expires=1769983960
+#EXTINF:-1 tvg-chno="26" tvg-id="Live.Event.us" tvg-name="[Brazil Supercopa do Brasil] Flamengo vs Corinthians " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: sport9",[Brazil Supercopa do Brasil] Flamengo vs Corinthians #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://d15.epicquesthero.com:999/hls/do87.m3u8?md5=5Wcu3IoUJs7qffBgqBprtw&expires=1769981479
+#EXTINF:-1 tvg-chno="76" tvg-id="Soccer.Dummy.us" tvg-name="[France Ligue 1] Strasbourg vs PSG " tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="live event: sport9",[France Ligue 1] Strasbourg vs PSG #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d14.epicquesthero.com:999/hls/do39.m3u8?md5=5q5be7HlMkspL943DQLY5A&expires=1769983945
+#EXTINF:-1 tvg-chno="77" tvg-id="Live.Event.us" tvg-name="[France TOP 14] Pau vs Toulon " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: sport9",[France TOP 14] Pau vs Toulon #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d14.epicquesthero.com:999/hls/do50.m3u8?md5=lPbJMN2C8Og5yRMUNaTBGA&expires=1769983962
 #EXTINF:-1 tvg-chno="84" tvg-id="Live.Event.us" tvg-name="[Germany 3. Liga] Rot-Weiss Essen vs Wehen Wiesbaden " tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: sport9",[Germany 3. Liga] Rot-Weiss Essen vs Wehen Wiesbaden #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d11.epicquesthero.com:999/hls/do99.m3u8?md5=MUvmzH-Xe_05ETuwxzBtew&expires=1769977867
-#EXTINF:-1 tvg-chno="89" tvg-id="Soccer.Dummy.us" tvg-name="[Greece Super League] AEK Athens vs Olympiakos Piraeus " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/98.png" group-title="live event: sport9",[Greece Super League] AEK Athens vs Olympiakos Piraeus #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+https://d15.epicquesthero.com:999/hls/do99.m3u8?md5=WMp0KcKouJ7dEcbiDVE0yg&expires=1769983937
+#EXTINF:-1 tvg-chno="88" tvg-id="Soccer.Dummy.us" tvg-name="[Greece Super League] AEK Athens vs Olympiakos Piraeus " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/98.png" group-title="live event: sport9",[Greece Super League] AEK Athens vs Olympiakos Piraeus #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://d11.epicquesthero.com:999/hls/do23.m3u8?md5=HZ3CNNb5hwz-uvzD1p1JIg&expires=1769981459
-#EXTINF:-1 tvg-chno="104" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Cremonese vs Internazionale " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="live event: sport9",[Italy Serie A] Cremonese vs Internazionale #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTINF:-1 tvg-chno="102" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Parma vs Juventus " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="live event: sport9",[Italy Serie A] Parma vs Juventus #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d15.epicquesthero.com:999/hls/do9.m3u8?md5=efjUyCVyXfIIOg5ck1a0dA&expires=1769977842
-#EXTINF:-1 tvg-chno="227" tvg-id="Soccer.Dummy.us" tvg-name="[Netherlands Eredivisie] Volendam vs Go Ahead Eagles " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="live event: sport9",[Netherlands Eredivisie] Volendam vs Go Ahead Eagles #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+https://d15.epicquesthero.com:999/hls/do1.m3u8?md5=i745FksIB-xkU1-5XkpFbQ&expires=1769983944
+#EXTINF:-1 tvg-chno="228" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Los Angeles Kings vs Carolina Hurricanes " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: sport9",[NHL] Los Angeles Kings vs Carolina Hurricanes #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d13.epicquesthero.com:999/hls/do7.m3u8?md5=redGIADVdcryramPP4a5UA&expires=1769983955
+#EXTINF:-1 tvg-chno="235" tvg-id="Soccer.Dummy.us" tvg-name="[Netherlands Eredivisie] Volendam vs Go Ahead Eagles " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="live event: sport9",[Netherlands Eredivisie] Volendam vs Go Ahead Eagles #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://d13.epicquesthero.com:999/hls/do88.m3u8?md5=bmV9cpzYxoHKVBJZ9fmhRg&expires=1769981484
-#EXTINF:-1 tvg-chno="234" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Sporting CP vs Nacional " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="live event: sport9",[Portugal Primeira Liga] Sporting CP vs Nacional #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTINF:-1 tvg-chno="243" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Sporting CP vs Nacional " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="live event: sport9",[Portugal Primeira Liga] Sporting CP vs Nacional #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d12.epicquesthero.com:999/hls/do19.m3u8?md5=yeVjJjCLuzSA18bXe2JQcw&expires=1769981448 # ===== SOURCE 10 =====
-#EXTINF:-1 tvg-chno="152" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Milwaukee Bucks @ Boston Celtics " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="live event: TVPASS",[NBA] Milwaukee Bucks @ Boston Celtics #EXTVLCOPT:http-referrer=https://tvpass.org
+https://d12.epicquesthero.com:999/hls/do19.m3u8?md5=yeVjJjCLuzSA18bXe2JQcw&expires=1769981448
+#EXTINF:-1 tvg-chno="293" tvg-id="Soccer.Dummy.us" tvg-name="[Spain La Liga] Athletic Club vs Real Sociedad " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="live event: sport9",[Spain La Liga] Athletic Club vs Real Sociedad #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d13.epicquesthero.com:999/hls/do6.m3u8?md5=nGd-Sm_uSZuGAtTwAFuxGw&expires=1769983952
+#EXTINF:-1 tvg-chno="294" tvg-id="Soccer.Dummy.us" tvg-name="[Spain Segunda Division] Granada vs Racing Santander " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="live event: sport9",[Spain Segunda Division] Granada vs Racing Santander #EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d12.epicquesthero.com:999/hls/do26.m3u8?md5=Z2HL57G71-VvB8mG0mVFOg&expires=1769983958 # ===== SOURCE 10 =====
+#EXTINF:-1 tvg-chno="150" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Milwaukee Bucks @ Boston Celtics " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="live event: TVPASS",[NBA] Milwaukee Bucks @ Boston Celtics #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="211" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Boston Bruins @ Tampa Bay Lightning " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: TVPASS",[NHL] Boston Bruins @ Tampa Bay Lightning #EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTINF:-1 tvg-chno="216" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Boston Bruins @ Tampa Bay Lightning " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: TVPASS",[NHL] Boston Bruins @ Tampa Bay Lightning #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="219" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Los Angeles Kings @ Carolina Hurricanes " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: TVPASS",[NHL] Los Angeles Kings @ Carolina Hurricanes #EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTINF:-1 tvg-chno="225" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Los Angeles Kings @ Carolina Hurricanes " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: TVPASS",[NHL] Los Angeles Kings @ Carolina Hurricanes #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL04/mono.m3u8
-#EXTINF:-1 tvg-chno="223" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Vegas Golden Knights @ Anaheim Ducks " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: TVPASS",[NHL] Vegas Golden Knights @ Anaheim Ducks #EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTINF:-1 tvg-chno="230" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Vegas Golden Knights @ Anaheim Ducks " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="live event: TVPASS",[NHL] Vegas Golden Knights @ Anaheim Ducks #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8 # ===== SOURCE 11 =====
