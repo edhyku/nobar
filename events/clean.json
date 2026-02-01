@@ -1,26 +1,15 @@
 {
-  "updated": 1769927848,
+  "updated": 1769930772,
   "events": [
     {
-      "league": "AUS A-League",
+      "league": "AUS W-League",
       "status": "LIVE",
       "time": 1769925600,
-      "home": "Central Coast Mariners",
-      "away": "Melbourne Victory",
+      "home": "Newcastle Jets Women",
+      "away": "Wellington Phoenix Women",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426657.m3u8?txSecret=09edffc7b5fd7813b019a6c62d579ff2&txTime=697F3235"
-      }
-    },
-    {
-      "league": "AUS A-League",
-      "status": "LIVE",
-      "time": 1769925600,
-      "home": "Central Coast Mariners",
-      "away": "Melbourne Victory",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4426657.m3u8?txSecret=09edffc7b5fd7813b019a6c62d579ff2&txTime=697F3235"
+        "url": "https://live1.trendgallary.com/live/63685101_c0452e59283d1891d4aad0d3b2494d30.m3u8"
       }
     },
     {
@@ -31,18 +20,7 @@
       "away": "Wellington Phoenix Women",
       "stream": {
         "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429264.m3u8?txSecret=3d5752e99e91577007c9ce58cc654939&txTime=697F3235"
-      }
-    },
-    {
-      "league": "AUS W-League",
-      "status": "LIVE",
-      "time": 1769925600,
-      "home": "Newcastle Jets Women",
-      "away": "Wellington Phoenix Women",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4429264.m3u8?txSecret=3d5752e99e91577007c9ce58cc654939&txTime=697F3235"
+        "url": "https://live1.trendgallary.com/live/63685101_c0452e59283d1891d4aad0d3b2494d30.m3u8"
       }
     },
     {
@@ -443,24 +421,24 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769958900,
       "home": "Al Shabab FC",
       "away": "Al Fayha",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2403885_1769930406.flv"
       }
     },
     {
       "league": "KSA Professional League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769958900,
       "home": "Al Shabab FC",
       "away": "Al Fayha",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2403885_1769930406.flv"
       }
     },
     {
@@ -634,6 +612,28 @@
       "time": 1769967000,
       "home": "Getafe",
       "away": "RC Celta",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769967000,
+      "home": "Castellon",
+      "away": "Andorra CF",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SPA Segunda Division",
+      "status": "UPCOMING",
+      "time": 1769967000,
+      "home": "Castellon",
+      "away": "Andorra CF",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
