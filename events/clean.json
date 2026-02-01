@@ -1,5 +1,5 @@
 {
-  "updated": 1769959299,
+  "updated": 1769960837,
   "events": [
     {
       "league": "ENG Premier League",
@@ -278,6 +278,17 @@
     },
     {
       "league": "IDN Liga 1",
+      "status": "LIVE",
+      "time": 1770033600,
+      "home": "Persatuan Sepakbola Makassar",
+      "away": "Semen Padang",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769955133.flv"
+      }
+    },
+    {
+      "league": "IDN Liga 1",
       "status": "UPCOMING",
       "time": 1770021000,
       "home": "Arema FC",
@@ -288,6 +299,17 @@
       }
     },
     {
+      "league": "IDN Liga 1",
+      "status": "LIVE",
+      "time": 1770033600,
+      "home": "Persatuan Sepakbola Makassar",
+      "away": "Semen Padang",
+      "stream": {
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1769955133.flv"
+      }
+    },
+    {
       "league": "ITA Serie A",
       "status": "LIVE",
       "time": 1769954400,
@@ -361,7 +383,7 @@
       "away": "Al Fayha",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100341.m3u8?txSecret=0ef5cd5bcd9707a4cd7bcade4c03707d&txTime=697F72AB&sign=7acf76cc9d1637dc"
+        "url": "https://v.lfsxfj.com/live/100341.m3u8?txSecret=3be764cacc103e263a1dc5177dd97ef6&txTime=697F7BCE&sign=eeb61737134bda2f"
       }
     },
     {
@@ -394,7 +416,7 @@
       "away": "Al Fayha",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100341.m3u8?txSecret=0ef5cd5bcd9707a4cd7bcade4c03707d&txTime=697F72AB&sign=7acf76cc9d1637dc"
+        "url": "https://v.lfsxfj.com/live/100341.m3u8?txSecret=3be764cacc103e263a1dc5177dd97ef6&txTime=697F7BCE&sign=eeb61737134bda2f"
       }
     },
     {
@@ -426,8 +448,8 @@
       "home": "Gil Vicente",
       "away": "FC Famalicao",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769958465.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100436.m3u8?txSecret=eff64f39d9bd8445103b7afeffd4a8cb&txTime=697F7BCE&sign=e7978d383d558c45"
       }
     },
     {
@@ -459,8 +481,8 @@
       "home": "Gil Vicente",
       "away": "FC Famalicao",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/1990195_1769958465.flv"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100436.m3u8?txSecret=eff64f39d9bd8445103b7afeffd4a8cb&txTime=697F7BCE&sign=e7978d383d558c45"
       }
     },
     {
@@ -510,34 +532,12 @@
     {
       "league": "NED Eredivisie",
       "status": "LIVE",
-      "time": 1769952600,
-      "home": "Heracles Almelo",
-      "away": "Fortuna Sittard",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/61320035_668637c8f5ad2f519b10fa85193b24c3.m3u8"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769952600,
-      "home": "PSV Eindhoven",
-      "away": "Feyenoord",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play5.clomidx.com/live/11236623875_141704606_adaptive.m3u8"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "UPCOMING",
       "time": 1769960700,
       "home": "SC Heerenveen",
       "away": "FC Utrecht",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769960137.flv"
       }
     },
     {
@@ -554,34 +554,12 @@
     {
       "league": "NED Eredivisie",
       "status": "LIVE",
-      "time": 1769952600,
-      "home": "Heracles Almelo",
-      "away": "Fortuna Sittard",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live1.trendgallary.com/live/61320035_668637c8f5ad2f519b10fa85193b24c3.m3u8"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "LIVE",
-      "time": 1769952600,
-      "home": "PSV Eindhoven",
-      "away": "Feyenoord",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://play5.clomidx.com/live/11236623875_141704606_adaptive.m3u8"
-      }
-    },
-    {
-      "league": "NED Eredivisie",
-      "status": "UPCOMING",
       "time": 1769960700,
       "home": "SC Heerenveen",
       "away": "FC Utrecht",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769960137.flv"
       }
     },
     {
@@ -590,6 +568,28 @@
       "time": 1769972400,
       "home": "Volendam",
       "away": "Go Ahead Eagles",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SIN Premier League",
+      "status": "UPCOMING",
+      "time": 1770031800,
+      "home": "Albirex Niigata FC",
+      "away": "Geylang United FC",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "SIN Premier League",
+      "status": "UPCOMING",
+      "time": 1770031800,
+      "home": "Albirex Niigata FC",
+      "away": "Geylang United FC",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -602,8 +602,8 @@
       "home": "Real Betis",
       "away": "Valencia CF",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769958154.flv"
+        "type": "m3u8",
+        "url": "https://play3.clomidx.com/live/112314493499_3283987977_adaptive.m3u8"
       }
     },
     {
@@ -635,8 +635,8 @@
       "home": "Real Betis",
       "away": "Valencia CF",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2161697_1769958154.flv"
+        "type": "m3u8",
+        "url": "https://play3.clomidx.com/live/112314493499_3283987977_adaptive.m3u8"
       }
     },
     {
