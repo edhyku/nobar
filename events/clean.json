@@ -1,5 +1,5 @@
 {
-  "updated": 1769982054,
+  "updated": 1769983024,
   "events": [
     {
       "league": "CONCACAF U17 Championship",
@@ -68,6 +68,28 @@
       }
     },
     {
+      "league": "Coppa Italia",
+      "status": "UPCOMING",
+      "time": 1770235200,
+      "home": "Inter Milan",
+      "away": "Torino",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "Coppa Italia",
+      "status": "UPCOMING",
+      "time": 1770235200,
+      "home": "Inter Milan",
+      "away": "Torino",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
       "time": 1765033200,
@@ -134,28 +156,6 @@
       }
     },
     {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769975100,
-      "home": "RC Strasbourg Alsace",
-      "away": "Paris Saint Germain",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347858.m3u8?txSecret=ce5f175e21e7318574b722b0b8f14e3e&txTime=697FF96B"
-      }
-    },
-    {
-      "league": "FRA Ligue 1",
-      "status": "LIVE",
-      "time": 1769975100,
-      "home": "RC Strasbourg Alsace",
-      "away": "Paris Saint Germain",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4347858.m3u8?txSecret=ce5f175e21e7318574b722b0b8f14e3e&txTime=697FF96B"
-      }
-    },
-    {
       "league": "IDN Liga 1",
       "status": "UPCOMING",
       "time": 1770021000,
@@ -197,17 +197,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769975100,
-      "home": "Parma",
-      "away": "Juventus",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339767.m3u8?txSecret=eda984eb05385d2c671af093890aabaa&txTime=697FF96B"
       }
     },
     {
@@ -230,17 +219,6 @@
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "ITA Serie A",
-      "status": "LIVE",
-      "time": 1769975100,
-      "home": "Parma",
-      "away": "Juventus",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4339767.m3u8?txSecret=eda984eb05385d2c671af093890aabaa&txTime=697FF96B"
       }
     },
     {
@@ -524,6 +502,28 @@
       "time": 1769986800,
       "home": "Queretaro FC",
       "away": "Pachuca",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "POR Cup",
+      "status": "UPCOMING",
+      "time": 1770236100,
+      "home": "AD Fafe",
+      "away": "SCU Torreense",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "POR Cup",
+      "status": "UPCOMING",
+      "time": 1770236100,
+      "home": "AD Fafe",
+      "away": "SCU Torreense",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
