@@ -1,5 +1,5 @@
 {
-  "updated": 1769985356,
+  "updated": 1769986690,
   "events": [
     {
       "league": "BRA Serie A",
@@ -300,13 +300,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770042000,
       "home": "Jeddah Sports Club",
       "away": "Al-Jabalain",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769986214.flv"
       }
     },
     {
@@ -322,13 +322,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770042000,
       "home": "Jeddah Sports Club",
       "away": "Al-Jabalain",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769986214.flv"
       }
     },
     {
@@ -509,24 +509,24 @@
     },
     {
       "league": "MEX Liga MX",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769986800,
       "home": "Queretaro FC",
       "away": "Pachuca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1769985472.flv"
       }
     },
     {
       "league": "MEX Liga MX",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769986800,
       "home": "Queretaro FC",
       "away": "Pachuca",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2375114_1769985472.flv"
       }
     },
     {
