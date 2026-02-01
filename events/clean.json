@@ -1,5 +1,5 @@
 {
-  "updated": 1769942928,
+  "updated": 1769944409,
   "events": [
     {
       "league": "BEL Pro League",
@@ -443,13 +443,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769944500,
       "home": "Excelsior SBV",
       "away": "AFC Ajax",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769943338.flv"
       }
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "league": "NED Eredivisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1769944500,
       "home": "Excelsior SBV",
       "away": "AFC Ajax",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769943338.flv"
       }
     },
     {
