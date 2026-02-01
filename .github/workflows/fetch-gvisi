@@ -1,0 +1,26 @@
+name: Auto Update M3U
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # tiap 30 menit
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch from Worker
+        run: |
+          curl -L https://gvision.tsender57.workers.dev/ -o gvision.m3u
+
+      - name: Commit & Push
+        run: |
+          git config user.name "m3u-bot"
+          git config user.email "bot@github.com"
+          git add gvision.m3u
+          git commit -m "auto update m3u" || echo "no changes"
+          git push
