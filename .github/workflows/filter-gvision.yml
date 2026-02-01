@@ -1,0 +1,30 @@
+name: Auto Filter Gvision Recommended 
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Filter & Rename Group
+        run: |
+          echo "#EXTM3U" > recommended.m3u
+
+          grep -i -A1 'group-title="LIVE EVENT: MANUAL"\|group-title="Live Event: Komentator Ori"\|group-title="Live Event: Ra khơi"\|group-title="Live Event: Colalive"' gvision.m3u \
+          | sed 's/group-title="[^"]*"/group-title="LIVE EVENT RECOMMENDED"/gi' \
+          | sed 's/Gvision TV//gi' \
+          >> recommended.m3u
+
+      - name: Commit
+        run: |
+          git config user.name "m3u-bot"
+          git config user.email "bot@github.com"
+          git add recommended.m3u
+          git commit -m "auto filter live event recommended" || echo "no changes"
+          git push
