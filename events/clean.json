@@ -1,5 +1,5 @@
 {
-  "updated": 1769980356,
+  "updated": 1769982054,
   "events": [
     {
       "league": "CONCACAF U17 Championship",
@@ -26,6 +26,17 @@
     {
       "league": "CONCACAF U17 Championship",
       "status": "UPCOMING",
+      "time": 1770166800,
+      "home": "Nicaragua U17",
+      "away": "Guadeloupe U17",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "CONCACAF U17 Championship",
+      "status": "UPCOMING",
       "time": 1770148800,
       "home": "French Saint-Martin U17",
       "away": "Netherlands U17 St Martins Island",
@@ -46,6 +57,17 @@
       }
     },
     {
+      "league": "CONCACAF U17 Championship",
+      "status": "UPCOMING",
+      "time": 1770166800,
+      "home": "Nicaragua U17",
+      "away": "Guadeloupe U17",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
       "time": 1765033200,
@@ -131,28 +153,6 @@
       "stream": {
         "type": "m3u8",
         "url": "https://live.vivo200.com/live/sd-1-4347858.m3u8?txSecret=ce5f175e21e7318574b722b0b8f14e3e&txTime=697FF96B"
-      }
-    },
-    {
-      "league": "GRE Super League",
-      "status": "LIVE",
-      "time": 1769973000,
-      "home": "AEK Athens",
-      "away": "Olympiakos Piraeus",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4374770.m3u8?txSecret=631d7f0362412c4a5afdfa9031b94cf8&txTime=697FDD54"
-      }
-    },
-    {
-      "league": "GRE Super League",
-      "status": "LIVE",
-      "time": 1769973000,
-      "home": "AEK Athens",
-      "away": "Olympiakos Piraeus",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live.vivo200.com/live/sd-1-4374770.m3u8?txSecret=631d7f0362412c4a5afdfa9031b94cf8&txTime=697FDD54"
       }
     },
     {
