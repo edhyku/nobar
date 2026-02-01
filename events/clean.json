@@ -1,5 +1,5 @@
 {
-  "updated": 1769935494,
+  "updated": 1769937426,
   "events": [
     {
       "league": "BEL Pro League",
@@ -399,24 +399,24 @@
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769958900,
       "home": "Al Shabab FC",
       "away": "Al Fayha",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2403885_1769930406.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "KSA Professional League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1769958900,
       "home": "Al Shabab FC",
       "away": "Al Fayha",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2403885_1769930406.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
