@@ -1,5 +1,5 @@
 {
-  "updated": 1770019451,
+  "updated": 1770021780,
   "events": [
     {
       "league": "CONCACAF U17 Championship",
@@ -245,13 +245,13 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770021000,
       "home": "Arema FC",
       "away": "Persatuan Sepakbola Indonesia Jepara",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4379338.m3u8?txSecret=524166e63c948554f875dc4f39a03935&txTime=6980A22C"
       }
     },
     {
@@ -267,13 +267,13 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770021000,
       "home": "Arema FC",
       "away": "Persatuan Sepakbola Indonesia Jepara",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.vivo200.com/live/sd-1-4379338.m3u8?txSecret=524166e63c948554f875dc4f39a03935&txTime=6980A22C"
       }
     },
     {
