@@ -1,5 +1,5 @@
 {
-  "updated": 1770000934,
+  "updated": 1770008653,
   "events": [
     {
       "league": "CONCACAF U17 Championship",
@@ -553,24 +553,24 @@
     },
     {
       "league": "SIN Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770031800,
       "home": "Albirex Niigata FC",
       "away": "Geylang United FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769996759.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
       "league": "SIN Premier League",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770031800,
       "home": "Albirex Niigata FC",
       "away": "Geylang United FC",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769996759.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
