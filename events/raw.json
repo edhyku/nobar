@@ -1634,11 +1634,11 @@
           },
           "competition_id": 83,
           "environment": {
-            "humidity": "87%",
+            "humidity": "86%",
             "pressure": "748mmHg",
             "temperature": "2°C",
             "weather": 7,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "explain": "",
           "home_corner": 3,
@@ -1727,7 +1727,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770009547
+            "updated_at": 1770016470
           },
           "recommend": 0,
           "round": 19,
@@ -1889,7 +1889,7 @@
             "pressure": "749mmHg",
             "temperature": "3°C",
             "weather": 9,
-            "wind": "5.3m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -1978,7 +1978,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770009547
+            "updated_at": 1770016470
           },
           "recommend": 0,
           "round": 26,
@@ -2124,7 +2124,7 @@
           },
           "competition_id": 83,
           "environment": {
-            "humidity": "97%",
+            "humidity": "98%",
             "pressure": "745mmHg",
             "temperature": "7°C",
             "weather": 10,
@@ -2205,7 +2205,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770009547
+            "updated_at": 1770016470
           },
           "recommend": 0,
           "round": 26,
@@ -2354,7 +2354,7 @@
             "humidity": "98%",
             "pressure": "748mmHg",
             "temperature": "2°C",
-            "weather": 9,
+            "weather": 4,
             "wind": "4.3m/s"
           },
           "explain": "",
@@ -2444,7 +2444,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770009547
+            "updated_at": 1770016470
           },
           "recommend": 0,
           "round": 26,
@@ -2590,11 +2590,11 @@
           },
           "competition_id": 83,
           "environment": {
-            "humidity": "87%",
+            "humidity": "86%",
             "pressure": "748mmHg",
             "temperature": "2°C",
             "weather": 7,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "explain": "",
           "home_corner": 3,
@@ -2683,7 +2683,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770009547
+            "updated_at": 1770016470
           },
           "recommend": 0,
           "round": 19,
@@ -2845,7 +2845,7 @@
             "pressure": "749mmHg",
             "temperature": "3°C",
             "weather": 9,
-            "wind": "5.3m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2934,7 +2934,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770009547
+            "updated_at": 1770016470
           },
           "recommend": 0,
           "round": 26,
@@ -3080,7 +3080,7 @@
           },
           "competition_id": 83,
           "environment": {
-            "humidity": "97%",
+            "humidity": "98%",
             "pressure": "745mmHg",
             "temperature": "7°C",
             "weather": 10,
@@ -3161,7 +3161,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770009547
+            "updated_at": 1770016470
           },
           "recommend": 0,
           "round": 26,
@@ -3310,7 +3310,7 @@
             "humidity": "98%",
             "pressure": "748mmHg",
             "temperature": "2°C",
-            "weather": 9,
+            "weather": 4,
             "wind": "4.3m/s"
           },
           "explain": "",
@@ -3400,7 +3400,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770009547
+            "updated_at": 1770016470
           },
           "recommend": 0,
           "round": 26,
@@ -3548,10 +3548,10 @@
           },
           "competition_id": 84,
           "environment": {
-            "humidity": "98%",
+            "humidity": "99%",
             "pressure": "748mmHg",
             "temperature": "2°C",
-            "weather": 4,
+            "weather": 7,
             "wind": "4.3m/s"
           },
           "explain": "",
@@ -3775,7 +3775,7 @@
           },
           "competition_id": 84,
           "environment": {
-            "humidity": "97%",
+            "humidity": "98%",
             "pressure": "747mmHg",
             "temperature": "3°C",
             "weather": 9,
@@ -4002,10 +4002,10 @@
           },
           "competition_id": 84,
           "environment": {
-            "humidity": "98%",
+            "humidity": "99%",
             "pressure": "748mmHg",
             "temperature": "2°C",
-            "weather": 4,
+            "weather": 7,
             "wind": "4.3m/s"
           },
           "explain": "",
@@ -4229,7 +4229,7 @@
           },
           "competition_id": 84,
           "environment": {
-            "humidity": "97%",
+            "humidity": "98%",
             "pressure": "747mmHg",
             "temperature": "3°C",
             "weather": 9,
@@ -4897,9 +4897,9 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "91%",
+            "humidity": "99%",
             "pressure": "759mmHg",
-            "temperature": "26°C",
+            "temperature": "24°C",
             "weather": 10,
             "wind": "2.0m/s"
           },
@@ -5002,7 +5002,35 @@
           "status": 1,
           "time": 1770021000,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "389541",
+            "away_logo": "https://photo.365live88.com/img/fb/team/a179e6b7df6c4f21a0115de8f5860584",
+            "away_name": "杰帕拉|傑帕拉|Persijap Jepara",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "383956",
+            "home_logo": "https://photo.365live88.com/img/fb/team/bf1bb47644034bfcbaf98f9d6f031466",
+            "home_name": "阿雷马|阿雷馬|Arema",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "2568",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/5f370ffc0b334437962fbef7874726c4",
+            "league_name": "印尼超|印尼超|IDN Liga 1",
+            "match_time": 1770021000,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "224508084",
+            "third_id": "4379338",
+            "wale_match_id": "1718230",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 1788,
@@ -5147,7 +5175,7 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "86%",
+            "humidity": "87%",
             "pressure": "759mmHg",
             "temperature": "27°C",
             "weather": 7,
@@ -5385,9 +5413,9 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "91%",
+            "humidity": "99%",
             "pressure": "759mmHg",
-            "temperature": "26°C",
+            "temperature": "24°C",
             "weather": 10,
             "wind": "2.0m/s"
           },
@@ -5490,7 +5518,35 @@
           "status": 1,
           "time": 1770021000,
           "video_type": "live",
-          "walematch": null
+          "walematch": {
+            "away_half_score": 0,
+            "away_id": "389541",
+            "away_logo": "https://photo.365live88.com/img/fb/team/a179e6b7df6c4f21a0115de8f5860584",
+            "away_name": "杰帕拉|傑帕拉|Persijap Jepara",
+            "away_overtime_score": 0,
+            "away_penalty_score": 0,
+            "away_score": 0,
+            "game_type": 6,
+            "has_live": 0,
+            "home_half_score": 0,
+            "home_id": "383956",
+            "home_logo": "https://photo.365live88.com/img/fb/team/bf1bb47644034bfcbaf98f9d6f031466",
+            "home_name": "阿雷马|阿雷馬|Arema",
+            "home_overtime_score": 0,
+            "home_penalty_score": 0,
+            "home_score": 0,
+            "league_id": "2568",
+            "league_logo": "https://photo.365live88.com/img/fb/cup/5f370ffc0b334437962fbef7874726c4",
+            "league_name": "印尼超|印尼超|IDN Liga 1",
+            "match_time": 1770021000,
+            "status": "未",
+            "status_id": 0,
+            "stream_id": "224508084",
+            "third_id": "4379338",
+            "wale_match_id": "1718230",
+            "walematchstreams": [],
+            "walematchvideos": []
+          }
         },
         "home": {
           "competition_id": 1788,
@@ -5635,7 +5691,7 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "86%",
+            "humidity": "87%",
             "pressure": "759mmHg",
             "temperature": "27°C",
             "weather": 7,
@@ -6035,7 +6091,7 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "100%",
+            "humidity": "98%",
             "pressure": "757mmHg",
             "temperature": "7°C",
             "weather": 7,
@@ -6433,7 +6489,7 @@
           },
           "competition_id": 108,
           "environment": {
-            "humidity": "100%",
+            "humidity": "98%",
             "pressure": "757mmHg",
             "temperature": "7°C",
             "weather": 7,
@@ -6911,7 +6967,7 @@
           },
           "competition_id": 615,
           "environment": {
-            "humidity": "40%",
+            "humidity": "41%",
             "pressure": "761mmHg",
             "temperature": "31°C",
             "weather": 1,
@@ -7387,7 +7443,7 @@
           },
           "competition_id": 615,
           "environment": {
-            "humidity": "40%",
+            "humidity": "41%",
             "pressure": "761mmHg",
             "temperature": "31°C",
             "weather": 1,
@@ -7665,7 +7721,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "17%",
+            "humidity": "18%",
             "pressure": "764mmHg",
             "temperature": "26°C",
             "weather": 5,
@@ -7894,7 +7950,7 @@
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/07a555616afab7be32e00150eacf4197.png",
             "manager_id": 0,
             "market_value": 190030000,
-            "market_value_currency": "€",
+            "market_value_currency": "",
             "name_en": "Al Hilal",
             "name_zh": "利雅得新月",
             "name_zht": "希拉爾",
@@ -7904,7 +7960,7 @@
             "short_name_zh": "利雅得新月",
             "short_name_zht": "希拉爾",
             "total_players": 29,
-            "updated_at": 1770009309,
+            "updated_at": 1770013026,
             "venue_id": 15910,
             "website": "http://www.alzaeem.com"
           },
@@ -7973,7 +8029,7 @@
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/07a555616afab7be32e00150eacf4197.png",
           "manager_id": 0,
           "market_value": 190030000,
-          "market_value_currency": "€",
+          "market_value_currency": "",
           "name_en": "Al Hilal",
           "name_zh": "利雅得新月",
           "name_zht": "希拉爾",
@@ -7983,7 +8039,7 @@
           "short_name_zh": "利雅得新月",
           "short_name_zht": "希拉爾",
           "total_players": 29,
-          "updated_at": 1770009309,
+          "updated_at": 1770013026,
           "venue_id": 15910,
           "website": "http://www.alzaeem.com"
         },
@@ -8463,9 +8519,9 @@
           "environment": {
             "humidity": "48%",
             "pressure": "761mmHg",
-            "temperature": "21°C",
+            "temperature": "22°C",
             "weather": 1,
-            "wind": "5.3m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8662,9 +8718,9 @@
           "environment": {
             "humidity": "48%",
             "pressure": "761mmHg",
-            "temperature": "21°C",
+            "temperature": "22°C",
             "weather": 1,
-            "wind": "5.3m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8936,7 +8992,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "17%",
+            "humidity": "18%",
             "pressure": "764mmHg",
             "temperature": "26°C",
             "weather": 5,
@@ -9165,7 +9221,7 @@
             "logo_rt": "https://cdn.sportnanoapi.com/football/team/07a555616afab7be32e00150eacf4197.png",
             "manager_id": 0,
             "market_value": 190030000,
-            "market_value_currency": "€",
+            "market_value_currency": "",
             "name_en": "Al Hilal",
             "name_zh": "利雅得新月",
             "name_zht": "希拉爾",
@@ -9175,7 +9231,7 @@
             "short_name_zh": "利雅得新月",
             "short_name_zht": "希拉爾",
             "total_players": 29,
-            "updated_at": 1770009309,
+            "updated_at": 1770013026,
             "venue_id": 15910,
             "website": "http://www.alzaeem.com"
           },
@@ -9244,7 +9300,7 @@
           "logo_rt": "https://cdn.sportnanoapi.com/football/team/07a555616afab7be32e00150eacf4197.png",
           "manager_id": 0,
           "market_value": 190030000,
-          "market_value_currency": "€",
+          "market_value_currency": "",
           "name_en": "Al Hilal",
           "name_zh": "利雅得新月",
           "name_zht": "希拉爾",
@@ -9254,7 +9310,7 @@
           "short_name_zh": "利雅得新月",
           "short_name_zht": "希拉爾",
           "total_players": 29,
-          "updated_at": 1770009309,
+          "updated_at": 1770013026,
           "venue_id": 15910,
           "website": "http://www.alzaeem.com"
         },
@@ -9734,9 +9790,9 @@
           "environment": {
             "humidity": "48%",
             "pressure": "761mmHg",
-            "temperature": "21°C",
+            "temperature": "22°C",
             "weather": 1,
-            "wind": "5.3m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9933,9 +9989,9 @@
           "environment": {
             "humidity": "48%",
             "pressure": "761mmHg",
-            "temperature": "21°C",
+            "temperature": "22°C",
             "weather": 1,
-            "wind": "5.3m/s"
+            "wind": "5.1m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10134,9 +10190,9 @@
           "environment": {
             "humidity": "93%",
             "pressure": "749mmHg",
-            "temperature": "9°C",
+            "temperature": "8°C",
             "weather": 10,
-            "wind": "2.6m/s"
+            "wind": "2.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10333,7 +10389,7 @@
           "environment": {
             "humidity": "89%",
             "pressure": "752mmHg",
-            "temperature": "10°C",
+            "temperature": "9°C",
             "weather": 9,
             "wind": "5.3m/s"
           },
@@ -10532,9 +10588,9 @@
           "environment": {
             "humidity": "93%",
             "pressure": "749mmHg",
-            "temperature": "9°C",
+            "temperature": "8°C",
             "weather": 10,
-            "wind": "2.6m/s"
+            "wind": "2.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10731,7 +10787,7 @@
           "environment": {
             "humidity": "89%",
             "pressure": "752mmHg",
-            "temperature": "10°C",
+            "temperature": "9°C",
             "weather": 9,
             "wind": "5.3m/s"
           },
@@ -11408,7 +11464,7 @@
           },
           "competition_id": 120,
           "environment": {
-            "humidity": "71%",
+            "humidity": "70%",
             "pressure": "752mmHg",
             "temperature": "15°C",
             "weather": 7,
@@ -11607,7 +11663,7 @@
           },
           "competition_id": 120,
           "environment": {
-            "humidity": "71%",
+            "humidity": "70%",
             "pressure": "752mmHg",
             "temperature": "15°C",
             "weather": 7,
@@ -12208,11 +12264,11 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "91%",
+            "humidity": "93%",
             "pressure": "759mmHg",
             "temperature": "4°C",
             "weather": 10,
-            "wind": "4.5m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12407,11 +12463,11 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "91%",
+            "humidity": "93%",
             "pressure": "759mmHg",
             "temperature": "4°C",
             "weather": 10,
-            "wind": "4.5m/s"
+            "wind": "4.0m/s"
           },
           "explain": "",
           "home_corner": 0,
