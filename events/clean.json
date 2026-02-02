@@ -1,5 +1,5 @@
 {
-  "updated": 1770030233,
+  "updated": 1770032884,
   "events": [
     {
       "league": "ARG Division 1",
@@ -14,13 +14,13 @@
     },
     {
       "league": "ARG Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770080400,
       "home": "Club Atlético Unión",
       "away": "Gimnasia y Esgrima de Mendoza",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1770031157.flv"
       }
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "league": "ARG Division 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770080400,
       "home": "Club Atlético Unión",
       "away": "Gimnasia y Esgrima de Mendoza",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2338882_1770031157.flv"
       }
     },
     {
@@ -465,24 +465,24 @@
     },
     {
       "league": "SIN Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770031800,
       "home": "Albirex Niigata FC",
       "away": "Geylang United FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100331.m3u8?txSecret=6e505abdac3b3538b6ce627a5f83785c&txTime=6980950D&sign=3a17101f65134885"
       }
     },
     {
       "league": "SIN Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770031800,
       "home": "Albirex Niigata FC",
       "away": "Geylang United FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://v.lfsxfj.com/live/100331.m3u8?txSecret=6e505abdac3b3538b6ce627a5f83785c&txTime=6980950D&sign=3a17101f65134885"
       }
     },
     {
