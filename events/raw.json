@@ -1234,7 +1234,7 @@
           },
           "competition_id": 114,
           "environment": {
-            "humidity": "94%",
+            "humidity": "95%",
             "pressure": "747mmHg",
             "temperature": "6°C",
             "weather": 7,
@@ -1433,7 +1433,7 @@
           },
           "competition_id": 114,
           "environment": {
-            "humidity": "94%",
+            "humidity": "95%",
             "pressure": "747mmHg",
             "temperature": "6°C",
             "weather": 7,
@@ -1727,7 +1727,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770007566
+            "updated_at": 1770009547
           },
           "recommend": 0,
           "round": 19,
@@ -1978,7 +1978,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770007566
+            "updated_at": 1770009547
           },
           "recommend": 0,
           "round": 26,
@@ -2124,11 +2124,11 @@
           },
           "competition_id": 83,
           "environment": {
-            "humidity": "98%",
+            "humidity": "97%",
             "pressure": "745mmHg",
             "temperature": "7°C",
             "weather": 10,
-            "wind": "1.8m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -2205,7 +2205,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770007566
+            "updated_at": 1770009547
           },
           "recommend": 0,
           "round": 26,
@@ -2354,7 +2354,7 @@
             "humidity": "98%",
             "pressure": "748mmHg",
             "temperature": "2°C",
-            "weather": 4,
+            "weather": 9,
             "wind": "4.3m/s"
           },
           "explain": "",
@@ -2444,7 +2444,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770007566
+            "updated_at": 1770009547
           },
           "recommend": 0,
           "round": 26,
@@ -2683,7 +2683,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770007566
+            "updated_at": 1770009547
           },
           "recommend": 0,
           "round": 19,
@@ -2934,7 +2934,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770007566
+            "updated_at": 1770009547
           },
           "recommend": 0,
           "round": 26,
@@ -3080,11 +3080,11 @@
           },
           "competition_id": 83,
           "environment": {
-            "humidity": "98%",
+            "humidity": "97%",
             "pressure": "745mmHg",
             "temperature": "7°C",
             "weather": 10,
-            "wind": "1.8m/s"
+            "wind": "1.2m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -3161,7 +3161,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770007566
+            "updated_at": 1770009547
           },
           "recommend": 0,
           "round": 26,
@@ -3310,7 +3310,7 @@
             "humidity": "98%",
             "pressure": "748mmHg",
             "temperature": "2°C",
-            "weather": 4,
+            "weather": 9,
             "wind": "4.3m/s"
           },
           "explain": "",
@@ -3400,7 +3400,7 @@
             "short_name_zh": "英冠",
             "short_name_zht": "英冠",
             "type": 1,
-            "updated_at": 1770007566
+            "updated_at": 1770009547
           },
           "recommend": 0,
           "round": 26,
@@ -4897,7 +4897,7 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "90%",
+            "humidity": "91%",
             "pressure": "759mmHg",
             "temperature": "26°C",
             "weather": 10,
@@ -5385,7 +5385,7 @@
           },
           "competition_id": 1788,
           "environment": {
-            "humidity": "90%",
+            "humidity": "91%",
             "pressure": "759mmHg",
             "temperature": "26°C",
             "weather": 10,
@@ -7669,7 +7669,7 @@
             "pressure": "764mmHg",
             "temperature": "26°C",
             "weather": 5,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -7903,8 +7903,8 @@
             "short_name_en": "Al-Hilal Saudi FC",
             "short_name_zh": "利雅得新月",
             "short_name_zht": "希拉爾",
-            "total_players": 30,
-            "updated_at": 1769999250,
+            "total_players": 29,
+            "updated_at": 1770009309,
             "venue_id": 15910,
             "website": "http://www.alzaeem.com"
           },
@@ -7982,8 +7982,8 @@
           "short_name_en": "Al-Hilal Saudi FC",
           "short_name_zh": "利雅得新月",
           "short_name_zht": "希拉爾",
-          "total_players": 30,
-          "updated_at": 1769999250,
+          "total_players": 29,
+          "updated_at": 1770009309,
           "venue_id": 15910,
           "website": "http://www.alzaeem.com"
         },
@@ -8063,11 +8063,11 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "22%",
+            "humidity": "23%",
             "pressure": "765mmHg",
             "temperature": "20°C",
             "weather": 5,
-            "wind": "1.2m/s"
+            "wind": "0.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8262,7 +8262,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "73%",
+            "humidity": "71%",
             "pressure": "763mmHg",
             "temperature": "18°C",
             "weather": 5,
@@ -8465,7 +8465,7 @@
             "pressure": "761mmHg",
             "temperature": "21°C",
             "weather": 1,
-            "wind": "5.1m/s"
+            "wind": "5.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8664,7 +8664,7 @@
             "pressure": "761mmHg",
             "temperature": "21°C",
             "weather": 1,
-            "wind": "5.1m/s"
+            "wind": "5.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -8940,7 +8940,7 @@
             "pressure": "764mmHg",
             "temperature": "26°C",
             "weather": 5,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9174,8 +9174,8 @@
             "short_name_en": "Al-Hilal Saudi FC",
             "short_name_zh": "利雅得新月",
             "short_name_zht": "希拉爾",
-            "total_players": 30,
-            "updated_at": 1769999250,
+            "total_players": 29,
+            "updated_at": 1770009309,
             "venue_id": 15910,
             "website": "http://www.alzaeem.com"
           },
@@ -9253,8 +9253,8 @@
           "short_name_en": "Al-Hilal Saudi FC",
           "short_name_zh": "利雅得新月",
           "short_name_zht": "希拉爾",
-          "total_players": 30,
-          "updated_at": 1769999250,
+          "total_players": 29,
+          "updated_at": 1770009309,
           "venue_id": 15910,
           "website": "http://www.alzaeem.com"
         },
@@ -9334,11 +9334,11 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "22%",
+            "humidity": "23%",
             "pressure": "765mmHg",
             "temperature": "20°C",
             "weather": 5,
-            "wind": "1.2m/s"
+            "wind": "0.9m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9533,7 +9533,7 @@
           },
           "competition_id": 614,
           "environment": {
-            "humidity": "73%",
+            "humidity": "71%",
             "pressure": "763mmHg",
             "temperature": "18°C",
             "weather": 5,
@@ -9736,7 +9736,7 @@
             "pressure": "761mmHg",
             "temperature": "21°C",
             "weather": 1,
-            "wind": "5.1m/s"
+            "wind": "5.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -9935,7 +9935,7 @@
             "pressure": "761mmHg",
             "temperature": "21°C",
             "weather": 1,
-            "wind": "5.1m/s"
+            "wind": "5.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10134,9 +10134,9 @@
           "environment": {
             "humidity": "93%",
             "pressure": "749mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 10,
-            "wind": "2.9m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10532,9 +10532,9 @@
           "environment": {
             "humidity": "93%",
             "pressure": "749mmHg",
-            "temperature": "8°C",
+            "temperature": "9°C",
             "weather": 10,
-            "wind": "2.9m/s"
+            "wind": "2.6m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -10973,7 +10973,7 @@
             "pressure": "760mmHg",
             "temperature": "27°C",
             "weather": 7,
-            "wind": "4.0m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11211,7 +11211,7 @@
             "pressure": "760mmHg",
             "temperature": "27°C",
             "weather": 7,
-            "wind": "4.0m/s"
+            "wind": "4.3m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11412,7 +11412,7 @@
             "pressure": "752mmHg",
             "temperature": "15°C",
             "weather": 7,
-            "wind": "7.0m/s"
+            "wind": "6.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11611,7 +11611,7 @@
             "pressure": "752mmHg",
             "temperature": "15°C",
             "weather": 7,
-            "wind": "7.0m/s"
+            "wind": "6.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -11812,7 +11812,7 @@
             "pressure": "747mmHg",
             "temperature": "7°C",
             "weather": 7,
-            "wind": "5.1m/s"
+            "wind": "4.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12011,7 +12011,7 @@
             "pressure": "747mmHg",
             "temperature": "7°C",
             "weather": 7,
-            "wind": "5.1m/s"
+            "wind": "4.8m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12208,11 +12208,11 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "90%",
+            "humidity": "91%",
             "pressure": "759mmHg",
-            "temperature": "5°C",
+            "temperature": "4°C",
             "weather": 10,
-            "wind": "3.7m/s"
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
@@ -12407,11 +12407,11 @@
           },
           "competition_id": 315,
           "environment": {
-            "humidity": "90%",
+            "humidity": "91%",
             "pressure": "759mmHg",
-            "temperature": "5°C",
+            "temperature": "4°C",
             "weather": 10,
-            "wind": "3.7m/s"
+            "wind": "4.5m/s"
           },
           "explain": "",
           "home_corner": 0,
