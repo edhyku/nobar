@@ -1,5 +1,5 @@
 {
-  "updated": 1770032884,
+  "updated": 1770035297,
   "events": [
     {
       "league": "ARG Division 1",
@@ -91,24 +91,24 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770033600,
       "home": "Persatuan Sepakbola Makassar",
       "away": "Semen Padang",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/62082936_5bc1e94f512c8e08ab1e944f186a452e.m3u8"
       }
     },
     {
       "league": "IDN Liga 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770033600,
       "home": "Persatuan Sepakbola Makassar",
       "away": "Semen Padang",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "m3u8",
+        "url": "https://live.trendgallary.com/live/62082936_5bc1e94f512c8e08ab1e944f186a452e.m3u8"
       }
     },
     {
@@ -135,13 +135,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770036600,
       "home": "Al-Raed SFC",
       "away": "Al Bukayriyah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1770025708.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -168,13 +168,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770036600,
       "home": "Al-Raed SFC",
       "away": "Al Bukayriyah",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1770025708.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -355,13 +355,13 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770058800,
       "home": "Jong PSV Eindhoven Youth",
       "away": "SC Cambuur Leeuwarden",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1770032886.flv"
       }
     },
     {
@@ -388,13 +388,13 @@
     },
     {
       "league": "NED Eerste Divisie",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770058800,
       "home": "Jong PSV Eindhoven Youth",
       "away": "SC Cambuur Leeuwarden",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/2380018_1770032886.flv"
       }
     },
     {
@@ -432,13 +432,13 @@
     },
     {
       "league": "ROM Super Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770127200,
       "home": "Petrolul Ploiesti",
       "away": "FC Unirea 2004 Slobozia",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1770025708.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -454,13 +454,13 @@
     },
     {
       "league": "ROM Super Liga",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770127200,
       "home": "Petrolul Ploiesti",
       "away": "FC Unirea 2004 Slobozia",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2359293_1770025708.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -471,7 +471,7 @@
       "away": "Geylang United FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100331.m3u8?txSecret=6e505abdac3b3538b6ce627a5f83785c&txTime=6980950D&sign=3a17101f65134885"
+        "url": "https://live.trendgallary.com/live/62265912_00fe645461fbcf13a41ddc99b9e59302.m3u8"
       }
     },
     {
@@ -482,7 +482,7 @@
       "away": "Geylang United FC",
       "stream": {
         "type": "m3u8",
-        "url": "https://v.lfsxfj.com/live/100331.m3u8?txSecret=6e505abdac3b3538b6ce627a5f83785c&txTime=6980950D&sign=3a17101f65134885"
+        "url": "https://live.trendgallary.com/live/62265912_00fe645461fbcf13a41ddc99b9e59302.m3u8"
       }
     },
     {
