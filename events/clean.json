@@ -1,51 +1,7 @@
 {
-  "updated": 1769990185,
+  "updated": 1770000934,
   "events": [
     {
-      "league": "BRA Serie A",
-      "status": "UPCOMING",
-      "time": 1770242400,
-      "home": "CR Flamengo",
-      "away": "Internacional RS",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "BRA Serie A",
-      "status": "UPCOMING",
-      "time": 1770242400,
-      "home": "Red Bull Bragantino",
-      "away": "Atletico Mineiro",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "BRA Serie A",
-      "status": "UPCOMING",
-      "time": 1770242400,
-      "home": "CR Flamengo",
-      "away": "Internacional RS",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "BRA Serie A",
-      "status": "UPCOMING",
-      "time": 1770242400,
-      "home": "Red Bull Bragantino",
-      "away": "Atletico Mineiro",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
       "league": "CONCACAF U17 Championship",
       "status": "UPCOMING",
       "time": 1770148800,
@@ -147,6 +103,39 @@
     {
       "league": "ENG EFL Championship",
       "status": "UPCOMING",
+      "time": 1767538800,
+      "home": "Hull City",
+      "away": "Watford",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1770147900,
+      "home": "Portsmouth",
+      "away": "Ipswich Town",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1767528000,
+      "home": "Sheffield United",
+      "away": "Oxford United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
       "time": 1765033200,
       "home": "Blackburn Rovers",
       "away": "Sheffield Wednesday",
@@ -156,11 +145,66 @@
       }
     },
     {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1767538800,
+      "home": "Hull City",
+      "away": "Watford",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1770147900,
+      "home": "Portsmouth",
+      "away": "Ipswich Town",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL Championship",
+      "status": "UPCOMING",
+      "time": 1767528000,
+      "home": "Sheffield United",
+      "away": "Oxford United",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL League One",
+      "status": "UPCOMING",
+      "time": 1770147900,
+      "home": "Barnsley",
+      "away": "Northampton Town",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
       "league": "ENG EFL League One",
       "status": "UPCOMING",
       "time": 1770147900,
       "home": "Burton",
       "away": "Doncaster Rovers",
+      "stream": {
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
+      }
+    },
+    {
+      "league": "ENG EFL League One",
+      "status": "UPCOMING",
+      "time": 1770147900,
+      "home": "Barnsley",
+      "away": "Northampton Town",
       "stream": {
         "type": "upcoming",
         "url": "http://127.0.0.1/upcoming"
@@ -201,13 +245,13 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770021000,
       "home": "Arema FC",
       "away": "Persatuan Sepakbola Indonesia Jepara",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769989662.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -223,13 +267,13 @@
     },
     {
       "league": "IDN Liga 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770021000,
       "home": "Arema FC",
       "away": "Persatuan Sepakbola Indonesia Jepara",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/2317251_1769989662.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -300,13 +344,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770042000,
       "home": "Jeddah Sports Club",
       "away": "Al-Jabalain",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769986214.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -322,13 +366,13 @@
     },
     {
       "league": "KSA Division 1",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "time": 1770042000,
       "home": "Jeddah Sports Club",
       "away": "Al-Jabalain",
       "stream": {
-        "type": "flv",
-        "url": "https://hwcn111pull-b.bszb.me/live/956863_1769986214.flv"
+        "type": "upcoming",
+        "url": "http://127.0.0.1/upcoming"
       }
     },
     {
@@ -508,69 +552,25 @@
       }
     },
     {
-      "league": "MEX Liga MX",
-      "status": "LIVE",
-      "time": 1769986800,
-      "home": "Queretaro FC",
-      "away": "Pachuca",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live4.trendgallary.com/live/66855952_68a300edc49a06f21ab007ec33359163.m3u8"
-      }
-    },
-    {
-      "league": "MEX Liga MX",
-      "status": "LIVE",
-      "time": 1769986800,
-      "home": "Queretaro FC",
-      "away": "Pachuca",
-      "stream": {
-        "type": "m3u8",
-        "url": "https://live4.trendgallary.com/live/66855952_68a300edc49a06f21ab007ec33359163.m3u8"
-      }
-    },
-    {
-      "league": "POR Cup",
-      "status": "UPCOMING",
-      "time": 1770236100,
-      "home": "AD Fafe",
-      "away": "SCU Torreense",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
-      "league": "POR Cup",
-      "status": "UPCOMING",
-      "time": 1770236100,
-      "home": "AD Fafe",
-      "away": "SCU Torreense",
-      "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
-      }
-    },
-    {
       "league": "SIN Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770031800,
       "home": "Albirex Niigata FC",
       "away": "Geylang United FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769996759.flv"
       }
     },
     {
       "league": "SIN Premier League",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "time": 1770031800,
       "home": "Albirex Niigata FC",
       "away": "Geylang United FC",
       "stream": {
-        "type": "upcoming",
-        "url": "http://127.0.0.1/upcoming"
+        "type": "flv",
+        "url": "https://hwcn111pull-b.bszb.me/live/583717_1769996759.flv"
       }
     },
     {
