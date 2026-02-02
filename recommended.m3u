@@ -76,6 +76,17 @@ https://live.alilicloud.com/live/83ca0893595d748499ce9177d7864c3e/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/b6d94de4a6c6f68f11858204203ad58d.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 Persiwah Mempawah vs Gabsis Sambas
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/9bb8d496160cd2f129ec7e92350c8a2b/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/bbc7b299f03aa429e60a5c808afe00a2.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 Young Boys New Delhi vs Warriors Delhi
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/6c092aeb07c95ff98b527f02cca9caa7/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 02/02 Manchester City vs Wolves VƯƠNG LUÂN REPLAY m3u
+https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 02/02 Manchester City vs Wolves VƯƠNG LUÂN REPLAY flv
+https://flv.cdnok9.com/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770011043.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 Man City vs Tottenham THỜI THIÊN REPLAY m3u
+https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770011043.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 Man City vs Tottenham THỜI THIÊN REPLAY flv
+https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010795.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 02/02 Barcelona vs Real Oviedo PHONG VÂN REPLAY m3u
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010795.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 02/02 Barcelona vs Real Oviedo PHONG VÂN REPLAY flv
@@ -84,14 +95,6 @@ https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9c
 https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010007.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:28 02/02 Inter Milan vs Pisa LỮ BỐ REPLAY flv
 https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770011043.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 Man City vs Tottenham THỜI THIÊN REPLAY m3u
-https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770011043.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 Man City vs Tottenham THỜI THIÊN REPLAY flv
-https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 02/02 Manchester City vs Wolves VƯƠNG LUÂN REPLAY m3u
-https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 02/02 Manchester City vs Wolves VƯƠNG LUÂN REPLAY flv
-https://flv.cdnok9.com/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 03/02 Millonarios vs Dep.Independiente Medellin SD 1
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/sunsd2RK/playlist.m3u8
@@ -110,9 +113,15 @@ https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 03/02 Millonarios vs Dep.Independiente Medellin HD
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/13477c2c0effd32593f3a83ca445cdbe/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:00 02/02 vs
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4d490baf44ef04b2acbfc0b40b8e47b8/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8dcbbdcbcb28c6664433d79a9d8df0ab/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:15 02/02 Bangladesh Women U19 vs India Women U17
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/83ca0893595d748499ce9177d7864c3e/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/33918226aa0d24d33b77ea48a330c74e/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 vs Warriors Delhi
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6c092aeb07c95ff98b527f02cca9caa7/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/edae738319dd0d8402a9ac0ba7ac700c/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 02/02 vs
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/c4c6ba4fda4d75ee49b908b2d68bc710/playlist.m3u8
@@ -122,12 +131,6 @@ https://live.alilicloud.com/live/9bb8d496160cd2f129ec7e92350c8a2b/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/3b9cf3399f7b0e3ae3412ee8b7276fb9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",11:00 02/02 DYES vs Jawahar Union
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b1c9c073ad60fe3976e2ec748bad6e4f/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/a14f6353e02e5bbacaabcba3444d3263/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",08:30 02/02 Llaneros FC vs Aguilas Doradas
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6f720b87a9c5f165cda3fe1557b3fca8/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/13477c2c0effd32593f3a83ca445cdbe/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:00 02/02 vs
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4d490baf44ef04b2acbfc0b40b8e47b8/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://media.chuoichientv.com/media/uploads/20250623_133531_9d48bb0f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",08:10 02/02 Millonarios vs Independiente Medellin HD2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/m4x2.flv
@@ -278,6 +281,9 @@ https://stream.chuoichien.tv/duyhung.flv
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8dcbbdcbcb28c6664433d79a9d8df0ab/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:15 02/02 Bangladesh Women U19 vs India Women U17
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/83ca0893595d748499ce9177d7864c3e/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/33918226aa0d24d33b77ea48a330c74e/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 vs Warriors Delhi
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6c092aeb07c95ff98b527f02cca9caa7/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/edae738319dd0d8402a9ac0ba7ac700c/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 02/02 vs
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c4c6ba4fda4d75ee49b908b2d68bc710/playlist.m3u8
@@ -381,18 +387,10 @@ https://602.xn--1000-ugoa0hsb9a0hb.com/nhl3.m3u8 # ===== SOURCE 10 =====
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NBA09/mono.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Clippers @ Phoenix Suns " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA] Los Angeles Clippers @ Phoenix Suns
-#EXTVLCOPT:http-origin=https://tvpass.org
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NBA08/mono.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Milwaukee Bucks @ Boston Celtics " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA] Milwaukee Bucks @ Boston Celtics
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Oklahoma City Thunder @ Denver Nuggets " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA] Oklahoma City Thunder @ Denver Nuggets
-#EXTVLCOPT:http-origin=https://tvpass.org
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NBA10/mono.m3u8
 #EXTINF:-1 tvg-chno="82" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Orlando Magic @ San Antonio Spurs " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA] Orlando Magic @ San Antonio Spurs
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -413,8 +411,6 @@ http://origin.thetvapp.to/hls/ESPN/mono.m3u8 # ===== SOURCE 11 =====
 https://cyber.chuoichien.tv/duyhung/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persijap (Chuối Chiên) SD1
 https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persijap (Chuối Chiên) SD2
-https://stream.chuoichien.tv/duyhung.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",19:00 02/02 PSM Makassar vs Semen Padang (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",19:00 02/02 PSM Makassar vs Semen Padang (Chuối Chiên) SD1
@@ -423,14 +419,10 @@ https://stream.chuoichien.tv/chuoihot/index.m3u8
 https://cyber.chuoichien.tv/chuoito/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125601_d19dd636.png",02:45 03/02 Udinese vs AS Roma (Chuối Chiên) SD1
 https://stream.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125601_d19dd636.png",02:45 03/02 Udinese vs AS Roma (Chuối Chiên) SD2
-https://stream.chuoichien.tv/chuoito.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03:00 03/02 Sunderland vs Burnley (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/chuoi99/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03:00 03/02 Sunderland vs Burnley (Chuối Chiên) SD1
 https://stream.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03:00 03/02 Sunderland vs Burnley (Chuối Chiên) SD2
-https://stream.chuoichien.tv/chuoi99.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png",12:00 02/02 Manchester City vs Wolves (Lương Sơn) BLV VƯƠNG LUÂN REPLAY flv
 https://flv.cdnok9.com/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png",12:00 02/02 Manchester City vs Wolves (Lương Sơn) BLV VƯƠNG LUÂN REPLAY m3u
@@ -443,63 +435,71 @@ https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915
 https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010795.png",12:30 02/02 Barcelona vs Real Oviedo (Lương Sơn) BLV PHONG VÂN REPLAY m3u
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770011043.jpg",13:30 02/02 Man City vs Tottenham (Lương Sơn) BLV THỜI THIÊN REPLAY flv
+https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770011043.jpg",13:30 02/02 Man City vs Tottenham (Lương Sơn) BLV THỜI THIÊN REPLAY m3u
+https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133028_6985ba5b.png",18:30 02/02 Albirex Niigata S vs Geylang International (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/manze/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133028_6985ba5b.png",18:30 02/02 Albirex Niigata S vs Geylang International (Chuối Chiên) SD1
 https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133028_6985ba5b.png",18:30 02/02 Albirex Niigata S vs Geylang International (Chuối Chiên) SD2
-https://stream.chuoichien.tv/manze.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125818_6e12d6ca.png",21:35 02/02 Baniyas SC vs Al-Jazira (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/chuoinuong/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125818_6e12d6ca.png",21:35 02/02 Baniyas SC vs Al-Jazira (Chuối Chiên) SD1
 https://stream.chuoichien.tv/chuoinuong/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125818_6e12d6ca.png",21:35 02/02 Baniyas SC vs Al-Jazira (Chuối Chiên) SD2
+https://stream.chuoichien.tv/chuoinuong.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_30496d9e.png",22:15 02/02 Al Riyadh vs Al-Nassr (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/chuoitay/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_30496d9e.png",22:15 02/02 Al Riyadh vs Al-Nassr (Chuối Chiên) SD1
 https://stream.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_30496d9e.png",22:15 02/02 Al Riyadh vs Al-Nassr (Chuối Chiên) SD2
+https://stream.chuoichien.tv/chuoitay.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Manchester United vs Fulham [Sóc trong rừng xà nu] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1770015214-0-0-2bb2ee9f93dd19653f9162de15f59ccd
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1770021694-0-0-a0bccc7f8dd3f2b50d2e65b166406e80
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Manchester United vs Fulham [Sóc trong rừng xà nu] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1770015214-0-0-363ab02b0407596fe3c4eef1cf7f498a
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1770021694-0-0-0f343c9e6290ee95e826058fd549518f
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Manchester United vs Fulham [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1770015214-0-0-09e72dcc8f1b6306afea94c61cec6477
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1770021694-0-0-8f8c0005550533cf112218edbf165e85
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Manchester United vs Fulham [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1770015214-0-0-acd0a974d0eb15c46bb712c5b440e39a
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1770021694-0-0-4846a99c7de595940998d82a912c9797
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Nottingham Forest vs Crystal Palace [Sóc mèo méo meo] (Socolive) flv
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1770015213-0-0-d860e35c90fb4fef47fadc227a8a14af
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1770021694-0-0-2d55741782564d13c8cc2bde17024fd9
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Nottingham Forest vs Crystal Palace [Sóc mèo méo meo] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1770015213-0-0-e196b5b469c275e99f31b241ab89b4e4
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1770021694-0-0-9534f1c6af2ef28f3619e4440de722d5
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Nottingham Forest vs Crystal Palace [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1770015213-0-0-1dbfb0067cef4698b802f05d4cc78bec
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1770021694-0-0-8e149b86bbf2b909f91bf1f884099f1c
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Nottingham Forest vs Crystal Palace [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1770015213-0-0-43280c57db021111327c94b17c3ba2c1
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1770021694-0-0-b8fad5fee4731c8a3287d7843b35c8ae
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Tottenham Hotspur vs Manchester City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1770015213-0-0-8554ecbdff06461ac6ade9cb99848017
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1770021693-0-0-2a564dd179a68b3a069d721f2460bd39
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Tottenham Hotspur vs Manchester City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1770015213-0-0-fa336bfc20c3d45985b31d1b5fca7362
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1770021693-0-0-00606f8b86ba96358e230d5ca9216934
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Tottenham Hotspur vs Manchester City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1770015213-0-0-fe1bbd32ea9cd88ffb8e5d5e9cde8544
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1770021693-0-0-a58fb427ab5dd5f925a7d9acebde5a11
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ENG PR - Tottenham Hotspur vs Manchester City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1770015213-0-0-982139316a2a570a59058d13b0105962
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1770021693-0-0-dc0dd4e56924ee738c7cbec506da0580
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: FRA D1 - RC Strasbourg Alsace vs Paris Saint Germain [Sóc đau cổ vai gáy] (Socolive) flv
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1770015213-0-0-f1aa8cd8a49892588884bc6938489342
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1770021694-0-0-efe720c0ebec47d603f5198769479d32
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: FRA D1 - RC Strasbourg Alsace vs Paris Saint Germain [Sóc đau cổ vai gáy] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1770015213-0-0-70d2fb0f36958cc9619284a8ab8f9893
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1770021694-0-0-82309c591de920777f044e377eaa9d4b
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: FRA D1 - RC Strasbourg Alsace vs Paris Saint Germain [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1770015213-0-0-277e064bb23095a13617aec60059fda1
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1770021694-0-0-dbaf754749ab31fb5a417d49e0ee3817
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: FRA D1 - RC Strasbourg Alsace vs Paris Saint Germain [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1770015213-0-0-812635fd1ea82cbc0f56d36899fdf096
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1770021694-0-0-6288c66f0daaac74e2f48b10a0df9a12
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ITA D1 - Cremonese vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1770015213-0-0-a2ea41cef5b360e875208f3ddba9e3ec
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1770021693-0-0-58d10cbb01431ff79901872f183de737
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ITA D1 - Cremonese vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1770015213-0-0-b08e245431424c0d4c7e2d9662b1a3b6
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1770021693-0-0-ad4608985038777576ee50c3c199399f
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ITA D1 - Cremonese vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1770021693-0-0-850602362d545709045b31d8973b8dea
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ITA D1 - Cremonese vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1770015213-0-0-52aa64482a802924971609820a10657e
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1770021693-0-0-ca2b97eb661180c413af425beed57d5d
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ITA D1 - Parma vs Juventus [Sóc nhàm nhang nhồ] (Socolive) flv
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1770015213-0-0-4b95ad3f7cd0b6090b6a812c65991a36
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1770021693-0-0-4bf0ce964c6e64c5700998ee60ca88e4
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ITA D1 - Parma vs Juventus [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1770015213-0-0-0209eab3568f41f8ffeddbf347dc029f
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1770021693-0-0-b6694a147cbc373843a19a1dff5dfc65
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ITA D1 - Parma vs Juventus [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1770015213-0-0-af5f234b5941b73f78684bc3dc89ce9f
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1770021693-0-0-1eecd3979bc3f59b3131bd628ae52cf3
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",Tường thuật: ITA D1 - Parma vs Juventus [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1770015213-0-0-33db66bf936340985bf3464d05196c93 
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1770021693-0-0-44696ff955fed31d7aa4c6758d131e0b 
