@@ -53,6 +53,10 @@ https://live.alilicloud.com/live/e265f242128a81fad27cc0a092c81707/playlist.m3u8
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/3401_164941022544.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap Jepara URA flv
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/3401_164941022544.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap Jepara LƯU BỊ m3u
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/3401_164941022544.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap Jepara LƯU BỊ flv
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/3401_164941022544.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap Jepara KEVILL m3u
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/3401_164941022544.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap Jepara KEVILL flv
@@ -61,10 +65,6 @@ https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/3401_164941022544.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap Jepara SHIN flv
 https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/3401_164941022544.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap Jepara LƯU BỊ m3u
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/3401_164941022544.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap Jepara LƯU BỊ flv
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap Jepara SD 1
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
@@ -83,9 +83,6 @@ https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap Jepara HD Nhanh
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/19f2a5bdd54f10921cd0320022009952/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 02/02 Persikutim United vs Persebata Lembata
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/134b9323ebf622a7e012715582a7c089/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/10ba339405741f6d70096719e64c0f61/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/e265f242128a81fad27cc0a092c81707/playlist.m3u8
@@ -98,6 +95,9 @@ https://stm02bc67274262.stream.hdplaylink.com/live4/7186ee6e354b43dbbf6220bae2bc
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/10ba339405741f6d70096719e64c0f61/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara hd_3
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/7186ee6e354b43dbbf6220bae2bcc623_720/index.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/19f2a5bdd54f10921cd0320022009952/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 02/02 Persikutim United vs Persebata Lembata
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/134b9323ebf622a7e012715582a7c089/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://media.chuoichientv.com/media/uploads/20250623_134615_6b83f5fd.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Arema FC vs Persijap HD2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/m4x2.flv
@@ -139,12 +139,12 @@ https://live8.fastestcdn-global.com/live8/97a985c5cf2e410c8c6f3b72251b05ee_720/i
 https://live8.fastestcdn-global.com/live8/97a985c5cf2e410c8c6f3b72251b05ee_720/index.m3u8 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/b7c2a3b753818949f1820c96d3c32609.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:10 02/02 Triples Kediri vs Persid Jember
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/c63763ec124caee1b7af37fe44a22245/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/14df0fdda0e50d3aacb39b39feb07b14/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 02/02 Triples Kediri vs Persid Jember
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c63763ec124caee1b7af37fe44a22245/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/81d33c77bc9c463d7f43cc1a5541def8/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 02/02 Persenga Nganjuk vs Persepam Pamekasan
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f1d3d6ba25123d63f9a1d0a1cb73cd9d/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/14df0fdda0e50d3aacb39b39feb07b14/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 02/02 Triples Kediri vs Persid Jember
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c63763ec124caee1b7af37fe44a22245/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/81d33c77bc9c463d7f43cc1a5541def8/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 02/02 Persenga Nganjuk vs Persepam Pamekasan
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/f1d3d6ba25123d63f9a1d0a1cb73cd9d/playlist.m3u8
@@ -157,6 +157,28 @@ https://live.alilicloud.com/live/21e0a1a8505c734a9a63f4ec6012b5ac/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/bcd720f74a0bcb69ed5c9408f1097f9f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Little Friends Club vs Chattogram City FC
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/b54146254765009be8a15d20253ed92b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",16:15 02/02 Nepal U19 Women vs Bhutan Women U19
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/78ef562243f0d600efee82d714805030.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",16:30 02/02 Dream Team vs United Bharat FC
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/3ccc8c4509880be882f974740b4ac010/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010007.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:28 02/02 Inter Milan vs Pisa LỮ BỐ REPLAY m3u
+https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010007.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:28 02/02 Inter Milan vs Pisa LỮ BỐ REPLAY flv
+https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010795.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 02/02 Barcelona vs Real Oviedo PHONG VÂN REPLAY m3u
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010795.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 02/02 Barcelona vs Real Oviedo PHONG VÂN REPLAY flv
+https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010803.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:42 02/02 Barcelona vs Real Oviedo LƯU BỊ REPLAY m3u
+https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010803.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:42 02/02 Barcelona vs Real Oviedo LƯU BỊ REPLAY flv
+https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 02/02 Manchester City vs Wolves VƯƠNG LUÂN REPLAY m3u
+https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 02/02 Manchester City vs Wolves VƯƠNG LUÂN REPLAY flv
+https://flv.cdnok9.com/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 03/02 Millonarios vs Dep.Independiente Medellin SD 1
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/sunsd2RK/playlist.m3u8
@@ -175,6 +197,30 @@ https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 03/02 Millonarios vs Dep.Independiente Medellin HD
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",17:00 02/02 IBK Women vs GS Caltex Women hd_1
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/b070a45b6bcc43dbb5b9d19d079d6073_720/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",17:00 02/02 IBK Women vs GS Caltex Women hd_2
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/b070a45b6bcc43dbb5b9d19d079d6073_720/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",17:00 02/02 IBK Women vs GS Caltex Women hd_3
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/b070a45b6bcc43dbb5b9d19d079d6073_720/index.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/070e2da186edc0d2e7f6025568d28ab4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",16:15 02/02 Nepal U19 Women vs Bhutan Women U19
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/bd849eb7ab635efbc2a95aa07404a4b7/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 Persiwah Mempawah vs Gabsis Sambas
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9bb8d496160cd2f129ec7e92350c8a2b/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/3b9cf3399f7b0e3ae3412ee8b7276fb9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",11:00 02/02 DYES vs Jawahar Union
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b1c9c073ad60fe3976e2ec748bad6e4f/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8250822f750d6d9397489a2cb70e01ab/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",16:30 02/02 Dream Team vs United Bharat FC
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3ccc8c4509880be882f974740b4ac010/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/a7126fde0ecefbc024d9348e3938ecc9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 02/02 Xorazm Urganch vs Zimbru Chisinau
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/21e0a1a8505c734a9a63f4ec6012b5ac/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Little Friends Club vs Chattogram City FC
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
@@ -187,18 +233,6 @@ https://live.alilicloud.com/live/6c092aeb07c95ff98b527f02cca9caa7/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/edae738319dd0d8402a9ac0ba7ac700c/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 02/02 vs
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/c4c6ba4fda4d75ee49b908b2d68bc710/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/bd849eb7ab635efbc2a95aa07404a4b7/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 Persiwah Mempawah vs Gabsis Sambas
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9bb8d496160cd2f129ec7e92350c8a2b/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/3b9cf3399f7b0e3ae3412ee8b7276fb9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",11:00 02/02 DYES vs Jawahar Union
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b1c9c073ad60fe3976e2ec748bad6e4f/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/a7126fde0ecefbc024d9348e3938ecc9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 02/02 Xorazm Urganch vs Zimbru Chisinau
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/21e0a1a8505c734a9a63f4ec6012b5ac/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/13477c2c0effd32593f3a83ca445cdbe/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:00 02/02 vs
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4d490baf44ef04b2acbfc0b40b8e47b8/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://media.chuoichientv.com/media/uploads/20250623_133028_6985ba5b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",18:30 02/02 Albirex Niigata S vs Geylang International HD2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cyber.chuoichien.tv/manze/index.m3u8
@@ -343,12 +377,15 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://media.chuoichientv.com/media/uploads/20250623_132724_5e7ee2ff.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",08:00 03/02 Argentinos JRS vs Belgrano Cordoba SD2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Little Friends Club vs Chattogram City FC
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/070e2da186edc0d2e7f6025568d28ab4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",16:15 02/02 Nepal U19 Women vs Bhutan Women U19
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
+https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/bd849eb7ab635efbc2a95aa07404a4b7/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 Persiwah Mempawah vs Gabsis Sambas
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9bb8d496160cd2f129ec7e92350c8a2b/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8250822f750d6d9397489a2cb70e01ab/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",16:30 02/02 Dream Team vs United Bharat FC
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3ccc8c4509880be882f974740b4ac010/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/a7126fde0ecefbc024d9348e3938ecc9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 02/02 Xorazm Urganch vs Zimbru Chisinau
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/21e0a1a8505c734a9a63f4ec6012b5ac/playlist.m3u8
@@ -358,9 +395,9 @@ https://live.alilicloud.com/live/83ca0893595d748499ce9177d7864c3e/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/33918226aa0d24d33b77ea48a330c74e/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 02/02 vs Warriors Delhi
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/6c092aeb07c95ff98b527f02cca9caa7/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/edae738319dd0d8402a9ac0ba7ac700c/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 02/02 vs
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 02/02 Little Friends Club vs Chattogram City FC
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c4c6ba4fda4d75ee49b908b2d68bc710/playlist.m3u8 # ===== SOURCE 3 =====
+https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8 # ===== SOURCE 3 =====
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Arema_FC_2017_logo.svg/1200px-Arema_FC_2017_logo.svg.png",15:30 02/02 Arema FC vs Persijap FULL HD
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
@@ -425,10 +462,10 @@ https://p51i1025.edgemaxcdn.org/live/sunsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://p51i1025.edgemaxcdn.org/live/sunsd1.flv # ===== SOURCE 5 =====
-#DATE:- 02-02- 14:20
+#DATE:- 02-02- 15:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090502934" tvg-name="World Legends Pro T20 League " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014713/1769910295357886_WLP26_RajasthanLions_vs_DelhiWarriors_Landscape_thumb.jpg" tvg-language="English" group-title="LIVE EVENT RECOMMENDED",ENG | Rajasthan Lions vs Delhi Warriors - 2 Feb | https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1770057002~acl=/*~id=18713977117238238005786282778265~hmac=19b0675e6d40b7693b42619c3f981401036d0e934e650231a7caadbda9f22e59|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SB3; Build/QP1A.191105.004)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bef9628f7d9d64c8ccb626bc83747efa-1770022200109
-#EXTINF:-1 tvg-id="1090502934" tvg-name="World Legends Pro T20 League " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014713/1769910295357886_WLP26_RajasthanLions_vs_DelhiWarriors_Landscape_thumb.jpg" tvg-language="Hindi" group-title="LIVE EVENT RECOMMENDED",HIN | Rajasthan Lions vs Delhi Warriors - 2 Feb | https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8?hdnea=exp=1770057002~acl=/*~id=18713977117238238005786282778265~hmac=19b0675e6d40b7693b42619c3f981401036d0e934e650231a7caadbda9f22e59|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SB3; Build/QP1A.191105.004)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bef9628f7d9d64c8ccb626bc83747efa-1770022200109 # ===== SOURCE 6 =====
+#EXTINF:-1 tvg-id="1090502934" tvg-name="World Legends Pro T20 League " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014713/1769910295357886_WLP26_RajasthanLions_vs_DelhiWarriors_Landscape_thumb.jpg" tvg-language="English" group-title="LIVE EVENT RECOMMENDED",ENG | Rajasthan Lions vs Delhi Warriors - 2 Feb | https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1770057002~acl=/*~id=18713977117238238005786282778265~hmac=19b0675e6d40b7693b42619c3f981401036d0e934e650231a7caadbda9f22e59|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; CPH1933; Build/RKQ1.200903.002)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0d67ff1f714726f5767e5523870f2e21-1770025800131
+#EXTINF:-1 tvg-id="1090502934" tvg-name="World Legends Pro T20 League " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014713/1769910295357886_WLP26_RajasthanLions_vs_DelhiWarriors_Landscape_thumb.jpg" tvg-language="Hindi" group-title="LIVE EVENT RECOMMENDED",HIN | Rajasthan Lions vs Delhi Warriors - 2 Feb | https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8?hdnea=exp=1770057002~acl=/*~id=18713977117238238005786282778265~hmac=19b0675e6d40b7693b42619c3f981401036d0e934e650231a7caadbda9f22e59|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; CPH1933; Build/RKQ1.200903.002)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0d67ff1f714726f5767e5523870f2e21-1770025800131 # ===== SOURCE 6 =====
 #EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Argentina Liga Profesional] Rosario Central vs River Plate " tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT RECOMMENDED",[Argentina Liga Profesional] Rosario Central vs River Plate
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -453,22 +490,6 @@ http://205.237.105.197/hls/AUUUqqq.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.197/hls/AUUUqq.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Anaheim Ducks vs Vegas Golden Knights " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Anaheim Ducks vs Vegas Golden Knights
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.105.197/hls/uuuuQ.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Anaheim Ducks vs Vegas Golden Knights 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Anaheim Ducks vs Vegas Golden Knights 2
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.utkyygezs.shop/hls/uuuuQ.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Tampa Bay Lightning vs Boston Bruins 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Tampa Bay Lightning vs Boston Bruins 1
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.105.197/hls/uuuu.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Tampa Bay Lightning vs Boston Bruins 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Tampa Bay Lightning vs Boston Bruins 2
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.utkyygezs.shop/hls/uuuu.m3u8
 #EXTINF:-1 tvg-chno="127" tvg-id="Live.Event.us" tvg-name="[Peru Liga 1 Apertura] U de Deportes vs AD Tarma " tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT RECOMMENDED",[Peru Liga 1 Apertura] U de Deportes vs AD Tarma
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -489,18 +510,10 @@ https://edgestreams.pro/hls/lmdsjkfgv52.m3u8?st=5hOYU5u5H1oHHBBsyI-wTfUn2U12sHWA
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://602.xn--1000-ugoa0hsb9a0hb.com/nhl3.m3u8 # ===== SOURCE 10 =====
-#EXTINF:-1 tvg-chno="52" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Cleveland Cavaliers @ Portland Trail Blazers " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA] Cleveland Cavaliers @ Portland Trail Blazers
-#EXTVLCOPT:http-origin=https://tvpass.org
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NBA09/mono.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Milwaukee Bucks @ Boston Celtics " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA] Milwaukee Bucks @ Boston Celtics
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Oklahoma City Thunder @ Denver Nuggets " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA] Oklahoma City Thunder @ Denver Nuggets
-#EXTVLCOPT:http-origin=https://tvpass.org
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NBA10/mono.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Boston Bruins @ Tampa Bay Lightning " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL] Boston Bruins @ Tampa Bay Lightning
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -513,64 +526,58 @@ http://origin.thetvapp.to/hls/NHL04/mono.m3u8
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8 # ===== SOURCE 11 =====
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persijap (Hội Quán) FULL HD
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema Malang vs Persijap Jepara
 https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770024214-0-0-e3a50468f13ca157176e1b9ca4b72418
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770028534-0-0-3006b27f71bb3b1f9f9c2ec39bdedfed
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770024214-0-0-f1809d6648d7797a8b316868dfcdeb73
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770028534-0-0-cfe2d8bbc96ef710841ec10bd330a322
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770024214-0-0-ecfcac673a9bd824edad4830d4d78ff4
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770028534-0-0-663197f14acedfef0047b48abdc43926
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770024214-0-0-024ec76ed5accd1163a7e5a6319726b2
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770028534-0-0-702825c434aa5fdcb871fc6f0fc66e80
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1770024574-0-0-1bcaee39f2bb19af120908214bf62caa
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1770028894-0-0-b1f6b30e0d57fc363fc2abb62a0fcba3
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1770024574-0-0-60e5b1c6be95e387c483869fc09f9732
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1770028894-0-0-5372f4a08cf595a0f8dfb8b5f2846751
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770024574-0-0-9751fe4c81eb0d458680bc8024bafee9
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770028894-0-0-f9a8c68afaecce4b643497a2c2a71c85
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770024574-0-0-fb9ce030496ba87d4acc2a1ac19bb81d
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770028894-0-0-e2392b4c9786e803c6e555027273278c
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1770024573-0-0-31232970448d0effa03c528234529060
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1770028894-0-0-99dbc140eee0d2fd298469b80aaf49b7
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1770024573-0-0-611a5adf007363089fc86f20cc2e33b3
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1770028894-0-0-22bbf10ab0aed1ff0bfe61fc29fbe2c9
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770024573-0-0-eaf482548265d11923571709023bd975
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770028894-0-0-5dcc7797e19cc5124595c74c870a507f
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770024573-0-0-5b2bea6235b1f6e0126a724b30e0c04b
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770028894-0-0-9f24b82a3f68ffbe6a295945de782738
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1770024214-0-0-904422f2d7c0d2158ab1282d7dfea1f9
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1770028534-0-0-ef0f5fc12274377e0910b49e1a2658f3
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1770024214-0-0-cd9b43e50fe3cca01a550074b8cb2b38
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1770028534-0-0-39b7409e2a938de46a096f09c9c4d2ad
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1770024214-0-0-3b6163dc833cf84d1e34da2f914b990f
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1770028534-0-0-56c677b24a9ae1e1a007b93331277f8c
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1770024214-0-0-dc86da83508efa22ba59e37d771104f0
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1770028534-0-0-26e3177f503da934ad9f5fe19f4a765c
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) flv
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=3e1d7d86ba946369640232c0c6995459&txTime=6980b636
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=3cc18ef1abe8396bb6f7e81433f2f085&txTime=6980c2de
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=7a3f3b04a44eecacfe1a7ea32fb8f29e&txTime=6980b636
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=07c781393edb880baa8e9ca621fc6c30&txTime=6980c2de
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=7a3f3b04a44eecacfe1a7ea32fb8f29e&txTime=6980b636
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=07c781393edb880baa8e9ca621fc6c30&txTime=6980c2de
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) m3u8
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=3e1d7d86ba946369640232c0c6995459&txTime=6980b636
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=3cc18ef1abe8396bb6f7e81433f2f085&txTime=6980c2de
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770024573-0-0-ac199e0f014d51997f5f5b85f6079d1e
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770028894-0-0-5f8c0d11081c3a770e665cbbe4b0d839
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770024573-0-0-7b4e5fd2bea06d43dec47f429e34586b
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770028894-0-0-2d416d631bf1954bafbd2874e9bcd6eb
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770024573-0-0-09d42e053db9698c52224cf198da2d29
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770028894-0-0-2b33e561f2080029b726acce7bd6ab86
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770024573-0-0-8d968821a15b1e69abd509a4f3a16a31
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persijap (Chuối Chiên) HD2
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persijap (Chuối Chiên) HD4
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persijap (Chuối Chiên) SD1
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persijap (Chuối Chiên) SD2
-https://stream.chuoichien.tv/duyhung.flv
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770028894-0-0-7ae33aea4fe9be4cf189b6f32e08ed7f
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persijap Jepara (Lương Sơn) BLV KEVILL flv
 https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",15:30 02/02 Arema FC vs Persijap Jepara (Lương Sơn) BLV KEVILL m3u
@@ -591,6 +598,8 @@ https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73
 https://cyber.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",19:00 02/02 PSM Makassar vs Semen Padang (Chuối Chiên) SD1
 https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://i.ibb.co.com/5Xj9NzFJ/GIF-Image1769097402688.gif",19:00 02/02 PSM Makassar vs Semen Padang (Chuối Chiên) SD2
+https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125601_d19dd636.png",02:45 03/02 Udinese vs AS Roma (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/chuoito/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125601_d19dd636.png",02:45 03/02 Udinese vs AS Roma (Chuối Chiên) SD1
@@ -601,10 +610,54 @@ https://stream.chuoichien.tv/chuoito.flv
 https://cyber.chuoichien.tv/chuoi99/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03:00 03/02 Sunderland vs Burnley (Chuối Chiên) SD1
 https://stream.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03:00 03/02 Sunderland vs Burnley (Chuối Chiên) SD2
-https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132724_5e7ee2ff.png",08:00 03/02 Argentinos JRS vs Belgrano Cordoba (Chuối Chiên) HD2
+https://cyber.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132724_5e7ee2ff.png",08:00 03/02 Argentinos JRS vs Belgrano Cordoba (Chuối Chiên) SD1
+https://stream.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132724_5e7ee2ff.png",08:00 03/02 Argentinos JRS vs Belgrano Cordoba (Chuối Chiên) SD2
+https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png",12:00 02/02 Manchester City vs Wolves (Lương Sơn) BLV VƯƠNG LUÂN REPLAY flv
+https://flv.cdnok9.com/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png",12:00 02/02 Manchester City vs Wolves (Lương Sơn) BLV VƯƠNG LUÂN REPLAY m3u
+https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010007.png",12:28 02/02 Inter Milan vs Pisa (Lương Sơn) BLV LỮ BỐ REPLAY flv
+https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010007.png",12:28 02/02 Inter Milan vs Pisa (Lương Sơn) BLV LỮ BỐ REPLAY m3u
+https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010795.png",12:30 02/02 Barcelona vs Real Oviedo (Lương Sơn) BLV PHONG VÂN REPLAY flv
+https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010795.png",12:30 02/02 Barcelona vs Real Oviedo (Lương Sơn) BLV PHONG VÂN REPLAY m3u
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010803.jpg",12:42 02/02 Barcelona vs Real Oviedo (Lương Sơn) BLV LƯU BỊ REPLAY flv
+https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010803.jpg",12:42 02/02 Barcelona vs Real Oviedo (Lương Sơn) BLV LƯU BỊ REPLAY m3u
+https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/OMG_esports_logo.png",16:00 02/02 OMG vs LGD (Hội Quán) FULL HD
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17:00 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1770028534-0-0-76527a105eff918257aceaa2d92e0278
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17:00 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1770028534-0-0-ee423f46281c155ce5c1bf430eadc0c3
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17:00 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1770028534-0-0-4b3d07b8440bdc92ee1d10239318e277
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17:00 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1770028534-0-0-38d7e7bf89a8ed8c5a9df1c8d144e58a
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17:00 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) flv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1770028894-0-0-1dbb491981415fb8f04d27d9219f2101
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17:00 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1770028894-0-0-0fd2fc039ef2ca7a361f1a539e39a03e
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17:00 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1770028894-0-0-5e5be28907e3212ec01d80ec7bfbb1a5
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17:00 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1770028894-0-0-bd9d21910883afe1ba19ea5198cf34ac
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17:00 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) flv
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1770028174-0-0-2d54bde88a962d0d289aa1362cf57269
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17:00 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1770028174-0-0-74d6b1cf524b860868d55503161fa1cc
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17:00 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770028174-0-0-0864fc7af64d62b8ec12e4d1ab9fcd26
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17:00 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770028174-0-0-dd84fa026dedea4894ea1dd808a55ce1
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133028_6985ba5b.png",18:30 02/02 Albirex Niigata S vs Geylang International (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/manze/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133028_6985ba5b.png",18:30 02/02 Albirex Niigata S vs Geylang International (Chuối Chiên) SD1
@@ -615,9 +668,9 @@ https://stream.chuoichien.tv/manze.flv
 https://cyber.chuoichien.tv/chuoinuong/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125818_6e12d6ca.png",21:35 02/02 Baniyas SC vs Al-Jazira (Chuối Chiên) SD1
 https://stream.chuoichien.tv/chuoinuong/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125818_6e12d6ca.png",21:35 02/02 Baniyas SC vs Al-Jazira (Chuối Chiên) SD2
-https://stream.chuoichien.tv/chuoinuong.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_30496d9e.png",22:15 02/02 Al Riyadh vs Al-Nassr (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/chuoitay/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_30496d9e.png",22:15 02/02 Al Riyadh vs Al-Nassr (Chuối Chiên) SD1
-https://stream.chuoichien.tv/chuoitay/index.m3u8 
+https://stream.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_30496d9e.png",22:15 02/02 Al Riyadh vs Al-Nassr (Chuối Chiên) SD2
+https://stream.chuoichien.tv/chuoitay.flv 
