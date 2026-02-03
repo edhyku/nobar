@@ -65,12 +65,18 @@ https://live1.pro2cdnlive.com/live/channel24.m3u8?wsSecret=bda610fad68e485f822e3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd # ===== SOURCE 3 =====
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/522b4b872a3a5f1b33a4d71aa0a2de75/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 03/02 Kartanegara FC vs Persikubar Putra
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/03fe0a667aed0b3d0ac83deaf3f95b98/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/6690d4319a9b3762244e6b9a59ee2acb.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 03/02 Bocah Liar FC vs Balikpapan United
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/0af7baa0134cf8365b16183ca8cd8320/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/234e0286db0cd55fba7121af418286f1/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Persikabo Batu vs PS Mojokerto Putra
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/152f45c668e3240d75456d3099366fb4/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/33cea4b751145d1fd4d712f1bedce182/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:20 03/02 Bocah Liar FC vs Balikpapan United
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0af7baa0134cf8365b16183ca8cd8320/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/522b4b872a3a5f1b33a4d71aa0a2de75/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 03/02 Kartanegara FC vs Persikubar Putra
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/03fe0a667aed0b3d0ac83deaf3f95b98/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://media.chuoichientv.com/media/uploads/20250623_142852_6270222c.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",19:00 03/02 Việt Nam vs Indonesia HD2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cyber.chuoichien.tv/chuoi99/index.m3u8
@@ -83,12 +89,15 @@ https://stream.chuoichien.tv/chuoi99/index.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://media.chuoichientv.com/media/uploads/20250623_142852_6270222c.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",19:00 03/02 Việt Nam vs Indonesia SD2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoi99.flv
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/522b4b872a3a5f1b33a4d71aa0a2de75/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 03/02 Kartanegara FC vs Persikubar Putra
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/03fe0a667aed0b3d0ac83deaf3f95b98/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/234e0286db0cd55fba7121af418286f1/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Persikabo Batu vs PS Mojokerto Putra
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/152f45c668e3240d75456d3099366fb4/playlist.m3u8 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/6051d2f0d56acc4f5f8faffdb57f9f99.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Dejan FC vs PSGC Ciamis
+https://live.alilicloud.com/live/152f45c668e3240d75456d3099366fb4/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/33cea4b751145d1fd4d712f1bedce182/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:20 03/02 Bocah Liar FC vs Balikpapan United
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0af7baa0134cf8365b16183ca8cd8320/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/522b4b872a3a5f1b33a4d71aa0a2de75/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 03/02 Kartanegara FC vs Persikubar Putra
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/03fe0a667aed0b3d0ac83deaf3f95b98/playlist.m3u8 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/6051d2f0d56acc4f5f8faffdb57f9f99.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Dejan FC vs PSGC Ciamis
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/d259c894d5218884a7097ec187346aa5/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/c7455bbdda71992a833c10e44d8fded1/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Dejan FC vs PSGC Ciamis
@@ -97,20 +106,23 @@ https://live.alilicloud.com/live/d259c894d5218884a7097ec187346aa5/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/c7455bbdda71992a833c10e44d8fded1/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Dejan FC vs PSGC Ciamis
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d259c894d5218884a7097ec187346aa5/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/1c9b5efa1c02382cf14251cdfb6a9ac1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Alesha FC Makassar vs Kasiwa
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/def8e056f40f89a72ca4294b071eb023.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 03/02 Chirag United Kerala vs Assam
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/214dd34b21f13343522264be9902e6f2/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/30b40e89bd2f82dcd754631a5936ae26.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Persinga Ngawi vs Pasuruan United
+https://live.alilicloud.com/live/78f44bce735661ad169bed27fd219764/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/d11d487fbff74bce255dae31076022ec.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 03/02 West Bengal vs Services
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/1255e68ba32eb7180700caa256448a57/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/6561_165726906424.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Thailand Futsal vs Iraq Futsal THỜI THIÊN m3u
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/6561_165726906424.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Thailand Futsal vs Iraq Futsal THỜI THIÊN flv
-https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+https://live.alilicloud.com/live/9007be965cfd81e03d9e0b3e0269fc45/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/c9fdb770bffd178543a4fefed69b6831.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:45 03/02 UM-Damansara United vs Kelantan Red Warrior
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/a209af73b9cdb8f28bc8a3b045f59fc4/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770054886.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Canberra Capitals W vs Southside W YẾN THANH m3u
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770054886.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Canberra Capitals W vs Southside W YẾN THANH flv
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/6561_165726906424.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Thailand Futsal vs Iraq Futsal THỜI THIÊN m3u
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/6561_165726906424.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Thailand Futsal vs Iraq Futsal THỜI THIÊN flv
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/941d154df4d52cab518d2deae12dc83b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",06:20 03/02 La Equidad vs Deportes Tolima SD 1
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/saysd2RK/playlist.m3u8
@@ -132,27 +144,9 @@ https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/f0036842227efc1d37042eed4950aa58/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:30 03/02 Railway Sports PB vs Rajasthan FA
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/066b42256d4f4d27f5ed4c37f4690735/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2c4650693532a8c428f0dce9b6ce1eb0/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 03/02 Hekari Souths United FC vs Vanuatu United FC
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5076bd99396ee7b0591edfef8df308c2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:45 03/02 UMvsDamansara United vs Kelantan Red Warrior
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/27734cea216d5247e0946c2e0d5f4a29/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/853784bcb0d1d18dfb200d2708127a46/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 03/02 PS Gelora Sintang vs PS Sanggau
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b9434edbe54070b0c546b8c8831d56f5/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/359cd5a8bb4238c595105bbf5009b98b/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:30 03/02 Tamil Nadu vs Punjab FA
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ba9660680ab799fdb2690f1563aa5148/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/acb2170aecd5e7a2ffaf2a5ecd6fc6da/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Persinga Ngawi vs Pasuruan United
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1255e68ba32eb7180700caa256448a57/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/d0bb5d7722b7143eeff315837898bea4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Iran Futsal vs Uzbekistan Futsal
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d6c212a416a58bebc4f02db2af59f6e5/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8b815388913b01eebbf06c1a62e115c6/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Alesha FC Makassar vs
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/214dd34b21f13343522264be9902e6f2/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8b815388913b01eebbf06c1a62e115c6/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Alesha FC Makassar vs Kasiwa
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5ad5412446ace713ee8fd94431cdcff5/playlist.m3u8
+https://live.alilicloud.com/live/58515b462621923fbb844d2fa901c6ac/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/9b89cada6dfc6d0a293594ba0551020d/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 03/02 Juba Sangha FC vs Ajmal FC
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/fad010945413016933688e5e5daed749/playlist.m3u8
@@ -168,15 +162,33 @@ https://stm02bc67274262.stream.hdplaylink.com/live4/2938bf035dbf43a1af6a3aeac8fb
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/6856964d85daf09aa64ebb19e123e356/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Thailand Futsal vs Iraq Futsal hd_3
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/2938bf035dbf43a1af6a3aeac8fb69ba_720/index.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/4d02666653ae466ce7ba5c689f501a03/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:00 03/02 Tupapa Maraerenga vs Vaivase Tai FC
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/acb2170aecd5e7a2ffaf2a5ecd6fc6da/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Persinga Ngawi vs Pasuruan United
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/81d7eda50576fa1a45bd0261d6e86533/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/370399acbbcd535234391fca07c0e416/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:00 03/02 vs
+https://live.alilicloud.com/live/1255e68ba32eb7180700caa256448a57/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/d0bb5d7722b7143eeff315837898bea4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Iran Futsal vs Uzbekistan Futsal
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/61bef66fc2725ec64ecab911bbecf33d/playlist.m3u8
+https://live.alilicloud.com/live/d6c212a416a58bebc4f02db2af59f6e5/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2c4650693532a8c428f0dce9b6ce1eb0/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 03/02 Hekari Souths United FC vs Vanuatu United FC
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/27734cea216d5247e0946c2e0d5f4a29/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8b815388913b01eebbf06c1a62e115c6/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Alesha FC Makassar vs
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/214dd34b21f13343522264be9902e6f2/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5076bd99396ee7b0591edfef8df308c2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:45 03/02 UMvsDamansara United vs Kelantan Red Warrior
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a209af73b9cdb8f28bc8a3b045f59fc4/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8b815388913b01eebbf06c1a62e115c6/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Alesha FC Makassar vs Kasiwa
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5ad5412446ace713ee8fd94431cdcff5/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/853784bcb0d1d18dfb200d2708127a46/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 03/02 PS Gelora Sintang vs PS Sanggau
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b9434edbe54070b0c546b8c8831d56f5/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/7b091d64f6c64a002c6f46b063a89dac/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 03/02 West Bengal vs Services
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9007be965cfd81e03d9e0b3e0269fc45/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/359cd5a8bb4238c595105bbf5009b98b/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:30 03/02 Tamil Nadu vs Punjab FA
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ba9660680ab799fdb2690f1563aa5148/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2bef9129d71b1dba09c634d9f2d39584/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 03/02 Chirag United Kerala vs Assam
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/78f44bce735661ad169bed27fd219764/playlist.m3u8
@@ -312,6 +324,18 @@ https://stream.chuoichien.tv/chuoi99/index.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://media.chuoichientv.com/media/uploads/20250623_133419_dd306d1b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",03:00 04/02 Albacete vs Barcelona SD2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5076bd99396ee7b0591edfef8df308c2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:45 03/02 UMvsDamansara United vs Kelantan Red Warrior
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/58515b462621923fbb844d2fa901c6ac/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/9b89cada6dfc6d0a293594ba0551020d/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 03/02 Juba Sangha FC vs Ajmal FC
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/fad010945413016933688e5e5daed749/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/7b091d64f6c64a002c6f46b063a89dac/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 03/02 West Bengal vs Services
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9007be965cfd81e03d9e0b3e0269fc45/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2bef9129d71b1dba09c634d9f2d39584/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 03/02 Chirag United Kerala vs Assam
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/78f44bce735661ad169bed27fd219764/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/6856964d85daf09aa64ebb19e123e356/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Thailand Futsal vs Iraq Futsal
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b69c6a893708b343fd66cd965d9bc105/playlist.m3u8
@@ -336,31 +360,31 @@ https://live8.fastestcdn-global.com/live8/8498dd0223ae49b0a2bac6ae114a159b_720/i
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/acb2170aecd5e7a2ffaf2a5ecd6fc6da/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:00 03/02 Persinga Ngawi vs Pasuruan United
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/1255e68ba32eb7180700caa256448a57/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2c4650693532a8c428f0dce9b6ce1eb0/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 03/02 Hekari Souths United FC vs Vanuatu United FC
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/27734cea216d5247e0946c2e0d5f4a29/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8b815388913b01eebbf06c1a62e115c6/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Alesha FC Makassar vs
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/214dd34b21f13343522264be9902e6f2/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/5076bd99396ee7b0591edfef8df308c2/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:45 03/02 UMvsDamansara United vs Kelantan Red Warrior
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a209af73b9cdb8f28bc8a3b045f59fc4/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8b815388913b01eebbf06c1a62e115c6/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 03/02 Alesha FC Makassar vs Kasiwa
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5ad5412446ace713ee8fd94431cdcff5/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/853784bcb0d1d18dfb200d2708127a46/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 03/02 PS Gelora Sintang vs PS Sanggau
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b9434edbe54070b0c546b8c8831d56f5/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/9b89cada6dfc6d0a293594ba0551020d/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 03/02 Juba Sangha FC vs Ajmal FC
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/fad010945413016933688e5e5daed749/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/7b091d64f6c64a002c6f46b063a89dac/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 03/02 West Bengal vs Services
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9007be965cfd81e03d9e0b3e0269fc45/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/2bef9129d71b1dba09c634d9f2d39584/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",15:30 03/02 Chirag United Kerala vs Assam
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/78f44bce735661ad169bed27fd219764/playlist.m3u8 # ===== SOURCE 6 =====
-#DATE:- 03-02- 14:00
+https://live.alilicloud.com/live/b9434edbe54070b0c546b8c8831d56f5/playlist.m3u8 # ===== SOURCE 4 =====
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.api-sports.io/football/teams/17259.png",17:00 03/02 76 Iğdır Belediyespor vs Antalyaspor FULL HD
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.api-sports.io/football/teams/17259.png",17:00 03/02 76 Iğdır Belediyespor vs Antalyaspor HD
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.api-sports.io/football/teams/17259.png",17:00 03/02 76 Iğdır Belediyespor vs Antalyaspor SD
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8 # ===== SOURCE 6 =====
+#DATE:- 03-02- 14:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090503005" tvg-name="World Legends Pro T20 League " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014795/177005952267219_WLP26_semifinal_Rajasthan_vs_pune_3feb_landscape_thumb.jpg" tvg-language="English" group-title="LIVE EVENT RECOMMENDED",ENG | Rajasthan Lions vs Pune Panthers - SF - 3 Feb | https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1770143404~acl=/*~id=27886704182369646992396395306567~hmac=d9d07b955c00b8f94e581209a377be9b94212c4dac215ba2d855cd86cdb5817b|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Nokia T20; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=fe49f513468e8d5dcd482ac3ec399533-1770107400130
-#EXTINF:-1 tvg-id="1090503005" tvg-name="World Legends Pro T20 League " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014795/177005952267219_WLP26_semifinal_Rajasthan_vs_pune_3feb_landscape_thumb.jpg" tvg-language="Hindi" group-title="LIVE EVENT RECOMMENDED",HIN | Rajasthan Lions vs Pune Panthers - SF - 3 Feb | https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8?hdnea=exp=1770143404~acl=/*~id=27886704182369646992396395306567~hmac=d9d07b955c00b8f94e581209a377be9b94212c4dac215ba2d855cd86cdb5817b|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Nokia T20; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=fe49f513468e8d5dcd482ac3ec399533-1770107400130 # ===== SOURCE 7 =====
+#EXTINF:-1 tvg-id="1090503005" tvg-name="World Legends Pro T20 League " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014795/177005952267219_WLP26_semifinal_Rajasthan_vs_pune_3feb_landscape_thumb.jpg" tvg-language="English" group-title="LIVE EVENT RECOMMENDED",ENG | Rajasthan Lions vs Pune Panthers - SF - 3 Feb | https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1770143404~acl=/*~id=27886704182369646992396395306567~hmac=d9d07b955c00b8f94e581209a377be9b94212c4dac215ba2d855cd86cdb5817b|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Oneplus_Dosa_IN; Build/RTM5.220609.299)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5f7becdac2996e2e86ded30fa3b1604f-1770109800118
+#EXTINF:-1 tvg-id="1090503005" tvg-name="World Legends Pro T20 League " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014795/177005952267219_WLP26_semifinal_Rajasthan_vs_pune_3feb_landscape_thumb.jpg" tvg-language="Hindi" group-title="LIVE EVENT RECOMMENDED",HIN | Rajasthan Lions vs Pune Panthers - SF - 3 Feb | https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8?hdnea=exp=1770143404~acl=/*~id=27886704182369646992396395306567~hmac=d9d07b955c00b8f94e581209a377be9b94212c4dac215ba2d855cd86cdb5817b|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Oneplus_Dosa_IN; Build/RTM5.220609.299)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5f7becdac2996e2e86ded30fa3b1604f-1770109800118 # ===== SOURCE 7 =====
 #EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Inter Bogota vs Deportes Tolima " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="LIVE EVENT RECOMMENDED",[Colombia Primera A] Inter Bogota vs Deportes Tolima
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
