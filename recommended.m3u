@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB - 4FEBRUARI 2026 Pepper Savings Bank W vs Hyundai E&C Hillstate W
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/89/ASEAN_Club_Championship_SP_logo.png", 19:30 WIB - 4FEBRUARI 2026 Selangor vs Bangkok Glass
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/89/ASEAN_Club_Championship_SP_logo.png", 19:30 WIB - 4FEBRUARI 2026 Buriram United vs Dynamic Herb Cebu
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://shorter.me/2eCIq", 03:00 WIB - 5FEBRUARI 2026 Manchester City vs Newcastle United
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://shorter.me/F5SHu", 02:45 WIB - 5FEBRUARI 2026 Holstein Kiel vs Stuttgart
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://shorter.me/5fhlk", 00:00 WIB - 5FEBRUARI 2026 Bologna vs Lazio
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://shorter.me/5fhlk", 03:00 WIB - 5FEBRUARI 2026 Internazionale vs Torino
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://shorter.me/yT3dq", 03:00 WIB - 5FEBRUARI 2026 Valencia vs Athletic Club
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://shorter.me/yT3dq", 03:00 WIB - 5FEBRUARI 2026 Deportivo Alavés vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://shorter.me/gjrRJ", 02:30 WIB - 5FEBRUARI 2026 Lorient vs Paris
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sporttv5.m3u8
+#EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://shorter.me/CHGVQ", 03:00 WIB - 5FEBRUARI 2026 PSV vs Heerenveen
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn22HPltxjBIL6jomIhmUHiogiibdfNhlKMg&s", 002 Badminton Asia Team Championships (BATCH) 2026 - 4FEBRUARI 2026
 https://hlsliveali-cdn.ysp.cctv.cn/617FCF72F0CAB331E152D1CA9F67707D8E2005D430A0AA8921FEC78AFA8B17060A2886579A1AA44FF97D3EE19E84E3AD827803E4FB5F0627F4DF9186BC073F0D32FFD17A38B92398CA2BCB072D60AB9D69FCEC7AED4AB4E8156C36BB933CA0C09891A0E5960FD8DBB8EB55D63A6F2B8F/2029990203.m3u8?from=player&svrtime=1770180916&pid=600217377&cdn=5506&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=0a741f382dc10b5f5d83dd4fcb9ee63e&ytime=1770180916&ytype=1_ikotv
 #EXTINF:-1 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn22HPltxjBIL6jomIhmUHiogiibdfNhlKMg&s", 002 Badminton Asia Team Championships (BATCH) 2026 - 4FEBRUARI 2026
@@ -7,18 +63,39 @@ https://hlsliveali-cdn.ysp.cctv.cn/589DD90C99069AA9018AC7D85D82A821A658A4F66793E
 https://hlslive-tx-cdn.ysp.cctv.cn/39D45B3B3FCB3E79B752F5A59C11CDC5E3B6E635CA3B49789CBBC3BC7F6C262EA9ED730AD4F1F3DCAAA1CB577EF07939AA07253A487289FC994601A9E31C908502671406C8510233A9467F1AC5F38AEC91697E38B0B62DFDA5993F4796EDE1691BD0FAF948971D878CC42843054D0BFA/2030010003.m3u8?from=player&svrtime=1770174863&pid=600217389&cdn=5510&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=dba5895d8597af93e9511b466b41224c&ytime=1770174863&ytype=4_ikotv # ===== SOURCE 3 ===== #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/3ba9e68b96950ffe8b5b4fb2508cf3dd.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 04/02 Bula FC vs South Melbourne
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/8e0882baf76de1d349fd47c04bff7b9c/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770144296.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:00 04/02 Golden State Warriors vs Philadelphia 76ers YẾN THANH m3u
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770144296.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:00 04/02 Golden State Warriors vs Philadelphia 76ers YẾN THANH flv
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 04/02 Bula FC vs South Melbourne GIÁO SƯ XOAY m3u
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/9c60afb1f708bbae1cd54ac54becf417.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:10 04/02 Rail Wheel Factory FC vs Jawahar Union
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/2ab18e80958e3f0441ec9416293a416e/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn.rapid-api.icu/football/team/6d2cab607ba1b908c2c71225581b06ee.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City Women vs WS Wanderers
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/d53687fc765ee6ffec3ec94a3084d70a/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City vs WS Wanderers LƯU BỊ m3u
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City vs WS Wanderers LƯU BỊ flv
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City vs WS Wanderers TÔN LẬP m3u
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City vs WS Wanderers TÔN LẬP flv
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City vs WS Wanderers KEVILL m3u
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City vs WS Wanderers KEVILL flv
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City vs WS Wanderers URA m3u
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City vs WS Wanderers URA flv
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770188475.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 04/02 Bula FC vs South Melbourne GIÁO SƯ XOAY m3u
 https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 04/02 Bula FC vs South Melbourne GIÁO SƯ XOAY flv
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770188475.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 04/02 Bula FC vs South Melbourne GIÁO SƯ XOAY flv
 https://flv.cdnok9.com/live/GIAOSUXOAY.flv?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 04/02 Bula FC vs South Melbourne LÝ QUỲ m3u
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770188466.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 04/02 Bula FC vs South Melbourne LÝ QUỲ m3u
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 04/02 Bula FC vs South Melbourne LÝ QUỲ flv
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://upload-img.cdnokvip.com/uploads/team_logo/1770188466.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:30 04/02 Bula FC vs South Melbourne LÝ QUỲ flv
 https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/68870_1jp438sp0g19.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:10 04/02 Rail Wheel Factory FC vs Jawahar Union NHÀ ÐÀI m3u
+https://auto.cdnok9.com/live/sd-6MvVNP7EuvPMZximhn/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://cdn-img.cdnokvip.com/logos/68870_1jp438sp0g19.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:10 04/02 Rail Wheel Factory FC vs Jawahar Union NHÀ ÐÀI flv
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/941d154df4d52cab518d2deae12dc83b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",06:20 03/02 La Equidad vs Deportes Tolima SD 1
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/saysd2RK/playlist.m3u8
@@ -37,21 +114,12 @@ https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.thesports.com/football/team/941d154df4d52cab518d2deae12dc83b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",06:20 03/02 La Equidad vs Deportes Tolima HD Nhanh
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/912045f1e2ffed64ca27a039461c6868/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",07:30 04/02 The Strongest vs Deportivo Tachira
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/d07fbc3d1dfebba8ac92abda8178eeb4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 04/02 Rail Wheel Factory FC vs Jawahar Union
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/63859576d65ef0c139618503fa51d5d4/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/ac7071fa5db1dd71163a1c9b0a57a2d4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",08:00 04/02 Brittons Hill vs Bagatelle SS
+https://live.alilicloud.com/live/2ab18e80958e3f0441ec9416293a416e/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8e4ee379c696e9fdc87bbc192766c199/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City Women vs WS Wanderers Women
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/daf41811ce854e921fbb2d74f87d6cd9/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8ff9e5767457e653d9bd147752bbc883/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",07:45 04/02 Barranquilla FC vs Patriotas FC
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/89fae809518a8575f72e55a99637ce63/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/78430e09e350a4543b2a773731a9208f/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",07:15 04/02 Instituto de Córdoba vs Club Atlético Lanús
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0cb379f90165d47029d15499dad5b893/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/126e777edb4dda58f23fa62e4afbee09/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",07:15 04/02 Independiente Rivadavia vs Sarmiento Junin
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6992c80684ce7fc6960b783ba2bd8578/playlist.m3u8
+https://live.alilicloud.com/live/d53687fc765ee6ffec3ec94a3084d70a/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/118d412c1b44b6b5366f770532b069b3/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 04/02 Bula FC vs South Melbourne
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8e0882baf76de1d349fd47c04bff7b9c/playlist.m3u8
@@ -262,12 +330,6 @@ https://stream.chuoichien.tv/chuoinuong/index.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://media.chuoichientv.com/media/uploads/20250623_133850_6dd47f22.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",10:00 05/02 Vancouver FC vs Cruz Azul SD2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoinuong.flv
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/118d412c1b44b6b5366f770532b069b3/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 04/02 Bula FC vs South Melbourne
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8e0882baf76de1d349fd47c04bff7b9c/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/6d5649bb137e13ac37c89c51aef7ba1a/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",11:00 04/02 Stride vs Blitz FC
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/964339b9006852556959c00392936e6a/playlist.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/8e4ee379c696e9fdc87bbc192766c199/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:30 04/02 Melbourne City Women vs WS Wanderers Women
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d53687fc765ee6ffec3ec94a3084d70a/playlist.m3u8
@@ -291,7 +353,16 @@ https://live8.fastestcdn-global.com/live8/3e18ab057ba0439db277f785df8c349c_720/i
 https://live8.fastestcdn-global.com/live8/3e18ab057ba0439db277f785df8c349c_720/index.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/aaccfe48f5d876fcdaf017a331c05cb9/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",11:00 04/02 San Diego FC vs Pumas U.N.A.M.
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/734cb157c2dd2b2d25b07e02ff3d0510/playlist.m3u8 # ===== SOURCE 4 =====
+https://live.alilicloud.com/live/734cb157c2dd2b2d25b07e02ff3d0510/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/d07fbc3d1dfebba8ac92abda8178eeb4/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",13:00 04/02 Rail Wheel Factory FC vs Jawahar Union
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/2ab18e80958e3f0441ec9416293a416e/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/118d412c1b44b6b5366f770532b069b3/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",12:00 04/02 Bula FC vs South Melbourne
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8e0882baf76de1d349fd47c04bff7b9c/playlist.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://wsrv.nl/?url=https://img.rapid-api.icu/football/team/6d5649bb137e13ac37c89c51aef7ba1a/image/small?v=1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85",11:00 04/02 Stride vs Blitz FC
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/964339b9006852556959c00392936e6a/playlist.m3u8 # ===== SOURCE 4 =====
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.api-sports.io/football/teams/1971.png",13:30 04/02 Melbourne City W vs Western Sydney Wanderers W FULL HD
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
@@ -301,15 +372,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.api-sports.io/football/teams/1971.png",13:30 04/02 Melbourne City W vs Western Sydney Wanderers W SD
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg",11:00 04/02 Portland Trail Blazers vs Phoenix Suns FULL HD
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg",11:00 04/02 Portland Trail Blazers vs Phoenix Suns HD
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg",11:00 04/02 Portland Trail Blazers vs Phoenix Suns SD
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg",10:00 04/02 CARABAO INTERNATIONAL OPEN 2026 FULL HD
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
@@ -318,7 +380,9 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8
 #EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg",10:00 04/02 CARABAO INTERNATIONAL OPEN 2026 SD
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8 # ===== SOURCE 6 =====
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80",13:30 04/02 Melbourne City Nữ vs WS Wanderers Nữ
+https://live5.msrktz.app/live/14830711.m3u8 # ===== SOURCE 6 =====
 #DATE:- 04-02- 01:00
 #No live matches. # ===== SOURCE 7 =====
 #EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Argentina Liga Profesional] Ind Rivadavia vs Sarmiento Junin " tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT RECOMMENDED",[Argentina Liga Profesional] Ind Rivadavia vs Sarmiento Junin
@@ -341,34 +405,10 @@ https://a.voezvoezv.shop/hls/CCCCC.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://a.voezvoezv.shop/hls/CCCCC.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Champions Cup] San Diego FC vs UNAM Pumas " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2298.png" group-title="LIVE EVENT RECOMMENDED",[CONCACAF Champions Cup] San Diego FC vs UNAM Pumas
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a.voezvoezv.shop/hls/CCCCCQ.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] The Strongest vs Dep Tachira " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="LIVE EVENT RECOMMENDED",[Copa Libertadores] The Strongest vs Dep Tachira
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://a.voezvoezv.shop/hls/CCCCCQQ.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Portland Trail Blazers vs Phoenix Suns " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA Basketball] Portland Trail Blazers vs Phoenix Suns
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.uvfdte.shop/hls/EEVVVQQQX.m3u8
-#EXTINF:-1 tvg-chno="135" tvg-id="Live.Event.us" tvg-name="[NFL American Football] NFL Pro Bowl : AFC vs NFC 1 " tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT RECOMMENDED",[NFL American Football] NFL Pro Bowl : AFC vs NFC 1
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/EEVVVQQQq.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="Live.Event.us" tvg-name="[NFL American Football] NFL Pro Bowl : AFC vs NFC 2 " tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT RECOMMENDED",[NFL American Football] NFL Pro Bowl : AFC vs NFC 2
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d.uyuy.shop/hls/EEVVVQQQq.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Anaheim Ducks vs Seattle Kraken 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Anaheim Ducks vs Seattle Kraken 1
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.107.90/hls/ZVVVQ.m3u8
-#EXTINF:-1 tvg-chno="144" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Anaheim Ducks vs Seattle Kraken 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Anaheim Ducks vs Seattle Kraken 2
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://b.ukuuutt.shop/hls/ZVVVQ.m3u8
 #EXTINF:-1 tvg-chno="145" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Carolina Hurricanes vs Ottawa Senators 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Carolina Hurricanes vs Ottawa Senators 1
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -377,30 +417,6 @@ http://205.237.107.90/hls/ZVVV.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://b.ukuuutt.shop/hls/ZVVV.m3u8
-#EXTINF:-1 tvg-chno="147" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Edmonton Oilers vs Toronto Maple Leafs 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Edmonton Oilers vs Toronto Maple Leafs 1
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.107.90/hls/ZVVVQQQQQ.m3u8
-#EXTINF:-1 tvg-chno="148" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Edmonton Oilers vs Toronto Maple Leafs 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Edmonton Oilers vs Toronto Maple Leafs 2
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://b.ukuuutt.shop/hls/ZVVVQQQQQ.m3u8
-#EXTINF:-1 tvg-chno="149" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] New Jersey Devils vs Columbus Blue Jackets 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] New Jersey Devils vs Columbus Blue Jackets 1
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.107.90/hls/ZVVVQ.m3u8
-#EXTINF:-1 tvg-chno="150" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] New Jersey Devils vs Columbus Blue Jackets 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] New Jersey Devils vs Columbus Blue Jackets 2
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://b.ukuuutt.shop/hls/ZVVVQ.m3u8
-#EXTINF:-1 tvg-chno="151" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] New York Islanders vs Pittsburgh Penguins 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] New York Islanders vs Pittsburgh Penguins 1
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.107.90/hls/ZVVVQQQ.m3u8
-#EXTINF:-1 tvg-chno="152" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] New York Islanders vs Pittsburgh Penguins 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] New York Islanders vs Pittsburgh Penguins 2
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://b.ukuuutt.shop/hls/ZVVVQQQ.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Philadelphia Flyers vs Washington Capitals 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Philadelphia Flyers vs Washington Capitals 1
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -408,15 +424,7 @@ http://205.237.107.90/hls/ZVVVQQ.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Philadelphia Flyers vs Washington Capitals 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Philadelphia Flyers vs Washington Capitals 2
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://b.ukuuutt.shop/hls/ZVVVQQ.m3u8
-#EXTINF:-1 tvg-chno="155" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Tampa Bay Lightning vs Buffalo Sabres 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Tampa Bay Lightning vs Buffalo Sabres 1
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.107.90/hls/ZVVVQQQQ.m3u8
-#EXTINF:-1 tvg-chno="156" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Tampa Bay Lightning vs Buffalo Sabres 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL Hockey] Tampa Bay Lightning vs Buffalo Sabres 2
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://b.ukuuutt.shop/hls/ZVVVQQQQ.m3u8 # ===== SOURCE 8 =====
+https://b.ukuuutt.shop/hls/ZVVVQQ.m3u8 # ===== SOURCE 8 =====
 #EXTINF:-1 tvg-chno="151" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Philadelphia 76ers at Golden State Warriors " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[Basketball] Philadelphia 76ers at Golden State Warriors
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -440,23 +448,7 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
 #EXTINF:-1 tvg-chno="333" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Seattle Kraken vs Anaheim Ducks " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL] Seattle Kraken vs Anaheim Ducks
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl7.m3u8 # ===== SOURCE 10 =====
-#EXTINF:-1 tvg-chno="101" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Philadelphia 76ers vs Golden State Warriors " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA] Philadelphia 76ers vs Golden State Warriors
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d11.epicquesthero.com:999/hls/do3.m3u8?md5=xkHNg0vHC60gIPmLnYMJ9g&expires=1770186630
-#EXTINF:-1 tvg-chno="110" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Phoenix Suns vs Portland Trail Blazers " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA] Phoenix Suns vs Portland Trail Blazers
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d15.epicquesthero.com:999/hls/do4.m3u8?md5=2WuF0xa7Qeh2iCYO5EFfHQ&expires=1770184852
-#EXTINF:-1 tvg-chno="188" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Seattle Kraken vs Anaheim Ducks " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT RECOMMENDED",[NHL] Seattle Kraken vs Anaheim Ducks
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d11.epicquesthero.com:999/hls/do32.m3u8?md5=WrB1vK8NQCOj_nHEUQWwWw&expires=1770186633
-#EXTINF:-1 tvg-chno="203" tvg-id="Live.Event.us" tvg-name="[North America CONCACAF Champions Cup] San Diego vs Pumas UNAM " tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT RECOMMENDED",[North America CONCACAF Champions Cup] San Diego vs Pumas UNAM
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d12.epicquesthero.com:999/hls/do30.m3u8?md5=Dy4tkJGnA2vlXRbiH375Cg&expires=1770184850 # ===== SOURCE 11 =====
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl7.m3u8 # ===== SOURCE 11 =====
 #EXTINF:-1 tvg-chno="51" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Atlanta Hawks @ Miami Heat " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT RECOMMENDED",[NBA] Atlanta Hawks @ Miami Heat
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -525,100 +517,10 @@ http://origin.thetvapp.to/hls/NHL30/mono.m3u8 # ===== SOURCE 12 =====
 https://cyber.chuoichien.tv/chuoinuong/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125559_6c094200.png",02:45 05/02 Holstein Kiel vs VfB Stuttgart (Chuối Chiên) SD1
 https://stream.chuoichien.tv/chuoinuong/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125559_6c094200.png",02:45 05/02 Holstein Kiel vs VfB Stuttgart (Chuối Chiên) SD2
+https://stream.chuoichien.tv/chuoinuong.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg",10:00 04/02 CARABAO INTERNATIONAL OPEN 2026 (Hội Quán) FULL HD
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg",11:00 04/02 Portland Trail Blazers vs Phoenix Suns (Hội Quán) FULL HD
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://img.colatv88xd.cc/basketball/team/4512175b1415f69816e816160093bcc0.png!w80",11:00 04/02 Portland Trail Blazers vs Phoenix suns
-https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://img.colatv88xd.cc/football/team/4431a6b60ebf9369297717921a290687.png!w80",11:00 04/02 San Diego FC vs U.N.A.M.- Pumas
-https://live5.msrktz.app/live/97885009.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.api-sports.io/football/teams/25484.png",11:00 04/02 San Diego vs U.N.A.M. - Pumas (Hội Quán) Full HD
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260202/10b2dfeb6351432af5c1c6e604df5b6c.png",11:00 04/02 Portland Trail Blazers vs Phoenix Suns [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1770187294-0-0-2ce25f9df870a55ee7545da6c8f39c8c
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260202/10b2dfeb6351432af5c1c6e604df5b6c.png",11:00 04/02 Portland Trail Blazers vs Phoenix Suns [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1770187294-0-0-99e6e4943bd0d882a7d564d134c391e9
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260202/10b2dfeb6351432af5c1c6e604df5b6c.png",11:00 04/02 Portland Trail Blazers vs Phoenix Suns [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770187294-0-0-e62289f8e344afb9fe659afb72efb428
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260202/10b2dfeb6351432af5c1c6e604df5b6c.png",11:00 04/02 Portland Trail Blazers vs Phoenix Suns [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770187294-0-0-da2a28e7de50d7daf01fa8351feca042
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260202/10b2dfeb6351432af5c1c6e604df5b6c.png",11:00 04/02 Portland Trail Blazers vs Phoenix Suns [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1770187294-0-0-ea1ef1fed14ab3befa1ec32c8c7e8262
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260202/10b2dfeb6351432af5c1c6e604df5b6c.png",11:00 04/02 Portland Trail Blazers vs Phoenix Suns [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1770187294-0-0-9a0480761f20861f295172a4a40c7a59
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260202/10b2dfeb6351432af5c1c6e604df5b6c.png",11:00 04/02 Portland Trail Blazers vs Phoenix Suns [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1770187294-0-0-de6aafad40a6f451d7a24c3d4e747917
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260202/10b2dfeb6351432af5c1c6e604df5b6c.png",11:00 04/02 Portland Trail Blazers vs Phoenix Suns [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1770187294-0-0-0eaf99e131ed620fd164750bb0047922
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/68186_1jpy91x5e42z.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. (Lương Sơn) BLV KAKA flv
-https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/68186_1jpy91x5e42z.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. (Lương Sơn) BLV KAKA m3u
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/68186_1jpy91x5e42z.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. (Lương Sơn) BLV NHỊ KA flv
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/68186_1jpy91x5e42z.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. (Lương Sơn) BLV NHỊ KA m3u
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/68186_1jpy91x5e42z.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/68186_1jpy91x5e42z.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770186934-0-0-ac7b0c1a192b032a06a4a00eb64f9bce
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770186934-0-0-f6c94bb3d9dc118da8c147e8cb37f3aa
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770186934-0-0-41c2daf3a2764946a3bc72f2291287a7
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770186934-0-0-1804ebe1cbd732a8d860aa73a9ad9a61
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV EDRIC] (Socolive) flv
-https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1770187294-0-0-a46d8883e814e227abbebadcbe23b800
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV EDRIC] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1770187294-0-0-a70f7168f86ea009f26db0d46681712a
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV EDRIC] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1770187294-0-0-ef710c54882141a8dc220b036bace13a
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV EDRIC] (Socolive) m3u8
-https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1770187294-0-0-9c8117648f804e2736c0d82c57a73146
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV PIRLO] (Socolive) flv
-https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=9e442e43922bf277d6c3e1b6220a12ac&txTime=69832f06
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV PIRLO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=a53c4f69674aa5e4144800ca190a1455&txTime=69832f06
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV PIRLO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=a53c4f69674aa5e4144800ca190a1455&txTime=69832f06
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV PIRLO] (Socolive) m3u8
-https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=9e442e43922bf277d6c3e1b6220a12ac&txTime=69832f06
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV SINGER] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1770187294-0-0-bf6c9f8003b56e3bea8e1a5c233e3209
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV SINGER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1770187294-0-0-bb01edab7eade80ab9be4ca14999ab2d
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV SINGER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1770187294-0-0-13bd0b689eb278b8f9ac356060944660
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [BLV SINGER] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1770187294-0-0-d13246905cc7f569d0c246599159a551
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [CR Bưởi] (Socolive) flv
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1770186934-0-0-498fd63da2e92da2871ae0b088f1091a
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [CR Bưởi] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1770186934-0-0-b8b6f6b03640daf453e2faca76953e18
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [CR Bưởi] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1770186934-0-0-b677208b38741468f80c1cc60b71be99
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [CR Bưởi] (Socolive) m3u8
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1770186934-0-0-cbcc7a56e6ee4fbd1a5e82c6e4360514
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770186574-0-0-8baa613f88780076ce085d3b6d8251ae
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770186574-0-0-c6d01aa0da08da1f504fb62a01e11556
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770186574-0-0-8e93edb8dfde40212c1c31a84df2f172
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/8e091408647aa42d591835b3f85870ea.png",11:00 04/02 San Diego FC vs Pumas U.N.A.M. [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770186574-0-0-af0f8c7e3625d64216c1c28858731dbc
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131613_5f2931eb.png",11:00 04/02 San Diego vs U.N.A.M. - Pumas (Chuối Chiên) HD2
-https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131613_5f2931eb.png",11:00 04/02 San Diego vs U.N.A.M. - Pumas (Chuối Chiên) HD4
-https://cyber.chuoichien.tv/chuoito.flv
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131613_5f2931eb.png",11:00 04/02 San Diego vs U.N.A.M. - Pumas (Chuối Chiên) SD1
-https://stream.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131613_5f2931eb.png",11:00 04/02 San Diego vs U.N.A.M. - Pumas (Chuối Chiên) SD2
-https://stream.chuoichien.tv/chuoito.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED",12:30 04/02 Bula FC vs South Melbourne (Lương Sơn) BLV GIÁO SƯ XOAY flv
 https://flv.cdnok9.com/live/GIAOSUXOAY.flv?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED",12:30 04/02 Bula FC vs South Melbourne (Lương Sơn) BLV GIÁO SƯ XOAY m3u
@@ -627,20 +529,94 @@ https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8
 https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED",12:30 04/02 Bula FC vs South Melbourne (Lương Sơn) BLV LÝ QUỲ m3u
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80",13:30 04/02 Melbourne City Nữ vs WS Wanderers Nữ
+https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.api-sports.io/football/teams/1971.png",13:30 04/02 Melbourne City W vs Western Sydney Wanderers W (Hội Quán) FULL HD
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13:30 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV KEVILL flv
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13:30 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13:30 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV LƯU BỊ flv
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13:30 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13:30 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13:30 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV TÔN LẬP m3u
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13:30 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV URA flv
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13:30 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV URA m3u
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133802_858d0eac.png",13:30 04/02 Melbourne City W vs Western Sydney Wanderers W (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/duyhung/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133802_858d0eac.png",13:30 04/02 Melbourne City W vs Western Sydney Wanderers W (Chuối Chiên) SD1
 https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133802_858d0eac.png",13:30 04/02 Melbourne City W vs Western Sydney Wanderers W (Chuối Chiên) SD2
 https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) flv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770190534-0-0-18c2474f02fca9ab3f9c1ba74810e4e3
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770190534-0-0-01d4d33c2f2303c8edd5c0122d5cc4bf
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770190534-0-0-6e320a75ed0157c7dd8bba03cef12cc0
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770190534-0-0-2dddeddea01d610598fd8e57eb9eb112
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV TOMMY] (Socolive) flv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1770190894-0-0-52266cd6c5cf6275d9ca48172198a585
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV TOMMY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1770190894-0-0-44f95844cbc5ae3892d7f4d0416e529b
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1770190894-0-0-ff27f257f4a42a9227b153b76827dbba
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV TOMMY] (Socolive) m3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1770190894-0-0-95c32cc44ff27319a5a23534a24f4462
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV VIP] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=a50acb89e59101fe9f4ae4e1d7b95cd7&txTime=69833fe6
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV VIP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=5f0a8d333d2649b193f2c2343e968802&txTime=69833fe6
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5f0a8d333d2649b193f2c2343e968802&txTime=69833fe6
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=a50acb89e59101fe9f4ae4e1d7b95cd7&txTime=69833fe6
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [CR Bưởi] (Socolive) flv
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1770191254-0-0-11dfbe20615baa6f51bb51d790bb0a20
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [CR Bưởi] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1770191254-0-0-14ec85aeb05f83623a428f2d7b750362
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [CR Bưởi] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1770191254-0-0-7e37d3cbf60f36a226f049c306d96ff8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [CR Bưởi] (Socolive) m3u8
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1770191254-0-0-ad91bce3bfcbf3d8a6997e0e503992cb
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1770190534-0-0-c8b4f4b371cb7beec8f0215c6fb08d63
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1770190534-0-0-75ca272146e56aab49288a521b78c394
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1770190534-0-0-475f28c294dd5e4a2468dbbda0a2f9f3
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1770190534-0-0-9c3751124c6a5a94342f6f8902f941ae
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770190534-0-0-695bcb688d269bc17c1ec840269125bb
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770190534-0-0-d0a70456bad02cbc849a2a5fd13687cb
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770190534-0-0-0e05fc9b9277e7bd4f69d367a85108bc
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13:30 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770190534-0-0-e74b8ae9ee3127fa2d4e4f0c42519609
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133801_53d90f93.png",15:30 04/02 Sydney FC W vs Brisbane Roar FC W (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/manze/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133801_53d90f93.png",15:30 04/02 Sydney FC W vs Brisbane Roar FC W (Chuối Chiên) SD1
 https://stream.chuoichien.tv/manze/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125849_81a48f03.png",17:00 04/02 Boluspor vs Alanyaspor (Chuối Chiên) HD2
+https://cyber.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125849_81a48f03.png",17:00 04/02 Boluspor vs Alanyaspor (Chuối Chiên) SD1
+https://stream.chuoichien.tv/chuoito/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131733_ebcabb99.png",19:30 04/02 Buriram United vs Dynamic Herb Cebu (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/chuoibay/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131733_ebcabb99.png",19:30 04/02 Buriram United vs Dynamic Herb Cebu (Chuối Chiên) SD1
 https://stream.chuoichien.tv/chuoibay/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131733_ebcabb99.png",19:30 04/02 Buriram United vs Dynamic Herb Cebu (Chuối Chiên) SD2
+https://stream.chuoichien.tv/chuoibay.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/20250823_192612_72e9a551.webp",19:30 04/02 Công An Hà Nội vs Tampines Rovers (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/chuoitay/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/20250823_192612_72e9a551.webp",19:30 04/02 Công An Hà Nội vs Tampines Rovers (Chuối Chiên) SD1
@@ -653,6 +629,8 @@ https://stream.chuoichien.tv/chuoitong/index.m3u8
 https://cyber.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134416_11cf8169.png",20:30 04/02 PSG U19 vs Dinamo Minsk U19 (Chuối Chiên) SD1
 https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134416_11cf8169.png",20:30 04/02 PSG U19 vs Dinamo Minsk U19 (Chuối Chiên) SD2
+https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.api-sports.io/Bóng đá/teams/7989.png",22:00 04/02 Maccabi Haifa U19 vs Barcelona U19 (Chuối Chiên) HD2
 https://cyber.chuoichien.tv/chuoi99/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT RECOMMENDED" tvg-logo="https://media.api-sports.io/Bóng đá/teams/7989.png",22:00 04/02 Maccabi Haifa U19 vs Barcelona U19 (Chuối Chiên) SD1
