@@ -13,8 +13,10 @@ http://ogibonetv.diskon.cloud/scriptYouTube.php?play=ABfFhWzWs0s
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=f0lYkdA-Gtw
 #EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://i.ytimg.com/vi/DOOrIxw5xOw/maxresdefault.jpg?v=67844598" group-title="Youtube Live",Kompas TV [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=DOOrIxw5xOw
-#EXTINF:-1 tvg-id="OfficialiNews" tvg-logo="https://i.ytimg.com/vi/aRnFggbn8C8/maxresdefault.jpg?v=69830ece" group-title="Youtube Live",I News [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=aRnFggbn8C8
+#EXTINF:-1 tvg-id="tvOneNews" tvg-logo="https://i.ytimg.com/vi/yNKvkPJl-tg/maxresdefault.jpg?v=69774ad4" group-title="Youtube Live",TvOne News [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=yNKvkPJl-tg
+#EXTINF:-1 tvg-id="OfficialiNews" tvg-logo="https://i.ytimg.com/vi/ujX5dW3MQMg/maxresdefault.jpg?v=69832be1" group-title="Youtube Live",I News [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=ujX5dW3MQMg
 #EXTINF:-1 tvg-id="NASA" tvg-logo="https://i.ytimg.com/vi/xCrPD7tfcr0/maxresdefault.jpg?v=6977da3d" group-title="Youtube Live",NASA [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=xCrPD7tfcr0
 #EXTINF:-1 tvg-id="ONEChampionship" tvg-logo="https://i.ytimg.com/vi/iSsH90zU640/maxresdefault.jpg?v=6982fc8e" group-title="Youtube Live",ONEChampionship [LIVE]
