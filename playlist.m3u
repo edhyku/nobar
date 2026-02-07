@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="dreamtripspk" tvg-logo="https://i.ytimg.com/vi/kWRhLLbLFE0/maxresdefault.jpg?v=68f6a52e" group-title="Youtube Live",Dreamtripspk [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=kWRhLLbLFE0
 #EXTINF:-1 tvg-id="thegoodliferadio" tvg-logo="https://i.ytimg.com/vi/IkmLXvBfVv0/maxresdefault.jpg?v=6553037f" group-title="Youtube Live",Thegoodliferadio [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=IkmLXvBfVv0
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.ytimg.com/vi/BOy2xDU1LC8/maxresdefault.jpg?v=695bac57" group-title="Youtube Live",CGTN [LIVE]
@@ -25,5 +27,11 @@ http://ogibonetv.diskon.cloud/scriptYouTube.php?play=t3n22ekCFN8
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=iPw6W_ki-oo
 #EXTINF:-1 tvg-id="MashaBearEN" tvg-logo="https://i.ytimg.com/vi/N6to02cv52o/maxresdefault.jpg?v=698231ea" group-title="Youtube Live",MashaBearEN [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=N6to02cv52o
-#EXTINF:-1 tvg-id="PeppaPigOfficial" tvg-logo="https://i.ytimg.com/vi/Ug6FiHhu3NI/maxresdefault.jpg?v=698781e1" group-title="Youtube Live",PeppaPig [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=Ug6FiHhu3NI
+#EXTINF:-1 tvg-id="PeppaPigOfficial" tvg-logo="https://i.ytimg.com/vi/eMax2y9fvGY/maxresdefault.jpg?v=69879e01" group-title="Youtube Live",PeppaPig [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=eMax2y9fvGY
+#EXTINF:-1 tvg-id="ChuChuTV" tvg-logo="https://i.ytimg.com/vi/YY8yc2ctN0g/maxresdefault.jpg?v=6915ab93" group-title="Youtube Live",ChuChu TV [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=YY8yc2ctN0g
+#EXTINF:-1 tvg-id="IGN" tvg-logo="https://i.ytimg.com/vi/E_bZ570ZUqg/maxresdefault.jpg?v=6986a003" group-title="Youtube Live",IGN [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=E_bZ570ZUqg
+#EXTINF:-1 tvg-id="GameSpot" tvg-logo="https://i.ytimg.com/vi/Q7YlME8Vio0/maxresdefault.jpg?v=69864f77" group-title="Youtube Live",GameSpot [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=Q7YlME8Vio0
