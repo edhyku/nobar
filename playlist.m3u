@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ONEChampionship" tvg-logo="https://i.ytimg.com/vi/xTceBcAKho4/maxresdefault.jpg?v=69893887" group-title="Youtube Live",ONEChampionship [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=xTceBcAKho4
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://i.ytimg.com/vi/E_bZ570ZUqg/maxresdefault.jpg?v=6986a003" group-title="Youtube Live",IGN [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=E_bZ570ZUqg
 #EXTINF:-1 tvg-id="GameSpot" tvg-logo="https://i.ytimg.com/vi/Q7YlME8Vio0/maxresdefault.jpg?v=69864f77" group-title="Youtube Live",GameSpot [LIVE]
