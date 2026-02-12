@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dreamtripspk" tvg-logo="https://i.ytimg.com/vi/kWRhLLbLFE0/maxresdefault.jpg?v=68f6a52e" group-title="Youtube Live",Dreamtripspk [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=kWRhLLbLFE0
 #EXTINF:-1 tvg-id="thegoodliferadio" tvg-logo="https://i.ytimg.com/vi/IkmLXvBfVv0/maxresdefault.jpg?v=6553037f" group-title="Youtube Live",Thegoodliferadio [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=IkmLXvBfVv0
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.ytimg.com/vi/BOy2xDU1LC8/maxresdefault.jpg?v=695bac57" group-title="Youtube Live",CGTN [LIVE]
@@ -27,10 +25,10 @@ http://ogibonetv.diskon.cloud/scriptYouTube.php?play=Px8EU4okJPI
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=Vu7UzhfwLY8
 #EXTINF:-1 tvg-id="DaveAndAva" tvg-logo="https://i.ytimg.com/vi/iPw6W_ki-oo/maxresdefault.jpg?v=697cc6b3" group-title="Youtube Live",DaveAndAva [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=iPw6W_ki-oo
-#EXTINF:-1 tvg-id="MashaBearEN" tvg-logo="https://i.ytimg.com/vi/z7b0gJXtz3g/maxresdefault.jpg?v=698c9868" group-title="Youtube Live",MashaBearEN [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=z7b0gJXtz3g
-#EXTINF:-1 tvg-id="PeppaPigOfficial" tvg-logo="https://i.ytimg.com/vi/A2Aic8JRXvg/maxresdefault.jpg?v=698de126" group-title="Youtube Live",PeppaPig [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=A2Aic8JRXvg
+#EXTINF:-1 tvg-id="MashaBearEN" tvg-logo="https://i.ytimg.com/vi/N6to02cv52o/maxresdefault.jpg?v=698231ea" group-title="Youtube Live",MashaBearEN [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=N6to02cv52o
+#EXTINF:-1 tvg-id="PeppaPigOfficial" tvg-logo="https://i.ytimg.com/vi/DpES0q2_Wu8/maxresdefault.jpg?v=698e195f" group-title="Youtube Live",PeppaPig [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=DpES0q2_Wu8
 #EXTINF:-1 tvg-id="ChuChuTV" tvg-logo="https://i.ytimg.com/vi/YY8yc2ctN0g/maxresdefault.jpg?v=6915ab93" group-title="Youtube Live",ChuChu TV [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=YY8yc2ctN0g
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://i.ytimg.com/vi/LWfuDfvLU8E/maxresdefault.jpg?v=698a84ed" group-title="Youtube Live",IGN [LIVE]
