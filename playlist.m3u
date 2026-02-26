@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dreamtripspk" tvg-logo="https://i.ytimg.com/vi/kWRhLLbLFE0/maxresdefault.jpg?v=68f6a52e" group-title="Youtube Live",Dreamtripspk [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=kWRhLLbLFE0
 #EXTINF:-1 tvg-id="thegoodliferadio" tvg-logo="https://i.ytimg.com/vi/IkmLXvBfVv0/maxresdefault.jpg?v=6553037f" group-title="Youtube Live",Thegoodliferadio [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=IkmLXvBfVv0
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.ytimg.com/vi/BOy2xDU1LC8/maxresdefault.jpg?v=695bac57" group-title="Youtube Live",CGTN [LIVE]
@@ -11,10 +9,14 @@ http://ogibonetv.diskon.cloud/scriptYouTube.php?play=9NyxcX3rhQs
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=ABfFhWzWs0s
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-logo="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e" group-title="Youtube Live",NHKWorldJapan [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=f0lYkdA-Gtw
+#EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://i.ytimg.com/vi/LykCdJQao7I/maxresdefault.jpg?v=69a039dd" group-title="Youtube Live",Kompas TV [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=LykCdJQao7I
 #EXTINF:-1 tvg-id="tvOneNews" tvg-logo="https://i.ytimg.com/vi/yNKvkPJl-tg/maxresdefault.jpg?v=69774ad4" group-title="Youtube Live",TvOne News [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=yNKvkPJl-tg
-#EXTINF:-1 tvg-id="OfficialiNews" tvg-logo="https://i.ytimg.com/vi/Rdc9ooOzDyo/maxresdefault.jpg?v=69a059f6" group-title="Youtube Live",I News [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=Rdc9ooOzDyo
+#EXTINF:-1 tvg-id="OfficialiNews" tvg-logo="https://i.ytimg.com/vi/Kz3FK5FbBz8/maxresdefault.jpg?v=699fcf6e" group-title="Youtube Live",I News [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=Kz3FK5FbBz8
+#EXTINF:-1 tvg-id="NASA" tvg-logo="https://i.ytimg.com/vi/hgt3Hnj4Xr8/maxresdefault.jpg?v=69974e02" group-title="Youtube Live",NASA [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=hgt3Hnj4Xr8
 #EXTINF:-1 tvg-id="ONEChampionship" tvg-logo="https://i.ytimg.com/vi/nYjXlx-jbW0/maxresdefault.jpg?v=699bcf7d" group-title="Youtube Live",ONEChampionship [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=nYjXlx-jbW0
 #EXTINF:-1 tvg-id="Pinkfong" tvg-logo="https://i.ytimg.com/vi/Px8EU4okJPI/maxresdefault.jpg?v=698d50c2" group-title="Youtube Live",Pinkfong [LIVE]
