@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ONEChampionship" tvg-logo="https://i.ytimg.com/vi/nYjXlx-jbW0/maxresdefault.jpg?v=699bcf7d" group-title="Youtube Live",ONEChampionship [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=nYjXlx-jbW0
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://i.ytimg.com/vi/oi-dwqVWX_o/maxresdefault.jpg?v=69a0cbb2" group-title="Youtube Live",IGN [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=oi-dwqVWX_o
