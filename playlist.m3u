@@ -11,10 +11,10 @@ http://ogibonetv.diskon.cloud/scriptYouTube.php?play=9NyxcX3rhQs
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=ABfFhWzWs0s
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-logo="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e" group-title="Youtube Live",NHKWorldJapan [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=f0lYkdA-Gtw
-#EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://i.ytimg.com/vi/ilmwiWs9Nio/maxresdefault.jpg?v=69b17fe6" group-title="Youtube Live",Kompas TV [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=ilmwiWs9Nio
-#EXTINF:-1 tvg-id="tvOneNews" tvg-logo="https://i.ytimg.com/vi/_6i0OB5kAI4/maxresdefault.jpg?v=69b19477" group-title="Youtube Live",TvOne News [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=_6i0OB5kAI4
+#EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://i.ytimg.com/vi/YaHu-8AIhRE/maxresdefault.jpg?v=69b1b5bc" group-title="Youtube Live",Kompas TV [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=YaHu-8AIhRE
+#EXTINF:-1 tvg-id="tvOneNews" tvg-logo="https://i.ytimg.com/vi/yNKvkPJl-tg/maxresdefault.jpg?v=69774ad4" group-title="Youtube Live",TvOne News [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=yNKvkPJl-tg
 #EXTINF:-1 tvg-id="OfficialiNews" tvg-logo="https://i.ytimg.com/vi/Mhe8uTshEeg/maxresdefault.jpg?v=69b18a75" group-title="Youtube Live",I News [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=Mhe8uTshEeg
 #EXTINF:-1 tvg-id="NASA" tvg-logo="https://i.ytimg.com/vi/sWasdbDVNvc/maxresdefault.jpg?v=69ab3803" group-title="Youtube Live",NASA [LIVE]
@@ -33,3 +33,5 @@ http://ogibonetv.diskon.cloud/scriptYouTube.php?play=GpBQljZPZqo
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=ydjRh8GbbK0
 #EXTINF:-1 tvg-id="ChuChuTV" tvg-logo="https://i.ytimg.com/vi/YY8yc2ctN0g/maxresdefault.jpg?v=6915ab93" group-title="Youtube Live",ChuChu TV [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=YY8yc2ctN0g
+#EXTINF:-1 tvg-id="GameSpot" tvg-logo="https://i.ytimg.com/vi/Od8GV61NmlY/hqdefault.jpg?v=69ab0b0a" group-title="Youtube Live",GameSpot [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=Od8GV61NmlY
