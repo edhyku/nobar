@@ -7,12 +7,14 @@ http://ogibonetv.diskon.cloud/scriptYouTube.php?play=IkmLXvBfVv0
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=D8Pjd45AADo
 #EXTINF:-1 tvg-id="CNBC" tvg-logo="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd" group-title="Youtube Live",CNBC [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=9NyxcX3rhQs
+#EXTINF:-1 tvg-id="TRTWorld" tvg-logo="https://i.ytimg.com/vi/ABfFhWzWs0s/maxresdefault.jpg?v=6972ff37" group-title="Youtube Live",TRTWorld [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=ABfFhWzWs0s
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-logo="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e" group-title="Youtube Live",NHKWorldJapan [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=f0lYkdA-Gtw
-#EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://i.ytimg.com/vi/DOOrIxw5xOw/maxresdefault.jpg?v=67844598" group-title="Youtube Live",Kompas TV [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=DOOrIxw5xOw
-#EXTINF:-1 tvg-id="tvOneNews" tvg-logo="https://i.ytimg.com/vi/A9jE2XAzg6I/maxresdefault.jpg?v=69b43727" group-title="Youtube Live",TvOne News [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=A9jE2XAzg6I
+#EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://i.ytimg.com/vi/cETAeC6fKjU/maxresdefault.jpg?v=69b444df" group-title="Youtube Live",Kompas TV [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=cETAeC6fKjU
+#EXTINF:-1 tvg-id="tvOneNews" tvg-logo="https://i.ytimg.com/vi/yNKvkPJl-tg/maxresdefault.jpg?v=69774ad4" group-title="Youtube Live",TvOne News [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=yNKvkPJl-tg
 #EXTINF:-1 tvg-id="OfficialiNews" tvg-logo="https://i.ytimg.com/vi/7ETfouogksk/maxresdefault.jpg?v=69b40a38" group-title="Youtube Live",I News [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=7ETfouogksk
 #EXTINF:-1 tvg-id="NASA" tvg-logo="https://i.ytimg.com/vi/sWasdbDVNvc/maxresdefault.jpg?v=69ab3803" group-title="Youtube Live",NASA [LIVE]
