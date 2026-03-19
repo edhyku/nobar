@@ -1,19 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="dreamtripspk" tvg-logo="https://i.ytimg.com/vi/kWRhLLbLFE0/maxresdefault.jpg?v=68f6a52e" group-title="Youtube Live",Dreamtripspk [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=kWRhLLbLFE0
-#EXTINF:-1 tvg-id="thegoodliferadio" tvg-logo="https://i.ytimg.com/vi/IkmLXvBfVv0/maxresdefault.jpg?v=6553037f" group-title="Youtube Live",Thegoodliferadio [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=IkmLXvBfVv0
-#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.ytimg.com/vi/PHX-6hJpfeI/maxresdefault.jpg?v=69bba04f" group-title="Youtube Live",CGTN [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=PHX-6hJpfeI
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.ytimg.com/vi/z6iAZgkJvFA/maxresdefault.jpg?v=5" group-title="Youtube Live",CGTN [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=z6iAZgkJvFA
 #EXTINF:-1 tvg-id="CNBC" tvg-logo="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd" group-title="Youtube Live",CNBC [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=9NyxcX3rhQs
 #EXTINF:-1 tvg-id="TRTWorld" tvg-logo="https://i.ytimg.com/vi/ABfFhWzWs0s/maxresdefault.jpg?v=6972ff37" group-title="Youtube Live",TRTWorld [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=ABfFhWzWs0s
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-logo="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e" group-title="Youtube Live",NHKWorldJapan [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=f0lYkdA-Gtw
-#EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://i.ytimg.com/vi/iriQ68-7Sr4/maxresdefault.jpg?v=69bbc19b" group-title="Youtube Live",Kompas TV [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=iriQ68-7Sr4
-#EXTINF:-1 tvg-id="tvOneNews" tvg-logo="https://i.ytimg.com/vi/dU1rs99q0n4/maxresdefault.jpg?v=69baa58b" group-title="Youtube Live",TvOne News [LIVE]
+#EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://i.ytimg.com/vi/aQWXZI1oJC0/maxresdefault.jpg?v=69b8fbec" group-title="Youtube Live",Kompas TV [LIVE]
+http://ogibonetv.diskon.cloud/scriptYouTube.php?play=aQWXZI1oJC0
+#EXTINF:-1 tvg-id="tvOneNews" tvg-logo="https://i.ytimg.com/vi/dU1rs99q0n4/maxresdefault.jpg?v=69bbdaf1" group-title="Youtube Live",TvOne News [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=dU1rs99q0n4
 #EXTINF:-1 tvg-id="OfficialiNews" tvg-logo="https://i.ytimg.com/vi/uYsXegePpik/maxresdefault.jpg?v=69bbbce9" group-title="Youtube Live",I News [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=uYsXegePpik
@@ -21,8 +19,6 @@ http://ogibonetv.diskon.cloud/scriptYouTube.php?play=uYsXegePpik
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=sWasdbDVNvc
 #EXTINF:-1 tvg-id="ONEChampionship" tvg-logo="https://i.ytimg.com/vi/7B8MbhAeh44/maxresdefault.jpg?v=69bb9b64" group-title="Youtube Live",ONEChampionship [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=7B8MbhAeh44
-#EXTINF:-1 tvg-id="Pinkfong" tvg-logo="https://i.ytimg.com/vi/QgEjb2R-AP0/maxresdefault.jpg?v=6997ae70" group-title="Youtube Live",Pinkfong [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=QgEjb2R-AP0
 #EXTINF:-1 tvg-id="BabyBus" tvg-logo="https://i.ytimg.com/vi/0RkxUSOxYnw/maxresdefault.jpg?v=69bb9aa0" group-title="Youtube Live",BabyBus [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=0RkxUSOxYnw
 #EXTINF:-1 tvg-id="DaveAndAva" tvg-logo="https://i.ytimg.com/vi/IfUxz04Gjrk/maxresdefault.jpg?v=69a16952" group-title="Youtube Live",DaveAndAva [LIVE]
@@ -33,8 +29,6 @@ http://ogibonetv.diskon.cloud/scriptYouTube.php?play=fqcOqR84fNE
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=lTgwDo5tVwM
 #EXTINF:-1 tvg-id="Blippi" tvg-logo="https://i.ytimg.com/vi/BqZRF4ib-RI/maxresdefault.jpg?v=69b90687" group-title="Youtube Live",Blippi [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=BqZRF4ib-RI
-#EXTINF:-1 tvg-id="ChuChuTV" tvg-logo="https://i.ytimg.com/vi/YY8yc2ctN0g/maxresdefault.jpg?v=6915ab93" group-title="Youtube Live",ChuChu TV [LIVE]
-http://ogibonetv.diskon.cloud/scriptYouTube.php?play=YY8yc2ctN0g
 #EXTINF:-1 tvg-id="GameSpot" tvg-logo="https://i.ytimg.com/vi/wUH2CtDEhFE/maxresdefault.jpg?v=69b9d2bb" group-title="Youtube Live",GameSpot [LIVE]
 http://ogibonetv.diskon.cloud/scriptYouTube.php?play=wUH2CtDEhFE
 #EXTINF:-1 tvg-id="Minecraft" tvg-logo="https://i.ytimg.com/vi/-uQFmnbPZPo/maxresdefault.jpg?v=69b84c38" group-title="Youtube Live",Minecraft [LIVE]
